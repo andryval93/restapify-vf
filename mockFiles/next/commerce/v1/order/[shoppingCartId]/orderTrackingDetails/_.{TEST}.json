@@ -1,0 +1,57 @@
+{
+  "deliveryOrders": [
+    {
+      "code": "T",
+      "description": "Delivery by Technician",
+      "deliveryItems": [
+        {
+          "itemId": "108473607_5044379",
+          "itemCid": "2786781",
+          "itemType": "EQP",
+          "itemName": "Vodafone Wi-Fi 6 Station R1",
+          "lineOfBusiness": "IN"
+        },
+        {
+          "itemId": "108473636_5044385",
+          "itemCid": "621587",
+          "itemType": "SIM",
+          "itemName": "SIM R07",
+          "lineOfBusiness": "IN"
+        }
+      ],
+      "recipientDetails": {
+        "recipientName": { "formattedName": "JELEPAAUTO;DACECUXKS" },
+        "recipientAddress": {
+          "id": "268571542",
+          "street": "VIA LORENTEGGIO",
+          "streetNumber": "240",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "postalCode": "20147",
+          "formattedAddress1": "VIA LORENTEGGIO 240"
+        },
+        "contactPhoneNumber": "3912345698",
+        "contactEmailAddress": "a@a.com"
+      },
+      "shippingDetails": {}
+    }
+  ],
+  "deliverySteps": [
+    {
+      "stepCode": "OV",
+      "checked": true,
+      "fulfillmentDetails": [
+        {
+          "entityType": "Fixed",
+          "additionalInfo": [{ "key": "serviceNo", "value": "390281472702" }]
+        },
+        {
+          "entityType": "Data-Sim",
+          "additionalInfo": [{ "key": "serviceNo", "value": "393495222758" }]
+        }
+      ]
+    },
+    { "stepCode": "AC", "checked": false }
+  ]
+}

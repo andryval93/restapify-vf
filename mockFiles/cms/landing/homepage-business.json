@@ -1,0 +1,419 @@
+{
+  "heroslider": {
+    "divider": {
+      "text": "testo divisore",
+      "image": "immagine-divisore",
+      "imageMobile": "immagine-mobile-divisore"
+    },
+    "slides": [
+      {
+        "description": "Naviga senza limiti fino a 2.5 Gbps.\r\nModem e attivazione sempre inclusi.",
+        "id": "1",
+        "key": "FIXED",
+        "category": "SPECIALE SAN VALENTINO",
+        "image": "Fissa-Smart_SanValentino_DT.jpg",
+        "title": "Crea l’unione perfetta: la nostra rete, il tuo business",
+        "imageMobile": "Fissa-Smart_SanValentino2_MS.jpg",
+        "action": {
+          "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Landing/promo-natale22?icmp=ebu_web-aziende_HP_HS_B1",
+          "type": "1",
+          "small": "false",
+          "title": "SCOPRILE A PARTIRE DA 10€ AL MESE",
+          "isBlank": "false"
+        }
+      },
+      {
+        "description": "50 Giga in 5G con minuti e SMS illimitati.",
+        "id": "2",
+        "key": "FIXED",
+        "category": "SPECIALE SAN VALENTINO",
+        "image": "herospace-offerta-mobile_DT.jpg",
+        "title": "Sempre connesso con Mobile Smart",
+        "imageMobile": "herospace-offerta-mobile_MS.jpg",
+        "action": {
+          "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Mobile/Servizi-e-Applicazioni/happy-week?icmp=ebu_web-aziende_HP_HS_B2",
+          "type": "1",
+          "small": "false",
+          "title": "Scopri di più su happy week",
+          "isBlank": "false"
+        }
+      },
+      {
+        "description": "1 Febbraio 2023 ore 19:00\r\nSegui la diretta Streaming",
+        "id": "3",
+        "key": "FIXED",
+        "category": "SMARTPHONE",
+        "image": "diamond-teaser-hero-DT.jpg",
+        "title": "Samsung Galaxy Unpacked",
+        "imageMobile": "diamond-teaser-vetrina-device-MS.jpg",
+        "action": {
+          "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Landing/",
+          "type": "1",
+          "small": "false",
+          "title": "Scopri di più",
+          "isBlank": "false"
+        }
+      }
+    ]
+  },
+  "widgets": {
+    "sliders": [
+      {
+        "type": "SLIDER_DEFAULT",
+        "title": "<p><b>E non finisce qui</b>. Vodafone ha sempre un <b>piano per te</b>.</p>\r\n",
+        "customAction": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        },
+        "elements": [
+          {
+            "id": "1",
+            "category": "Telefonia mobile per P.Iva",
+            "image": "small-business-owner.jpg",
+            "title": "Mobile Smart",
+            "overlayImage": "overlay_mobile.png",
+            "action": {
+              "url": "https://www.vodafone.it/business/eshop/offerte-telefonia-mobile/mobile-smart.html?icmp=ebu_web-aziende_HP_V1_B1",
+              "type": "1",
+              "small": "false",
+              "title": "scoprila a 15€ al mese",
+              "isBlank": "false"
+            }
+          },
+          {
+            "description": "a soli 23€/mese",
+            "id": "2",
+            "category": "Telefonia fissa e mobile per P.Iva",
+            "image": "young-man-working-at-home-office.jpg",
+            "title": "Fissa Smart ",
+            "overlayImage": "overlay_ufficio.png",
+            "action": {
+              "url": "https://www.vodafone.it/business/eshop/offerte-rete-fissa/fissa-smart.html?icmp=ebu_web-aziende_HP_V1_B2",
+              "type": "1",
+              "small": "false",
+              "title": "Scopri di più",
+              "isBlank": "false"
+            }
+          },
+          {
+            "id": "3",
+            "category": "Connettività dati per P.Iva",
+            "image": "HP-Business-BoxOfferte-DatiSmart-M365Business-dsk.png",
+            "title": "Dati Smart con Microsoft 365",
+            "action": {
+              "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Landing/bundle-dati-smart-m365?icmp=ebu_web-aziende_HP_V1_B3",
+              "type": "1",
+              "small": "false",
+              "title": "SCOPRILA A 18,90€ AL MESE",
+              "isBlank": "false"
+            }
+          },
+          {
+            "id": "4",
+            "category": "Telefonia fissa per aziende",
+            "image": "businesspeople-working-together.jpg",
+            "title": "OneNet Ufficio",
+            "overlayImage": "overlay_azienda.png",
+            "action": {
+              "url": "https://www.vodafone.it/portal/Aziende/Piccole-e-Medie-Aziende/One-Net-Ufficio?icmp=ebu_web-aziende_HP_V1_B4",
+              "type": "1",
+              "small": "false",
+              "title": "Scopri di più",
+              "isBlank": "false"
+            }
+          }
+        ]
+      },
+      {
+        "type": "ANCHORS",
+        "title": "<p>Siamo qui per te. Un'<b> esperienza</b>, Vodafone <b>su misura</b>.</p>\r\n",
+        "customAction": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        },
+        "elements": [
+          {
+            "description": "Ogni giorno tanti premi esclusivi per i clienti Vodafone Business.",
+            "id": "1",
+            "title": "Happy Week",
+            "action": {
+              "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Mobile/Servizi-e-Applicazioni/happy-week?icmp=ebu_web-aziende_HP_S1",
+              "type": "1",
+              "small": "false",
+              "isBlank": "false"
+            }
+          },
+          {
+            "description": "Il mondo di Vodafone Business\r\nsempre a portata di mano.",
+            "id": "2",
+            "title": "App",
+            "action": {
+              "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Mobile/Servizi-e-Applicazioni/App-My-Vodafone-Business?icmp=ebu_web-aziende_HP_S2",
+              "type": "1",
+              "small": "false",
+              "isBlank": "false"
+            }
+          },
+          {
+            "description": "Le risposte a tutte\r\n le tue domande.",
+            "id": "3",
+            "title": "Supporto",
+            "action": {
+              "url": "https://www.vodafone.it/aziende/supporto.html?icmp=ebu_web-aziende_HP_S3",
+              "type": "1",
+              "small": "false",
+              "isBlank": "false"
+            }
+          }
+        ]
+      },
+      {
+        "description": "Gestisci nel modo più efficiente il tuo lavoro con i tool e le piattaforme digitali garantite da Vodafone.",
+        "type": "SLIDER_EXPERIENCES",
+        "image": "vfB.jpg",
+        "title": "<p>Soluzioni Digitali per il tuo business</p>\r\n",
+        "customAction": {
+          "url": "https://www.vodafone.it/business/eshop/soluzioni-digitali.html?icmp=BZ_HP_PIVA_navbar_Business_Solutions",
+          "type": "1",
+          "small": "false",
+          "title": "TUTTE LE SOLUZIONI",
+          "isBlank": "false"
+        },
+        "elements": [
+          {
+            "description": "La suite in Cloud di Microsoft",
+            "id": "1",
+            "image": "Office_365x3.jpg",
+            "title": "Office 365",
+            "action": {
+              "url": "https://www.vodafone.it/business/eshop/soluzioni-digitali/m365-nce.html?icmp=ebu_web-aziende_HP_V2_B1",
+              "type": "1",
+              "small": "false",
+              "isBlank": "false"
+            }
+          },
+          {
+            "description": "Sempre attivi e connessi.\r\nE lo smartwatch è incluso.",
+            "id": "2",
+            "image": "Fattura_Elettronicax3.png",
+            "title": "Fattura elettronica",
+            "action": {
+              "url": "https://www.vodafone.it/business/eshop/soluzioni-digitali/fattura-elettronica.html?icmp=ebu_web-aziende_HP_V2_B2",
+              "type": "1",
+              "small": "false",
+              "isBlank": "false"
+            }
+          },
+          {
+            "description": "Con Vodafone Tech, il tuo smartphone ha sempre valore.",
+            "id": "3",
+            "image": "Spid_x3.png",
+            "title": "SPID Professionisti",
+            "action": {
+              "url": "https://www.vodafone.it/business/eshop/soluzioni-digitali/spid-professionisti.html?icmp=ebu_web-aziende_HP_V2_B3",
+              "type": "1",
+              "small": "false",
+              "isBlank": "false"
+            }
+          },
+          {
+            "description": "I tuoi dati disponibili ovunque tu sia",
+            "id": "4",
+            "image": "Your_Backx3.png",
+            "title": "Your backup",
+            "action": {
+              "url": "https://www.vodafone.it/business/eshop/soluzioni-digitali/your-backup.html?icmp=ebu_web-aziende_HP_V2_B4",
+              "type": "1",
+              "small": "false",
+              "isBlank": "false"
+            }
+          },
+          {
+            "description": "La Suite di Google per comunicare, collaborare e condividere",
+            "id": "5",
+            "image": "img-google-workspace_nl.jpg",
+            "title": "Google workspacem",
+            "maskIcon": "logo-google-workspace.png",
+            "action": {
+              "url": "https://www.vodafone.it/business/eshop/soluzioni-digitali/g-suite.html?icmp=ebu_web-aziende_HP_V2_B5",
+              "type": "1",
+              "small": "false",
+              "isBlank": "false"
+            }
+          }
+        ]
+      },
+      {
+        "type": "SLIDER_DEFAULT",
+        "title": "<p><b>Connessi al futuro</b>. La nostra <b>rete</b> guarda sempre avanti.</p>\r\n",
+        "customAction": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        },
+        "elements": [
+          {
+            "id": "1",
+            "category": "La rete Vodafone",
+            "image": "videocall.jpg",
+            "title": "Stabile e inarrestabile",
+            "action": {
+              "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/rete-vodafone?icmp=ebu_web-aziende_HP_V3_B1",
+              "type": "1",
+              "small": "true",
+              "isBlank": "false"
+            }
+          },
+          {
+            "id": "2",
+            "category": "Rete 5G",
+            "image": "virtual-reality.JPG",
+            "title": "Una connessione senza precedenti",
+            "action": {
+              "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Rete-Vodafone/rete-vodafone-5g?icmp=ebu_web-aziende_HP_V3_B2",
+              "type": "1",
+              "small": "true",
+              "isBlank": "false"
+            }
+          },
+          {
+            "id": "3",
+            "category": "Rete FWA",
+            "image": "summer-landscape.jpg",
+            "title": "L’alta velocità, ovunque con FWA 5G",
+            "action": {
+              "url": "https://www.vodafone.it/business/eshop/offerte-rete-fissa/fissa-wireless-5g.html?icmp=ebu_web-aziende_HP_V3_B3",
+              "type": "1",
+              "small": "true",
+              "isBlank": "false"
+            }
+          },
+          {
+            "id": "4",
+            "category": "Switch to green",
+            "image": "green.jpg",
+            "title": "Per la tutela dell’ambiente, facciamo rete.",
+            "action": {
+              "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Landing/earth-day-2022?icmp=ebu_web-aziende_HP_V3_B4",
+              "type": "1",
+              "small": "true",
+              "isBlank": "false"
+            }
+          }
+        ]
+      },
+      {
+        "type": "SLIDER_LARGE_SMALL",
+        "title": "<p><b>I vantaggi </b>di essere Vodafone</p>\r\n",
+        "customAction": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        },
+        "elements": [
+          {
+            "description": "Il programma fedeltà che premia il tuo entusiasmo.",
+            "id": "1",
+            "image": "happy_week.jpg",
+            "title": "Happy Week",
+            "action": {
+              "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Mobile/Servizi-e-Applicazioni/happy-week?icmp=ebu_web-aziende_HP_V4_B1",
+              "type": "1",
+              "small": "true",
+              "isBlank": "false"
+            }
+          },
+          {
+            "description": "Dove i desideri diventano realtà in un click",
+            "id": "2",
+            "image": "business_club.jpg",
+            "title": "Business Club",
+            "action": {
+              "url": "https://www.vodafone.it/business/eshop/business-club.html?icmp=ebu_web-aziende_HP_V4_B2",
+              "type": "1",
+              "small": "false",
+              "isBlank": "false"
+            }
+          },
+          {
+            "description": "Tante servizi aggiuntivi per chi vuole di più dalla propria offerta",
+            "id": "3",
+            "image": "Extra_servizi.jpg",
+            "title": "Extra Servizi",
+            "action": {
+              "type": "1",
+              "small": "false",
+              "isBlank": "false"
+            }
+          }
+        ]
+      },
+      {
+        "type": "SLIDER_LARGE_SMALL",
+        "title": "<p><b>Prodotti</b> imperdibili. Solo<b> per te</b>.</p>\r\n",
+        "customAction": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        },
+        "elements": [
+          {
+            "description": "1 Febbraio 2023 ore 19:00\r\nSegui la diretta Streaming",
+            "id": "1",
+            "image": "diamond-teaser-vetrina-device-DT.jpg",
+            "title": "Samsung Galaxy Unpacked",
+            "action": {
+              "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Landing/",
+              "type": "1",
+              "small": "true",
+              "isBlank": "false"
+            }
+          },
+          {
+            "id": "2",
+            "image": "iphone14pro_3.jpg",
+            "title": "iPhone 14 Pro",
+            "action": {
+              "url": "https://www.vodafone.it/business/eshop/smartphone/iphone-14-pro.html",
+              "type": "1",
+              "small": "false",
+              "isBlank": "false"
+            }
+          },
+          {
+            "id": "3",
+            "image": "smartphone.jpg",
+            "title": "Smartphone",
+            "action": {
+              "type": "1",
+              "small": "false",
+              "isBlank": "false"
+            }
+          },
+          {
+            "id": "4",
+            "image": "tablet.jpg",
+            "title": "Tablet",
+            "action": {
+              "type": "1",
+              "small": "false",
+              "isBlank": "false"
+            }
+          },
+          {
+            "id": "5",
+            "image": "centralini.jpg",
+            "title": "Centralini",
+            "action": {
+              "type": "1",
+              "small": "false",
+              "isBlank": "false"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

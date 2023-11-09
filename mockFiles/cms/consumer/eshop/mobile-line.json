@@ -1,0 +1,47 @@
+{
+  "offerwidgets": {
+    "qualityNetworkCard": {
+      "description": "La nostra Rete ha ottenuto il punteggio più elevato nei test condotti dall' Associazione italiana dei consumatori e degli utenti.Secondo l' indagine di Altroconsumo, Vodafone si posiziona al primo posto della classifica basata sulla velocità di download e upload e qualità di navigazione sui siti internet.",
+      "urlImg": "qualityNetwork.png",
+      "ctaLabel": "Scopri di più",
+      "info": "<p>Sigillo rilasciato da Altroconsumo Edizioni srl, sulla base dei risultati di test indipendenti, dietro pagamento di una licenza temporanea. Per i dettagli sui test e sulla metodologia utilizzata vai su <a href=\"https://www.google.it/\">altroconsumo.it/sigilli</a>.</p>\r\n",
+      "title": "Prima rete in classifica."
+    },
+    "faq": {
+      "title": "<p><b>FAQ</b>. Avere qualche <b>dubbio </b>è normale.</p>\r\n",
+      "showMore": {
+        "url": "https://www.google.com",
+        "label": "Leggi tutte le risposte"
+      },
+      "elements": [
+        {
+          "text": "<ul>\r\n<li>Nullam vitae ipsum malesuada, lobortis metus vel, dapibus augue.</li>\r\n<li>Suspendisse aliquam massa eget turpis varius finibus.</li>\r\n<li>Etiam eget tellus quis lectus lacinia molestie eget nec ipsum.</li>\r\n</ul>\r\n",
+          "title": "Come si attiva l'offerta?"
+        },
+        {
+          "text": "<ul>\r\n<li>Nullam vitae ipsum malesuada, lobortis metus vel, dapibus augue.</li>\r\n<li>Suspendisse aliquam massa eget turpis varius finibus.</li>\r\n<li>Etiam eget tellus quis lectus lacinia molestie eget nec ipsum.</li>\r\n</ul>\r\n",
+          "title": "Come funziona il rinnovo automatico?"
+        },
+        {
+          "text": "<ul>\r\n<li>Nullam vitae ipsum malesuada, lobortis metus vel, dapibus augue.</li>\r\n<li>Suspendisse aliquam massa eget turpis varius finibus.</li>\r\n<li>Etiam eget tellus quis lectus lacinia molestie eget nec ipsum.</li>\r\n</ul>\r\n",
+          "title": "Posso disdire l'offerta se cambio idea?"
+        }
+      ]
+    },
+    "firstCarousel": {
+      "title": "<p>Scegli&nbsp;<b>l'offerta casa ideale&nbsp;</b>per&nbsp;<b>vivere</b>&nbsp;al massimo&nbsp;<b>le tue super passioni</b>.</p>\r\n"
+    },
+    "secondCarousel": {
+      "title": "<p><b>Completamente Vodafone</b>.</p>\r\n<p>Tutte le tue linee in un' unica soluzione.</p>\r\n"
+    },
+    "thirdCarousel": {
+      "title": "<p><b>Stabile e inarrestabile.&nbsp;</b>Una rete&nbsp;<b>affidabile e veloce</b>, ovunque ti trovi.</p>\r\n"
+    }
+  },
+  "tagging": {
+    "parameter": "cbu_web_fibra"
+  },
+  "coexistence": {
+    "url": "https://www.vodafone.it/eshop/tariffe-e-prodotti/fibra-adsl-e-telefono/internet-a-casa/fibra.html?icmp=D_HP_RB__b2_offertefissa"
+  }
+}

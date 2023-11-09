@@ -1,0 +1,53 @@
+{
+  "deliveryOrders": [
+    {
+      "code": "T",
+      "description": "Delivery by Technician",
+      "deliveryItems": [
+        {
+          "itemId": "108254733_4707589",
+          "itemCid": "621587",
+          "itemType": "SIM",
+          "itemName": "SIM R07",
+          "lineOfBusiness": "IN"
+        },
+        {
+          "itemId": "108254747_4707591",
+          "itemCid": "2786781",
+          "itemType": "EQP",
+          "itemName": "Vodafone Wi-Fi 6 Station R1",
+          "lineOfBusiness": "IN"
+        }
+      ],
+      "recipientDetails": {
+        "recipientName": {
+          "formattedName": "venti;xbs"
+        },
+        "recipientAddress": {
+          "id": "268564343",
+          "street": "VIA LORENTEGGIO",
+          "streetNumber": "240",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "postalCode": "20147",
+          "formattedAddress1": "VIA LORENTEGGIO 240"
+        },
+        "contactPhoneNumber": "3491303527",
+        "contactEmailAddress": "pierfrancesco.capone@vodafone.com"
+      },
+      "shippingDetails": {}
+    }
+  ],
+  "deliverySteps": [
+    {
+      "stepCode": "OV",
+      "checked": false
+    },
+    {
+      "stepCode": "AC",
+      "checked": false
+    }
+  ],
+  "orderActionSpecificStageStatus": "HandleWirelineFulfillmentResponse"
+}

@@ -1,0 +1,72 @@
+{
+  "technology": {
+    "id": "3",
+    "detail": {
+      "subtitle": "Servizi in fibra ottica FTTH",
+      "title": "Tecnologia FTTH",
+      "description": {
+        "textHtml": "<p>Il vantaggio del cavo in fibra ottica sino alla abitazione rispetto a quello in rame, è legato al fatto che la rete ottica offre la possibilità di trasportare molte più informazioni dei tradizionali cavi in rame permettendo al cliente di raggiungere velocità di navigazione più elevate (velocità teorica del GPON è di 2.5Gb/s). Inoltre le prestazioni delle connettività in fibra ottica hanno il vantaggio di essere immuni da ogni tipo di interferenza e da ogni evento atmosferico né tanto meno risentono della distanza tra l’abitazione del cliente e la centrale o dal numero di clienti collegati alla stessa.</p>\r\n",
+        "image": "FTTH.jpg",
+        "textSimple": "Nella soluzione FTTH GPON la fibra ottica collega la centrale direttamente all’abitazione del cliente."
+      },
+      "accordion": [
+        {
+          "description": "Ut rhoncus leo non quam bibendum, et aliquam nulla pellentesque. Aenean non mauris id mauris varius placerat. In commodo ullamcorper eros et ullamcorper. Aliquam erat volutpat. Etiam eget posuere risus, vel tincidunt arcu. Morbi sollicitudin nibh vehicula condimentum consequat. Sed nec volutpat elit. Donec lobortis tortor sed rhoncus porta. Proin dolor magna, semper a sapien ",
+          "title": "Come sfruttare al meglio la tua rete"
+        },
+        {
+          "description": "Phasellus nec urna nec libero tempor aliquet. Ut accumsan elit eu faucibus fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing Morbi eget urna vel erat varius sollicitudin. Morbi vitae lorem in augue finibus eleifend a laoreet tellus. Phasellus eleifend lacus est. Integer consequat dui eu faucibus sollicitudin. Cras varius suscipit erat, vel dictum ante vestibulum et. Sed rutrum tempus augue eu facilisis.",
+          "title": "Differenza tra Fibra e Rame"
+        },
+        {
+          "description": "Proin vulputate sed purus sed vulputate. Donec a pellentesque orci. Donec pretium nibh purus, eget hendrerit sapien sagittis sit amet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer accumsan risus dui, non tincidunt tellus semper eu. Aenean accumsan, orci non bibendum ultricies, in. Cras fringilla urna et nisl varius lobortis. Donec eu commodo eros. Curabitur eget ullamcorper lectus.",
+          "title": "Fattori che limitano la velocità di connessione"
+        }
+      ]
+    },
+    "bestOfferChoice": {
+      "text": "La tecnologia FTTH è disponibile al tuo indirizzo",
+      "editAddress": "Modifica indirizzo"
+    },
+    "card": {
+      "buttonLabel": "VISUALIZZA DETTAGLI",
+      "description": "<p>Grazie alla tecnologia <b>Fibra FTTH</b> hai la miglior tecnologia possibile alla massima velocità disponibile.</p>\r\n",
+      "image": "techFTTH.jpg",
+      "title": "Tecnologia FTTH",
+      "specs": [
+        {
+          "icon": "icon-download.jpg",
+          "text": "Download"
+        },
+        {
+          "icon": "icon-upload.jpg",
+          "text": "Upload"
+        },
+        {
+          "icon": "icon-delay.jpg",
+          "text": "Latenza"
+        }
+      ]
+    },
+    "nextStepsCard": {
+      "title": "I prossimi passaggi",
+      "nextSteps": [
+        {
+          "description": "<p>Attendi che il tuo ordine venga elaborato</p>\r\n"
+        },
+        {
+          "description": "<p>Scarica l'app <b>My Vodafone</b></p>\r\n"
+        },
+        {
+          "description": "<p>Prendi <b>appuntamento</b> con un tecnico</p>\r\n",
+          "detailLinkLabel": "Maggiori dettagli",
+          "modal": {
+            "description": "<p>L'attivazione della fibra richiederà <b>opere di installazione a muro</b></p>\r\n",
+            "title": "Informazioni sull'appuntamento",
+            "firstContent": "Il tecnico identificherà la posizione ottimale per l’antenna esterna. Il montaggio prevede la <strong>foratura del muro</strong> per permettere il passaggio del cavo e collegare l’antenna al modem."
+          }
+        }
+      ]
+    }
+  }
+}

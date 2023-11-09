@@ -1,0 +1,23 @@
+{
+  "authorization": {
+    "payMeanPurpose": "onBill",
+    "payMeanType": "creditCard",
+    "authorizationOperation": "capture",
+    "status": "ok",
+    "payMean": {
+      "object_type": "V1CreditCardPayMean",
+      "id": "269300147",
+      "type": "creditCard",
+      "authNumber": "208793",
+      "ppbId": "666670874",
+      "brand": "MasterCard",
+      "lastFourDigits": "8984",
+      "expiryMonth": "05",
+      "expiryYear": "2024",
+      "token": "5204029306658984",
+      "acquirer": "08010",
+      "cardSubType": "C"
+    },
+    "amount": "0.1"
+  }
+}

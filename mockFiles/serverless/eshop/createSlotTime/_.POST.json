@@ -1,0 +1,44 @@
+{
+  "availableTimeSlot": [
+    {
+      "id": "2023111013001500",
+      "validFor": { "startDateTime": "1699617600000", "endDateTime": "1699624800000" }
+    },
+    {
+      "id": "2023111015001830",
+      "validFor": { "startDateTime": "1699624800000", "endDateTime": "1699637400000" }
+    },
+    {
+      "id": "2023111308301030",
+      "validFor": { "startDateTime": "1699860600000", "endDateTime": "1699867800000" }
+    },
+    {
+      "id": "2023111310301300",
+      "validFor": { "startDateTime": "1699867800000", "endDateTime": "1699876800000" }
+    },
+    {
+      "id": "2023111313001500",
+      "validFor": { "startDateTime": "1699876800000", "endDateTime": "1699884000000" }
+    },
+    {
+      "id": "2023111315001830",
+      "validFor": { "startDateTime": "1699884000000", "endDateTime": "1699896600000" }
+    },
+    {
+      "id": "2023111408301030",
+      "validFor": { "startDateTime": "1699947000000", "endDateTime": "1699954200000" }
+    },
+    {
+      "id": "2023111410301300",
+      "validFor": { "startDateTime": "1699954200000", "endDateTime": "1699963200000" }
+    },
+    {
+      "id": "2023111413001500",
+      "validFor": { "startDateTime": "1699963200000", "endDateTime": "1699970400000" }
+    },
+    {
+      "id": "2023111415001830",
+      "validFor": { "startDateTime": "1699970400000", "endDateTime": "1699983000000" }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "deliveryOrders": [
+    {
+      "code": "T",
+      "description": "Consegna il tecnico",
+      "deliveryItems": [
+        {
+          "itemId": "108007145_4635991",
+          "itemCid": "621587",
+          "itemType": "SIM",
+          "itemName": "SIM",
+          "lineOfBusiness": "IN"
+        },
+        {
+          "itemId": "108007159_4635993",
+          "itemCid": "2786781",
+          "itemType": "EQP",
+          "itemName": "Vodafone Wi-Fi 6 Station",
+          "lineOfBusiness": "IN"
+        }
+      ],
+      "recipientDetails": {
+        "recipientName": {
+          "formattedName": "OrdinesoloGA;Xbs"
+        },
+        "recipientAddress": {
+          "id": "268572974",
+          "street": "VIA PAOLO SARPI",
+          "streetNumber": "1",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "postalCode": "20154",
+          "formattedAddress1": "VIA PAOLO SARPI 1"
+        },
+        "contactPhoneNumber": "3402938765",
+        "contactEmailAddress": "pierfrancesco.capone@vodafone.com"
+      },
+      "shippingDetails": {}
+    }
+  ],
+  "deliverySteps": [
+    {
+      "stepCode": "OV",
+      "checked": true,
+      "fulfillmentDetails": [
+        {
+          "entityType": "Fixed",
+          "additionalInfo": [
+            {
+              "key": "serviceNo",
+              "value": "390247762612"
+            }
+          ]
+        },
+        {
+          "entityType": "Data-Sim",
+          "additionalInfo": [
+            {
+              "key": "serviceNo",
+              "value": "393412136051"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stepCode": "AC",
+      "checked": false
+    }
+  ],
+  "orderActionSpecificStageStatus": "HandleWirelineFulfillmentResponse"
+}

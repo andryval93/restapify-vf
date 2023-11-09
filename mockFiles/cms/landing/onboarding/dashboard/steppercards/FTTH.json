@@ -1,0 +1,65 @@
+{
+  "ManagePortability": {
+    "portabilityMissing": {
+      "title": "Il tuo ordine è in pausa",
+      "description": "HTML",
+      "buttonLabel": "Inserisci il codice di migrazione"
+    },
+    "portabilityGiven": {
+      "title": "Codice di migrazione fornito",
+      "description": "HTML"
+    }
+  },
+  "RightOfReconsideration": {
+    "portabilityVerified": {
+      "title": "Codice di migrazione verificato",
+      "description": "HTML"
+    },
+    "rightOfReconsideration": {
+      "title": "Il tuo ordine è in pausa per il diritto di ripensamento",
+      "description": "HTML $VODAFONE_NUMBER",
+      "vodafoneNumber": "3490005647",
+      "buttonLabel": "Salva numero"
+    }
+  },
+  "OrderOnHoldTechIssue": {
+    "orderOnHold": {
+      "title": "Il tuo ordine è in pausa",
+      "description": "HTML $VODAFONE_NUMBER",
+      "vodafoneNumber": "3490005647",
+      "buttonLabel": "Salva numero"
+    }
+  },
+  "OrderOk": {
+    "orderOk": {
+      "title": "Elaborazione ordine andata a buon fine",
+      "description": "HTML",
+      "addressLabel": "Indirizzo"
+    }
+  },
+  "Activation": {
+    "activationSuccessful": {
+      "title": "Attivazione andata a buon fine!",
+      "description": "HTML",
+      "yourNumberLabel": "Il tuo numero di contatto",
+      "buttonLabel": "Controlla la tua velocità"
+    },
+    "yourNumber": {
+      "title": "Il tuo numero",
+      "description": "HTML",
+      "yourNumberLabel": "Il tuo numero di telefono",
+      "buttonLabel": "Condividi il numero"
+    },
+    "portabilityInProgress": {
+      "title": "Portabilità del numero in corso",
+      "description": "HTML",
+      "yourNumberLabel": "Il tuo numero provvisorio"
+    },
+    "portabilityDone": {
+      "title": "Portabilità del numero conclusa",
+      "description": "HTML",
+      "yourNumberLabel": "Il tuo numero di telefono",
+      "buttonLabel": "Condividi il numero"
+    }
+  }
+}

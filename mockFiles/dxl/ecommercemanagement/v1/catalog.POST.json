@@ -1,0 +1,349 @@
+{
+    "productInfo": [
+        {
+            "productOfferingId": "635bcdd1fc09600001e3b391",
+            "productSpecificationId": "670000306174",
+            "productCategory": "CustomProductOffering",
+            "productType": "FIXED",
+            "productName": "Fissa Smart",
+            "flagGA": false,
+            "paymentMethodC": "Y",
+            "paymentMethodR": "Y",
+            "secondFixedLine": false,
+            "costs": {
+                "activationCost": 0.0,
+                "renewalCost": 30.0,
+                "discountedRenewalCost": 25.0
+            },
+            "technicalPacket": {
+                "id": "59"
+            },
+            "addOn": [
+                {
+                    "productSpecificationId": "837812241",
+                    "productType": "C",
+                    "productName": "Power 4G P.IVA",
+                    "secondFixedLine": false,
+                    "flagReteSicura": false,
+                    "costs": {
+                        "activationCost": 0.0,
+                        "renewalCost": 0.0
+                    },
+                    "addOn": [],
+                    "incompList": [],
+                    "device": [],
+                    "businessSolution": [],
+                    "characteristic": [
+                        {
+                            "name": "dxlId",
+                            "value": [
+                                {
+                                    "value": "837812241"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "productShortDescription",
+                            "value": [
+                                {
+                                    "value": "<p>Aggiungi Power 4G per potenziare la velocità di navigazione della tua rete fissa grazie alla rete mobile 4G.</p>\r\n"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "productLongDescription",
+                            "value": [
+                                {
+                                    "value": "<p>Aggiungi Power 4G per potenziare la velocità di navigazione della tua rete fissa grazie alla rete mobile 4G.</p>\r\n"
+                                }
+                            ]
+                        }
+                    ],
+                    "characteristicMap": {
+                        "productLongDescription": "<p>Aggiungi Power 4G per potenziare la velocità di navigazione della tua rete fissa grazie alla rete mobile 4G.</p>\r\n",
+                        "productShortDescription": "<p>Aggiungi Power 4G per potenziare la velocità di navigazione della tua rete fissa grazie alla rete mobile 4G.</p>\r\n",
+                        "dxlId": "837812241"
+                    }
+                },
+                {
+                    "productSpecificationId": "837812886",
+                    "productType": "C",
+                    "productName": "Sempre Serviti P.IVA",
+                    "secondFixedLine": false,
+                    "flagReteSicura": false,
+                    "costs": {
+                        "activationCost": 0.0,
+                        "renewalCost": 0.0
+                    },
+                    "addOn": [],
+                    "incompList": [],
+                    "device": [],
+                    "businessSolution": [],
+                    "characteristic": [
+                        {
+                            "name": "dxlId",
+                            "value": [
+                                {
+                                    "value": "837812886"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "productName",
+                            "value": [
+                                {
+                                    "value": "Sempre Serviti P.IVA"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "productShortDescription",
+                            "value": [
+                                {
+                                    "value": "<p>Sempre Serviti<br />\r\nIl servizio di Assistenza Tecnica che, in caso di disservizio bloccante, ti garantisce un nostro intervento in 1 giorno (weekend e festivi compresi) dalla presa in carico della tua segnalazione.</p>\r\n"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "productLongDescription",
+                            "value": [
+                                {
+                                    "value": "<p>Sempre Serviti<br />\r\nIl servizio di Assistenza Tecnica che, in caso di disservizio bloccante, ti garantisce un nostro intervento in 1 giorno (weekend e festivi compresi) dalla presa in carico della tua segnalazione.</p>\r\n"
+                                }
+                            ]
+                        }
+                    ],
+                    "characteristicMap": {
+                        "productLongDescription": "<p>Sempre Serviti<br />\r\nIl servizio di Assistenza Tecnica che, in caso di disservizio bloccante, ti garantisce un nostro intervento in 1 giorno (weekend e festivi compresi) dalla presa in carico della tua segnalazione.</p>\r\n",
+                        "productShortDescription": "<p>Sempre Serviti<br />\r\nIl servizio di Assistenza Tecnica che, in caso di disservizio bloccante, ti garantisce un nostro intervento in 1 giorno (weekend e festivi compresi) dalla presa in carico della tua segnalazione.</p>\r\n",
+                        "dxlId": "837812886",
+                        "productName": "Sempre Serviti P.IVA"
+                    }
+                },
+                {
+                    "productSpecificationId": "837813024",
+                    "productType": "A",
+                    "productName": "Costo Attivazione 5x24 mesi",
+                    "secondFixedLine": false,
+                    "costs": {
+                        "activationCost": 0.0,
+                        "discountedActivationCost": 0.0,
+                        "renewalCost": 5.0,
+                        "discountedRenewalCost": 0.0,
+                        "renewalNumber": 24
+                    },
+                    "addOn": [],
+                    "incompList": [],
+                    "device": [],
+                    "businessSolution": [],
+                    "characteristic": [],
+                    "characteristicMap": {}
+                },
+                {
+                    "productSpecificationId": "837813767",
+                    "productType": "C",
+                    "productName": "Extra Qualità Fissa",
+                    "secondFixedLine": false,
+                    "flagReteSicura": true,
+                    "costs": {
+                        "activationCost": 0.0,
+                        "renewalCost": 10.0
+                    },
+                    "addOn": [],
+                    "incompList": [
+                        {
+                            "productSpecificationId": "837812886"
+                        }
+                    ],
+                    "device": [],
+                    "businessSolution": [],
+                    "characteristic": [
+                        {
+                            "name": "dxlId",
+                            "value": [
+                                {
+                                    "value": "837813767"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "productName",
+                            "value": [
+                                {
+                                    "value": "Extra Qualità Fissa"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "productShortDescription",
+                            "value": [
+                                {
+                                    "value": "<p>Extra Qualità include i seguenti servizi per la tua offerta rete fissa:</p>\r\n<ul>\r\n<li>Sempre Serviti Core</li>\r\n<li>Assistenza Prioritaria</li>\r\n<li>Rete Sicura</li>\r\n</ul>\r\n"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "productLongDescription",
+                            "value": [
+                                {
+                                    "value": "<p><b>Sempre Serviti Core</b></p>\r\n<p>Il servizio che ti garantisce il massimo dell’assistenza di cui hai bisogno per il tuo business.<br>\r\nIn caso di disservizio bloccante (impossibilità a utilizzare i servizi di connettività) e avrai a disposizione:<br>\r\n- Call Center (42323), per la presa in carico delle tue segnalazioni da lunedì a domenica, dalle 8 alle 22;<br>\r\n- Risoluzione entro 6h dalla tua segnalazione (week-end compreso).</p>\r\n<p><b>Assistenza Prioritaria</b></p>\r\n<p>Servizio che consente di avere un accesso prioritario all’assistenza tramite operatore.</p>\r\n<p><b>Rete Sicura</b></p>\r\n<p>Servizio che ti protegge mentre navighi su rete Vodafone. Non è necessario scaricare alcuna app o software e potrai facilmente monitorare tutto ciò che accade sulla rete Vodafone accedendo a <a href=\"http://www.retesicura.vodafone.it\">www.retesicura.vodafone.it</a></p>\r\n"
+                                }
+                            ]
+                        }
+                    ],
+                    "characteristicMap": {
+                        "productLongDescription": "<p><b>Sempre Serviti Core</b></p>\r\n<p>Il servizio che ti garantisce il massimo dell’assistenza di cui hai bisogno per il tuo business.<br>\r\nIn caso di disservizio bloccante (impossibilità a utilizzare i servizi di connettività) e avrai a disposizione:<br>\r\n- Call Center (42323), per la presa in carico delle tue segnalazioni da lunedì a domenica, dalle 8 alle 22;<br>\r\n- Risoluzione entro 6h dalla tua segnalazione (week-end compreso).</p>\r\n<p><b>Assistenza Prioritaria</b></p>\r\n<p>Servizio che consente di avere un accesso prioritario all’assistenza tramite operatore.</p>\r\n<p><b>Rete Sicura</b></p>\r\n<p>Servizio che ti protegge mentre navighi su rete Vodafone. Non è necessario scaricare alcuna app o software e potrai facilmente monitorare tutto ciò che accade sulla rete Vodafone accedendo a <a href=\"http://www.retesicura.vodafone.it\">www.retesicura.vodafone.it</a></p>\r\n",
+                        "productShortDescription": "<p>Extra Qualità include i seguenti servizi per la tua offerta rete fissa:</p>\r\n<ul>\r\n<li>Sempre Serviti Core</li>\r\n<li>Assistenza Prioritaria</li>\r\n<li>Rete Sicura</li>\r\n</ul>\r\n",
+                        "dxlId": "837813767",
+                        "productName": "Extra Qualità Fissa"
+                    }
+                },
+                {
+                    "productSpecificationId": "837813769",
+                    "productType": "C",
+                    "productName": "Extra Supporto Fissa",
+                    "secondFixedLine": false,
+                    "flagReteSicura": false,
+                    "costs": {
+                        "activationCost": 0.0,
+                        "renewalCost": 10.0
+                    },
+                    "addOn": [],
+                    "incompList": [],
+                    "device": [],
+                    "businessSolution": [],
+                    "characteristic": [
+                        {
+                            "name": "dxlId",
+                            "value": [
+                                {
+                                    "value": "837813769"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "productName",
+                            "value": [
+                                {
+                                    "value": "Extra Supporto Fissa"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "productShortDescription",
+                            "value": [
+                                {
+                                    "value": "<p>Extra Supporto include i seguenti servizi per la tua offerta rete fissa:</p>\r\n<ul>\r\n<li>Tech Expert</li>\r\n<li>Wi-Fi Extender</li>\r\n</ul>\r\n<p>Durata del servizio Extra Supporto ha una durata contrattuale di 24 mesi: in caso di disattivazione di Extra Supporto o recesso dal contratto di rete fissa, prima di tale scadenza il cliente è tenuto al pagamento delle rate residue del corrispettivo. Il Wi-Fi Extender rimarrà di proprietà del cliente.</p>\r\n"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "productLongDescription",
+                            "value": [
+                                {
+                                    "value": "<p><b>Tech Expert</b></p>\r\n<p>Servizio che offre assistenza tecnica per la configurazione dei principali dispositivi del Cliente. Con tale servizio il Cliente ha diritto a 2 interventi:<br />\r\n1. Prima configurazione con intervento di personale qualificato presso la sede del Cliente al momento dell’attivazione della linea fissa o della sottoscrizione di Extra Supporto;<br />\r\n2. Seconda configurazione da remoto tramite PC o altri supporti digitali, che potrà essere richiesta per tutta la durata contrattuale di Extra Supporto.</p>\r\n<p><b>Wi-Fi Extender</b></p>\r\n<p>Wi-Fi Extender è un prodotto dedicato ai clienti di rete fissa Vodafone che migliora l’esperienza di navigazione grazie ad una tecnologia esclusiva che analizza automaticamente la qualità della connessione per migliorare il segnale Wi-Fi. Wi-Fi Extender sfrutta la tecnologia EasyMesh grazie alla quale riesce a estendere il segnale della tua Vodafone Station anche in case di grandi dimensioni.<br />\r\nIn questo modo potrai connetterti senza interruzioni ovunque ti trovi.<br />\r\nIl Wi-Fi Extender può essere utilizzato solo con la rete Vodafone</p>\r\n<p> </p>\r\n"
+                                }
+                            ]
+                        }
+                    ],
+                    "characteristicMap": {
+                        "productLongDescription": "<p><b>Tech Expert</b></p>\r\n<p>Servizio che offre assistenza tecnica per la configurazione dei principali dispositivi del Cliente. Con tale servizio il Cliente ha diritto a 2 interventi:<br />\r\n1. Prima configurazione con intervento di personale qualificato presso la sede del Cliente al momento dell’attivazione della linea fissa o della sottoscrizione di Extra Supporto;<br />\r\n2. Seconda configurazione da remoto tramite PC o altri supporti digitali, che potrà essere richiesta per tutta la durata contrattuale di Extra Supporto.</p>\r\n<p><b>Wi-Fi Extender</b></p>\r\n<p>Wi-Fi Extender è un prodotto dedicato ai clienti di rete fissa Vodafone che migliora l’esperienza di navigazione grazie ad una tecnologia esclusiva che analizza automaticamente la qualità della connessione per migliorare il segnale Wi-Fi. Wi-Fi Extender sfrutta la tecnologia EasyMesh grazie alla quale riesce a estendere il segnale della tua Vodafone Station anche in case di grandi dimensioni.<br />\r\nIn questo modo potrai connetterti senza interruzioni ovunque ti trovi.<br />\r\nIl Wi-Fi Extender può essere utilizzato solo con la rete Vodafone</p>\r\n<p> </p>\r\n",
+                        "productShortDescription": "<p>Extra Supporto include i seguenti servizi per la tua offerta rete fissa:</p>\r\n<ul>\r\n<li>Tech Expert</li>\r\n<li>Wi-Fi Extender</li>\r\n</ul>\r\n<p>Durata del servizio Extra Supporto ha una durata contrattuale di 24 mesi: in caso di disattivazione di Extra Supporto o recesso dal contratto di rete fissa, prima di tale scadenza il cliente è tenuto al pagamento delle rate residue del corrispettivo. Il Wi-Fi Extender rimarrà di proprietà del cliente.</p>\r\n",
+                        "dxlId": "837813769",
+                        "productName": "Extra Supporto Fissa"
+                    }
+                }
+            ],
+            "incompList": [],
+            "device": [],
+            "businessSolution": [],
+            "characteristic": [
+                {
+                    "name": "dxlId",
+                    "value": [
+                        {
+                            "value": "670000306174"
+                        }
+                    ]
+                },
+                {
+                    "name": "productName",
+                    "value": [
+                        {
+                            "value": "Fissa Smart"
+                        }
+                    ]
+                },
+                {
+                    "name": "productShortDescription",
+                    "value": [
+                        {
+                            "value": "<p>Internet per la tua P.IVA, alla massima velocità</p>\r\n"
+                        }
+                    ]
+                },
+                {
+                    "name": "productLongDescription",
+                    "value": [
+                        {
+                            "value": "<p>NA</p>\r\n"
+                        }
+                    ]
+                },
+                {
+                    "name": "termsAndConditions",
+                    "value": [
+                        {
+                            "value": "<p>vedi NL - termini e condizioni</p>\r\n"
+                        }
+                    ]
+                },
+                {
+                    "name": "tabId",
+                    "value": [
+                        {
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "name": "productDetailHTML",
+                    "value": [
+                        {
+                            "value": "<style type=\"text/css\"><!--\r\n    .tableCard4col {margin:0;border:0 none;border-collapse:collapse;padding:0;width:calc(100% - 1.54rem);font:400 .88rem/1.1 vodafone_rgregular, sans-serif;box-sizing:border-box}\r\n    .tableCard4col * {box-sizing:border-box}\r\n    .tableCard4col tbody tr:not(:first-of-type) {border-top:1px solid #CCC;vertical-align:top}\r\n    .tableCard4col tbody tr td {padding:.55rem .33rem;width:97%;text-align:left}\r\n    .tableCard4col tbody tr td.shortSize {width:3%!important;}\r\n    .tableCard4col tbody tr td.shortSize figure {margin:0;width:1.357rem;font:100 0/0 a;}\r\n    .tableCard4col tbody tr td.shortSize figure img {width:100%;height:auto;}\r\n    .tableCard4col tbody tr td strong {display:block;font-weight:700;font-size:.99rem;}\r\n\r\n--></style>\r\n\r\n<table class=\"tableCard4col\">\r\n    <tbody>\r\n    <tr>\r\n        <td class=\"shortSize\">\r\n            <figure><img src=\"https://a-wb.vodafone.it/content/dam/webaem/img/offerte-rete-fissa/icone/ico-blk-maxSpeed-33x33.png\" alt=\"\"></figure>\r\n        </td>\r\n        <td>\r\n            <strong>Massima Velocità</strong>\r\n            Navighi fino a 2.5 Gbps!\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n        <td class=\"shortSize\">\r\n            <figure><img src=\"https://a-wb.vodafone.it/content/dam/webaem/img/offerte-rete-fissa/icone/ico-blk-modem-33x33.png\" alt=\"\"></figure>\r\n        </td>\r\n        <td>\r\n            <strong>Modem Incluso</strong>\r\n            Vodafone Station.\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n        <td class=\"shortSize\">\r\n            <figure><img src=\"https://a-wb.vodafone.it/content/dam/webaem/img/offerte-rete-fissa/icone/ico-blk-internetKey-33x33.png\" alt=\"\"></figure>\r\n        </td>\r\n        <td>\r\n            <strong>Internet Key Inclusa</strong>\r\n            Rimani sempre connesso.\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n        <td class=\"shortSize\">\r\n            <figure><img src=\"https://a-wb.vodafone.it/content/dam/webaem/img/offerte-rete-fissa/icone/ico-blk-sempreServiti-33x33.png\" alt=\"\"></figure>\r\n        </td>\r\n        <td>\r\n            <strong>Sempre Serviti</strong>\r\n            Ricevi massima assistenza.\r\n        </td>\r\n    </tr>\r\n    </tbody>\r\n</table>"
+                        }
+                    ]
+                },
+                {
+                    "name": "productUrl",
+                    "value": [
+                        {
+                            "value": "/business/eshop/offerte-rete-fissa/fissa-smart.html"
+                        }
+                    ]
+                },
+                {
+                    "name": "productShortName",
+                    "value": [
+                        {
+                            "value": "Fissa Smart"
+                        }
+                    ]
+                }
+            ],
+            "characteristicMap": {
+                "tabId": "1",
+                "productDetailHTML": "<style type=\"text/css\"><!--\r\n    .tableCard4col {margin:0;border:0 none;border-collapse:collapse;padding:0;width:calc(100% - 1.54rem);font:400 .88rem/1.1 vodafone_rgregular, sans-serif;box-sizing:border-box}\r\n    .tableCard4col * {box-sizing:border-box}\r\n    .tableCard4col tbody tr:not(:first-of-type) {border-top:1px solid #CCC;vertical-align:top}\r\n    .tableCard4col tbody tr td {padding:.55rem .33rem;width:97%;text-align:left}\r\n    .tableCard4col tbody tr td.shortSize {width:3%!important;}\r\n    .tableCard4col tbody tr td.shortSize figure {margin:0;width:1.357rem;font:100 0/0 a;}\r\n    .tableCard4col tbody tr td.shortSize figure img {width:100%;height:auto;}\r\n    .tableCard4col tbody tr td strong {display:block;font-weight:700;font-size:.99rem;}\r\n\r\n--></style>\r\n\r\n<table class=\"tableCard4col\">\r\n    <tbody>\r\n    <tr>\r\n        <td class=\"shortSize\">\r\n            <figure><img src=\"https://a-wb.vodafone.it/content/dam/webaem/img/offerte-rete-fissa/icone/ico-blk-maxSpeed-33x33.png\" alt=\"\"></figure>\r\n        </td>\r\n        <td>\r\n            <strong>Massima Velocità</strong>\r\n            Navighi fino a 2.5 Gbps!\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n        <td class=\"shortSize\">\r\n            <figure><img src=\"https://a-wb.vodafone.it/content/dam/webaem/img/offerte-rete-fissa/icone/ico-blk-modem-33x33.png\" alt=\"\"></figure>\r\n        </td>\r\n        <td>\r\n            <strong>Modem Incluso</strong>\r\n            Vodafone Station.\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n        <td class=\"shortSize\">\r\n            <figure><img src=\"https://a-wb.vodafone.it/content/dam/webaem/img/offerte-rete-fissa/icone/ico-blk-internetKey-33x33.png\" alt=\"\"></figure>\r\n        </td>\r\n        <td>\r\n            <strong>Internet Key Inclusa</strong>\r\n            Rimani sempre connesso.\r\n        </td>\r\n    </tr>\r\n    <tr>\r\n        <td class=\"shortSize\">\r\n            <figure><img src=\"https://a-wb.vodafone.it/content/dam/webaem/img/offerte-rete-fissa/icone/ico-blk-sempreServiti-33x33.png\" alt=\"\"></figure>\r\n        </td>\r\n        <td>\r\n            <strong>Sempre Serviti</strong>\r\n            Ricevi massima assistenza.\r\n        </td>\r\n    </tr>\r\n    </tbody>\r\n</table>",
+                "productLongDescription": "<p>NA</p>\r\n",
+                "productShortDescription": "<p>Internet per la tua P.IVA, alla massima velocità</p>\r\n",
+                "dxlId": "670000306174",
+                "productUrl": "/business/eshop/offerte-rete-fissa/fissa-smart.html",
+                "productName": "Fissa Smart",
+                "productShortName": "Fissa Smart",
+                "termsAndConditions": "<p>vedi NL - termini e condizioni</p>\r\n"
+            }
+        }
+    ],
+    "deviceInfo": [],
+    "businessSolutionInfo": []
+}

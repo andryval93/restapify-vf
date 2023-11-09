@@ -1,0 +1,85 @@
+{
+  "deliveryOrders": [
+    {
+      "code": "S",
+      "description": "Spedizione a casa",
+      "shippingOptions": [
+        {
+          "name": "ST",
+          "displayName": "Consegna standard",
+          "price": {
+            "currencyCode": "EUR",
+            "amount": 0
+          },
+          "isSelected": true
+        }
+      ],
+      "deliveryItems": [
+        {
+          "itemId": "108524113_5056945",
+          "itemCid": "4216981",
+          "itemType": "EQP",
+          "itemName": "Modem Router Huawei",
+          "lineOfBusiness": "IN"
+        },
+        {
+          "itemId": "108524145_5056947",
+          "itemCid": "621587",
+          "itemType": "SIM",
+          "itemName": "SIM",
+          "lineOfBusiness": "IN"
+        },
+        {
+          "itemId": "108524161_5056949",
+          "itemCid": "2787581",
+          "itemType": "STB",
+          "itemName": "Vodafone TV Box",
+          "lineOfBusiness": "IN"
+        }
+      ],
+      "recipientDetails": {
+        "recipientName": {
+          "formattedName": "ZENOS;XBS MAVROMMATIS"
+        },
+        "recipientAddress": {
+          "id": "268570145",
+          "street": "VIA OSTENO",
+          "streetNumber": "6",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "postalCode": "20152",
+          "formattedAddress1": "VIA OSTENO 6"
+        },
+        "contactPhoneNumber": "3408000946",
+        "contactEmailAddress": "vidya.devtale2@vodafone.com"
+      },
+      "shippingDetails": {}
+    }
+  ],
+  "deliverySteps": [
+    {
+      "stepCode": "OV",
+      "checked": true,
+      "statusOK": true,
+      "message": {
+        "code": "OV",
+        "message": "Stiamo preparando i materiali previsti dalla tua pratica. Riceverai a breve la lettera di vettura per seguire la spedizione",
+        "shippingStatus": "OK"
+      }
+    },
+    {
+      "stepCode": "DP",
+      "checked": false
+    },
+    {
+      "stepCode": "ID",
+      "checked": false
+    },
+    {
+      "stepCode": "AC",
+      "checked": false
+    }
+  ],
+  "orderActionSpecificStageStatus": "HandleShipmentResponse"
+}

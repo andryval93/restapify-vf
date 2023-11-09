@@ -1,0 +1,83 @@
+{
+  "deliveryOrders": [
+    {
+      "code": "S",
+      "description": "Spedizione a casa",
+      "shippingOptions": [
+        {
+          "name": "ST",
+          "displayName": "Consegna standard",
+          "price": {
+            "currencyCode": "EUR",
+            "amount": 0
+          },
+          "isSelected": true
+        }
+      ],
+      "deliveryItems": [
+        {
+          "itemId": "108529462_5057657",
+          "itemCid": "621587",
+          "itemType": "SIM",
+          "itemName": "SIM",
+          "lineOfBusiness": "WS"
+        }
+      ],
+      "recipientDetails": {
+        "recipientName": {
+          "formattedName": "ASD;FGDT"
+        },
+        "recipientAddress": {
+          "id": "268618679",
+          "street": "VIA LORENTEGGIO",
+          "streetNumber": "24",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "postalCode": "20146",
+          "formattedAddress1": "VIA LORENTEGGIO 24"
+        },
+        "contactPhoneNumber": "340989798",
+        "contactEmailAddress": "aditya.surve@vodafone.com"
+      },
+      "shippingDetails": {}
+    }
+  ],
+  "deliverySteps": [
+    {
+      "stepCode": "OV",
+      "checked": true,
+      "statusOK": true,
+      "message": {
+        "code": "OV",
+        "message": "Stiamo preparando i materiali previsti dalla tua pratica. Riceverai a breve la lettera di vettura per seguire la spedizione",
+        "shippingStatus": "OK"
+      }
+    },
+    {
+      "stepCode": "DP",
+      "checked": false
+    },
+    {
+      "stepCode": "ID",
+      "checked": false
+    },
+    {
+      "stepCode": "AC",
+      "checked": false,
+      "statusOK": true,
+      "fulfillmentDetails": [
+        {
+          "entityType": "physicalSIM",
+          "additionalInfo": [
+            {
+              "key": "serviceNo",
+              "value": "393495225127"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "orderActionSpecificStageStatus": "HandleShipmentResponse"
+}

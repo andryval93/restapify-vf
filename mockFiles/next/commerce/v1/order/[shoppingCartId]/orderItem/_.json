@@ -1,0 +1,96 @@
+[
+  {
+    "type": "multiPlayOrderItem",
+    "fixedVoice": [
+      {
+        "type": "fixedVoiceOrderItem",
+        "product": {
+          "type": "fixedVoiceProduct",
+          "productIndividual": {
+            "id": "220309701171221",
+            "firstName": "Piero",
+            "lastName": "Pierini"
+          },
+          "installationAddress": {
+            "id": "271967531"
+          }
+        },
+        "orderActionId": "444432821"
+      }
+    ],
+    "internet": [
+      {
+        "type": "internetOrderItem",
+        "product": {
+          "type": "internetProduct",
+          "installationAddress": {
+            "id": "271967531"
+          },
+          "productIndividual": {
+            "id": "220309701171221",
+            "firstName": "Piero",
+            "lastName": "Pierini"
+          }
+        },
+        "orderItemRelationship": [
+          {
+            "id": "7133",
+            "type": "deliveringBy"
+          }
+        ],
+        "orderActionId": "444432819"
+      }
+    ]
+  },
+  {
+    "type": "deliveryOrderItem",
+    "id": "7133",
+    "deliveringItem": [
+      {
+        "type": "internetOrderItem",
+        "product": {
+          "type": "internetProduct",
+          "installationAddress": {
+            "id": "271967531"
+          },
+          "productIndividual": {
+            "id": "220309701171221",
+            "firstName": "Piero",
+            "lastName": "Pierini"
+          }
+        },
+        "orderItemRelationship": [
+          {
+            "id": "7133",
+            "type": "deliveringBy"
+          }
+        ],
+        "orderActionId": "444432819"
+      }
+    ],
+    "deliveryProduct": {
+      "deliveryMethod": "V1DeliveryProduct",
+      "deliveryAddress": {
+        "id": "271967531",
+        "type": "regular"
+      },
+      "recipient": {
+        "firstName": "Piero",
+        "lastName": "Pierini",
+        "phoneNumber1": "3381287365",
+        "emailAddress": "pierini@gmail.com"
+      }
+    },
+    "order": {
+      "href": "/commerce/v1/order/444432818A?salesChannel=selfService",
+      "rel": "related",
+      "id": "444432818A"
+    },
+    "deliverableItem": [
+      {
+        "type": "EQP",
+        "displayName": "Vodafone Wi-Fi 6 Station"
+      }
+    ]
+  }
+]

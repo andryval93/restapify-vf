@@ -1,0 +1,59 @@
+{
+  "portability": {
+    "general": {
+      "description": "Se hai un'offerta internet senza linea fissa, seleziona NO.",
+      "title": "Vuoi mantenere il tuo numero fisso?",
+      "choice": {
+        "option1": "Si",
+        "option2": "No"
+      }
+    },
+    "telephone": {
+      "description": "Indica il numero di telefono che vorresti mantenere.",
+      "title": "Il numero di telefono"
+    },
+    "lineInfo": {
+      "description": "<p>Che tipo di offerta hai attiva attualmente sul numero <b>PHONENUMBER</b></p>\r\n",
+      "title": "Informazioni linea",
+      "choice": {
+        "option1": "Linea telefonica + Internet (Fibra/Adsl)",
+        "option2": "Solo linea telefonica"
+      }
+    },
+    "provider": {
+      "title": "Seleziona il tuo operatore",
+      "operatorInfo": {
+        "description": "Quanti operatori hai attualmente ...",
+        "title": "Informazioni operatore",
+        "choice": {
+          "option1": "Unico operatore",
+          "option2": "Due operatori differenti"
+        }
+      },
+      "operatorSelect": {
+        "smallInfo": "Se hai una linea ISDN, non sarà più possibile ...",
+        "findMigrationLabel": "Dove cercare il codice di migrazione"
+      },
+      "providerTitles": {
+        "providerOne": "Linea telefonica",
+        "providerTwo": "Servizio internet"
+      }
+    },
+    "modal": {
+      "buttonLabel": "INSERISCI CODICE DI MIGRAZIONE",
+      "description": "Il codice di migrazione è un codice alfanumerico identificativo dei servizi attivati sulla linea e fornito dall’operatore telefonico di provenienza. Puoi trovarlo in una fattura del tuo attuale operatore e deve essere lungo almeno 15 lettere/numeri e terminare con una lettera.",
+      "noCode": "Prosegui senza il codice di migrazione",
+      "codeNotFound": "Non trovi il tuo codice di migrazione?",
+      "title": "Dove cercare il codice di migrazione"
+    },
+    "selectInput": {
+      "operator": "Operatore attuale",
+      "migrationCode": "Codice di migrazione",
+      "telephone": "Numero di telefono"
+    },
+    "errorModal":{
+      "title": "Ops",
+      "message": "Si è verificato un errore. Riprova a breve"
+    }
+  }
+}

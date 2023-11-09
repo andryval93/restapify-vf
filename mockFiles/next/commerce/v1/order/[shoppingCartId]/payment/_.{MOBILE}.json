@@ -1,0 +1,320 @@
+{
+    "orderPayment": {
+        "planId": "1815387063",
+        "orderItemPayments": [
+            {
+                "msisdn": "393446529315",
+                "orderActionId": "514369010A",
+                "mainComponentProductId": "1815387032",
+                "depositAmountCharacteristicId": "648887",
+                "orderItemOnBillPayment": {
+                    "billingOfferIdForChangePaymentMethod": [
+                        "1815387063"
+                    ],
+                    "billingOfferIdForDistribution": [
+                        "1815337280",
+                        "1815387085",
+                        "1815387039",
+                        "1815387064",
+                        "1815387071",
+                        "1815387083",
+                        "1815387084",
+                        "1815387037",
+                        "1815387052",
+                        "1815387047",
+                        "1815337277",
+                        "1815387041",
+                        "1815337279",
+                        "1815387042",
+                        "1815387043",
+                        "1815387044",
+                        "1815387045",
+                        "1815337278",
+                        "1815387054",
+                        "1815387079",
+                        "1815387080",
+                        "1815387078",
+                        "1815387077",
+                        "1815387068",
+                        "1815387057",
+                        "1815387063",
+                        "1815387062",
+                        "1815387074"
+                    ],
+                    "payMeanPurpose": "onBill",
+                    "totalPrice": [
+                        {
+                            "type": "oneTime",
+                            "originalprice": {
+                                "currencyCode": "EUR",
+                                "taxIncludedAmount": 6.99,
+                                "amount": 6.99
+                            },
+                            "price": {
+                                "currencyCode": "EUR",
+                                "taxRate": 21.99,
+                                "taxIncludedAmount": 6.99,
+                                "amount": 5.73,
+                                "taxAmount": 1.26
+                            }
+                        },
+                        {
+                            "recurringChargePeriod": "month",
+                            "type": "recurring",
+                            "originalprice": {
+                                "currencyCode": "EUR",
+                                "taxIncludedAmount": 14.99,
+                                "amount": 14.99
+                            },
+                            "price": {
+                                "currencyCode": "EUR",
+                                "taxRate": 21.97,
+                                "taxIncludedAmount": 14.99,
+                                "amount": 12.29,
+                                "taxAmount": 2.7
+                            }
+                        }
+                    ],
+                    "currentOrderPrice": [
+                        {
+                            "type": "oneTime",
+                            "originalprice": {
+                                "currencyCode": "EUR",
+                                "taxIncludedAmount": 6.99,
+                                "amount": 6.99
+                            },
+                            "price": {
+                                "currencyCode": "EUR",
+                                "taxRate": 21.99,
+                                "taxIncludedAmount": 6.99,
+                                "amount": 5.73,
+                                "taxAmount": 1.26
+                            }
+                        },
+                        {
+                            "recurringChargePeriod": "month",
+                            "type": "recurring",
+                            "originalprice": {
+                                "currencyCode": "EUR",
+                                "taxIncludedAmount": 14.99,
+                                "amount": 14.99
+                            },
+                            "price": {
+                                "currencyCode": "EUR",
+                                "taxRate": 21.97,
+                                "taxIncludedAmount": 14.99,
+                                "amount": 12.29,
+                                "taxAmount": 2.7
+                            }
+                        }
+                    ],
+                    "availablePaymentMethods": [
+                        {
+                            "methodName": "Carta di Credito",
+                            "methodValue": "CC",
+                            "configured": true,
+                            "methodCode": "creditCard",
+                            "productSpecCharacteristicId": "737563649",
+                            "type": "creditCard"
+                        },
+                        {
+                            "methodName": "IBAN",
+                            "methodValue": "DD",
+                            "configured": false,
+                            "methodCode": "bankAccount",
+                            "productSpecCharacteristicId": "737563649",
+                            "type": "bankAccount"
+                        },
+                        {
+                            "methodName": "Credito Residuo",
+                            "methodValue": "W",
+                            "configured": false,
+                            "methodCode": "wallet",
+                            "productSpecCharacteristicId": "737563649",
+                            "type": "wallet"
+                        }
+                    ],
+                    "selectedPaymentMethod": {
+                        "methodName": "Carta di Credito",
+                        "methodValue": "CC",
+                        "configured": true,
+                        "methodCode": "creditCard",
+                        "productSpecCharacteristicId": "737563649",
+                        "type": "creditCard"
+                    },
+                    "isIBANValidationRequired": false
+                },
+                "orderItemImmediatePayment": {
+                    "payMeanPurpose": "immediate",
+                    "totalPrice": [
+                        {
+                            "type": "oneTime",
+                            "price": {
+                                "currencyCode": "EUR",
+                                "taxRate": 0,
+                                "taxIncludedAmount": 0,
+                                "amount": 0,
+                                "taxAmount": 0
+                            }
+                        }
+                    ],
+                    "isIBANValidationRequired": false
+                }
+            }
+        ],
+        "orderOnBillPayment": {
+            "billingOfferIdForChangePaymentMethod": [
+                "1815387063"
+            ],
+            "billingOfferIdForDistribution": [
+                "1815337280",
+                "1815387085",
+                "1815387039",
+                "1815387064",
+                "1815387071",
+                "1815387083",
+                "1815387084",
+                "1815387037",
+                "1815387052",
+                "1815387047",
+                "1815337277",
+                "1815387041",
+                "1815337279",
+                "1815387042",
+                "1815387043",
+                "1815387044",
+                "1815387045",
+                "1815337278",
+                "1815387054",
+                "1815387079",
+                "1815387080",
+                "1815387078",
+                "1815387077",
+                "1815387068",
+                "1815387057",
+                "1815387063",
+                "1815387062",
+                "1815387074"
+            ],
+            "payMeanPurpose": "onBill",
+            "totalPrice": [
+                {
+                    "type": "oneTime",
+                    "originalprice": {
+                        "currencyCode": "EUR",
+                        "taxIncludedAmount": 6.99,
+                        "amount": 6.99
+                    },
+                    "price": {
+                        "currencyCode": "EUR",
+                        "taxRate": 21.99,
+                        "taxIncludedAmount": 6.99,
+                        "amount": 5.73,
+                        "taxAmount": 1.26
+                    }
+                },
+                {
+                    "recurringChargePeriod": "month",
+                    "type": "recurring",
+                    "originalprice": {
+                        "currencyCode": "EUR",
+                        "taxIncludedAmount": 14.99,
+                        "amount": 14.99
+                    },
+                    "price": {
+                        "currencyCode": "EUR",
+                        "taxRate": 21.97,
+                        "taxIncludedAmount": 14.99,
+                        "amount": 12.29,
+                        "taxAmount": 2.7
+                    }
+                }
+            ],
+            "currentOrderPrice": [
+                {
+                    "type": "oneTime",
+                    "originalprice": {
+                        "currencyCode": "EUR",
+                        "taxIncludedAmount": 6.99,
+                        "amount": 6.99
+                    },
+                    "price": {
+                        "currencyCode": "EUR",
+                        "taxRate": 21.99,
+                        "taxIncludedAmount": 6.99,
+                        "amount": 5.73,
+                        "taxAmount": 1.26
+                    }
+                },
+                {
+                    "recurringChargePeriod": "month",
+                    "type": "recurring",
+                    "originalprice": {
+                        "currencyCode": "EUR",
+                        "taxIncludedAmount": 14.99,
+                        "amount": 14.99
+                    },
+                    "price": {
+                        "currencyCode": "EUR",
+                        "taxRate": 21.97,
+                        "taxIncludedAmount": 14.99,
+                        "amount": 12.29,
+                        "taxAmount": 2.7
+                    }
+                }
+            ],
+            "availablePaymentMethods": [
+                {
+                    "methodName": "Carta di Credito",
+                    "methodValue": "CC",
+                    "configured": true,
+                    "methodCode": "creditCard",
+                    "productSpecCharacteristicId": "737563649",
+                    "type": "creditCard"
+                },
+                {
+                    "methodName": "IBAN",
+                    "methodValue": "DD",
+                    "configured": false,
+                    "methodCode": "bankAccount",
+                    "productSpecCharacteristicId": "737563649",
+                    "type": "bankAccount"
+                },
+                {
+                    "methodName": "Credito Residuo",
+                    "methodValue": "W",
+                    "configured": false,
+                    "methodCode": "wallet",
+                    "productSpecCharacteristicId": "737563649",
+                    "type": "wallet"
+                }
+            ],
+            "selectedPaymentMethod": {
+                "methodName": "Carta di Credito",
+                "methodValue": "CC",
+                "configured": true,
+                "methodCode": "creditCard",
+                "productSpecCharacteristicId": "737563649",
+                "type": "creditCard"
+            },
+            "isIBANValidationRequired": false
+        },
+        "orderImmediatePayment": {
+            "payMeanPurpose": "immediate",
+            "totalPrice": [
+                {
+                    "type": "oneTime",
+                    "price": {
+                        "currencyCode": "EUR",
+                        "taxRate": 0,
+                        "taxIncludedAmount": 0,
+                        "amount": 0,
+                        "taxAmount": 0
+                    }
+                }
+            ],
+            "isIBANValidationRequired": false
+        }
+    },
+    "invoicePayment": false
+}

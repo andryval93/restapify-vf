@@ -1,0 +1,101 @@
+[
+  {
+    "href": "/care/v1/customer/100041402?salesChannel=selfService",
+    "id": "100041402",
+    "name": "paola lobello",
+    "type": "individual",
+    "subtype": "individual",
+    "rank": "-647",
+    "billingAddress": {
+      "id": "268555215",
+      "city": "MILANO",
+      "country": "IT",
+      "postalCode": "20147",
+      "stateOrProvince": "MI",
+      "displayStateOrProvince": "MILANO",
+      "street": "VIA LORENTEGGIO",
+      "formattedAddress1": "240 VIA LORENTEGGIO",
+      "formattedAddress3": "MILANO MILANO 20147",
+      "externalId": "38000093578",
+      "streetNumber": "240",
+      "homeZone": "00135401",
+      "istatCode": "03015146"
+    },
+    "financialAccount": [
+      {
+        "id": "500021668"
+      }
+    ],
+    "owningIndividual": {
+      "id": "22091323496",
+      "firstName": "paola",
+      "lastName": "lobello",
+      "title": "EMPTY",
+      "birthDate": "1987-06-05",
+      "gender": "male",
+      "contactMedium": [
+        {
+          "type": "email",
+          "preferred": false,
+          "emailAddress": "roberta.randazzo@vodafone.com",
+          "id": "268634402"
+        },
+        {
+          "type": "phone",
+          "preferred": false,
+          "phoneNumber": "3459706251",
+          "id": "268634403"
+        },
+        {
+          "type": "postalAddress",
+          "preferred": false,
+          "id": "268555215",
+          "city": "MILANO",
+          "country": "IT",
+          "displayCountry": "Italia",
+          "postalCode": "20147",
+          "stateOrProvince": "MI",
+          "displayStateOrProvince": "MILANO",
+          "street": "VIA LORENTEGGIO",
+          "formattedAddress1": "240 VIA LORENTEGGIO",
+          "formattedAddress3": "MILANO MILANO 20147",
+          "latitude": "0.0",
+          "longitude": "0.0",
+          "externalId": "38000093578",
+          "streetNumber": "240",
+          "homeZone": "00135401",
+          "istatCode": "03015146"
+        }
+      ],
+      "identification": [
+        {
+          "identificationNumber": "gd3523578",
+          "identificationType": "1",
+          "issueDate": "1753-01-01",
+          "expirationDate": "2025-11-12",
+          "id": "268567848",
+          "nationality": "IT",
+          "isLegacy": false
+        }
+      ],
+      "birthPlace": "GENOVA",
+      "preferredLanguage": {
+        "name": "it-IT"
+      },
+      "preferredContactTime": {
+        "name": "Morning"
+      },
+      "preferredContactMethod": {
+        "name": "C"
+      },
+      "noFiscalCodeFlag": "Italian",
+      "nation": "IT",
+      "fiscalCode": "LBLPLA87H05D969F"
+    },
+    "familyGroupInfo": {
+      "familyTypeName": "Giga Family Together"
+    },
+    "acquisitionDate": "2022-09-13T11:49:57Z",
+    "marketTag": "VF"
+  }
+]

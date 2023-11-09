@@ -1,0 +1,268 @@
+{
+  "heroslider": {
+    "title": "<p><b>E non finisce qui.</b></p>\r\n<p><b>Vodafone ha sempre un piano per te.</b></p>\r\n",
+    "slides": [
+      {
+        "description": "Dallo smart working alle tue serie TV preferite, tutto grazie a Vodafone. Scopri le offerte Casa, per le passioni di tutta la famiglia.",
+        "id": "1",
+        "category": "Casa",
+        "image": "s1.jpg",
+        "title": "Una casa senza limiti",
+        "video": "cattelan.mp4",
+        "overlayImage": "s1-overlay.jpg",
+        "maskIcon": "cattelan-icon.jpg",
+        "action": {
+          "url": "https://feature-landing-links.consumer-test.vodafone.it/products",
+          "type": "2",
+          "title": "Esplora le offerte",
+          "localUrl": "/products"
+        }
+      },
+      {
+        "description": "Navigare, chattare, giocare, viaggiare. Con le offerte Mobile di Vodafone, il tuo smartphone è un mondo tutto da scoprire.",
+        "id": "2",
+        "category": "Mobile",
+        "image": "s2.jpg",
+        "title": "Dal tuo schermo al tuo mondo",
+        "action": {
+          "url": "https://www.google.it",
+          "type": "3",
+          "title": "Esplora le offerte"
+        }
+      },
+      {
+        "description": "Vodafone favorisce un’economia circolare: portaci il tuo smartphone e riceverai uno sconto su un nuovo modello",
+        "id": "3",
+        "category": "SMART CHANGE",
+        "image": "s3.jpg",
+        "title": "Ogni smartphone vale.",
+        "action": {
+          "url": "https://www.google.it",
+          "type": "1",
+          "title": "Scopri il servizio"
+        }
+      }
+    ]
+  },
+  "firstslider": {
+    "description": "Qui ci sono tutti i prodotti di rete fissa e mobile configurati nella API product-list",
+    "title": "<p><b>E non finisce qui</b></p>\r\n<p><b>Vodafone ha sempre un piano per te.</b></p>\r\n"
+  },
+  "secondslider": {
+    "description": "La rete Vodafone è veloce, affidabile e pronta a tutto.",
+    "image": "vfB.jpg",
+    "title": "Vivi le tue passioni con Vodafone.",
+    "slides": [
+      {
+        "description": "Film e serie TV incluse in Vodafone Entertainment.",
+        "id": "22",
+        "image": "netflix.jpg",
+        "title": "Guarda",
+        "action": {
+          "type": "1"
+        }
+      },
+      {
+        "description": "Sempre attivi e connessi. E lo smartwatch è incluso.",
+        "id": "23",
+        "image": "all.jpg",
+        "title": "Allenati",
+        "action": {
+          "type": "1"
+        }
+      },
+      {
+        "description": "Con Vodafone Tech, il tuo smartphone ha sempre valore.",
+        "id": "24",
+        "image": "relax.jpg",
+        "title": "Rilassati",
+        "action": {
+          "type": "1"
+        }
+      },
+      {
+        "description": "La rete Vodafone non conosce confini. Pronti a partire?",
+        "id": "24",
+        "image": "travel.jpg",
+        "title": "Viaggia",
+        "action": {
+          "type": "1"
+        }
+      },
+      {
+        "description": "Porta il gaming a un nuovo livello con la GameNow.",
+        "id": "24",
+        "image": "play.jpg",
+        "title": "Gioca",
+        "action": {
+          "type": "1"
+        }
+      }
+    ]
+  },
+  "thirdslider": {
+    "title": "<p>Connessi al futuro.</p>\r\n<p>La nostra rete guarda sempre avanti.</p>\r\n",
+    "slides": [
+      {
+        "id": "1",
+        "category": "Offerte telefonia fissa",
+        "image": "1.jpeg",
+        "title": "Offerta Fibra a 24,90€: per le passioni di tutta la famiglia",
+        "overlayImage": "casa.png",
+        "action": {
+          "url": "https://www.google.it",
+          "type": "1",
+          "title": "Verifica la copertura"
+        }
+      },
+      {
+        "id": "2",
+        "category": "Offerte telefonia moobile",
+        "image": "2.jpeg",
+        "title": "RED PRO: l’offerta semplice e completa",
+        "overlayImage": "mobile.png",
+        "action": {
+          "url": "https://www.google.it",
+          "type": "1",
+          "title": "Scoprila da 14,99€ al mese"
+        }
+      },
+      {
+        "id": "3",
+        "category": "Offerte prodotto",
+        "image": "reno.jpeg",
+        "title": "Reno8 Lite 5G: una vita attraverso l’obiettivo",
+        "overlayImage": "mobile.png",
+        "action": {
+          "url": "https://www.google.it",
+          "type": "1",
+          "title": "Scopri di più"
+        }
+      },
+      {
+        "id": "4",
+        "category": "Offerte Fibra e ADSL",
+        "image": "vmax.jpeg",
+        "title": "V-Max: il massimo della Fibra Vodafone",
+        "action": {
+          "url": "https://www.google.it",
+          "type": "1",
+          "title": "Scoprila da 29,90€ AL MESE"
+        }
+      }
+    ]
+  },
+  "fourthslider": {
+    "title": "<p>I vantaggi di essere Vodafone.</p>\r\n",
+    "slides": [
+      {
+        "description": "Il programma fedeltà che premia il tuo entusiasmo.",
+        "id": "12",
+        "image": "7.jpeg",
+        "title": "Vodafone Happy",
+        "action": {
+          "url": "https://www.google.it",
+          "type": "1"
+        }
+      },
+      {
+        "description": "Il programma fedeltà che premia il tuo entusiasmo.",
+        "id": "13",
+        "image": "8.jpeg",
+        "title": "Vodafone Club",
+        "action": {
+          "type": "1"
+        }
+      },
+      {
+        "description": "Protezione e privacy per navigare senza rischi.",
+        "id": "14",
+        "image": "9.jpeg",
+        "title": "Secure Net",
+        "action": {
+          "type": "1"
+        }
+      },
+      {
+        "description": "Comoda, intuitiva e facile da usare.",
+        "id": "15",
+        "image": "myVodafone.jpeg",
+        "title": "App My Vodafone",
+        "action": {
+          "type": "1"
+        }
+      }
+    ]
+  },
+  "fifthslider": {
+    "title": "<p>Prodotti imperdibili.</p>\r\n<p>Solo per te.</p>\r\n",
+    "slides": [
+      {
+        "description": "The power of magic",
+        "id": "21",
+        "image": "honorMagic.jpeg",
+        "title": "Honor Magic4 Pro 5G",
+        "action": {
+          "url": "https://www.google.it",
+          "type": "1"
+        }
+      },
+      {
+        "id": "22",
+        "image": "11.jpeg",
+        "title": "Smartphone",
+        "action": {
+          "type": "1"
+        }
+      },
+      {
+        "id": "23",
+        "image": "12.jpeg",
+        "title": "Tablet",
+        "action": {
+          "type": "1"
+        }
+      },
+      {
+        "id": "25",
+        "image": "smartwatch.jpeg",
+        "title": "Smartwach",
+        "action": {
+          "type": "1"
+        }
+      }
+    ]
+  },
+  "anchors": {
+    "title": "<p>Siamo qui per te. Un'<b>esperienza</b>, Vodafone su<b> misura</b>.</p>\r\n",
+    "anchors": [
+      {
+        "id": "1",
+        "url": "https://www.google.com",
+        "text": "<p>Online. <b>Subito</b>. Facilmente</p>\r\n",
+        "image": "ricarica.jpg",
+        "title": "Ricarica"
+      },
+      {
+        "id": "2",
+        "url": "https://www.google.com",
+        "text": "<p>Tante offerte esclusive per i clienti <b>Vodafone</b></p>\r\n",
+        "image": "fedelta.jpg",
+        "title": "Fedeltà"
+      },
+      {
+        "id": "3",
+        "text": "<p>Tante offerte esclusive per i clienti <b>Vodafone</b></p>\r\n",
+        "image": "fedelta.jpg",
+        "title": "Hello"
+      },
+      {
+        "id": "4",
+        "url": "https://www.google.com",
+        "text": "<p>Tante offerte esclusive per i clienti <b>Vodafone</b></p>\r\n",
+        "image": "fedelta.jpg",
+        "title": "Supporto"
+      }
+    ]
+  }
+}

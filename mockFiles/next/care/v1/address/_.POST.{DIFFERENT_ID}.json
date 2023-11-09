@@ -1,0 +1,19 @@
+{
+  "href": "/care/v1/address/271471246?salesChannel=selfService",
+  "id": "271471247",
+  "city": "MILANO",
+  "country": "IT",
+  "displayCountry": "Italy",
+  "postalCode": "20158",
+  "stateOrProvince": "MI",
+  "street": "VIA Sarpone",
+  "formattedAddress": "VIA Sarpone,29 VIA ANTONIO CARNEVALI,MILANO,null,20158,Italy",
+  "formattedAddress1": "29 VIA Sarpone",
+  "addressStatus": "unvalidated",
+  "externalId": "38000050923",
+  "streetNumber": "29",
+  "homeZone": "00114492",
+  "istatCode": "03015146",
+  "latitude": "45.503682868277586",
+  "longitude": "9.173020039629398"
+}

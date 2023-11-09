@@ -1,0 +1,48 @@
+{
+  "coveragetool": {
+    "addressInput": {
+      "description": "<p>Inserisci il tuo indirizzo così possiamo trovare l'<b>offerta migliore</b> disponibile per te.</p>\r\n",
+      "button": "VERIFICA INDIRIZZO",
+      "title": "Ciao!"
+    },
+    "manualInput": {
+      "description": "<p>Siamo spiacenti ma l'indirizzo inserito non è valido. Per favore, inserire manualmente l'indirizzo corretto.</p>\r\n",
+      "button": "AGGIORNA MANUALMENTE",
+      "title": "Ciao!"
+    },
+    "geolocalization": {
+      "description": "<p>Descrizione della <b>geolocalizzazione</b></p>\r\n",
+      "button": "VERIFICA INDIRIZZO",
+      "title": "Ciao!",
+      "alertError": "Localizzazione non disponibile. Assicurati di aver attivato la geolocalizzazione sul dispositivo e riprova."
+    },
+    "koCoverageTool": {
+      "description": "<p>Siamo spiacenti, ma <b>PLACEHOLDER</b> non è coperta dalla tecnologia che hai selezionato ...</p>\r\n",
+      "title": "La rete non è disponibile",
+      "buttonCallsYou": "TI CHIAMA VODAFONE",
+      "buttonEditAddress": "MODIFICA INDIRIZZO"
+    },
+    "koTechnicalModal": {
+      "subtitle": "Si è verificato un errore!",
+      "description": "Al moento le informazioni di questa sezione non sono disponibili.",
+      "button": "RIPROVA",
+      "title": "Osp!"
+    },
+    "confirmationMap": {
+      "buttonEdit": "MODIFICA INDIRIZZO",
+      "buttonSubmit": "CONFERMA INDIRIZZO"
+    },
+    "selectInput": {
+      "civicNumber": "Numero Civico",
+      "address": "Indirizzo",
+      "municipality": "Comune",
+      "province": "Provincia",
+      "cap": "CAP"
+    },
+    "errorMessage": {
+      "error0": "Campo obbligatorio.",
+      "error1": "Campo errato.",
+      "error2": "Tutti i campi sono obbligatori."
+    }
+  }
+}

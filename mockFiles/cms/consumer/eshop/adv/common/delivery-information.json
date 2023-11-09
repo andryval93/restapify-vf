@@ -1,0 +1,66 @@
+{
+  "deliveryinformation": {
+    "outdoor": {
+      "description": "Qui sotto trovi l'indirizzo che forniremo al tecnico ...",
+      "descriptionTechnology": "Qui trovi l'indirizzo che fornimero al tecnico",
+      "title": "I tuoi indirizzi"
+    },
+    "resume": {
+      "description": "Questo è l'indirizzo in cui dovrai installare il modem che riceverai.",
+      "title": "I tuoi indirizzi"
+    },
+    "addressCoverage": {
+      "description": "...",
+      "linkLabel": "Aggiungi note per la consegna",
+      "modalCtaLabel": "Salva note",
+      "title": "Indirizzo di installazione",
+      "linkLabelEdit": "Modifica note per la consegna",
+      "modalTextLabel": "Note per la consegna"
+    },
+    "addressDelivery": {
+      "description": "Non corrisponde?",
+      "linkLabel": "Cambia l'indirizzo di spedizione",
+      "bottomTitle": "Indirizzo di spedizione",
+      "title": "L'indirizzo di spedizione corrisponde all'indirizzo di installazione.",
+      "billingCta": "Modifica indirizzo"
+    },
+    "addressBilling": {
+      "description": "Non corrisponde?",
+      "linkLabel": "Cambia l'indirizzo di fatturazione",
+      "modalTitle": "Cambio indirizzo",
+      "modalButtonLabel": "SALVA INDIRIZZO",
+      "modalDescription": "Inserisci il nuovo indirizzo di fatturazione",
+      "bottomTitle": "Indirizzo di fatturazione",
+      "title": "L'indirizzo di fatturazione corrisponde all'indirizzo di installazione."
+    },
+    "addressChange": {
+      "subtitle": "Indirizzo di spedizione",
+      "description": "Dove vuoi ricevere il modem?",
+      "title": "Cambia indirizzo",
+      "options": [
+        {
+          "text": "Indica i dati di spedizione",
+          "title": "A casa"
+        },
+        {
+          "text": "Seleziona lo store più vicino a te",
+          "title": "Vodafone Store"
+        },
+        {
+          "text": "Seleziona l'ufficio più vicino a te",
+          "title": "Ufficio postale"
+        }
+      ]
+    },
+    "errorCards": {
+      "migrationCode": {
+        "title": "Ops!",
+        "message": "Il codice di migrazione inserito non è valido. \r\nInserisci un nuovo codice e riprova.\r\n"
+      },
+      "addressResponse": {
+        "title": "Ops!",
+        "message": "Si è verificato un errore durante il caricamento dell'indirizzo. \r\nRiprova a breve"
+      }
+    }
+  }
+}

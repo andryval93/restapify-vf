@@ -1,0 +1,116 @@
+{
+  "deliveryOrders": [
+    {
+      "code": "T",
+      "description": "Consegna il tecnico",
+      "deliveryItems": [
+        {
+          "itemId": "108524401_5056974",
+          "itemCid": "4215981",
+          "itemType": "ANT",
+          "itemName": "Antenna esterna",
+          "lineOfBusiness": "IN"
+        },
+        {
+          "itemId": "108524402_5056974",
+          "itemCid": "257045881",
+          "itemType": "EQP",
+          "itemName": "Vodafone Power Station",
+          "lineOfBusiness": "IN"
+        },
+        {
+          "itemId": "108524450_5056978",
+          "itemCid": "2787581",
+          "itemType": "STB",
+          "itemName": "Vodafone TV Box",
+          "lineOfBusiness": "IN"
+        }
+      ],
+      "recipientDetails": {
+        "recipientName": {
+          "formattedName": "VLADIMIROS;XBS PHYLACTOU"
+        },
+        "recipientAddress": {
+          "id": "268566443",
+          "street": "VIA DELLA SALITA",
+          "streetNumber": "19",
+          "city": "BOLOGNA",
+          "country": "IT",
+          "stateOrProvince": "BO",
+          "postalCode": "40138",
+          "formattedAddress1": "VIA DELLA SALITA 19"
+        },
+        "contactPhoneNumber": "3463834200",
+        "contactEmailAddress": "giorgos.filippou@amdocs.com"
+      },
+      "shippingDetails": {}
+    },
+    {
+      "code": "S",
+      "description": "Spedizione a casa",
+      "shippingOptions": [
+        {
+          "name": "ST",
+          "displayName": "Consegna standard",
+          "price": {
+            "currencyCode": "EUR",
+            "amount": 0
+          },
+          "isSelected": true
+        }
+      ],
+      "deliveryItems": [
+        {
+          "itemId": "108524434_5056976",
+          "itemCid": "621587",
+          "itemType": "SIM",
+          "itemName": "SIM",
+          "lineOfBusiness": "WS"
+        }
+      ],
+      "recipientDetails": {
+        "recipientName": {
+          "formattedName": "VLADIMIROS;XBS PHYLACTOU"
+        },
+        "recipientAddress": {
+          "id": "268574796",
+          "street": "VIA OSTENO",
+          "streetNumber": "6",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "postalCode": "20152",
+          "formattedAddress1": "6 VIA OSTENO"
+        },
+        "contactPhoneNumber": "3463834200",
+        "contactEmailAddress": "giorgos.filippou@amdocs.com"
+      },
+      "shippingDetails": {}
+    }
+  ],
+  "deliverySteps": [
+    {
+      "stepCode": "OV",
+      "checked": true,
+      "statusOK": true,
+      "message": {
+        "code": "OV",
+        "message": "Stiamo preparando i materiali previsti dalla tua pratica. Riceverai a breve la lettera di vettura per seguire la spedizione",
+        "shippingStatus": "OK"
+      }
+    },
+    {
+      "stepCode": "DP",
+      "checked": false
+    },
+    {
+      "stepCode": "ID",
+      "checked": false
+    },
+    {
+      "stepCode": "AC",
+      "checked": false
+    }
+  ],
+  "orderActionSpecificStageStatus": "HandleShipmentResponse"
+}

@@ -1,0 +1,2850 @@
+{
+  "href": "/commerce/v1/multiPlayOffering/3603483?salesChannel=selfService",
+  "rel": "self",
+  "id": "3603483",
+  "type": "multiPlayOffering",
+  "name": "IU_24_90_fibra_agosto",
+  "displayName": "Internet Unlimited",
+  "description": "New Element",
+  "isTopItem": false,
+  "isBundle": true,
+  "attachment": [
+    {
+      "type": "html",
+      "purpose": "legalInformation",
+      "url": "/content/dam/digitalexp/commerce/catalog/plans/internet-unlimited-fibra-2490-agosto-2021/plan-legal-it.html"
+    },
+    {
+      "type": "html",
+      "purpose": "benefits",
+      "url": "/content/dam/digitalexp/commerce/catalog/plans/internet-unlimited-fibra-2490-agosto-2021/plan-benefits-it.html"
+    },
+    {
+      "type": "html",
+      "purpose": "advantages",
+      "url": "/content/dam/digitalexp/commerce/catalog/plans/internet-unlimited-fibra-2490-agosto-2021/plan-advantages-it.html"
+    },
+    {
+      "type": "html",
+      "purpose": "duration",
+      "url": "/content/dam/digitalexp/commerce/catalog/plans/internet-unlimited-fibra-2490-agosto-2021/plan-contract-it.html"
+    },
+    {
+      "type": "html",
+      "purpose": "condition",
+      "url": "/content/dam/digitalexp/commerce/catalog/plans/internet-unlimited-fibra-2490-agosto-2021/plan-conditions-it.html"
+    },
+    {
+      "type": "html",
+      "purpose": "disclaimer",
+      "url": "/content/dam/digitalexp/commerce/catalog/plans/internet-unlimited-fibra-2490-agosto-2021/plan-disclaimer-it.html"
+    },
+    {
+      "type": "html",
+      "purpose": "advantagesDetails",
+      "url": "/content/dam/digitalexp/commerce/catalog/plans/internet-unlimited-fibra-2490-agosto-2021/plan-advantages-details.html"
+    },
+    {
+      "type": "html",
+      "purpose": "heroBanner",
+      "url": "/content/dam/digitalexp/commerce/catalog/plans/internet-unlimited-fibra-2490-agosto-2021/plan-hero-ben-conf-it.html"
+    },
+    {
+      "type": "html",
+      "purpose": "marketing",
+      "url": "/content/dam/digitalexp/commerce/catalog/plans/internet-unlimited-fibra-2490-agosto-2021/footer-box-seo-it.html"
+    },
+    {
+      "url": "/content/dam/digitalexp/commerce/catalog/plans/internet-unlimited-fibra-2490-agosto-2021/plan-banner-seo-it.html"
+    },
+    {
+      "type": "html",
+      "purpose": "cartUpDetails",
+      "url": "/content/dam/digitalexp/commerce/catalog/plans/internet-unlimited-fibra-2490-agosto-2021/cart-topview-it.html"
+    },
+    {
+      "type": "html",
+      "purpose": "cartBtmDetails",
+      "url": "/content/dam/digitalexp/commerce/catalog/plans/internet-unlimited-fibra-2490-agosto-2021/cart-bottomview-it.html"
+    },
+    {
+      "type": "html",
+      "purpose": "cartMidDetails",
+      "url": "/content/dam/digitalexp/commerce/catalog/plans/internet-unlimited-fibra-2490-agosto-2021/cart-midview-it.html"
+    }
+  ],
+  "offeringPrice": [
+    {
+      "type": "recurring",
+      "recurringChargePeriod": "month",
+      "price": {
+        "currencyCode": "EUR",
+        "taxRate": 0,
+        "taxIncludedAmount": 14.9,
+        "amount": 14.9,
+        "taxAmount": 0
+      },
+      "priceOption": {
+        "type": "mobilePlanPriceOption",
+        "minPrice": {
+          "type": "mobilePlanPriceOptionItem",
+          "condition": [
+            {
+              "name": "Access type",
+              "value": "ULL",
+              "code": "RLC_Access type",
+              "id": "737554239"
+            },
+            {
+              "name": "Convergent group type ID",
+              "value": "NA",
+              "code": "RLC_Convergent group type ID",
+              "id": "737554249"
+            }
+          ],
+          "price": {
+            "currencyCode": "EUR",
+            "taxRate": 0,
+            "taxIncludedAmount": 14.9,
+            "amount": 14.9,
+            "taxAmount": 0
+          }
+        },
+        "maxPrice": {
+          "type": "mobilePlanPriceOptionItem",
+          "condition": [
+            {
+              "name": "Convergent group type ID",
+              "value": "92",
+              "code": "RLC_Convergent group type ID",
+              "id": "737554249"
+            },
+            {
+              "name": "Access type",
+              "value": "NGA",
+              "code": "RLC_Access type",
+              "id": "737554239"
+            }
+          ],
+          "price": {
+            "currencyCode": "EUR",
+            "taxRate": 0,
+            "taxIncludedAmount": 14.9,
+            "amount": 14.9,
+            "taxAmount": 0
+          }
+        },
+        "priceOptionItem": [
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "ULL",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "NA",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "NA",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Outdoor_5G",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "FWA_Outdoor_5G",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "36",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "37",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Outdoor_5G",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "38",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Outdoor_5G",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "39",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Outdoor_5G",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "FWA_Outdoor_5G",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "49",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "FWA_Outdoor_5G",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "52",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "70",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Outdoor_5G",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "82",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Outdoor_5G",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "92",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Outdoor_5G",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "FWA_Indoor_5G",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "NA",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "FWA_Indoor_5G",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "36",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "37",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Indoor_5G",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "38",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Indoor_5G",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "39",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Indoor_5G",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "49",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Indoor_5G",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "FWA_Indoor_5G",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "52",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "70",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Indoor_5G",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "82",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Indoor_5G",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "FWA_Indoor_5G",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "92",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "NA",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Outdoor",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "36",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Outdoor",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "FWA_Outdoor",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "37",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "38",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Outdoor",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "39",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Outdoor",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "49",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Outdoor",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "52",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Outdoor",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "70",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Outdoor",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "82",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Outdoor",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "FWA_Outdoor",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "92",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "NA",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Indoor",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "36",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Indoor",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "37",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Indoor",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "38",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Indoor",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "39",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Indoor",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "49",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Indoor",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "52",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Indoor",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "70",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FWA_Indoor",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "FWA_Indoor",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "82",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "FWA_Indoor",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "92",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "NA",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "NA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "36",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "NA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "NA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "37",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "38",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "NA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "39",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "NA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "49",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "NA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "NA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "52",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "70",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "NA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "82",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "NA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "NA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "92",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "VULA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "NA",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "VULA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "36",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "37",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "VULA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "38",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "VULA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "VULA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "39",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "49",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "VULA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "52",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "VULA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "70",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "VULA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "82",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "VULA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "92",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "VULA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "36",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "ULL",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "37",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "ULL",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "38",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "ULL",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "ULL",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "39",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "ULL",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "49",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "52",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "ULL",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "70",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "ULL",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "82",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "ULL",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "92",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "ULL",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "MAKE",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "NA",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "MAKE",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "36",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "MAKE",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "37",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "38",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "MAKE",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "39",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "MAKE",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "MAKE",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "49",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "52",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "MAKE",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "MAKE",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "70",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "MAKE",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "82",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "92",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "MAKE",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "NA",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FTTH",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "FTTH",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "36",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "FTTH",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "37",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "FTTH",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "38",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "39",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FTTH",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "49",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FTTH",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "FTTH",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "52",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "70",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FTTH",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "FTTH",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "82",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "92",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "FTTH",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "NA",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "BS",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "BS",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "36",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "37",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "BS",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "38",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "BS",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "BS",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "39",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "49",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "BS",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "BS",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "52",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "70",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "BS",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "82",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "BS",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "BS",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "92",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "NA",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "NGA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "NGA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "36",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "37",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "NGA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "NGA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "38",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "NGA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "39",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "49",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "NGA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Access type",
+                "value": "NGA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              },
+              {
+                "name": "Convergent group type ID",
+                "value": "52",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "70",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "NGA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "82",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "NGA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "mobilePlanPriceOptionItem",
+            "condition": [
+              {
+                "name": "Convergent group type ID",
+                "value": "92",
+                "code": "RLC_Convergent group type ID",
+                "id": "737554249"
+              },
+              {
+                "name": "Access type",
+                "value": "NGA",
+                "code": "RLC_Access type",
+                "id": "737554239"
+              }
+            ],
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 14.9,
+              "amount": 14.9,
+              "taxAmount": 0
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "poType": "DualPlay",
+  "isDriveToStore": true,
+  "internet": [
+    {
+      "href": "/commerce/v1/internetOffering/3603483_3603583_3602883?salesChannel=selfService",
+      "rel": "self",
+      "id": "3603483_3603583_3602883",
+      "type": "internetOffering",
+      "name": "Internet",
+      "displayName": "Internet",
+      "description": "Internet Product",
+      "offeringPrice": [
+        {
+          "type": "recurring",
+          "recurringChargePeriod": "month",
+          "price": {
+            "currencyCode": "EUR",
+            "taxRate": 0,
+            "taxIncludedAmount": 14.9,
+            "amount": 14.9,
+            "taxAmount": 0
+          }
+        }
+      ],
+      "plan": {
+        "id": "3602883",
+        "type": "internetPlanOffering",
+        "name": "Internet Unlimited Fibra 24,90 Agosto 2021 BO"
+      },
+      "minCardinality": 1,
+      "maxCardinality": 1,
+      "defaultCardinality": 1
+    }
+  ],
+  "fixedVoice": [
+    {
+      "href": "/commerce/v1/fixedVoiceOffering/3603483_3610283_3235398?salesChannel=selfService",
+      "rel": "self",
+      "id": "3603483_3610283_3235398",
+      "type": "fixedVoiceOffering",
+      "name": "Fixed_Voice",
+      "displayName": "Fixed Voice",
+      "description": "The Fixed Voice service enables users to make calls using landline voice services",
+      "plan": {
+        "id": "3235398",
+        "type": "fixedVoicePlanOffering",
+        "name": "Internet Unlimited Giugno 2021 LINK PBX"
+      },
+      "minCardinality": 1,
+      "maxCardinality": 1,
+      "defaultCardinality": 1
+    }
+  ],
+  "bundleEnrichedAttributes": {
+    "sortingRank": 5,
+    "notSellable": false,
+    "bundleBolo": "PROMO 24,90 SOLO ONLINE",
+    "bundleID": "3603483",
+    "enableC2C": false,
+    "showStrikedThroughValue": false,
+    "hideBuyNow": false,
+    "hideCallVodafone": false,
+    "hideMoreDetails": false,
+    "showAddonPopup": false,
+    "bestOffer": false,
+    "callToActionHelperText": "Cosa stai aspettando?",
+    "callToActionHelperTextExtra": "Approfitta ora della promo fino al XX/XX"
+  }
+}

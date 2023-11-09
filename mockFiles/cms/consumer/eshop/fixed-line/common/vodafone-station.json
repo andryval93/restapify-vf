@@ -1,0 +1,44 @@
+{
+  "technology": {
+    "id": "5",
+    "detail": {
+      "subtitle": "Vodafone Station",
+      "title": "Vodafone Station",
+      "description": {
+        "textHtml": "<p>Il cliente riceverà la Vodafone Station a titolo gratuito in sconto merce a condizione che l’offerta rimanga attiva per almeno 24 mesi. In caso di recesso anticipato prima dei 24 mesi sarà tenuto alla restituzione della Vodafone Station. In caso di mancata restituzione della Station entro 30 giorni dalla disattivazione della linea, Vodafone procederà ad addebitare un importo commisurato al valore del bene pari a:<br>\r\n<br>\r\n</p>\r\n<ul>\r\n<li>Euro 70 qualora il recesso sia esercitato nei 12 mesi ...</li>\r\n<li>Euro 50 qualora il recesso sia esercitato dal tredicesimo ...</li>\r\n</ul>\r\n<p>Le modalità di restituzione della Vodafone Station sono disponibili su vodafone.it</p>\r\n"
+      }
+    },
+    "card": {
+      "buttonLabel": "VISUALIZZA DETTAGLI",
+      "description": "<p>Da oggi la tua connessione ha un nuovo alleato: la Vodafone Wi-Fi 6 Station con Wi-Fi Optimizer. Scopri il Wi-Fi Vodafone piú veloce e stabile di sempre con 8 antenne e pieno controllo dal tuo smartphone. Connetti fino a 120 smartphone, tablet e dispositivi contemporaneamente con la migliore stabilità di connessione.</p>\r\n",
+      "image": "vodafoneStation.jpg",
+      "title": "Vodafone Station",
+      "specs": [
+        {
+          "icon": "icon-download.jpg",
+          "text": "Download"
+        },
+        {
+          "icon": "icon-upload.jpg",
+          "text": "Upload"
+        },
+        {
+          "icon": "icon-delay.jpg",
+          "text": "Latenza"
+        }
+      ]
+    },
+    "nextStepsCard": {
+      "nextSteps": [
+        {
+          "description": "<p><b>Prendi appuntamento</b> con noi</p>\r\n",
+          "detailLinkLabel": "Maggiori dettagli",
+          "modal": {
+            "description": "<p>Descrizione <b>maggiori </b>dettagli</p>\r\n",
+            "title": "Titolo maggiori dettagli"
+          }
+        }
+      ]
+    }
+  }
+}

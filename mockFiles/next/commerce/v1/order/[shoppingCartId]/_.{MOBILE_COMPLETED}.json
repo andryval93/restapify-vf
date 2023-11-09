@@ -1,0 +1,1329 @@
+{
+  "href": "/commerce/v1/order/5064746A?salesChannel=selfService",
+  "rel": "self",
+  "id": "5064746A",
+  "state": "completed",
+  "orderDate": "2023-10-23T09:36:13Z",
+  "completionDate": "2023-10-23T09:44:48Z",
+  "requestedCompletionDate": "2023-10-23T21:59:59Z",
+  "isLocked": false,
+  "originalChannel": "selfService",
+  "currentChannel": "selfService",
+  "customer": {
+    "href": "/care/v1/customer/100088680?salesChannel=selfService",
+    "rel": "enclosure",
+    "id": "100088680"
+  },
+  "orderTotalPrice": [
+    {
+      "type": "oneTime",
+      "price": {
+        "currencyCode": "EUR",
+        "taxIncludedAmount": 0,
+        "amount": 0
+      }
+    },
+    {
+      "recurringChargePeriod": "month",
+      "type": "recurring",
+      "price": {
+        "currencyCode": "EUR",
+        "taxIncludedAmount": 39.99,
+        "amount": 32.78,
+        "taxAmount": 7.21
+      }
+    },
+    {
+      "type": "oneTime",
+      "price": {
+        "currencyCode": "EUR",
+        "taxIncludedAmount": 0,
+        "amount": 0
+      },
+      "isNonImmediateOC": true
+    },
+    {
+      "type": "oneTime",
+      "price": {
+        "currencyCode": "EUR",
+        "taxIncludedAmount": 0,
+        "amount": 0
+      },
+      "isOnInvoiceOC": true
+    },
+    {
+      "type": "oneTime",
+      "price": {
+        "currencyCode": "EUR",
+        "taxRate": 0,
+        "taxIncludedAmount": 0,
+        "amount": 0
+      },
+      "isTotalPriceOC": true
+    },
+    {
+      "type": "oneTime",
+      "price": {
+        "currencyCode": "EUR",
+        "taxIncludedAmount": 0,
+        "amount": 0
+      },
+      "isNonAdditionalChargesOC": true
+    }
+  ],
+  "orderItem": [
+    {
+      "type": "mobileOrderItem",
+      "id": "5064747A",
+      "action": "add",
+      "state": "completed",
+      "quantity": 1,
+      "orderItemPrice": [
+        {
+          "name": "Costo Trasferimento Credito Residuo MNP Out R07",
+          "type": "oneTime",
+          "displayName": "Costo Trasferimento Credito Residuo MNP Out R07",
+          "description": "Costo Trasferimento Credito Residuo MNP Out",
+          "price": {
+            "currencyCode": "EUR",
+            "taxIncludedAmount": 0,
+            "amount": 0,
+            "taxAmount": 0
+          },
+          "isNonImmediateOC": true
+        },
+        {
+          "recurringChargePeriod": "month",
+          "name": "Costo Trasferimento Credito Residuo MNP Out R07",
+          "type": "recurring",
+          "displayName": "Costo Trasferimento Credito Residuo MNP Out R07",
+          "description": "Costo Trasferimento Credito Residuo MNP Out",
+          "price": {
+            "currencyCode": "EUR",
+            "taxIncludedAmount": 0,
+            "amount": 0,
+            "taxAmount": 0
+          }
+        },
+        {
+          "name": "Smart Passport + New R07",
+          "type": "oneTime",
+          "displayName": "Smart Passport + New R07",
+          "description": "A 3 euro al giorno solo in caso di utilizzo 60 minuti (30 minuti in entrata e 30 in uscita), 60 SMS e 200MB, in Svizzera, Turchia, Albania, Principato di Monaco. 500 MB in USA e Canada. Servizio incluso nell'offerta e non gestibile.",
+          "price": {
+            "currencyCode": "EUR",
+            "taxIncludedAmount": 0,
+            "amount": 0,
+            "taxAmount": 0
+          },
+          "isNonImmediateOC": true
+        },
+        {
+          "recurringChargePeriod": "month",
+          "name": "Smart Passport + New R07",
+          "type": "recurring",
+          "displayName": "Smart Passport + New R07",
+          "description": "A 3 euro al giorno solo in caso di utilizzo 60 minuti (30 minuti in entrata e 30 in uscita), 60 SMS e 200MB, in Svizzera, Turchia, Albania, Principato di Monaco. 500 MB in USA e Canada. Servizio incluso nell'offerta e non gestibile.",
+          "price": {
+            "currencyCode": "EUR",
+            "taxIncludedAmount": 0,
+            "amount": 0,
+            "taxAmount": 0
+          }
+        },
+        {
+          "name": "PPU Vodafone 25 New R07",
+          "type": "oneTime",
+          "displayName": "PPU Vodafone 25 New R07",
+          "description": "Chiamate: 25 cent/min + 20 cent alla risposta. SMS: 29 cent Internet: 6 euro per 5GB, poi 2 euro ogni 100MB",
+          "price": {
+            "currencyCode": "EUR",
+            "taxIncludedAmount": 0,
+            "amount": 0,
+            "taxAmount": 0
+          },
+          "isNonImmediateOC": true
+        },
+        {
+          "recurringChargePeriod": "month",
+          "name": "PPU Vodafone 25 New R07",
+          "type": "recurring",
+          "displayName": "PPU Vodafone 25 New R07",
+          "description": "Chiamate: 25 cent/min + 20 cent alla risposta. SMS: 29 cent Internet: 6 euro per 5GB, poi 2 euro ogni 100MB",
+          "price": {
+            "currencyCode": "EUR",
+            "taxIncludedAmount": 0,
+            "amount": 0,
+            "taxAmount": 0
+          }
+        },
+        {
+          "name": "CallRecall New R07",
+          "type": "oneTime",
+          "displayName": "CallRecall New R07",
+          "description": "Ricevi un SMS di avviso quando il numero che hai chiamato torna raggiungibile. Servizio incluso nell'offerta e non gestibile.",
+          "price": {
+            "currencyCode": "EUR",
+            "taxIncludedAmount": 0,
+            "amount": 0,
+            "taxAmount": 0
+          },
+          "isNonImmediateOC": true
+        },
+        {
+          "recurringChargePeriod": "month",
+          "name": "CallRecall New R07",
+          "type": "recurring",
+          "displayName": "CallRecall New R07",
+          "description": "Ricevi un SMS di avviso quando il numero che hai chiamato torna raggiungibile. Servizio incluso nell'offerta e non gestibile.",
+          "price": {
+            "currencyCode": "EUR",
+            "taxIncludedAmount": 0,
+            "amount": 0,
+            "taxAmount": 0
+          }
+        }
+      ],
+      "orderItemTotalPrice": [
+        {
+          "type": "oneTime",
+          "price": {
+            "currencyCode": "EUR",
+            "taxIncludedAmount": 0,
+            "amount": 0,
+            "taxAmount": 0
+          },
+          "isNonImmediateOC": true
+        },
+        {
+          "recurringChargePeriod": "month",
+          "type": "recurring",
+          "price": {
+            "currencyCode": "EUR",
+            "taxIncludedAmount": 39.99,
+            "amount": 32.78,
+            "taxAmount": 7.21
+          }
+        },
+        {
+          "type": "oneTime",
+          "price": {
+            "currencyCode": "EUR",
+            "taxIncludedAmount": 0,
+            "amount": 0
+          },
+          "isNonImmediateOC": false
+        }
+      ],
+      "offering": {
+        "href": "/commerce/v1/mobileOffering/2318187?salesChannel=selfService",
+        "id": "2318187",
+        "type": "mobileOffering",
+        "displayName": "Infinito Black Edition R07",
+        "description": "Ottimo per scaricare documenti velocemente e guardare video in ultra HD."
+      },
+      "product": {
+        "id": "108560035",
+        "name": "Mobile Main R07",
+        "type": "mobileProduct",
+        "productCharacteristic": [
+          {
+            "name": "AddedWithConsent_R07",
+            "displayName": "Added With Consent R07",
+            "value": "No",
+            "displayValue": "No"
+          },
+          {
+            "name": "Availed_Discount_Offers_Next_R1",
+            "displayName": "Availed Discount Offers R1"
+          },
+          {
+            "name": "COSP_Next_R07",
+            "displayName": "COSP R07",
+            "value": "111",
+            "displayValue": "111"
+          },
+          {
+            "name": "Call_Cost_Notificatoin_Next_R07",
+            "displayName": "Call Cost Notification Ind R07",
+            "value": "0",
+            "displayValue": "0"
+          },
+          {
+            "name": "Campaign_Correlation_Key_Next_R1",
+            "displayName": "Campaign Correlation Key R1"
+          },
+          {
+            "name": "Change_MSISDN_Counter_Next_R07",
+            "displayName": "Change MSISDN Counter R07",
+            "value": "0",
+            "displayValue": "0"
+          },
+          {
+            "name": "Customer_Sub_Type_Next_R07",
+            "displayName": "Customer Sub Type R07",
+            "value": "P",
+            "displayValue": "P"
+          },
+          {
+            "name": "Customer_Type_Next_R07",
+            "displayName": "Customer Type R07",
+            "value": "P",
+            "displayValue": "P"
+          },
+          {
+            "name": "Cut_Over_Date_Next_R07",
+            "displayName": "Cut Over Date R07"
+          },
+          {
+            "name": "Dealer_Id_Next_R07",
+            "displayName": "Dealer Id R07"
+          },
+          {
+            "name": "Deposit_Amount_Next_R07",
+            "displayName": "Deposit Amount R07"
+          },
+          {
+            "name": "Deposit_number_of_months_or_installments_Next_R07",
+            "displayName": "Deposit number of months or installments"
+          },
+          {
+            "name": "Deposit_release_Policy_Next_R07",
+            "displayName": "Deposit release Policy R07"
+          },
+          {
+            "name": "Double_Allowance_Value_Next_R07",
+            "displayName": "Double Allowance Value R07",
+            "value": "4294967296000_60000000_1000000",
+            "displayValue": "4294967296000_60000000_1000000"
+          },
+          {
+            "name": "Double_GB_Qualification_R07",
+            "displayName": "Double GB Qualification R07"
+          },
+          {
+            "name": "Former_Debt_Amount_Next_R07",
+            "displayName": "Former Debt Amount R07"
+          },
+          {
+            "name": "Guardian_MSISDN_Next_R1",
+            "displayName": "Guardian MSISDN R1"
+          },
+          {
+            "name": "Hard_Hotline_Indicator_Next_R07",
+            "displayName": "Hard Hotline Indicator R07",
+            "value": "0",
+            "displayValue": "0"
+          },
+          {
+            "name": "Installment_Policy_for_Disconnection_Next_R1",
+            "displayName": "Installment Policy for Disconnection",
+            "value": "No acceleration",
+            "displayValue": "No acceleration"
+          },
+          {
+            "name": "Is_Global_Next_R07",
+            "displayName": "Is Global R07",
+            "value": "No",
+            "displayValue": "No"
+          },
+          {
+            "name": "Is_Recurring_TopUp_Automatically_Included_Next_R07",
+            "displayName": "Is Recurring TopUp Automatically Included R07",
+            "value": "Yes",
+            "displayValue": "Yes"
+          },
+          {
+            "name": "Is_Temporary_Number_Requested",
+            "displayName": "Is Temporary Number Requested",
+            "value": "N",
+            "displayValue": "N"
+          },
+          {
+            "name": "Last_Top_Up_Date_Next_R07",
+            "displayName": "Last Top Up Date R07"
+          },
+          {
+            "name": "Last_Top_Up_Transaction_ID_Next_R07",
+            "displayName": "Last Top Up Transaction ID R07"
+          },
+          {
+            "name": "Legacy_IFRS_Contract_End_Date_Next_R1",
+            "displayName": "Legacy IFRS Contract End Date R1"
+          },
+          {
+            "name": "MSISDN",
+            "displayName": "MSISDN",
+            "value": "393495225112",
+            "displayValue": "393495225112"
+          },
+          {
+            "name": "Migration_Date_Next_R07",
+            "displayName": "Migration Date R07"
+          },
+          {
+            "name": "Migration_MSISDN_ID_Next_R07",
+            "displayName": "Migration MSISDN_ID R07",
+            "value": "452319",
+            "displayValue": "452319"
+          },
+          {
+            "name": "Migration_SIM_ID_Next_R07",
+            "displayName": "Migration SIM_ID R07",
+            "value": "485479",
+            "displayValue": "485479"
+          },
+          {
+            "name": "Nomadism_Restriction_Policy_Ind_Next_R1",
+            "displayName": "Nomadism Restriction Policy Ind R1",
+            "value": "N",
+            "displayValue": "N"
+          },
+          {
+            "name": "Number_of_Added_BO_Next_R07",
+            "displayName": "Number of Added BO R07"
+          },
+          {
+            "name": "Number_of_Removed_BO_Next_R07",
+            "displayName": "Number of Removed BO R07"
+          },
+          {
+            "name": "Offer_With_End_Date_Next_R1",
+            "displayName": "Offer With End Date R1"
+          },
+          {
+            "name": "Old_PPU_Addon_Eligible_R07",
+            "displayName": "Old PPU Addon Eligible R07",
+            "value": "No",
+            "displayValue": "No"
+          },
+          {
+            "name": "Payment_Method_Deposit_Amount_Next_R1",
+            "displayName": "Payment Method Deposit Amount R1"
+          },
+          {
+            "name": "Plan_Rank_Next_R07",
+            "displayName": "Plan Rank R07"
+          },
+          {
+            "name": "Port_In_Next_R07",
+            "displayName": "Port In Ind R07",
+            "value": "0",
+            "displayValue": "0"
+          },
+          {
+            "name": "Port_Out_Commitment_End_Date_Next_R07",
+            "displayName": "Port Out Commitment End Date R07",
+            "value": "22/10/2024 23:59:59",
+            "displayValue": "22/10/2024 23:59:59"
+          },
+          {
+            "name": "Port_Out_Date_Next_R07",
+            "displayName": "Port Out Date R07"
+          },
+          {
+            "name": "Port_Out_Duration_Next_R07",
+            "displayName": "Port Out Duration R07",
+            "value": "12",
+            "displayValue": "12"
+          },
+          {
+            "name": "Port_Out_Ind_Next_R07",
+            "displayName": "Port Out Ind R07",
+            "value": "0",
+            "displayValue": "0"
+          },
+          {
+            "name": "Port_Out_Provider_Next_R07",
+            "displayName": "Port Out Provider R07"
+          },
+          {
+            "name": "Present_Associated_PPU_Next_R07",
+            "displayName": "Present Associated PPU R07",
+            "value": "257692695",
+            "displayValue": "257692695"
+          },
+          {
+            "name": "Previous_Associated_PPU_Next_R07",
+            "displayName": "Previous Associated PPU R07",
+            "value": "257692695",
+            "displayValue": "257692695"
+          },
+          {
+            "name": "Previous_Plan_Rank_Next_R07",
+            "displayName": "Previous Plan Rank R07"
+          },
+          {
+            "name": "Product_Type_Next_R07",
+            "displayName": "Product Type R07",
+            "value": "Mobile",
+            "displayValue": "Mobile"
+          },
+          {
+            "name": "RDI_Next_07",
+            "displayName": "RDI R07",
+            "value": "N",
+            "displayValue": "N"
+          },
+          {
+            "name": "Real_User_Migration_On_Legacy_Date_Next_R1",
+            "displayName": "Real User Migration on legacy Date R1"
+          },
+          {
+            "name": "Real_User_Migration_On_Legacy_Next_R1",
+            "displayName": "Real User Migration on legacy R1",
+            "value": "N",
+            "displayValue": "N"
+          },
+          {
+            "name": "Remorse_Period_End_Date_Next_R07",
+            "displayName": "Remorse Period End Date R07"
+          },
+          {
+            "name": "Remorse_Period_Start_Date_Next_R07",
+            "displayName": "Remorse Period Start Date R07"
+          },
+          {
+            "name": "RemovedWithConsent_R07",
+            "displayName": "Removed With Consent R07",
+            "value": "No",
+            "displayValue": "No"
+          },
+          {
+            "name": "Roaming_Profile_Next_R07",
+            "displayName": "Roaming Profile R07",
+            "value": "4",
+            "displayValue": "4"
+          },
+          {
+            "name": "SAM_Profile_Next_R07",
+            "displayName": "SAM Profile R07",
+            "value": "3",
+            "displayValue": "3"
+          },
+          {
+            "name": "SMS_Notification_Allowed_Next_R07",
+            "displayName": "SMS Notification Allowed R07",
+            "value": "1",
+            "displayValue": "1"
+          },
+          {
+            "name": "Service_Deposit_Amount_Next_R1",
+            "displayName": "Service Deposit Amount R1"
+          },
+          {
+            "name": "TemporaryVoiceLineMSISDN",
+            "displayName": "Temporary MSISDN R07"
+          },
+          {
+            "name": "Try_and_Buy_Promotions_Next_R07",
+            "displayName": "Try and Buy Promotions R07"
+          },
+          {
+            "name": "User_Type_Next_R07",
+            "displayName": "User Type R07",
+            "value": "PRE",
+            "displayValue": "PRE"
+          },
+          {
+            "name": "Valid_End_Date_Next_R07",
+            "displayName": "Valid End Date R07"
+          },
+          {
+            "name": "Valid_Start_Date_Next_R07",
+            "displayName": "Valid Start Date R07"
+          },
+          {
+            "name": "Voice_Data_Ind_Next_R07",
+            "displayName": "Voice-Data Ind R07",
+            "value": "Voice",
+            "displayValue": "Voice"
+          }
+        ],
+        "bucketBalance": {
+          "href": "/care/v1/bucketBalance/666726069?salesChannel=selfService",
+          "id": "666726069"
+        },
+        "productIndividual": {
+          "id": "23102354493",
+          "firstName": "NELIFEAUTO",
+          "lastName": "PUJASOZCR"
+        }
+      },
+      "requestedStartDate": "1970-01-01",
+      "reason": {},
+      "isWithdrawAmendAllowed": false,
+      "contactId": "23102354493",
+      "portInError": false,
+      "orderActionId": "5064747",
+      "isAmendAllowedIndicator": false,
+      "isAmend": false,
+      "amendOrderActionId": "5064747",
+      "addOn": [
+        {
+          "type": "mobileAddOnOrderItem",
+          "action": "add",
+          "state": "completed",
+          "orderItemPrice": [
+            {
+              "type": "oneTime",
+              "price": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 0,
+                "amount": 0,
+                "taxAmount": 0
+              },
+              "additionalDescription": "Con Vodafone Club tutta la potenza del 5G e 10GB inclusi",
+              "isNonImmediateOC": true
+            },
+            {
+              "id": "108560087",
+              "recurringChargePeriod": "month",
+              "type": "recurring",
+              "price": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 0,
+                "amount": 0,
+                "taxAmount": 0
+              },
+              "allowedOverrideType": "none",
+              "additionalDescription": "Con Vodafone Club tutta la potenza del 5G e 10GB inclusi",
+              "isNonImmediateOC": true
+            }
+          ],
+          "offering": {
+            "id": "BO:5472483_5472483_627187",
+            "name": "Vodafone Club Giga R07"
+          },
+          "product": {
+            "id": "BO:108560087_5472483_108560043",
+            "name": "Vodafone Club Giga R07",
+            "type": "mobileAddonProduct"
+          }
+        },
+        {
+          "type": "mobileAddOnOrderItem",
+          "action": "add",
+          "state": "completed",
+          "orderItemPrice": [
+            {
+              "type": "oneTime",
+              "price": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 0,
+                "amount": 0,
+                "taxAmount": 0
+              },
+              "isNonImmediateOC": true
+            },
+            {
+              "id": "108560088",
+              "recurringChargePeriod": "month",
+              "type": "recurring",
+              "price": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 0,
+                "amount": 0,
+                "taxAmount": 0
+              },
+              "allowedOverrideType": "override",
+              "isNonImmediateOC": true
+            }
+          ],
+          "offering": {
+            "id": "BO:4761183_4761183_627187",
+            "name": "5G Priority Access R07"
+          },
+          "product": {
+            "id": "BO:108560088_4761183_108560043",
+            "name": "5G Priority Access R07",
+            "type": "mobileAddonProduct"
+          }
+        },
+        {
+          "type": "mobileAddOnOrderItem",
+          "action": "add",
+          "state": "completed",
+          "orderItemPrice": [
+            {
+              "type": "oneTime",
+              "price": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 0,
+                "amount": 0,
+                "taxAmount": 0
+              },
+              "showTextInsteadRate": "Incluso",
+              "additionalDescription": "Ogni mese approfitta di un pacchetto di offerte imperdibili",
+              "isNonImmediateOC": true
+            },
+            {
+              "id": "108560089",
+              "recurringChargePeriod": "biannual",
+              "type": "recurring",
+              "price": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 0,
+                "amount": 0,
+                "taxAmount": 0
+              },
+              "allowedOverrideType": "override",
+              "showTextInsteadRate": "Incluso",
+              "additionalDescription": "Ogni mese approfitta di un pacchetto di offerte imperdibili",
+              "isNonImmediateOC": true
+            }
+          ],
+          "offering": {
+            "id": "BO:5677683_5677683_627187",
+            "name": "Vodafone Club + incluso R07"
+          },
+          "product": {
+            "id": "BO:108560089_5677683_108560043",
+            "name": "Vodafone Club + incluso R07",
+            "type": "mobileAddonProduct"
+          },
+          "showTextInsteadRate": "Incluso"
+        },
+        {
+          "type": "mobileAddOnOrderItem",
+          "action": "add",
+          "state": "completed",
+          "orderItemPrice": [
+            {
+              "id": "108560070",
+              "type": "oneTime",
+              "price": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 0,
+                "amount": 0,
+                "taxAmount": 0
+              },
+              "allowedOverrideType": "override",
+              "showTextInsteadRate": "Incluso",
+              "additionalDescription": "Proteggi i tuoi dati personali e la navigazione web: Anti-malware, pagamenti sicuri, privacy tutelata gratis per 1 mese.",
+              "isNonImmediateOC": true
+            },
+            {
+              "recurringChargePeriod": "month",
+              "type": "recurring",
+              "price": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 0,
+                "amount": 0,
+                "taxAmount": 0
+              },
+              "showTextInsteadRate": "Incluso",
+              "additionalDescription": "Proteggi i tuoi dati personali e la navigazione web: Anti-malware, pagamenti sicuri, privacy tutelata gratis per 1 mese.",
+              "isNonImmediateOC": true
+            }
+          ],
+          "offering": {
+            "id": "BO:7049883_7049883_630087",
+            "name": "Rete Sicura 2.0 gratis 1 mese WEB GA R07"
+          },
+          "product": {
+            "id": "BO:108560070_7049883_108560069",
+            "name": "Rete Sicura 2.0 gratis 1 mese WEB GA R07",
+            "type": "mobileAddonProduct"
+          },
+          "showTextInsteadRate": "Incluso"
+        },
+        {
+          "type": "mobileAddOnOrderItem",
+          "action": "add",
+          "state": "completed",
+          "orderItemPrice": [
+            {
+              "type": "oneTime",
+              "price": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 0,
+                "amount": 0,
+                "taxAmount": 0
+              },
+              "additionalDescription": "Per essere aggiornato sul tuo traffico dati all'estero",
+              "isNonImmediateOC": true
+            },
+            {
+              "id": "108560076",
+              "recurringChargePeriod": "month",
+              "type": "recurring",
+              "price": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 0,
+                "amount": 0,
+                "taxAmount": 0
+              },
+              "allowedOverrideType": "none",
+              "additionalDescription": "Per essere aggiornato sul tuo traffico dati all'estero",
+              "isNonImmediateOC": true
+            }
+          ],
+          "offering": {
+            "id": "BO:1317887_1317887_1837387",
+            "name": "Avviso Internet Estero R07"
+          },
+          "product": {
+            "id": "BO:108560076_1317887_108560075",
+            "name": "Avviso Internet Estero R07",
+            "type": "mobileAddonProduct"
+          }
+        },
+        {
+          "type": "mobileAddOnOrderItem",
+          "action": "add",
+          "state": "completed",
+          "orderItemPrice": [
+            {
+              "type": "oneTime",
+              "price": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 0,
+                "amount": 0,
+                "taxAmount": 0
+              },
+              "isNonImmediateOC": true
+            },
+            {
+              "recurringChargePeriod": "month",
+              "type": "recurring",
+              "price": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 0,
+                "amount": 0,
+                "taxAmount": 0
+              },
+              "isNonImmediateOC": true
+            }
+          ],
+          "offering": {
+            "id": "BO:2195387_2195387_610587",
+            "name": "Auto Top Up R07"
+          },
+          "product": {
+            "id": "BO:108560090_2195387_108560035",
+            "name": "Auto Top Up R07",
+            "type": "mobileAddonProduct"
+          }
+        }
+      ],
+      "sim": {
+        "type": "mobileSIMOrderItem",
+        "id": "108560067",
+        "action": "add",
+        "state": "completed",
+        "quantity": 1,
+        "orderItemPrice": [
+          {
+            "type": "oneTime",
+            "price": {
+              "currencyCode": "EUR",
+              "taxIncludedAmount": 0,
+              "amount": 0,
+              "taxAmount": 0
+            }
+          },
+          {
+            "recurringChargePeriod": "month",
+            "type": "recurring",
+            "price": {
+              "currencyCode": "EUR",
+              "taxIncludedAmount": 0,
+              "amount": 0,
+              "taxAmount": 0
+            }
+          }
+        ],
+        "offering": {
+          "href": "/commerce/v1/mobileOffering/621587?salesChannel=selfService",
+          "id": "621587",
+          "type": "mobileSimOffering",
+          "name": "SIM_Next_R07",
+          "displayName": "SIM R07",
+          "description": "SIM"
+        },
+        "mobileSIMProduct": {
+          "id": "108560067",
+          "name": "SIM R07",
+          "type": "mobileSimProduct",
+          "productCharacteristic": [
+            {
+              "name": "Capacity_Next_R07",
+              "displayName": "Capacity R07",
+              "value": "256",
+              "displayValue": "256"
+            },
+            {
+              "name": "Connectivity_Next_R07",
+              "displayName": "Connectivity R07",
+              "value": "SIM4G",
+              "displayValue": "SIM4G"
+            },
+            {
+              "name": "EID_Next_R1",
+              "displayName": "EID R1"
+            },
+            {
+              "name": "Electrical_Profile_Next_R07",
+              "displayName": "Electrical Profile R07",
+              "value": "1",
+              "displayValue": "1"
+            },
+            {
+              "name": "IMSI_ServiceID_R07",
+              "displayName": "IMSI_ServiceID",
+              "value": "001012151220713",
+              "displayValue": "001012151220713"
+            },
+            {
+              "name": "Match_ID_Next_R1",
+              "displayName": "Match ID R1"
+            },
+            {
+              "name": "Original_SIM_Size_Next_R07",
+              "displayName": "Original SIM Size R07"
+            },
+            {
+              "name": "PUK_Barring_R07",
+              "displayName": "PUK Barring R07",
+              "value": "No",
+              "displayValue": "No"
+            },
+            {
+              "name": "Previous_Delivery_Method_Next_R1",
+              "displayName": "Previous Delivery Method R1",
+              "value": "NA",
+              "displayValue": "NA"
+            },
+            {
+              "name": "RLC_IMSI",
+              "displayName": "IMSI Number",
+              "value": "001012151220713",
+              "displayValue": "001012151220713"
+            },
+            {
+              "name": "Reservation_ID_Next_R07",
+              "displayName": "SKU Reservation ID R07",
+              "value": "5064746-000010",
+              "displayValue": "5064746-000010"
+            },
+            {
+              "name": "SIM_Activation_Code_Next_R1",
+              "displayName": "SIM Activation Code R1"
+            },
+            {
+              "name": "SIM_Card_Number_Next_R07",
+              "displayName": "SIM Card Number R07",
+              "value": "8939041012151220713",
+              "displayValue": "8939041012151220713"
+            },
+            {
+              "name": "SIM_Format_Next_R1",
+              "displayName": "SIM Format R1",
+              "value": "000000000000821335",
+              "displayValue": "000000000000821335"
+            },
+            {
+              "name": "SIM_Size_Next_R07",
+              "displayName": "SIM Size R07",
+              "value": "NANO",
+              "displayValue": "NANO"
+            },
+            {
+              "name": "SIM_Warranty_End_Date_Next_R07",
+              "displayName": "SIM Warranty End Date R07",
+              "value": "22/10/2025 23:59:59",
+              "displayValue": "22/10/2025 23:59:59"
+            },
+            {
+              "name": "SKU",
+              "displayName": "SKU",
+              "value": "000000000000821335",
+              "displayValue": "000000000000821335"
+            }
+          ],
+          "productSpecification": {
+            "id": "621587",
+            "name": "SIM R07",
+            "type": "mobileSimSpecification"
+          },
+          "serialNumber": "8939041012151220713",
+          "sku": "000000000000821335",
+          "simType": "NANO",
+          "imsi": "001012151220713"
+        }
+      },
+      "plan": {
+        "type": "mobilePlanOrderItem",
+        "id": "108560062",
+        "action": "modify",
+        "state": "completed",
+        "quantity": 1,
+        "orderItemPrice": [
+          {
+            "id": "108560065",
+            "type": "oneTime",
+            "price": {
+              "currencyCode": "EUR",
+              "taxIncludedAmount": 0,
+              "amount": 0,
+              "taxAmount": 0
+            }
+          },
+          {
+            "id": "108560065",
+            "recurringChargePeriod": "month",
+            "name": "Infinito Black Edition R07",
+            "type": "recurring",
+            "displayName": "Infinito Black Edition R07",
+            "description": "Ottimo per scaricare documenti velocemente e guardare video in ultra HD.",
+            "originalprice": {
+              "currencyCode": "EUR",
+              "amount": 39.99
+            },
+            "price": {
+              "currencyCode": "EUR",
+              "taxIncludedAmount": 39.99,
+              "amount": 32.78,
+              "taxAmount": 7.21
+            },
+            "allowedOverrideType": "override"
+          }
+        ],
+        "offering": {
+          "id": "1318287",
+          "type": "mobilePlanOffering",
+          "name": "Infinito Black Edition R07",
+          "displayName": "Infinito Black Edition R07"
+        },
+        "changeDetails": {
+          "isSettings": false,
+          "isPPU": true,
+          "isPaymentMethod": false,
+          "isMsisdn": false
+        },
+        "isKaskoIncluded": false,
+        "mobilePlanProduct": {
+          "id": "108560065",
+          "name": "Infinito Black Edition R07",
+          "type": "mobilePlanProduct",
+          "productCharacteristic": [
+            {
+              "name": "Allowance_R07",
+              "displayName": "Allowance R07",
+              "value": "Data,1_Voice,1_SMS,1",
+              "displayValue": "Data,1_Voice,1_SMS,1"
+            },
+            {
+              "name": "Contract_End_Date_Next_R1",
+              "displayName": "Contract End Date R1"
+            },
+            {
+              "name": "Current_LineUp_Quota_Next_R07",
+              "displayName": "Current LineUp Quota R07"
+            },
+            {
+              "name": "Data_Quota_R07",
+              "displayName": "Data Quota R07",
+              "value": "30",
+              "displayValue": "30"
+            },
+            {
+              "name": "Data_Tariff_Base_Plan_ID_Next_R07",
+              "displayName": "Data Tariff Base Plan ID R07",
+              "value": "1001",
+              "displayValue": "1001"
+            },
+            {
+              "name": "DigitalFlowType",
+              "displayName": "Digital Flow Type"
+            },
+            {
+              "name": "Downgrade_Ind_Next_R07",
+              "displayName": "Downgrade Ind R07",
+              "value": "No",
+              "displayValue": "No"
+            },
+            {
+              "name": "Prepaid_Activity_Period_Next_R07",
+              "displayName": "Prepaid Activity Period R07",
+              "value": "12",
+              "displayValue": "12"
+            },
+            {
+              "name": "Routing_Category_Next_R07",
+              "displayName": "Routing Category R07",
+              "value": "101",
+              "displayValue": "101"
+            },
+            {
+              "name": "SMS_Quota_R07",
+              "displayName": "SMS Quota R07",
+              "value": "9999",
+              "displayValue": "9999"
+            },
+            {
+              "name": "Shaping_Profile_Letter_Next_R07",
+              "displayName": "Shaping Profile Letter R07",
+              "value": "S",
+              "displayValue": "S"
+            },
+            {
+              "name": "Top_Up_In_Cart_Total_Amount_Next_R07",
+              "displayName": "Top Up In Cart Total Amount R07",
+              "value": "0",
+              "displayValue": "0"
+            },
+            {
+              "name": "Top_Up_In_Cart_Unique_ID_Next_R07",
+              "displayName": "Top Up In Cart Unique ID R07",
+              "value": "0",
+              "displayValue": "0"
+            },
+            {
+              "name": "Trusted_Negative_Balance_Threshold_Next_R07",
+              "displayName": "Trusted Negative Balance Threshold R07",
+              "value": "0",
+              "displayValue": "0"
+            },
+            {
+              "name": "Voice_Network_Priority_Next_R07",
+              "displayName": "Voice Network Priority R07",
+              "value": "10",
+              "displayValue": "10"
+            },
+            {
+              "name": "Voice_Quota_R07",
+              "displayName": "Voice Quota R07",
+              "value": "9999",
+              "displayValue": "9999"
+            },
+            {
+              "name": "Voice_SMS_Tariff_Base_Plan_ID_Next_R07",
+              "displayName": "Voice and SMS Tariff Base Plan ID R07",
+              "value": "81",
+              "displayValue": "81"
+            }
+          ],
+          "productSpecification": {
+            "id": "1318287",
+            "name": "Infinito Black Edition R07",
+            "type": "mobilePlanSpecification"
+          },
+          "phoneNumber": {
+            "msisdn": "393495225112"
+          },
+          "messaging": {
+            "id": "5472483",
+            "name": "Vodafone Club Giga R07"
+          },
+          "data": {
+            "id": "5472483",
+            "name": "Vodafone Club Giga R07"
+          }
+        }
+      },
+      "ppuPlan": {
+        "type": "mobilePlanOrderItem",
+        "action": "add",
+        "orderItemPrice": [
+          {
+            "type": "oneTime",
+            "price": {
+              "currencyCode": "EUR",
+              "taxIncludedAmount": 0,
+              "amount": 0,
+              "taxAmount": 0
+            }
+          },
+          {
+            "recurringChargePeriod": "month",
+            "type": "recurring",
+            "price": {
+              "currencyCode": "EUR",
+              "taxIncludedAmount": 0,
+              "amount": 0,
+              "taxAmount": 0
+            }
+          }
+        ],
+        "offering": {
+          "id": "257692695",
+          "name": "PPU Vodafone 25 New R07",
+          "displayName": "PPU Vodafone 25 New R07"
+        }
+      },
+      "replacedSim": {
+        "type": "mobileSIMOrderItem",
+        "id": "108560067",
+        "action": "add",
+        "state": "completed",
+        "quantity": 1,
+        "orderItemPrice": [
+          {
+            "type": "oneTime",
+            "price": {
+              "currencyCode": "EUR",
+              "taxIncludedAmount": 0,
+              "amount": 0,
+              "taxAmount": 0
+            }
+          },
+          {
+            "recurringChargePeriod": "month",
+            "type": "recurring",
+            "price": {
+              "currencyCode": "EUR",
+              "taxIncludedAmount": 0,
+              "amount": 0,
+              "taxAmount": 0
+            }
+          }
+        ],
+        "offering": {
+          "href": "/commerce/v1/mobileOffering/621587?salesChannel=selfService",
+          "id": "621587",
+          "type": "mobileSimOffering",
+          "name": "SIM_Next_R07",
+          "displayName": "SIM R07",
+          "description": "SIM"
+        },
+        "mobileSIMProduct": {
+          "id": "108560067",
+          "name": "SIM R07",
+          "type": "mobileSimProduct",
+          "productCharacteristic": [
+            {
+              "name": "Capacity_Next_R07",
+              "displayName": "Capacity R07",
+              "value": "256",
+              "displayValue": "256"
+            },
+            {
+              "name": "Connectivity_Next_R07",
+              "displayName": "Connectivity R07",
+              "value": "SIM4G",
+              "displayValue": "SIM4G"
+            },
+            {
+              "name": "EID_Next_R1",
+              "displayName": "EID R1"
+            },
+            {
+              "name": "Electrical_Profile_Next_R07",
+              "displayName": "Electrical Profile R07",
+              "value": "1",
+              "displayValue": "1"
+            },
+            {
+              "name": "IMSI_ServiceID_R07",
+              "displayName": "IMSI_ServiceID",
+              "value": "001012151220713",
+              "displayValue": "001012151220713"
+            },
+            {
+              "name": "Match_ID_Next_R1",
+              "displayName": "Match ID R1"
+            },
+            {
+              "name": "Original_SIM_Size_Next_R07",
+              "displayName": "Original SIM Size R07"
+            },
+            {
+              "name": "PUK_Barring_R07",
+              "displayName": "PUK Barring R07",
+              "value": "No",
+              "displayValue": "No"
+            },
+            {
+              "name": "Previous_Delivery_Method_Next_R1",
+              "displayName": "Previous Delivery Method R1",
+              "value": "NA",
+              "displayValue": "NA"
+            },
+            {
+              "name": "RLC_IMSI",
+              "displayName": "IMSI Number",
+              "value": "001012151220713",
+              "displayValue": "001012151220713"
+            },
+            {
+              "name": "Reservation_ID_Next_R07",
+              "displayName": "SKU Reservation ID R07",
+              "value": "5064746-000010",
+              "displayValue": "5064746-000010"
+            },
+            {
+              "name": "SIM_Activation_Code_Next_R1",
+              "displayName": "SIM Activation Code R1"
+            },
+            {
+              "name": "SIM_Card_Number_Next_R07",
+              "displayName": "SIM Card Number R07",
+              "value": "8939041012151220713",
+              "displayValue": "8939041012151220713"
+            },
+            {
+              "name": "SIM_Format_Next_R1",
+              "displayName": "SIM Format R1",
+              "value": "000000000000821335",
+              "displayValue": "000000000000821335"
+            },
+            {
+              "name": "SIM_Size_Next_R07",
+              "displayName": "SIM Size R07",
+              "value": "NANO",
+              "displayValue": "NANO"
+            },
+            {
+              "name": "SIM_Warranty_End_Date_Next_R07",
+              "displayName": "SIM Warranty End Date R07",
+              "value": "22/10/2025 23:59:59",
+              "displayValue": "22/10/2025 23:59:59"
+            },
+            {
+              "name": "SKU",
+              "displayName": "SKU",
+              "value": "000000000000821335",
+              "displayValue": "000000000000821335"
+            }
+          ],
+          "productSpecification": {
+            "id": "621587",
+            "name": "SIM R07",
+            "type": "mobileSimSpecification"
+          },
+          "serialNumber": "8939041012151220713",
+          "sku": "000000000000821335",
+          "simType": "NANO",
+          "imsi": "001012151220713"
+        }
+      }
+    }
+  ],
+  "orderDeliveryDetails": {
+    "recipientAddress": {
+      "id": "268578850",
+      "street": "VIA LORENTEGGIO",
+      "streetNumber": "240",
+      "city": "MILANO",
+      "country": "IT",
+      "stateOrProvince": "MI",
+      "postalCode": "20147",
+      "formattedAddress1": "VIA LORENTEGGIO 240"
+    },
+    "orderDeliveryCode": "S",
+    "orderDeliveryDesc": "Shipping to Home",
+    "identificationMethods": [
+      {
+        "code": "CO",
+        "selected": true
+      }
+    ]
+  },
+  "isOrderTakeOverAllowed": false,
+  "isRechargeSaved": false,
+  "isChangeShippingPresented": false,
+  "isBookedOrder": false,
+  "poType": "StandardPlan"
+}

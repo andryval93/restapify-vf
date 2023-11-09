@@ -1,0 +1,10 @@
+{
+  "isAutoPaySet": false,
+  "availableNewPaymeanTypes": [
+    "creditCard",
+    "bankAccount",
+    "wallet"
+  ]
+}
+
+

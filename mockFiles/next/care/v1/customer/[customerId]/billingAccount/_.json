@@ -1,0 +1,29 @@
+{
+    "id":"501749525",
+    "billDeliveryDetails":{
+       "billFormat":"paperBill",
+       "emailAddress":"mail@mail.com",
+       "physicalAddress":{
+          "id":"272462481",
+          "city":"MILANO",
+          "country":"IT",
+          "displayCountry":"IT",
+          "postalCode":"20154",
+          "stateOrProvince":"MI",
+          "displayStateOrProvince":"MI",
+          "street":"VIA PAOLO SARPI",
+          "formattedAddress":"VIA PAOLO SARPI 8",
+          "formattedAddress2":"MILANO MILANO 20154",
+          "formattedAddress3":"Italia",
+          "latitude":"45.481801",
+          "longitude":"9.180216",
+          "externalId":"38000052876",
+          "streetNumber":"8"
+       }
+    },
+    "availableNewPayMeans":[
+       "creditCard",
+       "bankAccount",
+       "wallet"
+    ]
+ }

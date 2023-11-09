@@ -1,0 +1,97 @@
+{
+  "deliveryOrders": [
+    {
+      "code": "T",
+      "description": "Consegna il tecnico",
+      "deliveryItems": [
+        {
+          "itemId": "108006858_4635963",
+          "itemCid": "621587",
+          "itemType": "SIM",
+          "itemName": "SIM",
+          "lineOfBusiness": "IN"
+        },
+        {
+          "itemId": "108006872_4635965",
+          "itemCid": "2786781",
+          "itemType": "EQP",
+          "itemName": "Vodafone Wi-Fi 6 Station",
+          "lineOfBusiness": "IN"
+        }
+      ],
+      "recipientDetails": {
+        "recipientName": {
+          "formattedName": "GNPFREEZEPERIOD;XBS"
+        },
+        "recipientAddress": {
+          "id": "268614010",
+          "street": "VIA LORENTEGGIO",
+          "streetNumber": "49",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "postalCode": "20146",
+          "formattedAddress1": "VIA LORENTEGGIO 49"
+        },
+        "contactPhoneNumber": "3452313567",
+        "contactEmailAddress": "pierfrancesco.capone@vodafone.com"
+      },
+      "shippingDetails": {}
+    }
+  ],
+  "deliverySteps": [
+    {
+      "stepCode": "OV",
+      "checked": true,
+      "message": {
+        "code": "orderOnHold",
+        "additionalInfo": [
+          {
+            "key": "freezePeriod",
+            "value": "14"
+          },
+          {
+            "key": "RECONSIDER_END_DATE",
+            "value": "2023-09-03T13:04:04"
+          }
+        ]
+      },
+      "fulfillmentDetails": [
+        {
+          "entityType": "Fixed",
+          "additionalInfo": [
+            {
+              "key": "serviceNo",
+              "value": "390247762604"
+            }
+          ]
+        },
+        {
+          "entityType": "Data-Sim",
+          "additionalInfo": [
+            {
+              "key": "serviceNo",
+              "value": "393412136024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stepCode": "AC",
+      "checked": false
+    }
+  ],
+  "phase2KO": [
+    {
+      "fixedvoice": {
+        "dynamicAttributeMap": {
+          "GnpType": "NOT CONTEXTUAL",
+          "Phase2Required": "N",
+          "PortInCLI": "390248309952"
+        }
+      }
+    }
+  ],
+  "orderActionSpecificStageStatus": "OptionToRethinkTLR"
+}

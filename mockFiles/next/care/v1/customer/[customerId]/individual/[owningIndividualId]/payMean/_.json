@@ -1,0 +1,23 @@
+{
+  "payMeans": [
+    {
+      "object_type": "V1CreditCardPayMean",
+      "id": "268709520",
+      "type": "creditCard",
+      "brand": "MasterCard",
+      "displayBrand": "MasterCard",
+      "holderName": " ",
+      "lastFourDigits": "8571",
+      "expiryMonth": "5",
+      "expiryYear": "2023"
+    }
+  ],
+  "isAutoPaySet": false,
+  "availableNewPaymeanTypes": [
+    "creditCard",
+    "bankAccount",
+    "wallet"
+  ]
+}
+
+

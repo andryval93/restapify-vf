@@ -1,0 +1,1938 @@
+[
+    {
+        "href": "/care/v1/country/IT/state",
+        "rel": "next",
+        "id": "IT",
+        "name": "IT",
+        "displayName": "Italia",
+        "default": true
+    },
+    {
+        "href": "/care/v1/country/AF/state",
+        "rel": "next",
+        "id": "AF",
+        "name": "AF",
+        "displayName": "Afghanistan",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/AX/state",
+        "rel": "next",
+        "id": "AX",
+        "name": "AX",
+        "displayName": "Aland Isole",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/AL/state",
+        "rel": "next",
+        "id": "AL",
+        "name": "AL",
+        "displayName": "Albania",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/DZ/state",
+        "rel": "next",
+        "id": "DZ",
+        "name": "DZ",
+        "displayName": "Algeria",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/AD/state",
+        "rel": "next",
+        "id": "AD",
+        "name": "AD",
+        "displayName": "Andorra",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/AO/state",
+        "rel": "next",
+        "id": "AO",
+        "name": "AO",
+        "displayName": "Angola",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/AI/state",
+        "rel": "next",
+        "id": "AI",
+        "name": "AI",
+        "displayName": "Anguilla (isola)",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/AQ/state",
+        "rel": "next",
+        "id": "AQ",
+        "name": "AQ",
+        "displayName": "Antartica",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/AG/state",
+        "rel": "next",
+        "id": "AG",
+        "name": "AG",
+        "displayName": "Antigua e Barbuda",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/AN/state",
+        "rel": "next",
+        "id": "AN",
+        "name": "AN",
+        "displayName": "Antille",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/BQ/state",
+        "rel": "next",
+        "id": "BQ",
+        "name": "BQ",
+        "displayName": "Antille Olandesi",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/SA/state",
+        "rel": "next",
+        "id": "SA",
+        "name": "SA",
+        "displayName": "Arabia Saudita",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/AR/state",
+        "rel": "next",
+        "id": "AR",
+        "name": "AR",
+        "displayName": "Argentina",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/AM/state",
+        "rel": "next",
+        "id": "AM",
+        "name": "AM",
+        "displayName": "Armenia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/AW/state",
+        "rel": "next",
+        "id": "AW",
+        "name": "AW",
+        "displayName": "Aruba",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/AU/state",
+        "rel": "next",
+        "id": "AU",
+        "name": "AU",
+        "displayName": "Australia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/AT/state",
+        "rel": "next",
+        "id": "AT",
+        "name": "AT",
+        "displayName": "Austria",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/AZ/state",
+        "rel": "next",
+        "id": "AZ",
+        "name": "AZ",
+        "displayName": "Azerbaigian",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/BS/state",
+        "rel": "next",
+        "id": "BS",
+        "name": "BS",
+        "displayName": "Bahamas",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/BH/state",
+        "rel": "next",
+        "id": "BH",
+        "name": "BH",
+        "displayName": "Bahrein",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/BD/state",
+        "rel": "next",
+        "id": "BD",
+        "name": "BD",
+        "displayName": "Bangladesh",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/BB/state",
+        "rel": "next",
+        "id": "BB",
+        "name": "BB",
+        "displayName": "Barbados",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/BE/state",
+        "rel": "next",
+        "id": "BE",
+        "name": "BE",
+        "displayName": "Belgio",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/BZ/state",
+        "rel": "next",
+        "id": "BZ",
+        "name": "BZ",
+        "displayName": "Belize",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/BJ/state",
+        "rel": "next",
+        "id": "BJ",
+        "name": "BJ",
+        "displayName": "Benin",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/BM/state",
+        "rel": "next",
+        "id": "BM",
+        "name": "BM",
+        "displayName": "Bermuda (isole)",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/BT/state",
+        "rel": "next",
+        "id": "BT",
+        "name": "BT",
+        "displayName": "Bhutan",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/BY/state",
+        "rel": "next",
+        "id": "BY",
+        "name": "BY",
+        "displayName": "Bielorussia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/BO/state",
+        "rel": "next",
+        "id": "BO",
+        "name": "BO",
+        "displayName": "Bolivia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/BIH/state",
+        "rel": "next",
+        "id": "BIH",
+        "name": "BIH",
+        "displayName": "Bosnia ed Erzegovina",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/BW/state",
+        "rel": "next",
+        "id": "BW",
+        "name": "BW",
+        "displayName": "Botswana",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/BR/state",
+        "rel": "next",
+        "id": "BR",
+        "name": "BR",
+        "displayName": "Brasile",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/BN/state",
+        "rel": "next",
+        "id": "BN",
+        "name": "BN",
+        "displayName": "Brunei",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/BG/state",
+        "rel": "next",
+        "id": "BG",
+        "name": "BG",
+        "displayName": "Bulgaria",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/BF/state",
+        "rel": "next",
+        "id": "BF",
+        "name": "BF",
+        "displayName": "Burkina Faso",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/BI/state",
+        "rel": "next",
+        "id": "BI",
+        "name": "BI",
+        "displayName": "Burundi",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/KH/state",
+        "rel": "next",
+        "id": "KH",
+        "name": "KH",
+        "displayName": "Cambogia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/CM/state",
+        "rel": "next",
+        "id": "CM",
+        "name": "CM",
+        "displayName": "Camerun",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/CA/state",
+        "rel": "next",
+        "id": "CA",
+        "name": "CA",
+        "displayName": "Canada",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/CV/state",
+        "rel": "next",
+        "id": "CV",
+        "name": "CV",
+        "displayName": "Capo Verde",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/KY/state",
+        "rel": "next",
+        "id": "KY",
+        "name": "KY",
+        "displayName": "Cayman (isole)",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/CF/state",
+        "rel": "next",
+        "id": "CF",
+        "name": "CF",
+        "displayName": "Centrafricana Repubblica",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/CX/state",
+        "rel": "next",
+        "id": "CX",
+        "name": "CX",
+        "displayName": "Christmas (isola)",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/TD/state",
+        "rel": "next",
+        "id": "TD",
+        "name": "TD",
+        "displayName": "Ciad",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/CL/state",
+        "rel": "next",
+        "id": "CL",
+        "name": "CL",
+        "displayName": "Cile",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/CN/state",
+        "rel": "next",
+        "id": "CN",
+        "name": "CN",
+        "displayName": "Cina Repubblica Popolare",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/CY/state",
+        "rel": "next",
+        "id": "CY",
+        "name": "CY",
+        "displayName": "Cipro",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/VA/state",
+        "rel": "next",
+        "id": "VA",
+        "name": "VA",
+        "displayName": "Citta' del Vaticano",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/CC/state",
+        "rel": "next",
+        "id": "CC",
+        "name": "CC",
+        "displayName": "Cocos (isole)",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/CO/state",
+        "rel": "next",
+        "id": "CO",
+        "name": "CO",
+        "displayName": "Colombia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/KM/state",
+        "rel": "next",
+        "id": "KM",
+        "name": "KM",
+        "displayName": "Comore (isole)",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/CD/state",
+        "rel": "next",
+        "id": "CD",
+        "name": "CD",
+        "displayName": "Congo Repubblica Democratica",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/CG/state",
+        "rel": "next",
+        "id": "CG",
+        "name": "CG",
+        "displayName": "Congo Repubblica Popolare",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/CK/state",
+        "rel": "next",
+        "id": "CK",
+        "name": "CK",
+        "displayName": "Cook (isole)",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/KP/state",
+        "rel": "next",
+        "id": "KP",
+        "name": "KP",
+        "displayName": "Corea del Nord",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/KR/state",
+        "rel": "next",
+        "id": "KR",
+        "name": "KR",
+        "displayName": "Corea del Sud",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/CR/state",
+        "rel": "next",
+        "id": "CR",
+        "name": "CR",
+        "displayName": "Costa Rica",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/CI/state",
+        "rel": "next",
+        "id": "CI",
+        "name": "CI",
+        "displayName": "Costa d'Avorio",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/HR/state",
+        "rel": "next",
+        "id": "HR",
+        "name": "HR",
+        "displayName": "Croazia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/CU/state",
+        "rel": "next",
+        "id": "CU",
+        "name": "CU",
+        "displayName": "Cuba",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/DK/state",
+        "rel": "next",
+        "id": "DK",
+        "name": "DK",
+        "displayName": "Danimarca",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/DM/state",
+        "rel": "next",
+        "id": "DM",
+        "name": "DM",
+        "displayName": "Dominica",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/EC/state",
+        "rel": "next",
+        "id": "EC",
+        "name": "EC",
+        "displayName": "Ecuador",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/EG/state",
+        "rel": "next",
+        "id": "EG",
+        "name": "EG",
+        "displayName": "Egitto",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/SV/state",
+        "rel": "next",
+        "id": "SV",
+        "name": "SV",
+        "displayName": "El Salvador",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/AE/state",
+        "rel": "next",
+        "id": "AE",
+        "name": "AE",
+        "displayName": "Emirati Arabi Uniti",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/ER/state",
+        "rel": "next",
+        "id": "ER",
+        "name": "ER",
+        "displayName": "Eritrea",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/EE/state",
+        "rel": "next",
+        "id": "EE",
+        "name": "EE",
+        "displayName": "Estonia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/ET/state",
+        "rel": "next",
+        "id": "ET",
+        "name": "ET",
+        "displayName": "Etiopia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/FO/state",
+        "rel": "next",
+        "id": "FO",
+        "name": "FO",
+        "displayName": "Faer Oer (isole)",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/FJ/state",
+        "rel": "next",
+        "id": "FJ",
+        "name": "FJ",
+        "displayName": "Figi=Viti",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/PH/state",
+        "rel": "next",
+        "id": "PH",
+        "name": "PH",
+        "displayName": "Filippine",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/FI/state",
+        "rel": "next",
+        "id": "FI",
+        "name": "FI",
+        "displayName": "Finlandia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/FR/state",
+        "rel": "next",
+        "id": "FR",
+        "name": "FR",
+        "displayName": "Francia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/GA/state",
+        "rel": "next",
+        "id": "GA",
+        "name": "GA",
+        "displayName": "Gabon",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/GM/state",
+        "rel": "next",
+        "id": "GM",
+        "name": "GM",
+        "displayName": "Gambia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/PS/state",
+        "rel": "next",
+        "id": "PS",
+        "name": "PS",
+        "displayName": "Gaza (territorio di)",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/GE/state",
+        "rel": "next",
+        "id": "GE",
+        "name": "GE",
+        "displayName": "Georgia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/DE/state",
+        "rel": "next",
+        "id": "DE",
+        "name": "DE",
+        "displayName": "Germania",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/GH/state",
+        "rel": "next",
+        "id": "GH",
+        "name": "GH",
+        "displayName": "Ghana",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/JM/state",
+        "rel": "next",
+        "id": "JM",
+        "name": "JM",
+        "displayName": "Giamaica",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/JP/state",
+        "rel": "next",
+        "id": "JP",
+        "name": "JP",
+        "displayName": "Giappone",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/GI/state",
+        "rel": "next",
+        "id": "GI",
+        "name": "GI",
+        "displayName": "Gibilterra",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/DJ/state",
+        "rel": "next",
+        "id": "DJ",
+        "name": "DJ",
+        "displayName": "Gibuti",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/JO/state",
+        "rel": "next",
+        "id": "JO",
+        "name": "JO",
+        "displayName": "Giordania",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/GB/state",
+        "rel": "next",
+        "id": "GB",
+        "name": "GB",
+        "displayName": "Gran Bretagna",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/GR/state",
+        "rel": "next",
+        "id": "GR",
+        "name": "GR",
+        "displayName": "Grecia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/GD/state",
+        "rel": "next",
+        "id": "GD",
+        "name": "GD",
+        "displayName": "Grenada",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/GL/state",
+        "rel": "next",
+        "id": "GL",
+        "name": "GL",
+        "displayName": "Groenlandia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/GP/state",
+        "rel": "next",
+        "id": "GP",
+        "name": "GP",
+        "displayName": "Guadalupa",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/GU/state",
+        "rel": "next",
+        "id": "GU",
+        "name": "GU",
+        "displayName": "Guam (isola)",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/GT/state",
+        "rel": "next",
+        "id": "GT",
+        "name": "GT",
+        "displayName": "Guatemala",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/GG/state",
+        "rel": "next",
+        "id": "GG",
+        "name": "GG",
+        "displayName": "Guernsey Isole del Canale",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/GY/state",
+        "rel": "next",
+        "id": "GY",
+        "name": "GY",
+        "displayName": "Guiana",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/GN/state",
+        "rel": "next",
+        "id": "GN",
+        "name": "GN",
+        "displayName": "Guinea",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/GW/state",
+        "rel": "next",
+        "id": "GW",
+        "name": "GW",
+        "displayName": "Guinea Bissau",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/GQ/state",
+        "rel": "next",
+        "id": "GQ",
+        "name": "GQ",
+        "displayName": "Guinea Equatoriale",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/GY/state",
+        "rel": "next",
+        "id": "GY",
+        "name": "GY",
+        "displayName": "Guyana",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/GF/state",
+        "rel": "next",
+        "id": "GF",
+        "name": "GF",
+        "displayName": "Guyana francese",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/HT/state",
+        "rel": "next",
+        "id": "HT",
+        "name": "HT",
+        "displayName": "Haiti",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/HN/state",
+        "rel": "next",
+        "id": "HN",
+        "name": "HN",
+        "displayName": "Honduras",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/HK/state",
+        "rel": "next",
+        "id": "HK",
+        "name": "HK",
+        "displayName": "Hong Kong",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/IN/state",
+        "rel": "next",
+        "id": "IN",
+        "name": "IN",
+        "displayName": "India",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/ID/state",
+        "rel": "next",
+        "id": "ID",
+        "name": "ID",
+        "displayName": "Indonesia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/IR/state",
+        "rel": "next",
+        "id": "IR",
+        "name": "IR",
+        "displayName": "Iran",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/IQ/state",
+        "rel": "next",
+        "id": "IQ",
+        "name": "IQ",
+        "displayName": "Iraq",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/IE/state",
+        "rel": "next",
+        "id": "IE",
+        "name": "IE",
+        "displayName": "Irlanda",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/IS/state",
+        "rel": "next",
+        "id": "IS",
+        "name": "IS",
+        "displayName": "Islanda",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/AC/state",
+        "rel": "next",
+        "id": "AC",
+        "name": "AC",
+        "displayName": "Isola di Ascensione",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/MH/state",
+        "rel": "next",
+        "id": "MH",
+        "name": "MH",
+        "displayName": "Isole Marshall",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/NF/state",
+        "rel": "next",
+        "id": "NF",
+        "name": "NF",
+        "displayName": "Isole Norfolk",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/SB/state",
+        "rel": "next",
+        "id": "SB",
+        "name": "SB",
+        "displayName": "Isole Salomone",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/UM/state",
+        "rel": "next",
+        "id": "UM",
+        "name": "UM",
+        "displayName": "Isole minori esterne degli Stati Uniti d",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/IL/state",
+        "rel": "next",
+        "id": "IL",
+        "name": "IL",
+        "displayName": "Israele",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/JE/state",
+        "rel": "next",
+        "id": "JE",
+        "name": "JE",
+        "displayName": "Jersey Isole del Canale",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/KZ/state",
+        "rel": "next",
+        "id": "KZ",
+        "name": "KZ",
+        "displayName": "Kazakistan",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/KE/state",
+        "rel": "next",
+        "id": "KE",
+        "name": "KE",
+        "displayName": "Kenya",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/KG/state",
+        "rel": "next",
+        "id": "KG",
+        "name": "KG",
+        "displayName": "Kirghizistan",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/KI/state",
+        "rel": "next",
+        "id": "KI",
+        "name": "KI",
+        "displayName": "Kiribati",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/XK/state",
+        "rel": "next",
+        "id": "XK",
+        "name": "XK",
+        "displayName": "Kosovo",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/KW/state",
+        "rel": "next",
+        "id": "KW",
+        "name": "KW",
+        "displayName": "Kuwait",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/LA/state",
+        "rel": "next",
+        "id": "LA",
+        "name": "LA",
+        "displayName": "Laos",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/LS/state",
+        "rel": "next",
+        "id": "LS",
+        "name": "LS",
+        "displayName": "Lesotho",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/LV/state",
+        "rel": "next",
+        "id": "LV",
+        "name": "LV",
+        "displayName": "Lettonia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/LB/state",
+        "rel": "next",
+        "id": "LB",
+        "name": "LB",
+        "displayName": "Libano",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/LR/state",
+        "rel": "next",
+        "id": "LR",
+        "name": "LR",
+        "displayName": "Liberia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/LY/state",
+        "rel": "next",
+        "id": "LY",
+        "name": "LY",
+        "displayName": "Libia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/LI/state",
+        "rel": "next",
+        "id": "LI",
+        "name": "LI",
+        "displayName": "Liechtenstein",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/LT/state",
+        "rel": "next",
+        "id": "LT",
+        "name": "LT",
+        "displayName": "Lituania",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/LU/state",
+        "rel": "next",
+        "id": "LU",
+        "name": "LU",
+        "displayName": "Lussemburgo",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/MO/state",
+        "rel": "next",
+        "id": "MO",
+        "name": "MO",
+        "displayName": "Macao",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/MK/state",
+        "rel": "next",
+        "id": "MK",
+        "name": "MK",
+        "displayName": "Macedonia del Nord",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/MG/state",
+        "rel": "next",
+        "id": "MG",
+        "name": "MG",
+        "displayName": "Madagascar",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/MW/state",
+        "rel": "next",
+        "id": "MW",
+        "name": "MW",
+        "displayName": "Malawi",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/MY/state",
+        "rel": "next",
+        "id": "MY",
+        "name": "MY",
+        "displayName": "Malaysia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/MV/state",
+        "rel": "next",
+        "id": "MV",
+        "name": "MV",
+        "displayName": "Maldive",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/ML/state",
+        "rel": "next",
+        "id": "ML",
+        "name": "ML",
+        "displayName": "Mali",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/MT/state",
+        "rel": "next",
+        "id": "MT",
+        "name": "MT",
+        "displayName": "Malta",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/FK/state",
+        "rel": "next",
+        "id": "FK",
+        "name": "FK",
+        "displayName": "Malvine=Falkland (isole)",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/IM/state",
+        "rel": "next",
+        "id": "IM",
+        "name": "IM",
+        "displayName": "Man (isola)",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/MP/state",
+        "rel": "next",
+        "id": "MP",
+        "name": "MP",
+        "displayName": "Marianne (isole)",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/MA/state",
+        "rel": "next",
+        "id": "MA",
+        "name": "MA",
+        "displayName": "Marocco",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/MQ/state",
+        "rel": "next",
+        "id": "MQ",
+        "name": "MQ",
+        "displayName": "Martinica",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/MR/state",
+        "rel": "next",
+        "id": "MR",
+        "name": "MR",
+        "displayName": "Mauritania",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/MU/state",
+        "rel": "next",
+        "id": "MU",
+        "name": "MU",
+        "displayName": "Maurizio",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/YT/state",
+        "rel": "next",
+        "id": "YT",
+        "name": "YT",
+        "displayName": "Mayotte (isola)",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/MX/state",
+        "rel": "next",
+        "id": "MX",
+        "name": "MX",
+        "displayName": "Messico",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/MD/state",
+        "rel": "next",
+        "id": "MD",
+        "name": "MD",
+        "displayName": "Moldavia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/MC/state",
+        "rel": "next",
+        "id": "MC",
+        "name": "MC",
+        "displayName": "Monaco",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/MN/state",
+        "rel": "next",
+        "id": "MN",
+        "name": "MN",
+        "displayName": "Mongolia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/ME/state",
+        "rel": "next",
+        "id": "ME",
+        "name": "ME",
+        "displayName": "Montenegro",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/MS/state",
+        "rel": "next",
+        "id": "MS",
+        "name": "MS",
+        "displayName": "Montserrat",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/MZ/state",
+        "rel": "next",
+        "id": "MZ",
+        "name": "MZ",
+        "displayName": "Mozambico",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/MM/state",
+        "rel": "next",
+        "id": "MM",
+        "name": "MM",
+        "displayName": "Myanmar",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/NA/state",
+        "rel": "next",
+        "id": "NA",
+        "name": "NA",
+        "displayName": "Namibia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/NR/state",
+        "rel": "next",
+        "id": "NR",
+        "name": "NR",
+        "displayName": "Nauru",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/NP/state",
+        "rel": "next",
+        "id": "NP",
+        "name": "NP",
+        "displayName": "Nepal",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/NI/state",
+        "rel": "next",
+        "id": "NI",
+        "name": "NI",
+        "displayName": "Nicaragua",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/NE/state",
+        "rel": "next",
+        "id": "NE",
+        "name": "NE",
+        "displayName": "Niger",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/NG/state",
+        "rel": "next",
+        "id": "NG",
+        "name": "NG",
+        "displayName": "Nigeria",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/NU/state",
+        "rel": "next",
+        "id": "NU",
+        "name": "NU",
+        "displayName": "Niue=Savage (isole)",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/NO/state",
+        "rel": "next",
+        "id": "NO",
+        "name": "NO",
+        "displayName": "Norvegia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/NC/state",
+        "rel": "next",
+        "id": "NC",
+        "name": "NC",
+        "displayName": "Nuova Caledonia (isole e dipendenze)",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/NZ/state",
+        "rel": "next",
+        "id": "NZ",
+        "name": "NZ",
+        "displayName": "Nuova Zelanda",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/NL/state",
+        "rel": "next",
+        "id": "NL",
+        "name": "NL",
+        "displayName": "Olanda",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/OM/state",
+        "rel": "next",
+        "id": "OM",
+        "name": "OM",
+        "displayName": "Oman",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/PK/state",
+        "rel": "next",
+        "id": "PK",
+        "name": "PK",
+        "displayName": "Pakistan",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/PW/state",
+        "rel": "next",
+        "id": "PW",
+        "name": "PW",
+        "displayName": "Palau",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/PA/state",
+        "rel": "next",
+        "id": "PA",
+        "name": "PA",
+        "displayName": "Panama",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/PG/state",
+        "rel": "next",
+        "id": "PG",
+        "name": "PG",
+        "displayName": "Papua Nuova Guinea",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/PY/state",
+        "rel": "next",
+        "id": "PY",
+        "name": "PY",
+        "displayName": "Paraguay",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/PE/state",
+        "rel": "next",
+        "id": "PE",
+        "name": "PE",
+        "displayName": "Peru'",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/PN/state",
+        "rel": "next",
+        "id": "PN",
+        "name": "PN",
+        "displayName": "Pitcairn (e dipendenze)",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/PF/state",
+        "rel": "next",
+        "id": "PF",
+        "name": "PF",
+        "displayName": "Polinesia Francese (isole)",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/PL/state",
+        "rel": "next",
+        "id": "PL",
+        "name": "PL",
+        "displayName": "Polonia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/PR/state",
+        "rel": "next",
+        "id": "PR",
+        "name": "PR",
+        "displayName": "Porto Rico",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/PT/state",
+        "rel": "next",
+        "id": "PT",
+        "name": "PT",
+        "displayName": "Portogallo",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/QA/state",
+        "rel": "next",
+        "id": "QA",
+        "name": "QA",
+        "displayName": "Qatar",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/CZ/state",
+        "rel": "next",
+        "id": "CZ",
+        "name": "CZ",
+        "displayName": "Repubblica Ceca",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/DO/state",
+        "rel": "next",
+        "id": "DO",
+        "name": "DO",
+        "displayName": "Repubblica Dominicana",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/TW/state",
+        "rel": "next",
+        "id": "TW",
+        "name": "TW",
+        "displayName": "Repubblica della Cina nazionale=Taiwan",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/RE/state",
+        "rel": "next",
+        "id": "RE",
+        "name": "RE",
+        "displayName": "Reunion",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/RO/state",
+        "rel": "next",
+        "id": "RO",
+        "name": "RO",
+        "displayName": "Romania",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/RW/state",
+        "rel": "next",
+        "id": "RW",
+        "name": "RW",
+        "displayName": "Ruanda",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/RU/state",
+        "rel": "next",
+        "id": "RU",
+        "name": "RU",
+        "displayName": "Russia-Federazione Russa",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/KN/state",
+        "rel": "next",
+        "id": "KN",
+        "name": "KN",
+        "displayName": "Saint Kitts e Nevis-Saint Christopher e",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/LC/state",
+        "rel": "next",
+        "id": "LC",
+        "name": "LC",
+        "displayName": "Saint Lucia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/PM/state",
+        "rel": "next",
+        "id": "PM",
+        "name": "PM",
+        "displayName": "Saint Pierre et Miquelon (isole)",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/VC/state",
+        "rel": "next",
+        "id": "VC",
+        "name": "VC",
+        "displayName": "Saint Vincent e Grenadine",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/WS/state",
+        "rel": "next",
+        "id": "WS",
+        "name": "WS",
+        "displayName": "Samoa",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/AS/state",
+        "rel": "next",
+        "id": "AS",
+        "name": "AS",
+        "displayName": "Samoa americane (isole)",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/SM/state",
+        "rel": "next",
+        "id": "SM",
+        "name": "SM",
+        "displayName": "San Marino",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/SH/state",
+        "rel": "next",
+        "id": "SH",
+        "name": "SH",
+        "displayName": "Sant'Elena (isola)",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/ST/state",
+        "rel": "next",
+        "id": "ST",
+        "name": "ST",
+        "displayName": "Sao Tome' e Príncipe",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/SN/state",
+        "rel": "next",
+        "id": "SN",
+        "name": "SN",
+        "displayName": "Senegal",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/RS/state",
+        "rel": "next",
+        "id": "RS",
+        "name": "RS",
+        "displayName": "Serbia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/SC/state",
+        "rel": "next",
+        "id": "SC",
+        "name": "SC",
+        "displayName": "Seychelles",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/SL/state",
+        "rel": "next",
+        "id": "SL",
+        "name": "SL",
+        "displayName": "Sierra Leone",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/SG/state",
+        "rel": "next",
+        "id": "SG",
+        "name": "SG",
+        "displayName": "Singapore",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/SY/state",
+        "rel": "next",
+        "id": "SY",
+        "name": "SY",
+        "displayName": "Siria",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/SK/state",
+        "rel": "next",
+        "id": "SK",
+        "name": "SK",
+        "displayName": "Slovacchia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/SI/state",
+        "rel": "next",
+        "id": "SI",
+        "name": "SI",
+        "displayName": "Slovenia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/SO/state",
+        "rel": "next",
+        "id": "SO",
+        "name": "SO",
+        "displayName": "Somalia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/ES/state",
+        "rel": "next",
+        "id": "ES",
+        "name": "ES",
+        "displayName": "Spagna",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/LK/state",
+        "rel": "next",
+        "id": "LK",
+        "name": "LK",
+        "displayName": "Sri Lanka",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/FM/state",
+        "rel": "next",
+        "id": "FM",
+        "name": "FM",
+        "displayName": "Stati Federati di Micronesia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/ZA/state",
+        "rel": "next",
+        "id": "ZA",
+        "name": "ZA",
+        "displayName": "Sud Africa",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/SD/state",
+        "rel": "next",
+        "id": "SD",
+        "name": "SD",
+        "displayName": "Sudan",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/SR/state",
+        "rel": "next",
+        "id": "SR",
+        "name": "SR",
+        "displayName": "Suriname",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/SS/state",
+        "rel": "next",
+        "id": "SS",
+        "name": "SS",
+        "displayName": "Susan del Sud",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/SE/state",
+        "rel": "next",
+        "id": "SE",
+        "name": "SE",
+        "displayName": "Svezia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/CH/state",
+        "rel": "next",
+        "id": "CH",
+        "name": "CH",
+        "displayName": "Svizzera",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/SZ/state",
+        "rel": "next",
+        "id": "SZ",
+        "name": "SZ",
+        "displayName": "Swaziland",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/TJ/state",
+        "rel": "next",
+        "id": "TJ",
+        "name": "TJ",
+        "displayName": "Tagikistan",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/TH/state",
+        "rel": "next",
+        "id": "TH",
+        "name": "TH",
+        "displayName": "Tailandia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/TZ/state",
+        "rel": "next",
+        "id": "TZ",
+        "name": "TZ",
+        "displayName": "Tanzania",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/TL/state",
+        "rel": "next",
+        "id": "TL",
+        "name": "TL",
+        "displayName": "Timor Orientale",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/TG/state",
+        "rel": "next",
+        "id": "TG",
+        "name": "TG",
+        "displayName": "Togo",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/TK/state",
+        "rel": "next",
+        "id": "TK",
+        "name": "TK",
+        "displayName": "Tokelau=Isole dell'Unione",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/TO/state",
+        "rel": "next",
+        "id": "TO",
+        "name": "TO",
+        "displayName": "Tonga",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/TT/state",
+        "rel": "next",
+        "id": "TT",
+        "name": "TT",
+        "displayName": "Trinidad e Tobago",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/TN/state",
+        "rel": "next",
+        "id": "TN",
+        "name": "TN",
+        "displayName": "Tunisia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/TR/state",
+        "rel": "next",
+        "id": "TR",
+        "name": "TR",
+        "displayName": "Turchia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/TM/state",
+        "rel": "next",
+        "id": "TM",
+        "name": "TM",
+        "displayName": "Turkmenistan",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/TC/state",
+        "rel": "next",
+        "id": "TC",
+        "name": "TC",
+        "displayName": "Turks e Caicos (isole)",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/TV/state",
+        "rel": "next",
+        "id": "TV",
+        "name": "TV",
+        "displayName": "Tuvalu",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/US/state",
+        "rel": "next",
+        "id": "US",
+        "name": "US",
+        "displayName": "USA",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/UA/state",
+        "rel": "next",
+        "id": "UA",
+        "name": "UA",
+        "displayName": "Ucraina",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/UG/state",
+        "rel": "next",
+        "id": "UG",
+        "name": "UG",
+        "displayName": "Uganda",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/HU/state",
+        "rel": "next",
+        "id": "HU",
+        "name": "HU",
+        "displayName": "Ungheria",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/UY/state",
+        "rel": "next",
+        "id": "UY",
+        "name": "UY",
+        "displayName": "Uruguay",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/UZ/state",
+        "rel": "next",
+        "id": "UZ",
+        "name": "UZ",
+        "displayName": "Uzbekistan",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/VU/state",
+        "rel": "next",
+        "id": "VU",
+        "name": "VU",
+        "displayName": "Vanuatu",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/VE/state",
+        "rel": "next",
+        "id": "VE",
+        "name": "VE",
+        "displayName": "Venezuela",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/VI/state",
+        "rel": "next",
+        "id": "VI",
+        "name": "VI",
+        "displayName": "Vergini Americane (isole)",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/VG/state",
+        "rel": "next",
+        "id": "VG",
+        "name": "VG",
+        "displayName": "Vergini Britanniche (isole)",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/VN/state",
+        "rel": "next",
+        "id": "VN",
+        "name": "VN",
+        "displayName": "Vietnam",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/WF/state",
+        "rel": "next",
+        "id": "WF",
+        "name": "WF",
+        "displayName": "Wallis e Futuna (isole)",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/YE/state",
+        "rel": "next",
+        "id": "YE",
+        "name": "YE",
+        "displayName": "Yemen",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/ZM/state",
+        "rel": "next",
+        "id": "ZM",
+        "name": "ZM",
+        "displayName": "Zambia",
+        "default": false
+    },
+    {
+        "href": "/care/v1/country/ZW/state",
+        "rel": "next",
+        "id": "ZW",
+        "name": "ZW",
+        "displayName": "Zimbabwe",
+        "default": false
+    }
+]

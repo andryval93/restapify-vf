@@ -1,0 +1,73 @@
+{
+  "technology": {
+    "id": 1,
+    "title": "<b>Tecnologia</b> del futuro Fwa",
+    "detail": {
+      "subtitle": "Servizi in fibra ottica",
+      "title": "Tecnologia FWA",
+      "description": {
+        "textHtml": "<p>Il vantaggio del cavo in fibra ottica ...</p>\r\n",
+        "image": "imageTest.jpg",
+        "textSimple": "Nella soluzione FWA GPON la fibra ottica collegata ..."
+      },
+      "accordion": [
+        {
+          "description": "Ut rhoncus leo non quam bibendum, et aliquam nulla pellentesque. Aenean non mauris id mauris varius placerat. In commodo ullamcorper eros et ullamcorper. Aliquam erat volutpat. Etiam eget posuere risus, vel tincidunt arcu. Morbi sollicitudin nibh vehicula condimentum consequat. Sed nec volutpat elit. Donec lobortis tortor sed rhoncus porta. Proin dolor magna, semper a sapien malesuada, vulputate blandit purus. Vestibulum ullamcorper dictum quam sed malesuada. Morbi ante ipsum, feugiat vel lobortis eget, suscipit at erat. Proin faucibus arcu sit amet aliquet ultrices. Nulla tempor sagittis sapien, sed venenatis diam feugiat maximus. Nunc cursus imperdiet diam, sed rhoncus sapien fermentum ac. Morbi non felis ex.",
+          "title": "Come sfruttare al meglio la tua rete"
+        },
+        {
+          "description": "Phasellus nec urna nec libero tempor aliquet. Ut accumsan elit eu faucibus fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non mi id ex aliquam pulvinar ut iaculis nibh. Suspendisse potenti. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur bibendum diam at vestibulum consectetur. Proin tristique dictum elit non tempus. Morbi eget urna vel erat varius sollicitudin. Morbi vitae lorem in augue finibus eleifend a laoreet tellus. Phasellus eleifend lacus est. Integer consequat dui eu faucibus sollicitudin. Cras varius suscipit erat, vel dictum ante vestibulum et. Sed rutrum tempus augue eu facilisis.",
+          "title": "Differenza tra Fibra e Rame"
+        },
+        {
+          "description": "Proin vulputate sed purus sed vulputate. Donec a pellentesque orci. Donec pretium nibh purus, eget hendrerit sapien sagittis sit amet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer accumsan risus dui, non tincidunt tellus semper eu. Aenean accumsan, orci non bibendum ultricies, mauris nisi venenatis dui, sed interdum augue magna faucibus dui. Curabitur aliquam nisi a vehicula aliquam. Ut tincidunt sed massa quis hendrerit. Donec vel nisl nec lacus molestie auctor vel placerat ipsum. Nulla porttitor tincidunt ligula, id mattis massa bibendum in. Cras fringilla urna et nisl varius lobortis. Donec eu commodo eros. Curabitur eget ullamcorper lectus.",
+          "title": "Fattori che limitano la velocità di connessione"
+        }
+      ]
+    },
+    "bestOfferChoice": {
+      "text": "La tecnologia FWA è disponibile al tuo indirizzo",
+      "editAddress": "Modifica indirizzo"
+    },
+    "card": {
+      "buttonLabel": "VISUALIZZA DETTAGLI",
+      "description": "<p>Grazie alla tecnologia <b>Fibra FWA</b> hai la miglior tecnologia possibile alla massima velocità disponibile.</p>\r\n",
+      "image": "ragazza-al-pc.jpg",
+      "title": "Tecnologia FWA",
+      "specs": [
+        {
+          "icon": "icon-download.jpg",
+          "text": "Download"
+        },
+        {
+          "icon": "icon-upload.jpg",
+          "text": "Upload"
+        },
+        {
+          "icon": "icon-delay.jpg",
+          "text": "Latenza"
+        }
+      ]
+    },
+    "nexstStepCard": {
+      "title": "I prossimi passaggi",
+      "nextSteps": [
+        {
+          "description": "<p>Attendi che il tuo ordine venga elaborato</p>\r\n"
+        },
+        {
+          "description": "<p>Scarica l'app <b>My Vodafone</b></p>\r\n"
+        },
+        {
+          "description": "<p><b>Prendi appuntamento</b> con un tecnico</p>\r\n",
+          "detailLinkLabel": "Maggiori dettagli",
+          "modal": {
+            "description": "<p>L'attivazione della fibra richiederà <b>opere di installazione a muro</b></p>\r\n",
+            "firstContent": "Il tecnico identificherà la <strong>posizione ottimale</strong> per l’antenna esterna. Il montaggio prevede la <strong>foratura del muro</strong> per permettere il passaggio del cavo e collegare l’antenna al modem.",
+            "title": "Informazioni sull'appuntamento"
+          }
+        }
+      ]
+    }
+  }
+}

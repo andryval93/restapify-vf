@@ -1,0 +1,11 @@
+{
+  "code": 560,
+  "description": "FAULT_ON_EXTERNAL_RESOURCE",
+  "message": " Ops, si è verificato un errore. TransactionID: d7bcd8a7-cf39-492a-939c-369ba7c22bb8",
+  "errorDetails": {
+    "methodKey": "journey-generic",
+    "code": "500",
+    "description": "INTERNAL_SERVER_ERROR",
+    "message": " Ops, si �� verificato un errore. TransactionID: d7bcd8a7-cf39-492a-939c-369ba7c22bb8"
+  }
+}

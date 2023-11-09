@@ -1,0 +1,74 @@
+{
+  "payments": {
+    "description": "Aggiungi il tuo nuovo metodo di pagamento ...",
+    "title": "Metodo di pagamento",
+    "choice": {
+      "option1": "Carte di credito",
+      "option2": "Conto corrente"
+    },
+    "creditCard": {
+      "description": "Al fine di garantire il corretto svolgimento della tua attivazione ...",
+      "privacyLabel": "<p>Ho letto e compreso <u>l'informativa privacy</u></p>\r\n",
+      "dataLabel": "I dati per il pagamento",
+      "title": "Carta di credito",
+      "cvvLabel": "Dove trovo il CVV?"
+    },
+    "scanCard": {
+      "description": "Inquadra il lato in cui è presente il numero della carta",
+      "manualInputLabel": "Inserisci manualmente",
+      "image": "visa-card.jpg",
+      "title": "Scansiona la tua carta"
+    },
+    "scanCardManual": {
+      "description": "Oppure inserisci i dati manualmente.",
+      "title": "Carta di credito",
+      "cvvLabel": "Dove trovo il CVV?"
+    },
+    "iban": {
+      "description": "Inserisci i dati del tuo conto corrente ...",
+      "privacyLabel": "<p>Ho letto e compreso <u>l'informativa privacy</u></p>\r\n",
+      "title": "Conto corrente"
+    },
+    "detailCVV": {
+      "description": "Il codice CVC o CVV serve come ulteriore elemento ...",
+      "image": "visa-card.jpg",
+      "title": "Dove trovo il CVV"
+    },
+    "paymentError": {
+      "buttonLabel": "CAMBIA METODO DI PAGAMENTO",
+      "description": "Abbiamo riscontrato un problema durante la verifica ...",
+      "icon": "icon-error.png",
+      "title": "Attenzione"
+    },
+    "orderNotCompletedError": {
+      "buttonLabel": "Si, riprendi",
+      "description": "Abbiamo visto che il tuo ordine è incompleto, vuoi riprendere da dove hai interrotto?",
+      "icon": "",
+      "title": "Hey"
+    },
+    "paymentSelectionError": {
+      "buttonLabel": "",
+      "description": "Si è verificato un errore durante la scelta del metodo di pagamento selezionato. Riprovare in seguito",
+      "icon": "",
+      "title": "OPS"
+    },
+    "userRegistered": {
+      "description": "Conferma l'utilizzo del tuo metodo di pagamento:",
+      "changeLabel": "Cambia il metodo di pagamento",
+      "title": "Metodo di pagamento"
+    },
+    "selectInput": {
+      "number": "Numero",
+      "expirationDate": "Data di scadenza",
+      "cvv": "CVV2 / CVCV2",
+      "iban": "Codice IBAN",
+      "type": "Circuito",
+      "user": "Nome e cognome"
+    },
+    "errorMessage": {
+      "error0": "Campo obbligatorio.",
+      "error1": "Campo errato.",
+      "error2": "Tutti i campi sono obbligatori."
+    }
+  }
+}

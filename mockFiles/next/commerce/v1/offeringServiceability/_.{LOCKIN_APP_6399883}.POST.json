@@ -1,0 +1,537 @@
+{
+  "id": "11353633",
+  "serviceabilityResult": "serviceable",
+  "offeringServiceabilityItem": [
+    {
+      "offering": {
+        "id": "4392785",
+        "name": "BETA Internet Unlimited BS TV PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "6032883",
+        "name": "BETA Internet Unlimited TV Agosto 2022 PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "5977283",
+        "name": "Family Plan Agosto 2022 PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "5231783",
+        "name": "Family Plan Marzo 2022 PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "5238183",
+        "name": "Family Plan Netflix Edition Marzo 2022 PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "4012181",
+        "name": "Family Plan Netflix Edition PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "4019681",
+        "name": "Family Plan PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "7596483",
+        "name": "Internet Unlimited 24,90 Marzo 2023 O S PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "6947883",
+        "name": "Internet Unlimited 27,90 Dic 2022 O S PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "6992683",
+        "name": "Internet Unlimited 27,90 Welfare 2023 O S PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "5668983",
+        "name": "Internet Unlimited 27,90€ CVM Aprile 2022 PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "3556298",
+        "name": "Internet Unlimited Agosto 2021 24,90 N S PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "5970283",
+        "name": "Internet Unlimited Agosto 2022 PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "4393485",
+        "name": "Internet Unlimited BS TV PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "5424883",
+        "name": "Internet Unlimited Dipendenti 19,90€ PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "3498598",
+        "name": "Internet Unlimited Dipendenti Fibra 19,90 Luglio 2021"
+      }
+    },
+    {
+      "offering": {
+        "id": "4462685",
+        "name": "Internet Unlimited Fibra + Netflix 37,90 Novembre 2021"
+      }
+    },
+    {
+      "offering": {
+        "id": "3631083",
+        "name": "Internet Unlimited Fibra + Netflix 37,90 Settembre 2021"
+      }
+    },
+    {
+      "offering": {
+        "id": "3622383",
+        "name": "Internet Unlimited Fibra + Netflix 39,90 Settembre 2021"
+      }
+    },
+    {
+      "offering": {
+        "id": "5081683",
+        "name": "Internet Unlimited Fibra + sconto FTTH 27,90"
+      }
+    },
+    {
+      "offering": {
+        "id": "3648383",
+        "name": "Internet Unlimited Fibra 19,90 Settembre 2021"
+      }
+    },
+    {
+      "offering": {
+        "id": "3431498",
+        "name": "Internet Unlimited Fibra 22,90 CVM"
+      }
+    },
+    {
+      "offering": {
+        "id": "5395183",
+        "name": "Internet Unlimited Fibra 22,90 CVM Marzo 2022"
+      }
+    },
+    {
+      "offering": {
+        "id": "6433983",
+        "name": "Internet Unlimited Fibra 22,90 Ottobre 2022"
+      }
+    },
+    {
+      "offering": {
+        "id": "3603483",
+        "name": "Internet Unlimited Fibra 24,90 Agosto 2021"
+      }
+    },
+    {
+      "offering": {
+        "id": "3062798",
+        "name": "Internet Unlimited Fibra 24,90 CVM"
+      }
+    },
+    {
+      "offering": {
+        "id": "6551683",
+        "name": "Internet Unlimited Fibra 24,90 Ottobre 2022"
+      }
+    },
+    {
+      "offering": {
+        "id": "3483198",
+        "name": "Internet Unlimited Fibra 25,90 Luglio 2021"
+      }
+    },
+    {
+      "offering": {
+        "id": "3490898",
+        "name": "Internet Unlimited Fibra 25,90 Promo Luglio 2021"
+      }
+    },
+    {
+      "offering": {
+        "id": "3415998",
+        "name": "Internet Unlimited Fibra 27,90 Luglio 2021"
+      }
+    },
+    {
+      "offering": {
+        "id": "3251998",
+        "name": "Internet Unlimited Fibra 29,90 Giugno 2021"
+      }
+    },
+    {
+      "offering": {
+        "id": "4255385",
+        "name": "Internet Unlimited Fibra 29,90 Novembre 2021 + C. Attivaz 19,90€"
+      }
+    },
+    {
+      "offering": {
+        "id": "3423698",
+        "name": "Internet Unlimited Fibra 29,90 Promo Luglio 2021"
+      }
+    },
+    {
+      "offering": {
+        "id": "5090083",
+        "name": "Internet Unlimited Fibra con Netflix + sconto FTTH 37,90"
+      }
+    },
+    {
+      "offering": {
+        "id": "259936795",
+        "name": "Internet Unlimited Fibra con chiamate + TV SPORT + INTRA 29,90"
+      }
+    },
+    {
+      "offering": {
+        "id": "259946195",
+        "name": "Internet Unlimited Fibra con chiamate + TV SPORT PLUS 29,90"
+      }
+    },
+    {
+      "offering": {
+        "id": "5136783",
+        "name": "Internet Unlimited Marzo 2022 PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "5130383",
+        "name": "Internet Unlimited Netflix Edition Marzo 2022 PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "3624098",
+        "name": "Internet Unlimited Netflix Edition N S PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "4516483",
+        "name": "Internet Unlimited Netflix Edition Novembre 2021 PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "6800983",
+        "name": "Internet Unlimited Netflix Edition Ottobre 2022 O S PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "3893198",
+        "name": "Internet Unlimited Ottobre 2021 PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "6391483",
+        "name": "Internet Unlimited Ottobre 2022 24,90 O S PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "6383983",
+        "name": "Internet Unlimited Ottobre 2022 27,90 O S PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "4549983",
+        "name": "Internet Unlimited Power Fibra + Netflix 39,90"
+      }
+    },
+    {
+      "offering": {
+        "id": "5070483",
+        "name": "Internet Unlimited Power Fibra + sconto FTTH 32,90"
+      }
+    },
+    {
+      "offering": {
+        "id": "6496583",
+        "name": "Internet Unlimited Power Fibra 27,90 + 5 C. Attivaz. Ottobre 2022"
+      }
+    },
+    {
+      "offering": {
+        "id": "6424883",
+        "name": "Internet Unlimited Power Fibra 27,90 Ottobre 2022"
+      }
+    },
+    {
+      "offering": {
+        "id": "4939683",
+        "name": "Internet Unlimited Power Fibra 29,90"
+      }
+    },
+    {
+      "offering": {
+        "id": "6567183",
+        "name": "Internet Unlimited Power Fibra 29,90 Ottobre 2022"
+      }
+    },
+    {
+      "offering": {
+        "id": "4540183",
+        "name": "Internet Unlimited Power Fibra 32,90"
+      }
+    },
+    {
+      "offering": {
+        "id": "5109383",
+        "name": "Internet Unlimited Power Fibra con Netflix + sconto FTTH 42,90"
+      }
+    },
+    {
+      "offering": {
+        "id": "5431583",
+        "name": "Internet Unlimited Special 24,90€ PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "6399883",
+        "name": "Internet Unlimited Special Edition Ottobre 2022 O S PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "7040283",
+        "name": "Internet Unlimited Special Fibra 22,90 CVM Gennaio 2023"
+      }
+    },
+    {
+      "offering": {
+        "id": "7342183",
+        "name": "Internet Unlimited TV Gen 2023 O S PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "5573985",
+        "name": "Internet Unlimited V Max Marzo PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "6885983",
+        "name": "Internet Unlimited V Max Ottobre 2022 PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "259918895",
+        "name": "Internet Unlimited con Vodafone TV Intrattenimento"
+      }
+    },
+    {
+      "offering": {
+        "id": "3124581",
+        "name": "Internet Unlimited con sim dati inclusa 2 PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "5001683",
+        "name": "Vodafone Family Plan Fibra + sconto FTTH 34,90"
+      }
+    },
+    {
+      "offering": {
+        "id": "6459083",
+        "name": "Vodafone Family Plan Fibra 29,90 Ottobre 2022"
+      }
+    },
+    {
+      "offering": {
+        "id": "3905484",
+        "name": "Vodafone Family Plan Fibra 34,90 Ottobre 2021"
+      }
+    },
+    {
+      "offering": {
+        "id": "3576683",
+        "name": "Vodafone Family Plan Fibra 37,90"
+      }
+    },
+    {
+      "offering": {
+        "id": "3290098",
+        "name": "Vodafone Family Plan Fibra 39,90"
+      }
+    },
+    {
+      "offering": {
+        "id": "3382098",
+        "name": "Vodafone Family Plan Fibra 39,90 COPY"
+      }
+    },
+    {
+      "offering": {
+        "id": "6474083",
+        "name": "Vodafone Family Plan Fibra 39,90 con Netflix Incluso Ottobre 2022"
+      }
+    },
+    {
+      "offering": {
+        "id": "3560983",
+        "name": "Vodafone Family Plan Fibra 44,90 con Netflix Incluso"
+      }
+    },
+    {
+      "offering": {
+        "id": "3920484",
+        "name": "Vodafone Family Plan Fibra 44,90 con Netflix Incluso Ottobre 2021"
+      }
+    },
+    {
+      "offering": {
+        "id": "4948483",
+        "name": "Vodafone Family Plan Fibra con Netflix + sconto FTTH 44,90"
+      }
+    },
+    {
+      "offering": {
+        "id": "4559283",
+        "name": "Vodafone Family Plan Power Fibra + Netflix 49,90"
+      }
+    },
+    {
+      "offering": {
+        "id": "4980483",
+        "name": "Vodafone Family Plan Power Fibra + sconto FTTH 39,90"
+      }
+    },
+    {
+      "offering": {
+        "id": "6505683",
+        "name": "Vodafone Family Plan Power Fibra 34,90 + 5 C. Attivaz. Ottobre 2022"
+      }
+    },
+    {
+      "offering": {
+        "id": "6443083",
+        "name": "Vodafone Family Plan Power Fibra 34,90 Ottobre 2022"
+      }
+    },
+    {
+      "offering": {
+        "id": "4574383",
+        "name": "Vodafone Family Plan Power Fibra 39,90"
+      }
+    },
+    {
+      "offering": {
+        "id": "4964883",
+        "name": "Vodafone Family Plan Power Fibra con Netflix + sconto FTTH 49,90"
+      }
+    }
+  ],
+  "serviceabilityCharacteristic": [
+    {
+      "displayName": "ActualTechnology",
+      "value": "Fibra",
+      "displayValue": "Fibra"
+    },
+    {
+      "displayName": "MaxDownloadSpeed",
+      "value": "2500",
+      "displayValue": "2.5 Gigabit"
+    },
+    {
+      "displayName": "Technology",
+      "value": "FTTH",
+      "displayValue": "FTTH"
+    },
+    {
+      "displayName": "MinVelocity"
+    },
+    {
+      "displayName": "MaxVelocity",
+      "displayValue": "2560"
+    },
+    {
+      "displayName": "MedVelocity"
+    },
+    {
+      "displayName": "Latency",
+      "value": "4",
+      "displayValue": "4"
+    },
+    {
+      "displayName": "FWA_indoor",
+      "value": "N",
+      "displayValue": "N"
+    },
+    {
+      "displayName": "FWA_outdoor",
+      "value": "N",
+      "displayValue": "N"
+    },
+    {
+      "displayName": "UploadMin"
+    },
+    {
+      "displayName": "UploadMed"
+    },
+    {
+      "displayName": "UploadMax",
+      "displayValue": "500"
+    },
+    {
+      "displayName": "DisplayTechnologyName",
+      "displayValue": "FIBRA FTTH"
+    },
+    {
+      "displayName": "VTV",
+      "displayValue": "2"
+    }
+  ],
+  "serviceabilityAddress": {
+    "city": "MILANO",
+    "country": "IT",
+    "displayCountry": "Italy",
+    "postalCode": "20154",
+    "stateOrProvince": "MI",
+    "displayStateOrProvince": "MILANO",
+    "street": "VIA PAOLO SARPI",
+    "latitude": "45.48121076",
+    "longitude": "9.18037520",
+    "externalId": "38000052876",
+    "streetNumber": "5",
+    "homeZone": "00131891",
+    "istatCode": "03015146"
+  }
+}

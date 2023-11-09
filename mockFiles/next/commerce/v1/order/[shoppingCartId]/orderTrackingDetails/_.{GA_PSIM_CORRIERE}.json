@@ -1,0 +1,83 @@
+{
+  "deliveryOrders": [
+    {
+      "code": "S",
+      "description": "Spedizione a casa",
+      "shippingOptions": [
+        {
+          "name": "ST",
+          "displayName": "Consegna standard",
+          "price": {
+            "currencyCode": "EUR",
+            "amount": 0.0
+          },
+          "isSelected": true
+        }
+      ],
+      "deliveryItems": [
+        {
+          "itemId": "106890830_3286702",
+          "itemCid": "621587",
+          "itemType": "SIM",
+          "itemName": "SIM",
+          "lineOfBusiness": "WS"
+        }
+      ],
+      "recipientDetails": {
+        "recipientName": {
+          "formattedName": "MOBILENOMPNSIMF;Prova"
+        },
+        "recipientAddress": {
+          "id": "1073857024",
+          "street": "VIA LORENTEGGIO",
+          "streetNumber": "240",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "postalCode": "20147",
+          "formattedAddress1": "VIA LORENTEGGIO 240"
+        },
+        "contactPhoneNumber": "3491303555",
+        "contactEmailAddress": "pierfrancesco.capone@vodafone.com"
+      },
+      "shippingDetails": {}
+    }
+  ],
+  "deliverySteps": [
+    {
+      "stepCode": "OV",
+      "checked": true,
+      "statusOK": true,
+      "message": {
+        "code": "OV",
+        "message": "Stiamo preparando i materiali previsti dalla tua pratica. Riceverai a breve la lettera di vettura per seguire la spedizione",
+        "shippingStatus": "OK"
+      }
+    },
+    {
+      "stepCode": "DP",
+      "checked": false
+    },
+    {
+      "stepCode": "ID",
+      "checked": false
+    },
+    {
+      "stepCode": "AC",
+      "checked": false,
+      "statusOK": true,
+      "fulfillmentDetails": [
+        {
+          "entityType": "physicalSIM",
+          "additionalInfo": [
+            {
+              "key": "serviceNo",
+              "value": "393450460926"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "orderActionSpecificStageStatus": "HandleShipmentResponse"
+}

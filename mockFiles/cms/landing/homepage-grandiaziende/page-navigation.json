@@ -1,0 +1,150 @@
+{
+  "header": {
+    "head": {
+      "customerType": [
+        {
+          "id": "1",
+          "url": "https://www.google.it",
+          "category": "privati",
+          "selected": "false"
+        },
+        {
+          "id": "2",
+          "url": "https://www.google.it",
+          "category": "aziende",
+          "selected": "false"
+        },
+        {
+          "id": "3",
+          "url": "https://www.google.it",
+          "category": "grandiaziende",
+          "selected": "true"
+        }
+      ],
+      "otherInfo": [
+        {
+          "id": "1",
+          "url": "https://www.google.it",
+          "info": "Trova negozio",
+          "title": "Trovo negozio"
+        }
+      ],
+      "userInfo": {
+        "logout": "Esci",
+        "login": "Accedi alla e-mail"
+      }
+    },
+    "body": {
+      "menuType": [
+        {
+          "id": "1",
+          "url": "https://www.google.it",
+          "category": "Mobile",
+          "links": [
+            {
+              "id": "1",
+              "url": "https://www.google.it",
+              "category": "Mobile",
+              "links": [
+                {
+                  "id": "1",
+                  "url": "https://www.google.it",
+                  "category": "Offerte telefonia Mobile"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "actionsMenu": [
+        {
+          "id": "1",
+          "url": "https://www.google.it",
+          "category": "Search"
+        }
+      ]
+    }
+  },
+  "footer": {
+    "copyright": "© Copyright 2022 - Ragione sociale: Vodafone Italia S.p.A. - Partita IVA: 08539010010 - REA: 974956",
+    "app": {
+      "message": "Manage your Vodafone products and services in the easiest way",
+      "logos": [
+        {
+          "alt": "Apple store",
+          "url": "https://www.google.it",
+          "image": "appleStore.png"
+        }
+      ]
+    },
+    "socials": {
+      "title": "Social",
+      "logo": {
+        "alt": "Vodafone",
+        "url": "https://www.google.it",
+        "image": "vfWhite.png"
+      },
+      "elements": [
+        {
+          "alt": "Facebook",
+          "url": "https://www.google.it",
+          "image": "facebook.png"
+        }
+      ]
+    },
+    "footerLinks": [
+      {
+        "category": "Vodafone Italia",
+        "links": [
+          {
+            "url": "https://www.google.it",
+            "category": "Chi siamo"
+          },
+          {
+            "category": "Lavora con noi",
+            "url": "https://www.google.com"
+          },
+          {
+            "category": "Diventa partner",
+            "url": "https://www.google.com"
+          }
+        ]
+      },
+      {
+        "category": "Offerte",
+        "links": [
+          {
+            "category": "Offerta internet casa",
+            "url": "https://www.google.com"
+          },
+          {
+            "category": "Offerte telefonia mobile",
+            "url": "https://www.google.com"
+          },
+          {
+            "category": "Offerte internet mobile",
+            "url": "https://www.google.com"
+          },
+          {
+            "category": "Offerte fibra + mobile",
+            "url": "https://www.google.com"
+          },
+          {
+            "category": "Smartphone, tablet, ecc",
+            "url": "https://www.google.com"
+          },
+          {
+            "category": "Offerte Fibra + TV",
+            "url": "https://www.google.com"
+          }
+        ]
+      }
+    ],
+    "mobileLinks": [
+      {
+        "url": "https://www.google.it",
+        "category": "Site Map"
+      }
+    ]
+  }
+}

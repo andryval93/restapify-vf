@@ -1,0 +1,25 @@
+{
+    "cartValidation": {
+        "status": "blocked",
+        "cartItemValidation": [
+            {
+                "cartItemValidationMessage": [
+                    {
+                        "status": "blocked",
+                        "message": "Not eligible or recommended for offer RED Max Under 25 R07",
+                        "validationMessageType": "eligibility"
+                    }
+                ]
+            },
+            {
+                "cartItemValidationMessage": [
+                    {
+                        "status": "blocked",
+                        "message": "The following items you have purchased are not eligible for the user: RED Max Under 25 R07",
+                        "validationMessageType": "compatibility"
+                    }
+                ]
+            }
+        ]
+    }
+}

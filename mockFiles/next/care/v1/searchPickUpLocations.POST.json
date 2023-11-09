@@ -1,0 +1,218 @@
+[
+    {
+        "storeId": "38667",
+        "locationAddress": {
+            "id": "272690050",
+            "city": "CINISELLO BALSAMO",
+            "country": "Italia",
+            "displayCountry": "Italia",
+            "stateOrProvince": "MILANO",
+            "displayStateOrProvince": "MILANO",
+            "longitude": "9.223991",
+            "latitude": "45.546402",
+            "postalCode": "20092",
+            "formattedAddress1": "VIALE LOMBARDIA 9",
+            "postalOfficeID": "38667",
+            "postalOfficeDescription": "CINISELLO BALSAMO 2"
+        },
+        "aerialDistance": 0.606
+    },
+    {
+        "storeId": "38062",
+        "locationAddress": {
+            "id": "272689716",
+            "city": "CINISELLO BALSAMO",
+            "country": "Italia",
+            "displayCountry": "Italia",
+            "stateOrProvince": "MILANO",
+            "displayStateOrProvince": "MILANO",
+            "longitude": "9.224953",
+            "latitude": "45.554324",
+            "postalCode": "20092",
+            "formattedAddress1": "VIA ANSELMO OGGIONI 76",
+            "postalOfficeID": "38062",
+            "postalOfficeDescription": "CINISELLO BALSAMO"
+        },
+        "aerialDistance": 0.789
+    },
+    {
+        "storeId": "38613",
+        "locationAddress": {
+            "id": "272690037",
+            "city": "SESTO SAN GIOVANNI",
+            "country": "Italia",
+            "displayCountry": "Italia",
+            "stateOrProvince": "MILANO",
+            "displayStateOrProvince": "MILANO",
+            "longitude": "9.238958",
+            "latitude": "45.543627",
+            "postalCode": "20099",
+            "formattedAddress1": "VIA FRANCESCO PETRARCA 33",
+            "postalOfficeID": "38613",
+            "postalOfficeDescription": "SESTO SAN GIOVANNI 3"
+        },
+        "aerialDistance": 0.829
+    },
+    {
+        "storeId": "38400",
+        "locationAddress": {
+            "id": "272689874",
+            "city": "SESTO SAN GIOVANNI",
+            "country": "Italia",
+            "displayCountry": "Italia",
+            "stateOrProvince": "MILANO",
+            "displayStateOrProvince": "MILANO",
+            "longitude": "9.227847",
+            "latitude": "45.535303",
+            "postalCode": "20099",
+            "formattedAddress1": "VIA CESARE BATTISTI 84",
+            "postalOfficeID": "38400",
+            "postalOfficeDescription": "SESTO SAN GIOVANNI 1"
+        },
+        "aerialDistance": 1.504
+    },
+    {
+        "storeId": "38500",
+        "locationAddress": {
+            "id": "272689949",
+            "city": "CINISELLO BALSAMO",
+            "country": "Italia",
+            "displayCountry": "Italia",
+            "stateOrProvince": "MILANO",
+            "displayStateOrProvince": "MILANO",
+            "longitude": "9.211996",
+            "latitude": "45.559549",
+            "postalCode": "20092",
+            "formattedAddress1": "VIA MONTE ORTIGARA 14",
+            "postalOfficeID": "38500",
+            "postalOfficeDescription": "CINISELLO BALSAMO 1"
+        },
+        "aerialDistance": 1.915
+    },
+    {
+        "storeId": "38189",
+        "locationAddress": {
+            "id": "272689811",
+            "city": "SESTO SAN GIOVANNI",
+            "country": "Italia",
+            "displayCountry": "Italia",
+            "stateOrProvince": "MILANO",
+            "displayStateOrProvince": "MILANO",
+            "longitude": "9.230197",
+            "latitude": "45.529332",
+            "postalCode": "20099",
+            "formattedAddress1": "VIALE ERCOLE MARELLI 165",
+            "postalOfficeID": "38189",
+            "postalOfficeDescription": "SESTO SAN GIOVANNI"
+        },
+        "aerialDistance": 2.147
+    },
+    {
+        "storeId": "38403",
+        "locationAddress": {
+            "id": "272689875",
+            "city": "MONZA",
+            "country": "Italia",
+            "displayCountry": "Italia",
+            "stateOrProvince": "MONZA E DELLA BRIANZA",
+            "displayStateOrProvince": "MONZA E DELLA BRIANZA",
+            "longitude": "9.241689",
+            "latitude": "45.568756",
+            "postalCode": "20900",
+            "formattedAddress1": "VIA MARTIRI DI BELFIORE 2",
+            "postalOfficeID": "38403",
+            "postalOfficeDescription": "MONZA 6"
+        },
+        "aerialDistance": 2.379
+    },
+    {
+        "storeId": "38529",
+        "locationAddress": {
+            "id": "272689977",
+            "city": "SESTO SAN GIOVANNI",
+            "country": "Italia",
+            "displayCountry": "Italia",
+            "stateOrProvince": "MILANO",
+            "displayStateOrProvince": "MILANO",
+            "longitude": "9.25201",
+            "latitude": "45.531591",
+            "postalCode": "20099",
+            "formattedAddress1": "VIA PISA 10",
+            "postalOfficeID": "38529",
+            "postalOfficeDescription": "SESTO SAN GIOVANNI 2"
+        },
+        "aerialDistance": 2.498
+    },
+    {
+        "storeId": "38476",
+        "locationAddress": {
+            "id": "272689931",
+            "city": "COLOGNO MONZESE",
+            "country": "Italia",
+            "displayCountry": "Italia",
+            "stateOrProvince": "MILANO",
+            "displayStateOrProvince": "MILANO",
+            "longitude": "9.269524",
+            "latitude": "45.547447",
+            "postalCode": "20093",
+            "formattedAddress1": "VIA DELLA REPUBBLICA 23",
+            "postalOfficeID": "38476",
+            "postalOfficeDescription": "SAN MAURIZIO AL LAMBRO"
+        },
+        "aerialDistance": 2.992
+    },
+    {
+        "storeId": "38252",
+        "locationAddress": {
+            "id": "272689853",
+            "city": "CUSANO MILANINO",
+            "country": "Italia",
+            "displayCountry": "Italia",
+            "stateOrProvince": "MILANO",
+            "displayStateOrProvince": "MILANO",
+            "longitude": "9.191245",
+            "latitude": "45.549018",
+            "postalCode": "20095",
+            "formattedAddress1": "VIALE UNIONE 33",
+            "postalOfficeID": "38252",
+            "postalOfficeDescription": "CUSANO MILANINO 1"
+        },
+        "aerialDistance": 3.099
+    },
+    {
+        "storeId": "38411",
+        "locationAddress": {
+            "id": "272689882",
+            "city": "BRESSO",
+            "country": "Italia",
+            "displayCountry": "Italia",
+            "stateOrProvince": "MILANO",
+            "displayStateOrProvince": "MILANO",
+            "longitude": "9.19281",
+            "latitude": "45.535505",
+            "postalCode": "20091",
+            "formattedAddress1": "VIA VITTORIO VENETO 66",
+            "postalOfficeID": "38411",
+            "postalOfficeDescription": "BRESSO"
+        },
+        "aerialDistance": 3.316
+    },
+    {
+        "storeId": "38518",
+        "locationAddress": {
+            "id": "272689967",
+            "city": "MILANO",
+            "country": "Italia",
+            "displayCountry": "Italia",
+            "stateOrProvince": "MILANO",
+            "displayStateOrProvince": "MILANO",
+            "longitude": "9.208805",
+            "latitude": "45.522826",
+            "postalCode": "20162",
+            "formattedAddress1": "VIA ANGELO BELLONI 1",
+            "postalOfficeID": "38518",
+            "postalOfficeDescription": "MILANO 78"
+        },
+        "aerialDistance": 3.352
+    }
+]

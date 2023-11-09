@@ -1,0 +1,137 @@
+{
+  "partyPrivacyItems": [
+    {
+      "id": "1",
+      "code": "1",
+      "title": "Commerciale",
+      "description": "Desidero ricevere offerte, promozioni Happy e comunicazioni commerciali da Vodafone e suoi partner ",
+      "longDescription": "Autorizzo Vodafone a inviarmi promozioni e comunicazioni commerciali anche mediante modalità automatizzate e tramite tutti i canali a disposizione (telefono, SMS, email, posta, etc) per prodotti e servizi di Vodafone, di società del Gruppo Vodafone e di partner commerciali. Questo consenso è necessario, ad esempio, per essere informato su regali e offerte di Happy Friday, una delle iniziative del programma Vodafone Happy",
+      "selectedValue": false,
+      "isPending": false,
+      "partyPrivacyType": "VF",
+      "sortOrder": "1",
+      "isEditable": true,
+      "isMarketing": true,
+      "revokeMessage": "Utilizziamo questo consenso per proporti le nostre offerte commerciali; se decidi di revocarlo non potremo più contattarti neanche per proporti offerte speciali scontate o promozioni esclusive. Se sei iscritto al programma Happy non potremo più proporti promozioni esclusive su misura per te e darti la possiiblità di vincere premi o ricevere regali personalizzati ogni venerdì con Happy Friday",
+      "groupName": "VFHAPPY",
+      "subscribers": [
+        {
+          "selectedValue": false,
+          "productId": "1670071500"
+        },
+        {
+          "selectedValue": false,
+          "productId": "1670071470"
+        },
+        {
+          "selectedValue": false,
+          "productId": "1670071530"
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "code": "9",
+      "title": "Profilazione",
+      "description": "Autorizzo il trattamento dei dati per definire un profilo cliente, offerte e regali Happy su misura",
+      "longDescription": "Autorizzo Vodafone al trattamento dei dati raccolti durante la fruizione dei servizi di comunicazione (voce/SMS/dati) e l’utilizzo dell’app o di altri servizi di Vodafone per creare un profilo cliente utile a migliorare la mia esperienza in Vodafone e a ricevere offerte più vicine alle mie esigenze.\nQuesto consenso è necessario, ad esempio, per ricevere regali e offerte dedicate di Happy Friday, una delle iniziative del programma Vodafone Happy/Happy Business.\n",
+      "selectedValue": false,
+      "isPending": false,
+      "partyPrivacyType": "VF",
+      "sortOrder": "2",
+      "isEditable": true,
+      "isMarketing": false,
+      "revokeMessage": "Utilizziamo questo consenso per conoscerti meglio in modo da offrirti un’esperienza cliente personalizzata e su misura per te; se decidi di revocarlo non potremo più proporti offerte e servizi pensati su misura per te. Se sei iscritto al programma Happy non potremo più proporti promozioni esclusive su misura per te e darti la possiiblità di vincere premi o ricevere regali personalizzati ogni venerdì con Happy Friday",
+      "groupName": "VFHAPPY",
+      "subscribers": [
+        {
+          "selectedValue": false,
+          "productId": "1670071500"
+        },
+        {
+          "selectedValue": false,
+          "productId": "1670071470"
+        },
+        {
+          "selectedValue": false,
+          "productId": "1670071530"
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "code": "10",
+      "title": "Localizzazione",
+      "description": "Autorizzo Vodafone al trattamento dei miei dati personali per finalità di localizzazione",
+      "longDescription": "Autorizzo Vodafone al trattamento dei dati di posizione raccolti durante la fruizione dei servizi di comunicazione (voce/sms/dati) e l’utilizzo dell’app o di altri servizi di Vodafone per creare un profilo cliente utile a migliorare la mia esperienza in Vodafone e ricevere offerte su misura. Questo consenso è necessario, ad esempio, per ricevere regali e offerte dedicate di Happy Friday, una delle iniziative del programma Vodafone Happy/Happy Business.",
+      "selectedValue": false,
+      "isPending": false,
+      "partyPrivacyType": "VF",
+      "sortOrder": "3",
+      "isEditable": true,
+      "isMarketing": false,
+      "revokeMessage": "Utilizziamo questo consenso per offrirti un’esperienza cliente personalizzata sulla base dei luoghi in cui ti trovi; se decidi di revocarlo non potremo più proporti offerte e servizi che utilizzano tali informazioni. Se sei iscritto al programma Happy non potremo più proporti promozioni esclusive su misura per te e darti la possiiblità di vincere premi o ricevere regali personalizzati ogni venerdì con Happy Friday",
+      "groupName": "VFHAPPY",
+      "subscribers": [
+        {
+          "selectedValue": false,
+          "productId": "1670071500"
+        },
+        {
+          "selectedValue": false,
+          "productId": "1670071470"
+        },
+        {
+          "selectedValue": false,
+          "productId": "1670071530"
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "code": "VFHAPPYFULL",
+      "title": "Desidero ricevere offerte commerciali personalizzate e aderire al programma Happy ricevendo Happy Friday",
+      "description": "Desidero iscrivermi a Vodafone Happy e fornisco il mio consenso alla localizzazione, profilazione e a ricevere offerte commerciali. Dichiaro di aver <a href=https://vodafonehappy.vodafone.it/condizioni target=_blank>accettato le condizioni</a> e di aver preso visione dell'<a href=https://vodafonehappy.vodafone.it/condizioni target=_blank>informativa privacy</a>. Vodafone Happy è il programma che offre vantaggi esclusivi di Vodafone e dei suoi partner e offerte personalizzate utilizzando i dati relativi al dispositivo, all' utilizzo dei servizi dati e voce di Vodafone e delle App e ai luoghi in cui ti trovi.",
+      "isPending": false,
+      "partyPrivacyType": "Other",
+      "sortOrder": "7",
+      "isEditable": true,
+      "isMarketing": false,
+      "groupName": "VFHAPPYBOX",
+      "subscribers": [
+        {
+          "productId": "1670071500"
+        },
+        {
+          "productId": "1670071470"
+        },
+        {
+          "productId": "1670071530"
+        }
+      ]
+    },
+    {
+      "id": "58",
+      "code": "VFHAPPYLIGHT",
+      "title": "Desidero aderire al programma Happy senza ricevere Happy Friday",
+      "description": "Desidero iscrivermi a Vodafone Happy per ricevere promozioni di Vodafone senza fornire il mio consenso alla localizzazione, profilazione e a ricevere offerte Commerciali e rinunciando ad Happy Friday. Dichiaro di aver accettato le condizioni e di aver preso visione dell’informativa privacy",
+      "isPending": false,
+      "partyPrivacyType": "Other",
+      "sortOrder": "34",
+      "isEditable": true,
+      "isMarketing": false,
+      "groupName": "VFHAPPYBOX",
+      "subscribers": [
+        {
+          "productId": "1670071500"
+        },
+        {
+          "productId": "1670071470"
+        },
+        {
+          "productId": "1670071530"
+        }
+      ]
+    }
+  ]
+}

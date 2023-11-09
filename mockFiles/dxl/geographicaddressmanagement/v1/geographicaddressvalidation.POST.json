@@ -1,0 +1,42 @@
+{
+    "validAddress": {
+        "streetNr": "4",
+        "streetName": "VIA MONTE ROSA",
+        "streetType": "VIA",
+        "postcode": "20030",
+        "locality": "",
+        "city": "SENAGO",
+        "stateOrProvince": "MI",
+        "geographicLocationRefOrValue": {
+            "name": "00113371",
+            "geometry": [
+                {
+                    "x": "09,13356060",
+                    "y": "45,58030690"
+                }
+            ]
+        },
+        "addressCode": "38000247943",
+        "streetNameNoDug": " MONTE ROSA",
+        "istatCode": "03015206",
+        "candidatesNumber": "0",
+        "hamletsNumber": "0"
+    },
+    "statusResponse": {
+        "resultCode": "0",
+        "resultDescription": "Servizio [normalizeAddressAndVillageService] eseguito correttamente",
+        "messageWithParams": [
+            {
+                "messageCode": "3112",
+                "messageDescription": "Errore/Warning in fase di normalizzazione dati",
+                "severity": "WARNING",
+                "parameters": [
+                    {
+                        "parName": "geocod_data.error.code",
+                        "parValue": "Home Zone aggiornata"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "techcarousel": {
+    "title": "La connessione perfetta per le tue passioni.",
+    "slide": [
+      {
+        "description": "Chiama, lavora o studia da casa senza ritardi. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "id": "6",
+        "image": "4.jpeg",
+        "title": "Per il tuo lavoro"
+      },
+      {
+        "description": "Guarda i tuoi film preferiti in 4K and play online. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "id": "7",
+        "image": "5.jpeg",
+        "title": "Per il tuo tempo libero"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "code": 0,
+  "description": "SUCCESS",
+  "result": {
+    "partyIdentifier": "7716176",
+    "psgToken": "pB2ZRL+fLNriIE1D0KX2GFCx6esMDgrAgaf82W3U1iU=#PPyZrLxtDbA9miN+iSIEJg==",
+    "customer": {
+      "username": "myvodafone",
+      "firstname": "",
+      "lastname": "",
+      "email": "cristiano.molari@vodafone.com",
+      "typeId": "3"
+    },
+    "items": [
+      {
+        "type": "sim",
+        "value": "3450514751"
+      },
+      {
+        "type": "sim",
+        "value": "3450516639"
+      }
+    ],
+    "isNext": false
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "portInDetails": {
+    "mobilePortInDetails": [
+      {
+        "msisdn": {
+          "id": "766487",
+          "code": "Port_In_MSISDN_Next_R07",
+          "mandatory": true,
+          "description": "New attribute description",
+          "selectedValue": "393409899024"
+        },
+        "isPortInAllowed": true,
+        "isPortIn": false,
+        "providerDelimPosition": 3,
+        "orderActionId": "5057657A",
+        "simAvailable": {
+          "id": "766287",
+          "code": "Donating_SIM_Available_Next_R07",
+          "mandatory": false,
+          "description": "New attribute description",
+          "selectedValue": "No",
+          "selectedDisplayValue": "No",
+          "availableValues": [
+            {
+              "type": "STRING",
+              "value": "No",
+              "displayValue": "No"
+            },
+            {
+              "type": "STRING",
+              "value": "Yes",
+              "displayValue": "Si"
+            }
+          ]
+        },
+        "portInProviderCust": {
+          "id": "766187",
+          "code": "Current_Service_Provider_Next_R07",
+          "mandatory": true,
+          "description": "New attribute description",
+          "selectedValue": "WMOB|56|Q012",
+          "selectedDisplayValue": "Wings Mobile",
+          "availableValues": [
+            {
+              "type": "STRING",
+              "value": "1MOB|7|O101",
+              "displayValue": "1 Mobile"
+            },
+            {
+              "type": "STRING",
+              "value": "VEIV|54|O113",
+              "displayValue": "VEI"
+            },
+            {
+              "type": "STRING",
+              "value": "ILIT|55|NULL",
+              "displayValue": "ILIAD ITALIA"
+            },
+            {
+              "type": "STRING",
+              "value": "TIMG|2|NULL",
+              "displayValue": "TIM"
+            },
+            {
+              "type": "STRING",
+              "value": "AFNO|78|Q017",
+              "displayValue": "2appy Afinna One"
+            },
+            {
+              "type": "STRING",
+              "value": "BTEM|34|B000",
+              "displayValue": "BT Enia Mobile BT"
+            },
+            {
+              "type": "STRING",
+              "value": "BLAD|22|O109",
+              "displayValue": "Bladna mobile"
+            },
+            {
+              "type": "STRING",
+              "value": "CMLK|62|Z003",
+              "displayValue": "CMLink Italy"
+            },
+            {
+              "type": "STRING",
+              "value": "CONA|11|O105",
+              "displayValue": "Conad Mobile"
+            },
+            {
+              "type": "STRING",
+              "value": "CNXO|77|Q016",
+              "displayValue": "Conexo Technologies"
+            },
+            {
+              "type": "STRING",
+              "value": "COOP|60|NULL",
+              "displayValue": "Coop Italia FULL"
+            },
+            {
+              "type": "STRING",
+              "value": "DTLC|10|O104",
+              "displayValue": "Daily Telecom"
+            },
+            {
+              "type": "STRING",
+              "value": "DMOB|35|NULL",
+              "displayValue": "Digi Mobile FULL"
+            },
+            {
+              "type": "STRING",
+              "value": "ENMO|66|Q006",
+              "displayValue": "ENEGAN"
+            },
+            {
+              "type": "STRING",
+              "value": "ERGM|12|O106",
+              "displayValue": "ERG Mobile"
+            },
+            {
+              "type": "STRING",
+              "value": "ELIM|74|Z004",
+              "displayValue": "Elite Mobile"
+            },
+            {
+              "type": "STRING",
+              "value": "FAST|45|NULL",
+              "displayValue": "Fastweb FULL"
+            },
+            {
+              "type": "STRING",
+              "value": "FDRM|56|Q014",
+              "displayValue": "Feder Mobile"
+            },
+            {
+              "type": "STRING",
+              "value": "INTM|65|Z002",
+              "displayValue": "Foll-In - INTERMATICA"
+            },
+            {
+              "type": "STRING",
+              "value": "GRCN|63|Z000",
+              "displayValue": "Green ICN"
+            },
+            {
+              "type": "STRING",
+              "value": "ITPW|75|Q015",
+              "displayValue": "Italia Power"
+            },
+            {
+              "type": "STRING",
+              "value": "LMIT|28|NULL",
+              "displayValue": "LYCA"
+            },
+            {
+              "type": "STRING",
+              "value": "NXMO|58|Q002",
+              "displayValue": "NT Mobile"
+            },
+            {
+              "type": "STRING",
+              "value": "NVMO|64|Z001",
+              "displayValue": "NV Mobile"
+            },
+            {
+              "type": "STRING",
+              "value": "NOIV|59|Q003",
+              "displayValue": "Noitel.it"
+            },
+            {
+              "type": "STRING",
+              "value": "NOVA|21|NULL",
+              "displayValue": "Noverca FULL"
+            },
+            {
+              "type": "STRING",
+              "value": "OPTM|52|O112",
+              "displayValue": "OPTIMA1"
+            },
+            {
+              "type": "STRING",
+              "value": "IPLA|56|Q013",
+              "displayValue": "OVUNQUE"
+            },
+            {
+              "type": "STRING",
+              "value": "PLNK|69|Q009",
+              "displayValue": "PLINK"
+            },
+            {
+              "type": "STRING",
+              "value": "PMSP|51|1PP99",
+              "displayValue": "POSTE MOBILE SINGLE PLAY"
+            },
+            {
+              "type": "STRING",
+              "value": "PLTN|56|NULL",
+              "displayValue": "Plintron"
+            },
+            {
+              "type": "STRING",
+              "value": "PTMB|9|O102",
+              "displayValue": "Poste Italiane"
+            },
+            {
+              "type": "STRING",
+              "value": "PMOB|32|NULL",
+              "displayValue": "PosteMobile Full"
+            },
+            {
+              "type": "STRING",
+              "value": "RABM|57|Q001",
+              "displayValue": "Rabona Mobile"
+            },
+            {
+              "type": "STRING",
+              "value": "SPIT|67|NULL",
+              "displayValue": "Spusu Italia"
+            },
+            {
+              "type": "STRING",
+              "value": "TLMK|68|Q008",
+              "displayValue": "Telmekom Mobile"
+            },
+            {
+              "type": "STRING",
+              "value": "TISC|17|T001",
+              "displayValue": "Tiscali"
+            },
+            {
+              "type": "STRING",
+              "value": "MUND|43|NULL",
+              "displayValue": "Vectone FULL MVNO"
+            },
+            {
+              "type": "STRING",
+              "value": "WITH|61|Q004",
+              "displayValue": "WITH U"
+            },
+            {
+              "type": "STRING",
+              "value": "WLIM|53|NULL",
+              "displayValue": "Welcome FULL MVNO"
+            },
+            {
+              "type": "STRING",
+              "value": "WIN3|62|NULL",
+              "displayValue": "Wind Tre S.p.A."
+            },
+            {
+              "type": "STRING",
+              "value": "WMOB|56|Q012",
+              "displayValue": "Wings Mobile"
+            }
+          ]
+        },
+        "currentPlan": {
+          "id": "1163487",
+          "code": "Current_Plan_Type_Next_R07",
+          "mandatory": false,
+          "description": "New attribute description",
+          "selectedValue": "Rechargeable",
+          "selectedDisplayValue": "Ricaricabile",
+          "availableValues": [
+            {
+              "type": "STRING",
+              "value": "Subscription",
+              "displayValue": "Abbonamento"
+            },
+            {
+              "type": "STRING",
+              "value": "Rechargeable",
+              "displayValue": "Ricaricabile"
+            }
+          ]
+        },
+        "transferRemainingBalance": {
+          "id": "766587",
+          "code": "Transfer_Balance_From_Donor_Ind_Next_R07",
+          "mandatory": false,
+          "description": "New attribute description",
+          "selectedValue": "No",
+          "selectedDisplayValue": "No",
+          "availableValues": [
+            {
+              "type": "STRING",
+              "value": "No",
+              "displayValue": "No"
+            },
+            {
+              "type": "STRING",
+              "value": "Yes",
+              "displayValue": "Si"
+            }
+          ]
+        },
+        "simNumber": {
+          "id": "766387",
+          "code": "Donating_SIM_Number_Next_R07",
+          "mandatory": false,
+          "description": "New attribute description"
+        }
+      }
+    ]
+  }
+}

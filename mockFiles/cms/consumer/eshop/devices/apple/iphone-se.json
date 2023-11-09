@@ -1,0 +1,77 @@
+{
+  "iphone-se": {
+    "devicedetail": {
+      "description": "<p>con tanti GB per le tue foto</p>\r\n",
+      "deviceBrand": "Apple",
+      "tagLine": "best choiche",
+      "category": "smartphone",
+      "image": "iphone.png",
+      "price": "<p>Molti <b>euri</b></p>\r\n",
+      "offerLabel": "A Soli",
+      "isSellable": "true",
+      "isAvailable": "true",
+      "deviceName": "iphone se",
+      "lowestPrice": "<p>A partire da 12€</p>\r\n",
+      "haveMarketingLabel": "true",
+      "hub": {
+        "outOfStockLabel": "TERMINATI",
+        "action": {
+          "type": "9",
+          "small": "true",
+          "style": "primary",
+          "title": "Scopri di più",
+          "isBlank": "true"
+        },
+        "availableColor": {
+          "enabled": "true",
+          "label": "Colori"
+        }
+      },
+      "pdp": {
+        "stickyDescription": "<p>Bellissmo <b>smartphone</b></p>\r\n",
+        "stickyShowDetailLabel": "Visualizza dettagli",
+        "stickyTopLabel": "Il prezzo è di ",
+        "stickyHideDetailLabel": "Nascondi dettagli",
+        "action": {
+          "url": "www.google.it",
+          "type": "1",
+          "small": "false",
+          "style": "primary",
+          "title": "Scopri come averlo",
+          "localUrl": "local url",
+          "isBlank": "true"
+        },
+        "secondAction": {
+          "url": "url ",
+          "type": "1",
+          "small": "false",
+          "style": "primary",
+          "title": "Altro",
+          "localUrl": "local url",
+          "isBlank": "false"
+        }
+      },
+      "models": [
+        {
+          "displayNameColor": "Giallo sole",
+          "exColor": "rgb(255,217,127)",
+          "idSize": "3",
+          "sku": "55554",
+          "price": "<p>A soli 980€ <b>SOLO</b> <b>PER</b> <b>OGGI</b></p>\r\n",
+          "isSellable": "true",
+          "isAvailable": "true",
+          "isDefault": "true",
+          "idColor": "1",
+          "images": [
+            {
+              "key": "iphone.png"
+            },
+            {
+              "key": "iphone.png"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "deliveryOrderItem",
+  "id": "4668",
+  "deliveringItem": [
+    {
+      "type": "internetOrderItem",
+      "product": {
+        "type": "internetProduct",
+        "installationAddress": { "id": "271471246" }
+      },
+      "orderItemRelationship": [{ "id": "4668", "type": "deliveringBy" }],
+      "orderActionId": "442366330"
+    }
+  ],
+  "deliveryProduct": {
+    "deliveryMethod": "V1DeliveryProduct",
+    "deliveryAddress": { "id": "271471246", "type": "regular" },
+    "recipient": {
+      "firstName": "Pippo",
+      "lastName": "De giuseppe",
+      "phoneNumber1": "3385648789",
+      "emailAddress": "pippuzzoasdf@gmail.com"
+    }
+  },
+  "order": {
+    "href": "/commerce/v1/order/442366329A?salesChannel=selfService",
+    "rel": "related",
+    "id": "442366329A"
+  },
+  "deliverableItem": [
+    { "type": "EQP", "displayName": "Vodafone Wi-Fi 6 Station" }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "assistance": {
+    "title": "Assistenza",
+    "subtitle": "HTML Hai dubbi in merito all’attivazione della tua offerta? Chiamama il 190 o prenota un chiamata, tenendo a portata di mano il codice pratica. Siamo a tua disposizione durante tutte le fasi del processo. HTML",
+    "practiceCode": "Codice Pratica: $PRACTICE_CODE",
+    "phoneNumberLabel": "Numero di telefono",
+    "phoneNumberDisclaimer": "HTML Autorizzo Vodafone al contatto telefonico richiesto.",
+    "privacyLabel": "HTML Informativa privacy",
+    "callMeNow": {
+      "buttonLabel": "Fatti richiamare gratis",
+      "url": "https:assistenza"
+    },
+    "callVodafoneLabel": "Chiama 190"
+  },
+  "otherInfo": {
+    "title": "Altre informazioni",
+    "subtitle": "HTML Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod HTML",
+    "yourOfferButton": {
+      "icon": "box.png",
+      "label": "La tua offerta"
+    },
+    "personalDataButton": {
+      "icon": "person.png",
+      "label": "I tuoi dati personali"
+    },
+    "addressButton": {
+      "icon": "location.png",
+      "label": "Indirizzi"
+    },
+    "yourMaterialsButton": {
+      "icon": "location.png",
+      "label": "i tuoi materiali"
+    }
+  },
+  "support": {
+    "title": "Supporto",
+    "subtitle": "HTML Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+    "orderCancellationCard": {
+      "icon": "close.png",
+      "title": "Cancella ordine",
+      "description": "HTML Vuoi annullare il tuo ordine? Tieni presente che se annulli il tuo ordine non potrai recuperare i prodotti già ordinali.",
+      "buttonLabel": "Cancella ordine"
+    }
+  },
+  "assistanceOrderCanceled": {
+    "title": "Non volevi cancellare?",
+    "subtitle": "HTML Se hai cancellato il tuo ordine per errore o desideri riattivarlo, prenota una chiamata con il nostro agente che ti assisterà.tenendo a portata di mano il codice pratica. Siamo a tua disposizione durante tutte le fasi del processo.",
+    "phoneNumberLabel": "Numero di telefono",
+    "phoneNumberDisclaimer": "HTML Autorizzo Vodafone al contatto telefonico richiesto.",
+    "privacyLabel": "HTML Informativa privacy",
+    "callMeNow": {
+      "ButtonLabel": "Fatti richiamare gratis",
+      "url": "https:assistenza"
+    },
+    "callVodafoneLabel": "Chiama 190"
+  },
+  "yourMaterials": {
+    "icon": "close.png",
+    "title": "I tuoi materiali",
+    "description": "HTML Scopri di più sui materiali che abbiamo pronti per te, sulle istruzioni e sulle informazioni utili a cui puoi accedere in qualsiasi momento.",
+    "buttonLabel": "Visualizza i dettagli"
+  },
+  "yourProducts": {
+    "icon": "close.png",
+    "title": "I tuoi prodotti e servizi",
+    "description": "HTML Attiva i prodotti e servizi che hai aggiunto nella tua offerta",
+    "activateProduct": {
+      "buttonLabel": "Attiva il prodotto",
+      "url": "https:attiva"
+    }
+  }
+}

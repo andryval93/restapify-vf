@@ -1,0 +1,367 @@
+[
+  {
+    "id": "ea14.623.4ec109b3.fffffffff5724833",
+    "code": "000001570",
+    "name": "Internet Unlimited SpecialEdition 19.90",
+    "type": "Fixed",
+    "score": "100",
+    "shortDescription": "Per te che sei gi? cliente Vodafone, naviga senza limiti fino a 2.5 Gigabit. Offerta internet casa tutto incluso, compreso il modem e il costo di attivazione di 5€ al mese per 24 mesi",
+    "longDescription": "Per te che sei gi? cliente Vodafone mobile la fibra non ? mai stata cos? conveniente! Internet illimitato fino ad 2.5 Gigabit al secondo al prezzo scontato di 19,90€ al mese, compreso il modem Vodafone Wi-Fi 6 Station e il costo di attivazione di 5€ al mese per 24 mesi. In pi? con Giga Family hai 50 Giga extra alla massima velocit? della Rete Vodafone sul tuo numero mobile. Puoi inoltre personalizzare la tua offerta con: chiamate verso fissi e mobili nazionali a 3€ in pi? al mese, Rete Sicura Family a 3.99€ € in pi? al mese. Lo sconto a 19,90€ al mese ? valido solo se mantieni attive sia la tua offerta mobile che quella di rete fissa. Se disattivi la componente mobile pagherai 27,90€ euro al mese.",
+    "bolloDescription": "Sconto 8€ in cassa",
+    "title": "Internet Unlimited Special Edition",
+    "cpdCorrelationKey": "CPD-FM-8E",
+    "massMarketInd": true,
+    "sessionId": "DIGI_0315130709471_569",
+    "campaignPrice": [
+      {
+        "type": "recurring",
+        "price": {
+          "currencyCode": "EUR",
+          "amount": 27.9
+        }
+      },
+      {
+        "type": "oneTime",
+        "price": {
+          "currencyCode": "EUR",
+          "amount": 0
+        }
+      }
+    ],
+    "massMarketPrice": [
+      {
+        "type": "recurring",
+        "price": {
+          "currencyCode": "EUR",
+          "amount": 27.9
+        }
+      },
+      {
+        "type": "oneTime",
+        "price": {
+          "currencyCode": "EUR",
+          "amount": 0
+        }
+      }
+    ],
+    "offeringList": [
+      {
+        "href": "/commerce/v1/multiPlayOffering/6399883?salesChannel=selfService",
+        "rel": "self",
+        "id": "6399883",
+        "type": "multiPlayOffering",
+        "name": "Internet_Unlimited_Sp_Ed_Ottobre_2022_O_S_PO_R1",
+        "displayName": "Internet Unlimited Special Edition Ottobre 2022 O S PO R1",
+        "description": "Internet Unlimited CVM - 22,90 Euro per i primi 24 mesi più 5 Euro di costo di attivazione poi 27,90 euro",
+        "isTopItem": false,
+        "isBundle": true,
+        "offeringPrice": [
+          {
+            "type": "oneTime",
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 0,
+              "amount": 0,
+              "taxAmount": 0
+            }
+          },
+          {
+            "type": "recurring",
+            "recurringChargePeriod": "month",
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0,
+              "taxIncludedAmount": 27.9,
+              "amount": 27.9,
+              "taxAmount": 0
+            }
+          }
+        ],
+        "category": [
+          {
+            "href": "/commerce/v1/category/257005081_257011781?salesChannel=selfService",
+            "rel": "self",
+            "id": "257005081_257011781",
+            "name": "Offerte Rete Fissa",
+            "code": "Offerte_Rete_Fissa_Next_R1"
+          }
+        ],
+        "descriptiveCharacteristic": [
+          {
+            "id": "2677581",
+            "name": "Costo_Attivazione_SS_Next_R1",
+            "displayName": "Costo Attivazione SS R1",
+            "type": "discrete",
+            "purpose": [
+              "summary"
+            ],
+            "value": [
+              {
+                "value": "5€ per 24 mesi incluso",
+                "displayValue": "5€ per 24 mesi incluso"
+              }
+            ]
+          },
+          {
+            "id": "2677981",
+            "name": "Velocita_Massima_SS_Next_R1",
+            "displayName": "Velocità Massima SS R1",
+            "type": "discrete",
+            "purpose": [
+              "summary"
+            ],
+            "value": [
+              {
+                "value": "2.5 Gigabit",
+                "displayValue": "2.5 Gigabit"
+              }
+            ]
+          },
+          {
+            "id": "2678181",
+            "name": "Vodafone_Ready_SS_Next_R1",
+            "displayName": "Vodafone Ready SS R1",
+            "type": "discrete",
+            "purpose": [
+              "summary"
+            ],
+            "value": [
+              {
+                "value": "Inclusa",
+                "displayValue": "Inclusa"
+              }
+            ]
+          },
+          {
+            "id": "2759481",
+            "name": "Equipment_Next_R1",
+            "displayName": "Equipment R1",
+            "type": "discrete",
+            "purpose": [
+              "summary"
+            ],
+            "value": [
+              {
+                "value": "Vodafone Station",
+                "displayValue": "Vodafone Station"
+              }
+            ]
+          },
+          {
+            "id": "2759581",
+            "name": "Equipment_Cost_Next_R1",
+            "displayName": "Equipment cost R1",
+            "type": "discrete",
+            "purpose": [
+              "summary"
+            ],
+            "value": [
+              {
+                "value": "Inclusa",
+                "displayValue": "Inclusa"
+              }
+            ]
+          },
+          {
+            "id": "3241381",
+            "name": "Giga_Family_Desc_Next_R1",
+            "displayName": "GigaFamily Desc SS RT R1",
+            "type": "discrete",
+            "purpose": [
+              "summary"
+            ],
+            "value": [
+              {
+                "value": "Compatibile",
+                "displayValue": "Compatibile"
+              }
+            ]
+          },
+          {
+            "id": "5969983",
+            "name": "Chiamate_Fissi_e_Mobili_SS_TLS_R1",
+            "displayName": "Chiamate Fissi e Mobili SS TLS R1",
+            "type": "discrete",
+            "purpose": [
+              "summary"
+            ],
+            "value": [
+              {
+                "value": "Incluso",
+                "displayValue": "Incluso"
+              }
+            ]
+          }
+        ],
+        "isDriveToStore": false,
+        "internet": [
+          {
+            "href": "/commerce/v1/internetOffering/6399883_6404883_6375583?salesChannel=selfService",
+            "rel": "self",
+            "id": "6399883_6404883_6375583",
+            "type": "internetOffering",
+            "name": "Internet_Next_R1",
+            "displayName": "Internet R1",
+            "description": "Internet Product",
+            "offeringPrice": [
+              {
+                "type": "oneTime",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxRate": 0,
+                  "taxIncludedAmount": 0,
+                  "amount": 0,
+                  "taxAmount": 0
+                }
+              },
+              {
+                "type": "recurring",
+                "recurringChargePeriod": "month",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxRate": 0,
+                  "taxIncludedAmount": 27.9,
+                  "amount": 27.9,
+                  "taxAmount": 0
+                }
+              }
+            ],
+            "plan": {
+              "id": "6375583",
+              "type": "internetPlanOffering",
+              "name": "Internet Unlimited Special Edition Ottobre 2022 R1",
+              "description": "Internet Unlimited Special Edition"
+            },
+            "minCardinality": 1,
+            "maxCardinality": 1,
+            "defaultCardinality": 1
+          }
+        ],
+        "fixedVoice": [
+          {
+            "href": "/commerce/v1/fixedVoiceOffering/6399883_6399983_256982381?salesChannel=selfService",
+            "rel": "self",
+            "id": "6399883_6399983_256982381",
+            "type": "fixedVoiceOffering",
+            "name": "Fixed_Voice_Next_R1",
+            "displayName": "Fixed Voice R1",
+            "description": "The Fixed Voice service enables users to make calls using landline voice services",
+            "offeringPrice": [
+              {
+                "type": "recurring",
+                "recurringChargePeriod": "month",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxRate": 0,
+                  "taxIncludedAmount": 0,
+                  "amount": 0,
+                  "taxAmount": 0
+                }
+              }
+            ],
+            "plan": {
+              "id": "256982381",
+              "type": "fixedVoicePlanOffering",
+              "name": "Fixed Voice PPU Plan R1",
+              "description": "Piano Voce"
+            },
+            "minCardinality": 1,
+            "maxCardinality": 1,
+            "defaultCardinality": 1
+          }
+        ],
+        "tv": [
+          {
+            "href": "/commerce/v1/tvOffering/6399883_6406383_null?salesChannel=selfService",
+            "rel": "self",
+            "id": "6399883_6406383_null",
+            "type": "tvOffering",
+            "name": "TV_Next_R1",
+            "displayName": "TV R1",
+            "description": "TV Product R1",
+            "offeringPrice": [
+              {
+                "type": "oneTime",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxRate": 0,
+                  "taxIncludedAmount": 9.99,
+                  "amount": 9.99,
+                  "taxAmount": 0
+                }
+              }
+            ],
+            "plan": {},
+            "minCardinality": 0,
+            "maxCardinality": 1,
+            "defaultCardinality": 0
+          }
+        ],
+        "dataSim": [
+          {
+            "href": "/commerce/v1/mobileOffering/6399883_6401783_3125881?salesChannel=selfService",
+            "rel": "self",
+            "id": "6399883_6401783_3125881",
+            "type": "mobileOffering",
+            "name": "Mobile_Next_R07",
+            "displayName": "Mobile R07",
+            "description": "Mobile Product R07",
+            "offeringPrice": [
+              {
+                "type": "oneTime",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxRate": 0,
+                  "taxIncludedAmount": 0,
+                  "amount": 0,
+                  "taxAmount": 0
+                }
+              },
+              {
+                "type": "recurring",
+                "recurringChargePeriod": "month",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxRate": 0,
+                  "taxIncludedAmount": 0,
+                  "amount": 0,
+                  "taxAmount": 0
+                }
+              }
+            ],
+            "plan": {
+              "id": "3125881",
+              "type": "mobilePlanOffering",
+              "name": "Attivazione Internet 1 GB R1",
+              "description": "Internet 1 GB"
+            },
+            "minCardinality": 1,
+            "maxCardinality": 1,
+            "defaultCardinality": 1
+          }
+        ]
+      }
+    ],
+    "isInbound": true,
+    "fixedBundle": {
+      "productOfferId": "6399883",
+      "internet": {},
+      "fixedVoice": {},
+      "dataSim": {},
+      "tv": {
+        "packDetails": {},
+        "componentModeDetails": {}
+      },
+      "campaignEquipment": {
+        "campaignVodafoneReady": {},
+        "campaignVodafoneStation": {},
+        "campaignSTB": {}
+      },
+      "campaignActivationProps": {},
+      "technology": "FTTH"
+    },
+    "isChangeTechOnly": false,
+    "technology": "FTTH"
+  }
+]

@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "description": "SUCCESS",
+  "result": {
+    "addon": false,
+    "hasCredit": true,
+    "activationParams": [],
+    "incompatibilityType": "WEAK",
+    "incompatibilities": [
+      {
+        "type": "DEACTIVATIONS",
+        "products": [
+          {
+            "id": "BUNDLECB17",
+            "type": "BUNDLE",
+            "name": "Special 50 Digital Edition",
+            "explicit": false
+          }
+        ]
+      }
+    ],
+    "mop": "<p>Metodo di pagamento</p><p><b>Carta di credito</b></p>",
+    "additionalFields": {
+      "PRODUCT_OFFERING_QUALIFICATION_ITEM": {
+        "id": "",
+        "conditionCode": ["CHECK_ACT_WEAK_INC"],
+        "billingObject": {
+          "ObjectNumber": "3389829055",
+          "ObjectType": "SIM_MOBILE",
+          "ObjectId": "223720350",
+          "simCardType": "2"
+        },
+        "hasPreRequired": "false",
+        "hasStrongIncompatibilities": "false",
+        "hasWeakIncompatibilities": "true",
+        "isRetryable": "U",
+        "nbaInfo": {
+          "productId": "3482",
+          "omProductId": "BUNDLECB18",
+          "omSource": "BESFO",
+          "spyderId": "1943",
+          "productName": "Infinito Special Edition",
+          "productDescription": "Minuti verso fissi e mobili nazionali, SMS e Giga illimitati fino a 2 megabit al secondo sulla Giga Network 5G",
+          "productType": "Bundle",
+          "displayActivationCost": "12.0",
+          "performActivationCost": "12.0",
+          "frequency": "al mese",
+          "productRelationship": [
+            {
+              "productRefOrValue": {
+                "name": "Special 50 Digital Edition",
+                "omProductId": "BUNDLECB17",
+                "omSource": "BESFO",
+                "productType": "Bundle"
+              },
+              "informativeLink": "https://www.vodafone.it/portal/client/cms/viewCmsPage.action?pageId=62611&popup=true",
+              "incompatibilityType": "weak",
+              "relationshipFlag": "incompatible product"
+            }
+          ],
+          "actionId": "501275",
+          "actionType": "Offerta Promozionale",
+          "nbaBuyCost": "11.0",
+          "numAvailableNbaRenewal": "199"
+        },
+        "operationInfo": [
+          {
+            "operationId": "A",
+            "sendMail": "true",
+            "sendSms": "true",
+            "popupFlag": "false",
+            "tracingInfo": {
+              "tracingCode": "39101",
+              "rocCreation": "false",
+              "normalize": "false"
+            },
+            "reasonId": "121320",
+            "paymentMethodList": ["S"]
+          }
+        ],
+        "mop": "CDC",
+        "operationStatus": {
+          "status": "OK"
+        },
+        "operationManagInfo": [
+          {
+            "hasCredit": "true"
+          }
+        ]
+      }
+    },
+    "retryable": "U",
+    "send_email": true
+  }
+}

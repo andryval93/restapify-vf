@@ -1,0 +1,64 @@
+{
+  "A000101164": {
+    "campaigndetails": {
+      "expirationDate": "2023-11-15T00:00:00.000+01:00"
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "type": "SLIDER_ICON_TITLE_DESCRIPTION",
+          "title": "<p>La nostra Rete 5G è diversa.</p>\r\n<p>Più <b>veloce, </b>più <b>potente.</b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Tieniti forte. Con la potenza del 5G, dai un boost alla tua esperienza di navigazione",
+              "title": "Massima velocità",
+              "positionTextTop": "false",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "style": "primary",
+                "isBlank": "false"
+              },
+              "pills": {
+                "isDark": "false"
+              }
+            },
+            {
+              "description": "La Rete risponde ai tuoi input in tempo record.\r\nCosì ogni comunicazione avviene all'istante.",
+              "title": "In tempo reale.",
+              "positionTextTop": "false",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "style": "primary",
+                "isBlank": "false"
+              },
+              "pills": {
+                "isDark": "false"
+              }
+            },
+            {
+              "description": "La qualità della navigazione ti sorprenderà: è sempre al massimo anche nei luoghi più affollati.",
+              "title": "Capacità mai vista.",
+              "positionTextTop": "false",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "style": "primary",
+                "isBlank": "false"
+              },
+              "pills": {
+                "isDark": "false"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

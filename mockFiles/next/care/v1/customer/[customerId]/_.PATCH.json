@@ -1,0 +1,74 @@
+{
+  "href": "/care/v1/customer/100039962?salesChannel=selfService",
+  "id": "100039962",
+  "name": "Pippo De giuseppe",
+  "type": "individual",
+  "subtype": "individual",
+  "rank": "-647",
+  "billingAddress": {
+    "id": "271942108",
+    "city": "MILANO",
+    "country": "IT",
+    "postalCode": "20158",
+    "stateOrProvince": "MI",
+    "street": "VIA ANTONIO CARNEVALI",
+    "formattedAddress1": "29 VIA ANTONIO CARNEVALI",
+    "formattedAddress3": "MILANO MILANO 20158",
+    "externalId": "38000050923",
+    "streetNumber": "29",
+    "homeZone": "00114492",
+    "istatCode": "03015146"
+  },
+  "financialAccount": [{ "id": "701558559" }],
+  "owningIndividual": {
+    "id": "220304701163827",
+    "firstName": "Pippo",
+    "lastName": "De giuseppe",
+    "title": "EMPTY",
+    "birthDate": "1980-01-01",
+    "gender": "male",
+    "contactMedium": [
+      {
+        "type": "email",
+        "emailAddress": "pippuzzoasdf@gmail.com",
+        "id": "275007823"
+      },
+      { "type": "phone", "phoneNumber": "3385648789", "id": "275007824" },
+      {
+        "type": "postalAddress",
+        "preferred": false,
+        "id": "271942108",
+        "city": "MILANO",
+        "country": "IT",
+        "displayCountry": "Italia",
+        "postalCode": "20158",
+        "stateOrProvince": "MI",
+        "displayStateOrProvince": "MILANO",
+        "street": "VIA ANTONIO CARNEVALI",
+        "formattedAddress1": "29 VIA ANTONIO CARNEVALI",
+        "formattedAddress3": "MILANO MILANO 20158",
+        "latitude": "0.0",
+        "longitude": "0.0",
+        "externalId": "38000050923",
+        "streetNumber": "29",
+        "homeZone": "00114492",
+        "istatCode": "03015146"
+      }
+    ],
+    "identification": [
+      {
+        "identificationNumber": "PA5648894",
+        "identificationType": "1",
+        "issueDate": "1753-01-01",
+        "expirationDate": "2030-12-31",
+        "id": "269669178",
+        "nationality": "IT",
+        "isLegacy": false
+      }
+    ],
+    "birthPlace": "MILANO",
+    "fiscalCode": "DGSPPP80A01F205X"
+  },
+  "acquisitionDate": "2022-03-04T15:18:31Z",
+  "marketTag": "VF"
+}

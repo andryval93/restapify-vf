@@ -1,0 +1,43 @@
+{
+  "670000306174": {
+    "widgetProductBanner": {
+      "type": "PRODUCT_HERO_BANNER",
+      "disclaimerHtml": "<p>Offerta valida su tecnologia Fibra FTTH misto Fibra/Rame FTTC .  Velocità massima 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH – Fiber To The Home. Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su <a href=\"https://www.vodafone.it/eshop/tariffe-e-prodotti/internet-a-casa/fibra-ottica.html?icmp=offerte-fibra#vfa-drop-section1\">info tecnologia</a> e <a href=\"https://www.vodafone.it/portal/Privati/Tariffe-e-Prodotti/Fibra--ADSL-e-telefono/copertura-comuni?icmp=offerte-fibra\">copertura comuni</a>.</p>\r\n",
+      "descriptionHtml": "<p>In ufficio come a casa: naviga <b>senza limiti</b> con<b> la migliore tecnologia, tutta la potenza della Rete Vodafone</b> e il Modem con<b> Wi-Fi ottimizzato</b> incluso, per un segnale perfetto per <b>tutti i device collegati.</b></p>\r\n",
+      "product": {
+        "overrideOfferName": "Fissa Smart",
+        "overrideCostActivationHtml": "Costo di attivazione di 5€ x 24 mesi incluso nel prezzo",
+        "frontLabel": "A soli",
+        "slug": "fissa-smart",
+        "dxlId": "670000306174",
+        "offerLabel": "IVA ESCLUSA",
+        "overrideCostRenewalHtml": "<s>30,00€</s> <b>25,00€</b><b>/mese</b>",
+        "imageBackgroundUrl": "WomenOnePointFiveDimensionExport.jpg",
+        "backLabel": {
+          "url": "https://www.google.it",
+          "text": "Tutte le offerte di Rete Fissa"
+        },
+        "actions": [
+          {
+            "type": "3",
+            "style": "1",
+            "title": "VERIFICA COPERTURA"
+          },
+          {
+            "type": "1",
+            "style": "2",
+            "title": "ATTIVA CON UN OPERATORE"
+          }
+        ]
+      },
+      "customAction": {
+        "url": "https://www.google.it",
+        "type": "1",
+        "small": "false",
+        "style": "2",
+        "title": "SCOPRI I DETTAGLI",
+        "isBlank": "false"
+      }
+    }
+  }
+}

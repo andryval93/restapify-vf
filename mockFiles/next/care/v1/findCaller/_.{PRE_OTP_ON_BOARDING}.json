@@ -1,0 +1,16 @@
+{
+  "individualRef": {
+    "msisdn": "******0556",
+    "email": "*********chi1@vodafone.com"
+  },
+  "subscription": [
+    {
+      "msisdn": "********3065"
+    },
+    {
+      "msisdn": "********2244"
+    }
+  ],
+  "activeSimMobile": true,
+  "customerHasActiveSubs": true
+}

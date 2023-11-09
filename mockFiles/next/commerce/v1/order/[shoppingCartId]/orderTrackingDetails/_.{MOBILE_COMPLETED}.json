@@ -1,0 +1,93 @@
+{
+  "deliveryOrders": [
+    {
+      "code": "S",
+      "description": "Shipping to Home",
+      "shippingOptions": [
+        {
+          "name": "ST",
+          "displayName": "Standard Delivery",
+          "price": {
+            "currencyCode": "EUR",
+            "amount": 0
+          },
+          "isSelected": true
+        }
+      ],
+      "deliveryItems": [
+        {
+          "itemId": "108560067_5064747",
+          "itemCid": "621587",
+          "itemType": "SIM",
+          "itemName": "SIM R07",
+          "lineOfBusiness": "WS"
+        }
+      ],
+      "recipientDetails": {
+        "recipientName": {
+          "formattedName": "NELIFEAUTO;PUJASOZCR"
+        },
+        "recipientAddress": {
+          "id": "268578850",
+          "street": "VIA LORENTEGGIO",
+          "streetNumber": "240",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "postalCode": "20147",
+          "formattedAddress1": "VIA LORENTEGGIO 240"
+        },
+        "contactPhoneNumber": "3406940206",
+        "contactEmailAddress": "hamza.mograbi@amdocs.com"
+      },
+      "shippingDetails": {
+        "sapStatusCode": "OK",
+        "deliveryEstimatedDate": "2023-10-22T23:00:00Z",
+        "trackingId": "DoNotTrackMe",
+        "contractNumber": "3685458585",
+        "sapSummary": "Manca disponibilitA  (quando manca la disponibilitA  del aterial in magazzino)",
+        "eventDate": "2023-10-22T23:00:00Z",
+        "ddtNumber": "5839000450",
+        "ddtDate": "2023-10-22T23:00:00Z"
+      }
+    }
+  ],
+  "deliverySteps": [
+    {
+      "stepCode": "OV",
+      "checked": false,
+      "statusOK": true
+    },
+    {
+      "stepCode": "DP",
+      "checked": false
+    },
+    {
+      "stepCode": "ID",
+      "checked": false,
+      "statusOK": true
+    },
+    {
+      "stepCode": "AC",
+      "checked": true,
+      "statusOK": true,
+      "fulfillmentDetails": [
+        {
+          "activationDate": "Mon Oct 23 11:44:48 CEST 2023",
+          "entityType": "physicalSIM",
+          "entityStatus": "Completed",
+          "additionalInfo": [
+            {
+              "key": "serviceNo",
+              "value": "393495225112"
+            },
+            {
+              "key": "activationDate",
+              "value": "Mon Oct 23 11:44:48 CEST 2023"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

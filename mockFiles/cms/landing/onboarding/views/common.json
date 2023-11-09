@@ -1,0 +1,164 @@
+{
+  "login": {
+    "backgroundImage": "logo.png",
+    "backgroundImageMobile": "logo.png",
+    "card": {
+      "title": "Benvenuto in Vodafone",
+      "subtitle": "HTML Inserisci la tua Codice fiscale accedi alla piattaforma di Onboarding.",
+      "fiscalCode": "codiceFiscale",
+      "missingFiscalCode": {
+        "title": "non ti ricordi il codice fiscale?",
+        "link": "Calcola il codice fiscale"
+      },
+      "infoOtp": "HTML Ti invieremo un codice segreto per verificare la tua identità sul numero di contatto che hai fornito.",
+      "buttonLabel": "Accedi"
+    }
+  },
+  "retrieveFiscalCode": {
+    "navbarTitle": "Calcola il codice fiscale",
+    "view": {
+      "title": "Dati personali",
+      "subtitle": "HTML Abbiamo bisogno di pochissimi dati dell’intestatario della linea per procedere.",
+      "name": "nome",
+      "surname": "cognome",
+      "birthDate": "data di nascita",
+      "birthPlace": "luogo di nascita",
+      "birthCity": "comune di nascita",
+      "birthNation": "nazione di nascita",
+      "errorMessage": "tutti i campi sono obbligatori",
+      "buttonLabel": "Calcola"
+    }
+  },
+  "otp": {
+    "navbarTitle": "inserisci il tuo otp",
+    "view": {
+      "title": "HTML Inserisci il codice ricevuto sul numero $PHONENUMBER",
+      "icon": "omino.jgp",
+      "missingCode": {
+        "title": "non hai ricevuto il codice?",
+        "link": "invia nuovamente"
+      },
+      "buttonLabel": "conferma",
+      "errorOnOtp": {
+        "title": "Ops",
+        "errorMessage": "HTML Attenzione il codice inserito non è corretto "
+      }
+    }
+  },
+  "orderSelection": {
+    "navbarTitle": "Accedi su Onboarding",
+    "view": {
+      "title": "Scegli la pratica",
+      "subtitle": "HTML Lorem ipsum dolor sit amet practicum textumm liberatus selectus.",
+      "orderSelectionCard": {
+        "title": "$OFFERNAME",
+        "icon": "pacchettino.jpg",
+        "subtitle": "HTML Grazie per aver scelto $OFFERNAME, qui trovi i dettagli e il stato dell tuo ordine",
+        "request": "Richiesta il",
+        "practiceNumber": "Codice pratica",
+        "buttonLabel": "Visaulizza stato dell' ordine"
+      }
+    }
+  },
+  "yourAddress": {
+    "common": {
+      "subtitle": "<p>A seguire trovi i dati personali che hai inserito quando hai sottoscritto la tua offerta.</p>\r\n",
+      "title": "Dati di indirizzo",
+      "navbarTitle": "I tuoi dati personali",
+      "installationAddressCard": {
+        "icon": "vfWhite.png",
+        "title": "Indirizzo di installazione"
+      },
+      "shippingAddressCard": {
+        "subtitle": "<p>L’indirizzo di installazione e di spedizione corrispondono.</p>\r\n",
+        "buttonLabel": "Cambia indirizzo di spedizione",
+        "icon": "5g.png",
+        "title": "Indirizzo di spedizione"
+      },
+      "billingAddressCard": {
+        "subtitle": "<p>L’indirizzo di spedizione e di fatturazione corrispondono.</p>\r\n",
+        "buttonLabel": "Cambia indirizzo di fatturazione",
+        "icon": "5g.png",
+        "title": "Indirizzo di fatturazione"
+      }
+    },
+    "modifyShippingAddress": {
+      "navbarTitle": "Modifica indirizzo di spedizione",
+      "newAddress": {
+        "subtitle": "<p>Inserisci il tuo indirizzo dove possiamo spedire i tuoi materiali</p>\r\n",
+        "buttonLabel": "Salva la modifica",
+        "cityLabel": "Località",
+        "firstLineLabel": "Indirizzo linea 1",
+        "capLabel": "CAP",
+        "title": "Indirizzo di spedizione",
+        "selector": "Nuovo indirizzo",
+        "countryLabel": "Paese",
+        "secondLineLabel": "Indirizzo linea 2"
+      },
+      "pickUpPoint": {
+        "subtitle": "<p>Inserisci il tuo indirizzo per scoprire il punto di raccolta piu vicino a casa tua</p>\r\n",
+        "buttonLabel": "Cerca",
+        "firstLineLabel": "Indirizzo linea 1",
+        "vodafoneStoreTitle": "Negozi Vodafone",
+        "title": "Punto di raccolta",
+        "agencyTitle": "Filiali SDA",
+        "selector": "Punto di raccolta"
+      }
+    },
+    "modifyBillingAddress": {
+      "navbarTitle": "Modifica indirizzo di fatturazione",
+      "newAddress": {
+        "subtitle": "<p>Inserisci il tuo indirizzo dove possiamo spedire la tua fattura</p>\r\n",
+        "buttonLabel": "Salva la modifica",
+        "cityLabel": "Località",
+        "firstLineLabel": "Indirizzo linea 1",
+        "capLabel": "CAP",
+        "title": "Indirizzo di fatturazione",
+        "selector": "Nuovo indirizzo",
+        "countryLabel": "Paese",
+        "secondLineLabel": "Indirizzo linea 2"
+      }
+    }
+  },
+  "yourPersonalData": {
+    "navbarTitle": "I tuoi dati personali",
+    "title": "Dati intestatario",
+    "subtitle": "HTML A seguire trovi i dati personali che hai inserito quando hai sottoscritto la tua offerta",
+    "personalData": {
+      "title": "Dati di identità",
+      "icon": "admin.png",
+      "labelName": "Nome e cognome:",
+      "labelFiscalCode": "Codice fiscale",
+      "labelClientCode": "Codice Cliente"
+    },
+    "contactData": {
+      "title": "Dati di contatto",
+      "icon": "contacts.png",
+      "labelEmail": "Indirizzo email:",
+      "labelPhoneNumber": "Il tuo numero di telefono"
+    }
+  },
+  "yourOffer": {
+    "documentsCard": {
+      "icon": "Rilassati@2x.png",
+      "title": "Documenti",
+      "description": "HTML All’interno di questa sezione puoi scaricare le condizioni generali di contratto, l’informativa sulla privacy, i dettagli dell’offerta e tutti i documenti inerenti al tuo acquisto.",
+      "generalConditionsLabel": "Condizioni generali",
+      "privacyLabel": "Informativa sulla privacy",
+      "policyLabel": "Informativa S.I.M.o.I.Tel",
+      "contractSummaryLabel": "Sintesi contrattuale"
+    },
+    "vocalRecordingCard": {
+      "icon": "Rilassati@2x.png",
+      "title": "Copia della registrazione vocale della vendita",
+      "description": "HTML Trovi la copia della registrazione vocale della vendita. La registrazione e un MP3 e puo essere scaricata quando vuoi tu.",
+      "buttonLabel": "Scarica registrazione"
+    },
+    "offerInfoCard": {
+      "icon": "Rilassati@2x.png",
+      "title": "Dove hai acquistato l'offerta",
+      "dateLabel": "Acquistata il",
+      "locationLabel": "Preso a"
+    }
+  }
+}

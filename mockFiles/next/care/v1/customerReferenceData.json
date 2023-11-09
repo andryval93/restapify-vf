@@ -1,0 +1,70 @@
+{
+  "nameTitle": [
+    {
+      "href": "/care/v1/nameTitle",
+      "rel": "self",
+      "id": "EMPTY",
+      "name": "EMPTY",
+      "displayName": " ",
+      "default": true
+    },
+    {
+      "href": "/care/v1/nameTitle",
+      "rel": "self",
+      "id": "Mr.",
+      "name": "Mr.",
+      "displayName": "Sig.",
+      "default": false
+    },
+    {
+      "href": "/care/v1/nameTitle",
+      "rel": "self",
+      "id": "Mrs.",
+      "name": "Mrs.",
+      "displayName": "Sig.ra",
+      "default": false
+    },
+    {
+      "href": "/care/v1/nameTitle",
+      "rel": "self",
+      "id": "Ms.",
+      "name": "Ms.",
+      "displayName": "Sig.na",
+      "default": false
+    },
+    {
+      "href": "/care/v1/nameTitle",
+      "rel": "self",
+      "id": "Dr.",
+      "name": "Dr.",
+      "displayName": "Dr.",
+      "default": false
+    }
+  ],
+  "identificationType": [
+    {
+      "href": "/care/v1/identificationType",
+      "rel": "self",
+      "id": "1",
+      "name": "1",
+      "displayName": "Carta d'identità",
+      "default": false
+    },
+    {
+      "href": "/care/v1/identificationType",
+      "rel": "self",
+      "id": "2",
+      "name": "2",
+      "displayName": "Passaporto",
+      "default": false
+    },
+    {
+      "href": "/care/v1/identificationType",
+      "rel": "self",
+      "id": "3",
+      "name": "3",
+      "displayName": "Patente di guida",
+      "default": false
+    }
+  ]
+}

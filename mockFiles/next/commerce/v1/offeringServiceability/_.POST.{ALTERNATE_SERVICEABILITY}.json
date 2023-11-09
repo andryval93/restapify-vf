@@ -1,0 +1,19 @@
+{
+  "id": "8664693",
+  "serviceabilityResult": "alternate",
+  "serviceabilityAddress": {
+    "city": "MILANO",
+    "country": "IT",
+    "displayCountry": "Italy",
+    "postalCode": "20154",
+    "stateOrProvince": "MI",
+    "displayStateOrProvince": "MILANO",
+    "street": "VIA PAOLO SARPI",
+    "latitude": "45.48121076",
+    "longitude": "9.18037520",
+    "externalId": "38000052876",
+    "streetNumber": "5",
+    "homeZone": "00131891",
+    "istatCode": "03015146"
+  }
+}

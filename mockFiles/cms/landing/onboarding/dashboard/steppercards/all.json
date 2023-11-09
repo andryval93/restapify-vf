@@ -1,0 +1,290 @@
+{
+  "FTTC": {
+    "ManagePortability": {
+      "portabilityMissing": {
+        "title": "Il tuo ordine è in pausa",
+        "description": "HTML",
+        "buttonLabel": "Inserisci il codice di migrazione"
+      }
+    },
+    "RightOfReconsideration": {
+      "GA": {
+        "rightOfReconsideration": {
+          "title": "Il tuo ordine è in pausa per diritto di ripensamento",
+          "description": "HTML $VODAFONE_NUMBER",
+          "vodafoneNumber": "3490005647",
+          "buttonLabel": "Salva numero"
+        }
+      },
+      "GNP": {
+        "portabilityGiven": {
+          "title": "Codice di migrazione fornito",
+          "description": "HTML"
+        },
+        "rightOfReconsideration": {
+          "title": "Il tuo ordine è in pausa per diritto di ripensamento",
+          "description": "HTML $VODAFONE_NUMBER",
+          "vodafoneNumber": "3490005647",
+          "buttonLabel": "Salva numero"
+        }
+      }
+    },
+    "OrderOnHoldTechIssue": {
+      "orderOnHold": {
+        "title": "Il tuo ordine è in pausa",
+        "description": "HTML $VODAFONE_NUMBER",
+        "vodafoneNumber": "3490005647",
+        "buttonLabel": "Salva numero"
+      }
+    },
+    "OrderOk": {
+      "GA": {
+        "deliveryYes": {
+          "home": {
+            "title": "Elaborazione ordine andata a buon fine",
+            "description": "HTML",
+            "addressLabel": "Indirizzo",
+            "buttonLabel": "Modifica indirizzo di spedizione"
+          },
+          "pickUpPoint": {
+            "title": "Elaborazione ordine andata a buon fine",
+            "description": "HTML",
+            "pickUpPointLabel": "Filiale|$CITY"
+          }
+        },
+        "deliveryNO": {
+          "orderOk": {
+            "title": "Elaborazione ordine andata a buon fine",
+            "description": "HTML"
+          },
+          "guidedInstallation": {
+            "title": "Installazione guidata",
+            "description": "HTML",
+            "yourProductsLabel": "I tuoi prodotti Vodafone",
+            "bottomDescription": "HTML",
+            "buttonLabel": "Installazione guidata"
+          }
+        }
+      },
+      "GNP": {
+        "deliveryYes": {
+          "home": {
+            "title": "Elaborazione ordine andata a buon fine",
+            "description": "HTML",
+            "addressLabel": "Indirizzo",
+            "buttonLabel": "Modifica indirizzo di spedizione"
+          },
+          "pickUpPoint": {
+            "title": "Elaborazione ordine andata a buon fine",
+            "description": "HTML",
+            "pickUpPointLabel": "Filiale|$CITY"
+          }
+        },
+        "deliveryNO": {
+          "orderOk": {
+            "title": "Elaborazione ordine andata a buon fine",
+            "description": "HTML"
+          },
+          "guidedInstallation": {
+            "title": "Installazione guidata",
+            "description": "HTML",
+            "yourProductsLabel": "I tuoi prodotti Vodafone",
+            "bottomDescription": "HTML",
+            "buttonLabel": "Installazione guidata"
+          }
+        }
+      }
+    },
+    "ShippingOrder": {
+      "GA": {
+        "shippingMaterials": {
+          "title": "Materiali in spedizione",
+          "description": "HTML",
+          "shippingCodeLabel": "Codice di spedizione",
+          "copyButtonLabel": "Copiato",
+          "trackShippingLabel": "Traccia la tua spedizione",
+          "trackingUrl": "www.google.com",
+          "info": "HTML",
+          "contactCourierLabel": "Contatta Poste",
+          "contactCourierUrl": "www.google.com"
+        },
+        "techInfo": {
+          "title": "Informazioni utili per il tuo appuntamento con il tecnico",
+          "description": "HTML"
+        }
+      },
+      "GNP": {
+        "shippingMaterials": {
+          "title": "Materiali in spedizione",
+          "description": "HTML",
+          "shippingCodeLabel": "Codice di spedizione",
+          "copyButtonLabel": "Copiato",
+          "trackShippingLabel": "Traccia la tua spedizione",
+          "trackingUrl": "www.google.com",
+          "info": "HTML",
+          "contactCourierLabel": "Contatta Poste",
+          "contactCourierUrl": "www.google.com"
+        },
+        "techInfo": {
+          "title": "Informazioni utili per il tuo appuntamento con il tecnico",
+          "description": "HTML"
+        }
+      }
+    },
+    "DeliveredOrder": {
+      "GA": {
+        "home": {
+          "deliveredMaterials": {
+            "title": "Materiali consegnati",
+            "description": "HTML",
+            "yourMaterialsLabel": "I tuoi materiali",
+            "buttonLabel": "Installazione guidata"
+          },
+          "verifyInstallation": {
+            "title": "Verifica d'installazione",
+            "description": "HMTL"
+          }
+        },
+        "pickUpPoint": {
+          "title": "Materiali pronti per il ritiro nel punto di raccolta",
+          "description": "HTML",
+          "pickUpPointLabel": "Filiale|$CITY"
+        }
+      },
+      "GNP": {
+        "home": {
+          "deliveredMaterials": {
+            "title": "Materiali consegnati",
+            "description": "HTML",
+            "yourMaterialsLabel": "I tuoi materiali",
+            "buttonLabel": "Installazione guidata"
+          },
+          "verifyInstallation": {
+            "title": "Verifica d'installazione",
+            "description": "HMTL"
+          }
+        },
+        "pickUpPoint": {
+          "title": "Materiali pronti per il ritiro nel punto di raccolta",
+          "description": "HTML",
+          "pickUpPointLabel": "Filiale|$CITY"
+        }
+      }
+    },
+    "PickedOrder": {
+      "GA": {
+        "pickedMaterials": {
+          "title": "Materiali ritirati nel punto di raccolta",
+          "description": "HTML",
+          "yourMaterialsLabel": "I tuoi materiali",
+          "buttonLabel": "Installazione guidata"
+        },
+        "verifyInstallation": {
+          "title": "Verifica d'installazione",
+          "description": "HMTL"
+        }
+      },
+      "GNP": {
+        "pickedMaterials": {
+          "title": "Materiali ritirati nel punto di raccolta",
+          "description": "HTML",
+          "yourMaterialsLabel": "I tuoi materiali",
+          "buttonLabel": "Installazione guidata"
+        },
+        "verifyInstallation": {
+          "title": "Verifica d'installazione",
+          "description": "HMTL"
+        }
+      }
+    },
+    "SelfInstallationCompleated": {
+      "deliveryYes": {
+        "installationCompleated": {
+          "title": "Installazione guidata completata",
+          "description": "HTML"
+        },
+        "stillNotActiveCall": {
+          "icon": "",
+          "title": "La tua Station non è ancora attiva?",
+          "description": "HTML",
+          "yourNumberLabel": "Il tuo numero di contatto",
+          "buttonLabel": "Fatti richiamare gratis"
+        },
+        "stillNotActiveCalled": {
+          "icon": "",
+          "title": "Ti richiamiamo il prima possibile",
+          "description": "HTML",
+          "yourNumberLabel": "Il tuo numero di contatto"
+        }
+      },
+      "deliveryNO": {
+        "installationCompleated": {
+          "title": "Installazione guidata completata",
+          "description": "HTML"
+        },
+        "stillNotActiveCall": {
+          "icon": "",
+          "title": "La tua Station non è ancora attiva?",
+          "description": "HTML",
+          "yourNumberLabel": "Il tuo numero di contatto",
+          "buttonLabel": "Fatti richiamare gratis"
+        },
+        "stillNotActiveCalled": {
+          "icon": "",
+          "title": "Ti richiamiamo il prima possibile",
+          "description": "HTML",
+          "yourNumberLabel": "Il tuo numero di contatto"
+        }
+      }
+    },
+    "Activation": {
+      "deliveryYes": {
+        "activationSuccessful": {
+          "title": "Attivazione andata a buon fine!",
+          "description": "HTML",
+          "yourNumberLabel": "Il tuo numero di contatto",
+          "buttonLabel": "Controlla la tua velocità"
+        },
+        "yourNumber": {
+          "title": "Il tuo numero",
+          "description": "HTML",
+          "yourNumberLabel": "Il tuo numero di telefono",
+          "buttonLabel": "Condividi il numero"
+        }
+      },
+      "deliveryNO": {
+        "activationSuccessful": {
+          "title": "Attivazione andata a buon fine!",
+          "description": "HTML",
+          "yourNumberLabel": "Il tuo numero di contatto",
+          "buttonLabel": "Controlla la tua velocità"
+        },
+        "yourNumber": {
+          "title": "Il tuo numero",
+          "description": "HTML",
+          "yourNumberLabel": "Il tuo numero di telefono",
+          "buttonLabel": "Condividi il numero"
+        }
+      },
+      "portability": {
+        "activationSuccessful": {
+          "title": "Attivazione andata a buon fine!",
+          "description": "HTML",
+          "yourNumberLabel": "Il tuo numero di contatto",
+          "buttonLabel": "Controlla la tua velocità"
+        },
+        "portabilityInProgress": {
+          "title": "Portabilità del numero in corso",
+          "description": "HTML",
+          "yourNumberLabel": "Il tuo numero provvisorio"
+        },
+        "portabilityEnded": {
+          "title": "Portabilità del numero conclusa",
+          "description": "HTML",
+          "yourNumberLabel": "Il tuo numero di telefono",
+          "buttonLabel": "Condividi il numero"
+        }
+      }
+    }
+  }
+}

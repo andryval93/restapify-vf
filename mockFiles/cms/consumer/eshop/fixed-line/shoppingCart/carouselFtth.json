@@ -1,0 +1,30 @@
+{
+  "carouselTitle": "La connessione perfetta per le tue passioni.",
+  "carouselSlide":
+  [
+    {
+      "id": 6,
+      "title": "Per il tuo lavoro",
+      "description": "Chiama, lavora o studia da casa senza ritardi. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "4.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Per il tuo tempo libero",
+      "description": "Guarda i tuoi film preferiti in 4K e gioca online. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "5.jpeg"
+    },
+    {
+      "id": 8,
+      "title": "Per il tuo lavoro",
+      "description": "Chiama, lavora o studia da casa senza ritardi. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "4.jpeg"
+    },
+    {
+      "id": 9,
+      "title": "Per il tuo tempo libero",
+      "description": "Guarda i tuoi film preferiti in 4K e gioca online. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "5.jpeg"
+    }
+  ]
+}

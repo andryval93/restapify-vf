@@ -1,0 +1,72 @@
+{
+  "technology": {
+    "id": 1,
+    "detail": {
+      "subtitle": "Servizi in fibra ottica",
+      "title": "Tecnologia ADSL",
+      "description": {
+        "textHtml": "Il vantaggio del cavo in fibra ottica sino alla abitazione rispetto a quello in rame, è legato al fatto che la rete ottica offre la possibilità di trasportare molte più informazioni dei tradizionali cavi in rame permettendo al cliente di raggiungere velocità di navigazione più elevate (velocità teorica del GPON è di 2.5Gb/s). Inoltre le prestazioni delle connettività in fibra ottica hanno il vantaggio di essere immuni da ogni tipo di interferenza e da ogni evento atmosferico né tanto meno risentono della distanza tra l’abitazione del cliente e la centrale o dal numero di clienti collegati alla stessa.",
+        "image": "imageTest.jpg",
+        "textSimple": "Nella soluzione ADSL GPON la fibra ottica collegata ..."
+      },
+      "accordion": [
+        {
+          "description": "Come sfruttare al meglio la tua rete minimizzando i disservizi",
+          "title": "Come sfruttare al meglio la tua rete"
+        },
+        {
+          "description": " Come sfruttare al meglio la tua rete minimizzando i disservizi  ",
+          "title": "Differenza tra Fibra e Rame"
+        },
+        {
+          "description": "Inserire testo",
+          "title": "Fattori che limitano la velocità di connessione"
+        }
+      ]
+    },
+    "bestOfferChoice": {
+      "text": "La tecnologia ADSL è disponibile al tuo indirizzo",
+      "editAddress": "Modifica indirizzo"
+    },
+    "card": {
+      "buttonLabel": "VISUALIZZA DETTAGLI",
+      "description": "<p>Grazie alla tecnologia <b>Fibra ADSL</b> hai la miglior tecnologia possibile alla massima velocità disponibile.</p>\r\n",
+      "image": "ragazza-al-pc.jpg",
+      "title": "Tecnologia ADSL",
+      "specs": [
+        {
+          "icon": "icon-download.jpg",
+          "text": "Download"
+        },
+        {
+          "icon": "icon-upload.jpg",
+          "text": "Upload"
+        },
+        {
+          "icon": "icon-delay.jpg",
+          "text": "Latenza"
+        }
+      ]
+    },
+    "nextStepsCard": {
+      "title": "I prossimi passaggi",
+      "nextSteps": [
+        {
+          "description": "<p>Attendi che il tuo ordine venga elaborato</p>\r\n"
+        },
+        {
+          "description": "<p>Scarica l'app <b>My Vodafone</b></p>\r\n"
+        },
+        {
+          "description": "<p><b>Prendi appuntamento</b> con un tecnico</p>\r\n",
+          "detailLinkLabel": "Maggiori dettagli",
+          "modal": {
+            "description": "<p>L'attivazione della fibra richiederà <b>opere di installazione a muro</b></p>\r\n",
+            "firstContent": "Il tecnico identificherà la <strong>posizione ottimale</strong> per l’antenna esterna. Il montaggio prevede la <strong>foratura del muro</strong> per permettere il passaggio del cavo e collegare l’antenna al modem.",
+            "title": "Informazioni sull'appuntamento"
+          }
+        }
+      ]
+    }
+  }
+}

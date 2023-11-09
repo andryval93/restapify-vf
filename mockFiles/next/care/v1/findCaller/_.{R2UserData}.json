@@ -1,0 +1,33 @@
+{
+  "customerRef": {
+    "id": "600424842",
+    "name": "FRANCESCO CALELLA",
+    "legacyCustCode": "1.43881690",
+    "legacyCustomerId": "68778805",
+    "customerTenure": "1"
+  },
+  "individualRef": {
+    "id": "201231700330098",
+    "firstName": "FRANCESCO",
+    "lastName": "CALELLA",
+    "fiscalCode": "CLLFNC91M10E038M",
+    "identObjId": "269668909",
+    "email": "FRANKIE.CALELLA@GMAIL.COM"
+  },
+  "paymean": {
+    "object_type": "V1BankAccountPayMean",
+    "type": "bankAccount",
+    "vfPayMeanType": "IBAN"
+  },
+  "subscription": [
+    { "msisdn": "3429511855", "status": "clfy_Active" },
+    { "msisdn": "3276937161", "status": "clfy_Active" }
+  ],
+  "billingAccount": {
+    "id": "500423588",
+    "billDeliveryDetails": { "billFormat": "eBill" }
+  },
+  "financialAccountRef": { "id": "700420318" },
+  "resultInfo": "existingLegacyCustomer",
+  "marketTag": "VF"
+}

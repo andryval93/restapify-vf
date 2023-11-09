@@ -1,0 +1,3781 @@
+{
+  "benvenuto-in-vodafone": {
+    "pagesparams": {
+      "key": "benvenutoInVodafone",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "true",
+        "isHeaderSmall": "false"
+      },
+      "urlBuilder": [
+        {
+          "page": "Benvenuto-in-Vodafone"
+        }
+      ]
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "description": "Hai tutti gli strumenti per gestire in autonomia i tuoi piani.\r\nNoi siamo sempre a tua disposizione.",
+          "type": "TOP_HERO",
+          "image": "benvenuto-vodafone-hero.jpg",
+          "title": "<p>Benvenuto in Vodafone</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Scopri quali sono gli strimenti a tua disposizione per <b>gestire in autonomia</b> i tuoi piani. Noi siamo <b>sempre a tua disposizione</b>.",
+              "textPositionButton": "false",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_ICON_TITLE_DESCRIPTION",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Il numero 42323 è sempre a tua disposizione 24h su 24 con TOBi che ascolta le tue esigenze e ti indirizza verso il consulente piú adatto.",
+              "textPositionButton": "false",
+              "id": "1",
+              "image": "icon-cosultant-red.png",
+              "title": "Servizio prima classe",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Il conto telefonico semplice e veloce pensato per permetterti di consultare online i dettagli e i costi della tua fattura. La funzionalità è raggiungibile da App e Fai da Te.",
+              "textPositionButton": "false",
+              "image": "Icon-sheet-red.png",
+              "title": "Controlla i costi grazie a Fattura Facile",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Su Fai da te e App controlla i tuoi consumi e le offerte attive. Se sei referente aziendale, gestisci in maniera semplice e veloce tutte le SIM, la tua Rete Fissa e scegli se attivare nuove offerte e servizi per il tuo business.",
+              "textPositionButton": "false",
+              "image": "icon-devices-red.png",
+              "title": "Gestisci le offerte facilmente",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SPLITTED_IMAGE_TEXT",
+          "title": "<p>Tutto <b>sotto controllo</b>, anche quando non sei in <b>ufficio</b></p>\r\n",
+          "button": {
+            "url": "https://www.vodafone.it/area-utente/fai-da-te/Common/PaginaUnicadiLogin.html",
+            "label": "REGISTRATI AL FAI DA TE"
+          },
+          "customAction": {
+            "url": "https://www.vodafone.it/area-utente/fai-da-te/Common/PaginaUnicadiLogin.html",
+            "type": "1",
+            "small": "false",
+            "title": "REGISTRATI AL FAI DA TE",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Accedi al Fai da te per monitorare le offerte attive, aggiungere nuovi servizi dedicati e scoprire nuove offerte.",
+              "textPositionButton": "false",
+              "image": "benvenuto-vodafone-fdt.jpg",
+              "title": "Entra nella tua area personale",
+              "action": {
+                "url": "https://www.vodafone.it/area-utente/fai-da-te/Common/PaginaUnicadiLogin.html",
+                "type": "1",
+                "small": "false",
+                "title": "REGISTRATI AL FAI DA TE",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SPLITTED_IMAGE_TEXT",
+          "image": "app-qrcode.jpg",
+          "button": {
+            "url": "https://business.vodafone.it/my-vodafone-business",
+            "label": "SCOPRI l’APP"
+          },
+          "customAction": {
+            "url": "https://business.vodafone.it/my-vodafone-business",
+            "type": "1",
+            "small": "false",
+            "title": "SCOPRI L’APP",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Con la My Vodafone Business App potrai gestire le tue utenze di rete fissa e rete mobile in totale autonomia e con Happy Week ogni lunedì troverai una nuova “sorpresa pensata per te”.",
+              "textPositionButton": "false",
+              "image": "app-qr-code-smartphone.jpg",
+              "title": "Inquadra il QR Code e scarica ora l’app My Vodafone Business",
+              "action": {
+                "url": "https://business.vodafone.it/my-vodafone-business",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_LARGE_SMALL",
+          "title": "<p><b>I vantaggi </b>di essere Vodafone Business.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Il bello di essere Business ogni giorno",
+              "textPositionButton": "false",
+              "image": "happyweek-S.jpg",
+              "title": "Happy Week",
+              "action": {
+                "url": "https://business.vodafone.it/happy-week",
+                "type": "1",
+                "small": "true",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Dove i desideri diventano realtà in un click",
+              "textPositionButton": "false",
+              "image": "businessclub-club-S-1.jpg",
+              "title": "Business Club",
+              "action": {
+                "url": "https://business.vodafone.it/business-club",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Il consulente più adatto alle tue esigenze",
+              "textPositionButton": "false",
+              "image": "tobi-card-S.jpg",
+              "title": "TOBi",
+              "action": {
+                "url": "https://business.vodafone.it/tobi-business",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Fai crescere la tua attività cogliendo le opportunità della accelerazione digitale.",
+              "textPositionButton": "false",
+              "image": "BusinessLAB-S-red.jpg",
+              "title": "Vodafone Business LAB",
+              "action": {
+                "url": "https://businesslab.vodafone.it/piccole-medie-aziende?utm_source=Vodafone.it&utm_medium=Menu&utm_campaign=Vodafone.it-Sme-Referral?icmp=ebu_web-aziende_HP_MDD2_VLAB_business-lab",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "Gestisci nel modo più efficiente il tuo lavoro con i tool e le piattaforme digitali garantite da Vodafone.",
+          "type": "SLIDER_EXPERIENCES",
+          "image": "vfB.jpg",
+          "title": "<p>Soluzioni Digitali per il tuo business</p>\r\n",
+          "customAction": {
+            "url": "https://www.vodafone.it/business/eshop/soluzioni-digitali.html?icmp=ebu_web-aziende_HP_MDD1_SOLUZIONI_catalogo-soluzioni",
+            "type": "1",
+            "small": "false",
+            "title": "TUTTE LE SOLUZIONI",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "La suite in cloud di Microsoft per comunicare, collaborare e lavorare in tutta sicurezza.",
+              "textPositionButton": "false",
+              "image": "img-m365_nl.jpg",
+              "title": "Microsoft 365",
+              "maskIcon": "Office_365x3.png",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/soluzioni-digitali/m365-nce.html",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "I tuoi dati disponibili ovunque tu sia,",
+              "textPositionButton": "false",
+              "image": "img-your-backup_nl.jpg",
+              "title": "Your backup",
+              "maskIcon": "logo-your-backup.png",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/soluzioni-digitali/your-backup.html",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Per gestire la fatturazione elettronica attiva e passiva.\r\n",
+              "textPositionButton": "false",
+              "image": "logo-fattura-elettronica.png",
+              "title": "Fattura elettronica",
+              "maskIcon": "logo-fattura-elettronica.jpg",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/soluzioni-digitali/fattura-elettronica.html",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "La Suite di Google per comunicare, collaborare e condividere.",
+              "textPositionButton": "false",
+              "image": "logo-google.png",
+              "title": "Google workspace",
+              "maskIcon": "logo-fattura-elettronica.jpg",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/soluzioni-digitali/g-suite.html",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "L'identità digitale per il tuo lavoro.",
+              "textPositionButton": "false",
+              "image": "img-infocert_nl.jpg",
+              "title": "SPID Professionisti",
+              "maskIcon": "logo-infocert.png",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/soluzioni-digitali/spid-professionisti.html",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "tagging": {
+      "eventCategory": "benvenuto-in-vodafone"
+    }
+  },
+  "my-vodafone-business": {
+    "pagesparams": {
+      "key": "myVodafoneBusiness",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "false",
+        "isHeaderSmall": "true"
+      },
+      "urlBuilder": [
+        {
+          "page": "My-Vodafone-Business"
+        }
+      ]
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "description": "Scopri la nuova app <b>My Vodafone Business</b>, e porta il tuo <b>business</b> ad un <b>livello successivo</b>",
+          "type": "TOP_HERO",
+          "image": "app-businessman-smartphone-hero.jpg",
+          "title": "<p>Ti presentiamo la nuova App</p>\r\n",
+          "customAction": {
+            "url": "https://myvfapp-aem.vodafone.it/content/myvf-business/webviews/external-anchors/anchor.html?idAnchor=open-happy-friday-happyfriday-1541691205986",
+            "type": "1",
+            "small": "false",
+            "title": "Scarica l’app",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Scopri la nuova app <b>My Vodafone Business</b>, tutto ciò che ti serve per <b>lavorare al meglio</b> in un unico pacchetto che funziona alla perfezione su<b> telefono o tablet.</b>",
+              "textPositionButton": "false",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_IMAGE_TITLE_DESCRIPTION",
+          "title": "<p><b>Due mondi</b>, una sola App</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Il profilo Referente permette di gestire tutti i numeri di telefono fissi e mobili della tua Azienda o del centro di costo di cui hai la responsabilità. Potrai inoltre effettuare modifiche di dati, servizi e opzioni e attivare nuove offerte, SIM aggiuntive e linee di Rete Fissa.",
+              "textPositionButton": "false",
+              "image": "app-profilo-referente.jpg",
+              "title": "Profilo Referente",
+              "action": {
+                "type": "1",
+                "small": "true",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Il profilo di registrazione da Dipendente ti permette di accedere a tutte le informazioni relative alla tua SIM e ai servizi gratuiti e a pagamento che il tuo Referente aziendale ha previsto per te. ",
+              "textPositionButton": "false",
+              "image": "app-profilo-dipendente.jpg",
+              "title": "Profilo Dipendente",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SPLITTED_IMAGE_TEXT",
+          "title": "<p>Tutto <b>sotto</b> <b>controllo</b>, anche quando non sei in <b>ufficio</b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Tieni sotto controllo le offerte attualmente\r\nattive e accedi alle offerte più esclusive su\r\nprodotti e servizi dei nostri partner per\r\npotenziare la tua attività.\r\n",
+              "textPositionButton": "false",
+              "image": "myvodafone-business-1.jpg",
+              "title": "Homepage personalizzata",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SPLITTED_IMAGE_TEXT",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Monitora in qualunque momento e in modo facile e veloce il tuo consumo di minuti, SMS, dati e delle utenze della tua azienda. Inoltre puoi consultare e scaricare le tue fatture, pagarle online, gestire le opzioni di fatturazione e il metodo di pagamento.\r\n",
+              "textPositionButton": "false",
+              "image": "myvodafone-business-2.jpg",
+              "title": "Monitorare fatture e consumi aziendali in tempo reale",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SPLITTED_IMAGE_TEXT",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Tieni traccia delle:\r\ntue notifiche\r\ni tuoi ticket di assistenza tecnica business\r\nle richieste di aggiornamento offerta dei tuoi dipendenti\r\nper gestire al meglio la tua esperienza in Vodafone.\r\n",
+              "textPositionButton": "false",
+              "image": "myvodafone-business-3.jpg",
+              "title": "Centro notifiche potenziato",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SPLITTED_IMAGE_TEXT",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Un catalogo dedicato dove trovare offerte disponibili per il tuo numero. Puoi anche vedere le offerte destinate ad altre SIM o ad altri numeri di rete fissa e attivare una nuova linea per te o un tuo dipendente.",
+              "textPositionButton": "false",
+              "image": "app-catalogo-offerte.jpg",
+              "title": "Catalogo offerte per te  e i tuoi dipendenti",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SPLITTED_IMAGE_TEXT",
+          "button": {
+            "url": "https://myvfapp-aem.vodafone.it/content/myvf-business/webviews/external-anchors/anchor.html?idAnchor=open-happy-friday-happyfriday-1541691205986",
+            "label": "SCOPRI L'APP"
+          },
+          "customAction": {
+            "url": "https://myvfapp-aem.vodafone.it/content/myvf-business/webviews/external-anchors/anchor.html?idAnchor=open-happy-friday-happyfriday-1541691205986",
+            "type": "1",
+            "small": "false",
+            "title": "SCOPRI L'APP",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Inquadra il QR code con la fotocamera del tuo smartphone o tablet e scarica l’app My Vodafone Business. Disponibile su questi store:\r\n",
+              "textPositionButton": "false",
+              "image": "app-qr-code.jpg",
+              "title": "Inquadra il QR Code e scarica ora l’app My Vodafone Business",
+              "action": {
+                "url": "https://myvfapp-aem.vodafone.it/content/myvf-business/webviews/external-anchors/anchor.html?idAnchor=open-happy-friday-happyfriday-1541691205986",
+                "type": "1",
+                "small": "false",
+                "title": "SCARICA L'APP",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_LARGE_SMALL",
+          "title": "<p><b>Sempre incluso </b>in ogni offerta</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Il bello di essere Business ogni giorno",
+              "textPositionButton": "false",
+              "image": "HappyWeek-landscape.png",
+              "title": "Happy Week",
+              "action": {
+                "url": "https://business.vodafone.it/happy-week",
+                "type": "1",
+                "small": "true",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Il consulente più adatto alle tue esigenze",
+              "textPositionButton": "false",
+              "image": "tobi-business-S.jpg",
+              "title": "TOBi",
+              "action": {
+                "url": "https://business.vodafone.it/tobi-business",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Monitora e gestisci i tuoi ticket",
+              "textPositionButton": "false",
+              "image": "assistenza-tecnica-business-card-S-1.png",
+              "title": "Assistenza tecnica Business",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_DEFAULT",
+          "title": "<p>E tante <b>altre funzionalità </b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Dove i desideri diventano realtà con un click",
+              "textPositionButton": "false",
+              "image": "businessclub-club-S.jpg",
+              "title": "Business Club",
+              "action": {
+                "url": "https://business.vodafone.it/business-club",
+                "type": "1",
+                "small": "false",
+                "title": "scopri di più",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Tutte le notizie del giorno confezionate per te da Good Morning Italia",
+              "textPositionButton": "false",
+              "image": "app-le-tue-notizie.jpg",
+              "title": "Le Tue Notizie",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "title": "Scopri di più",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Per proteggere la tua navigazione",
+              "textPositionButton": "false",
+              "image": "rete-sicura.jpg",
+              "title": "Rete Sicura",
+              "action": {
+                "url": "https://www.retesicura.vodafone.it/business/#/landingpage",
+                "type": "1",
+                "small": "false",
+                "title": "Scopri di più",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "FAQ",
+          "title": "<p><b>FAQ</b>. Avere qualche <b>dubbio</b> è normale.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Il download dell'app comporta l'utilizzo di un numero di MB della tua offerta pari alla sua dimensione; il suo utilizzo genera un limitato consumo di KB ad ogni sessione. Se non hai un'offerta internet attiva, il traffico internet effettuato per il download e l'uso dell'app è tariffato secondo le condizioni previste dal piano telefonico della tua SIM.",
+              "textPositionButton": "false",
+              "title": "L’app My Vodafone consuma i miei Giga?",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Dal browser del tuo dispositivo digita: <a href=\"voda.it/myvodafonebusiness\">voda.it/myvodafonebusiness</a> se vuoi aprire la pagina dello Store che ti propone My Vodafone Business.",
+              "textPositionButton": "false",
+              "title": "Come posso scaricarla?",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Controlla di aver inserito correttamente username e password; ricorda che la password é Case Sensitive e riconosce quindi se i caratteri sono in maiuscolo o minuscolo. Verifica dal sito Vodafone.it se stai utilizzando le credenziali corrette. Se non riesci ancora ad accedere, puoi chiedere supporto tramite la funzione Serve aiuto dell'app o scrivendoci una mail a mybusiness.app@mail.vodafone.it",
+              "textPositionButton": "false",
+              "title": "Non riesco a effettuare l’accesso, cosa faccio?",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Non sono necessarie, l'app riconosce automaticamente il tuo numero se stai navigando con rete mobile Vodafone. In alternativa puoi utilizzare la tua username e password del sito Vodafone.it per accedere.",
+              "textPositionButton": "false",
+              "title": "Sono necessarie credenziali per usare l’app My Vodafone?",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "tagging": {
+      "eventCategory": "my-vodafone-business"
+    }
+  },
+  "rete-vodafone-5g": {
+    "pagesparams": {
+      "key": "reteVodafone5G",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "true",
+        "isHeaderSmall": "false"
+      },
+      "urlBuilder": [
+        {
+          "page": "Rete-Vodafone-5G"
+        }
+      ]
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "description": "Massima velocità, in tempo reale, a una capacità mai vista",
+          "type": "TOP_HERO",
+          "image": "5g-retevodafone-hero.jpg",
+          "title": "<p>Scopri la potenza del 5G</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Dall’evoluzione della Rete 4.5G nasce <b>la Rete Vodafone 5G</b>, nata per mettere a disposizione dei clienti sempre <b>più capacità e potenza di calcolo</b>, supportando i servizi di nuova generazione e la <b>navigazione in tempo reale</b>.",
+              "textPositionButton": "false",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_IMAGE_TITLE_DESCRIPTION",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Il 5G è 5 volte più veloce rispetto al 4G, anche in mobilità.",
+              "textPositionButton": "false",
+              "image": "5g-massima-velocita.jpg",
+              "title": "Massima velocità",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Grazie alla latenza minima del 5G, la comunicazione è istantanea.",
+              "textPositionButton": "false",
+              "image": "5g-navigazione-tempo-reale.jpg",
+              "title": "Navigazione in tempo reale",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Che tu sia in un luogo affollato o connesso con più dispositivi, non dovrai più preoccuparti della qualità della tua navigazione.",
+              "textPositionButton": "false",
+              "image": "5g-potenza-calcolo.jpg",
+              "title": "Capacità e potenza di calcolo",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SPLITTED_IMAGE_TEXT",
+          "title": "<p>Scopri le <b>potenzialità</b> della <b>Rete Vodafone</b></p>\r\n",
+          "button": {
+            "label": "VERIFICA LA TUA COPERTURA"
+          },
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Per navigare in 5G, oltre ad avere una promo abilitante all'utilizzo del 5G e uno smartphone abilitato, è necessario essere sotto copertura 5G. Il 5G Vodafone è oggi disponibile a: Milano, Torino, Bologna, Roma, Napoli, Genova, Verona, Firenze, Palermo, Bari.\r\n",
+              "textPositionButton": "false",
+              "image": "5g-copertura-citta.jpg",
+              "title": "Il 5G Vodafone è già nelle principali città d’Italia",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SPLITTED_IMAGE_TEXT",
+          "button": {
+            "label": "Scopri di più"
+          },
+          "customAction": {
+            "url": "https://www.vodafone5g.it/?lang=IT&icmp=LP_giganetwork_5g",
+            "type": "1",
+            "small": "false",
+            "title": "SCOPRI DI PIÙ",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Scopri i casi d’uso delle Sperimentazioni di Vodafone per toccare con mano le potenzialità della rete 5G.\r\nUn insieme di servizi ad alto impatto sociale ed economico e realizzati con le tecnologie più all’avanguardia.\r\n",
+              "textPositionButton": "false",
+              "image": "5g-applicazioni.jpg",
+              "title": "La tecnologia 5G e le sue applicazioni",
+              "action": {
+                "url": "https://www.vodafone5g.it/?lang=IT&icmp=LP_giganetwork_5g",
+                "type": "1",
+                "small": "false",
+                "title": "SCOPRI DI PIÙ",
+                "buttonType": "undefined",
+                "localUrl": "https://www.vodafone5g.it/?lang=IT&icmp=LP_giganetwork_5g",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_DEFAULT",
+          "title": "<p><b>Rete Vodafone</b> sempre <b>con te e il tuo business</b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "textPositionButton": "false",
+              "category": "Rete Vodafone 5G",
+              "image": "5g-manutenzione.jpg",
+              "title": "Manutenzione con Realtà Aumentata",
+              "action": {
+                "url": "https://www.vodafone5g.it/usecase.php?id=32&icmp=LP_giganetwork_5g",
+                "type": "1",
+                "small": "true",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "textPositionButton": "false",
+              "category": "Rete Vodafone 5G",
+              "image": "5g-logistica.jpg",
+              "title": "Logistica dell’ultimo miglio",
+              "action": {
+                "url": "https://www.vodafone5g.it/usecase.php?id=35&icmp=LP_giganetwork_5g",
+                "type": "1",
+                "small": "true",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "textPositionButton": "false",
+              "category": "Rete Vodafone 5G",
+              "image": "5g-telemedicina.jpg",
+              "title": "IoT per la Telemedicina",
+              "action": {
+                "url": "https://www.vodafone5g.it/usecase.php?id=30&icmp=LP_giganetwork_5g",
+                "type": "1",
+                "small": "true",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "tagging": {
+      "eventCategory": "rete-vodafone-5G"
+    }
+  },
+  "contattaci": {
+    "pagesparams": {
+      "key": "Contattaci",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "true",
+        "isHeaderSmall": "false"
+      },
+      "urlBuilder": [
+        {
+          "page": "Contattaci"
+        }
+      ]
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "type": "TOP_HERO",
+          "image": "contatti-L-hero.jpg",
+          "title": "<p>Hai bisogno di metterti in contatto con noi?</p>\r\n",
+          "button": {
+            "label": "VODAFONE BUSINESS"
+          },
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          }
+        },
+        {
+          "type": "SLIDER_ICON_TITLE_DESCRIPTION",
+          "title": "<p>Trova le <b>informazioni</b> che cerchi con il<b> Supporto online</b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Scopri come gestire il tuo profile.",
+              "textPositionButton": "false",
+              "image": "Icon-users-red.png",
+              "title": "Gestione Profilo",
+              "action": {
+                "url": "https://www.vodafone.it/aziende/supporto/gestione-profilo.html",
+                "type": "1",
+                "small": "false",
+                "title": "SCOPRI DI PIÙ",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Tutto a portata di mano.",
+              "textPositionButton": "false",
+              "image": "Icon-sheet-red.png",
+              "title": "Modulistica e Contatti",
+              "action": {
+                "url": "https://www.vodafone.it/aziende/supporto/modulistica.html",
+                "type": "1",
+                "small": "false",
+                "title": "SCOPRI DI PIÙ",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Tieni sotto controllo le tue fatture.",
+              "textPositionButton": "false",
+              "image": "Icon-topup-red.png",
+              "title": "Pagamenti e Consumi",
+              "action": {
+                "url": "https://www.vodafone.it/aziende/supporto/pagamenti-consumi.html",
+                "type": "1",
+                "small": "false",
+                "title": "SCOPRI DI PIÙ",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_ICON_TITLE_DESCRIPTION",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Gestisci al meglio il tuo contratto di rete fissa.",
+              "textPositionButton": "false",
+              "image": "icon-phone-red.png",
+              "title": "Rete Fissa",
+              "action": {
+                "url": "https://www.vodafone.it/aziende/supporto/rete-fissa.html",
+                "type": "1",
+                "small": "false",
+                "title": "SCOPRI DI PIÙ",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Tutto quello che devi sapere sulla tua rete mobile.",
+              "textPositionButton": "false",
+              "image": "icon-sim-red.png",
+              "title": "SIM e Smartphone",
+              "action": {
+                "url": "https://www.vodafone.it/aziende/supporto/sim-e-smartphone.html",
+                "type": "1",
+                "small": "false",
+                "title": "SCOPRI DI PIÙ",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Scopri il nostro supporto dedicato per il tuo business.",
+              "textPositionButton": "false",
+              "image": "icon-solution-red.png",
+              "title": "Soluzioni Digitali",
+              "action": {
+                "url": "https://www.vodafone.it/aziende/supporto/soluzioni-digitali.html",
+                "type": "1",
+                "small": "false",
+                "title": "SCOPRI DI PIÙ",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_ICON_TITLE_DESCRIPTION",
+          "title": "<p><b>Servizio clienti</b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Servizio Clienti per Aziende, da cellulare Vodafone",
+              "textPositionButton": "false",
+              "image": "icon-cosultant-red.png",
+              "title": "42323",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Servizio Clienti per Aziende, da telefono fisso o da altri gestori di telefonia",
+              "textPositionButton": "false",
+              "image": "icon-cosultant-red.png",
+              "title": "800227755",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Servizio Clienti per Aziende dall'estero (al costo di una chiamata verso l'Italia)",
+              "textPositionButton": "false",
+              "image": "icon-cosultant-red.png",
+              "title": "+393482002323",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_ICON_TITLE_DESCRIPTION",
+          "title": "<p><b>Informazioni</b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Informazioni su come pagare una fattura e comunicarne l'avvenuto pagamento, da telefono fisso o da altri gestori di telefonia",
+              "textPositionButton": "false",
+              "image": "icon-cosultant-red.png",
+              "title": "42330",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Informazioni su come pagare una fattura e comunicarne l'avvenuto pagamento, da telefono fisso o da altri gestori di telefonia",
+              "textPositionButton": "false",
+              "image": "icon-cosultant-red.png",
+              "title": "800011810",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Informazioni sul credito disponibile per i piani Ricaricabili Aziendali",
+              "textPositionButton": "false",
+              "image": "icon-cosultant-red.png",
+              "title": "42030",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_ICON_TITLE_DESCRIPTION",
+          "title": "<p><b>Segreteria</b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Segreteria Telefonica.",
+              "textPositionButton": "false",
+              "image": "icon-phone-red.png",
+              "title": "42020",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Segreteria Telefonica dall‘estero.\r\nEs: +393472002020.",
+              "textPositionButton": "false",
+              "image": "icon-phone-red.png",
+              "title": "+39 XXX 2002020",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "tagging": {
+      "eventCategory": "contattaci"
+    }
+  },
+  "voucher": {
+    "pagesparams": {
+      "key": "hubVoucher",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "true",
+        "isHeaderSmall": "false"
+      },
+      "apiPath": {
+        "apiProductsList": "business/products/all",
+        "apiOfferList": "business/get-product-for-hub/products-voucher"
+      },
+      "urlBuilder": [
+        {
+          "page": "voucher"
+        }
+      ]
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "description": "Scopri come ottenere il voucher e le offerte Vodafone a te dedicate",
+          "type": "TOP_HERO",
+          "image": "voucher-connettivita-hero-L.jpg",
+          "title": "<p>Voucher Connettività: fino a 2.500€ per Professionisti e PM</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          }
+        },
+        {
+          "type": "HUB",
+          "title": "<p>Il <b>Ministero delle Imprese</b> e <b>del Made in Italy (MIMIT)</b> ha stanziato delle risorse (Piano Voucher per le Imprese) per favorire la <b>diffusione della banda ultralarga</b> sul territorio nazionale. </p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          }
+        },
+        {
+          "type": "SLIDER_ICON_TITLE_DESCRIPTION",
+          "title": "<p><b>Moduli</b> e <b>documentazione necessaria</b> per la <b>sottoscrizione dell’offerta</b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Allegato A - Domanda di ammissione contributo che dovrai firmare in fase di sottoscrizione dell’offerta",
+              "textPositionButton": "false",
+              "image": "icon-bill-red.png",
+              "title": "Domanda di ammissione",
+              "action": {
+                "url": "https://v1.vodafone.it/portal/resources/media/Documents/bonus-fibra/Allegato_A_Domanda_di_ammissione_al_contributo_rev2.pdf",
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Allegato B - Verbale di consegna, che dovrai compilare in fase di attivazione della linea",
+              "textPositionButton": "false",
+              "image": "Icon-tickcircle-red.png",
+              "title": "Verbale di consegna",
+              "action": {
+                "url": "https://v2.vodafone.it/portal/resources/media/Documents/bonus-fibra/Allegato_B_Verbale_di_Consegna_rev2.pdf",
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Allegato F - Informativa sul trattamento  dei dati personali art 13 14 gdpr",
+              "textPositionButton": "false",
+              "image": "Icon-care-red.png",
+              "title": "Informativa sul trattamento",
+              "action": {
+                "url": "https://v1.vodafone.it/portal/resources/media/Documents/bonus-fibra/Allegato_F_Informativa_sul_trattamento_dei_dati_personali_artt_13_14_gdpr.pdf",
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SPLITTED_IMAGE_TEXT",
+          "title": "<p>Scopri un nuovo alleato per il tuo business: <b>Vodafone Wi-Fi 6 Station</b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Un nuovo alleato per il business: la Vodafone Wi-Fi 6 Station che con una miglior velocità e stabilità di collegamento per ciascun dispositivo connesso, migliora la copertura in tutto l’ufficio, con minor rischio di interferenze con le reti vicine. Le 8 antenne e il BSS Coloring permettono una migliore stabilitá e copertura fino a 120 device contemporaneamente, con prestazioni superiori in termini di durate delle batterie.",
+              "textPositionButton": "false",
+              "image": "wifi6station-stabilita-S.jpg",
+              "title": "Vodafone Wi-Fi 6 Station",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "title": "SCOPRI DI PIÙ",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SPLITTED_IMAGE_TEXT",
+          "title": "<p>Scopri una novità esclusiva Vodafone Business: <b>Power 4G</b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Una novità esclusiva Vodafone Business: un servizio che, aggiunto alla propria offerta di rete fissa, permette di unire alla velocità già fornita dalla rete fissa quella della rete mobile in 4G, raggiungendo performance uniche.",
+              "textPositionButton": "false",
+              "image": "power4g-S-card.jpg",
+              "title": "Power 4G",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "FAQ",
+          "title": "<p>Cosa c’è da sapere sul <b>bonus dedicato alle imprese</b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Liberi Professionisti: professionisti che esercitano una professione intellettuale ai sensi dell’articolo 2229 del Codice civile, ovvero una delle professioni non organizzate di cui alla legge 14 gennaio 2013, n. 4\r\nDitte individuali\r\nMicroimprese; imprese che: a) hanno meno di 10 occupati, e b) hanno un fatturato annuo oppure un totale di bilancio annuo non superiore a 2 milioni di euro.\r\nPiccole imprese; le imprese che: a) hanno meno di 50 occupati, e b) hanno un fatturato annuo oppure un totale di bilancio annuo non superiore a 10 milioni di euro.\r\nMedie imprese/PMI; imprese che: a) hanno meno di 250 occupati, e b) hanno un fatturato annuo non superiore a 50 milioni di euro, oppure un totale di bilancio annuo non superiore a 43 milioni di euro.\r\nIn caso di multisede, sarà possibile richiedere un solo voucher per P.IVA.\r\n\r\nIl voucher è destinato solo ai soggetti iscritti al registro delle imprese (eccetto quando liberi professionisti).",
+              "textPositionButton": "false",
+              "title": "A chi è dedicato il Voucher Connettività?",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "In caso di richiesta di attivazione di nuovi servizi di connettività o miglioramento della connettività già attiva (con Vodafone o con altro operatore).\r\n\r\nLa velocità attivata dovrà essere la migliore al civico dichiarato.",
+              "textPositionButton": "false",
+              "title": "A quali condizioni si applica?",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Il contratto e gli sconti avranno una durata di 18 mesi nel caso di richiesta di adesione al Voucher Connettività MIMIT A o B, o di 36 mesi nel caso di richiesta di adesione al Voucher Connettività MIMIT C con le offerte OneNet P.IVA Pro e OneNet Ufficio con profilo tecnologico FTTH 2,5Gbps (rimane la possibilità per il cliente di raitezzare i costi di attivazione per un periodo di 48 mesi).\r\n\r\nLe risorse stanziate sono limitate e distribuite su base regionale e condizionate alla disponibilità della migliore velocità sull'indirizzo del cliente. Riportiamo il link con l'elenco dei comuni ammessi alla misura (in quanto la Regione Emilia Romagna ha dato priorità a dei comuni specifici): <a href=\"https://www.infratelitalia.it/archivio-news/notizie/piano-voucher-fase-ii-imprese\"> piano voucher fase II imprese</a>",
+              "textPositionButton": "false",
+              "title": "Quanto vale il Voucher Connettività?",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Da subito, cliccando \"Ti chiamiamo gratis\" e lasciando i tuoi contatti.",
+              "textPositionButton": "false",
+              "title": "Quando posso richiedere il Voucher Connettività?",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "tagging": {
+      "eventCategory": "voucher"
+    }
+  },
+  "happy-week": {
+    "pagesparams": {
+      "key": "happyWeek",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "true",
+        "isHeaderSmall": "false"
+      },
+      "urlBuilder": [
+        {
+          "page": "Happy-Week"
+        }
+      ]
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "type": "TOP_HERO",
+          "image": "Happy-visore.jpg",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Apri ogni settimana l'App <b>My Vodafone Business</b> e richiedi i vantaggi esclusivi <b>per te, la tua azienda</b> e i <b>tuoi dipendenti.</b>",
+              "textPositionButton": "false",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "https://www.youtube.com/watch?v=LGlG2TtRM2I",
+              "textPositionButton": "false",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SPLITTED_IMAGE_TEXT",
+          "title": "<p>Tutto <b>sotto controllo</b>, anche quando non sei in <b>ufficio</b></p>\r\n",
+          "button": {
+            "label": "SCOPRI l’APP"
+          },
+          "customAction": {
+            "url": "https://business.vodafone.it/my-vodafone-business",
+            "type": "1",
+            "small": "false",
+            "title": "SCOPRI l’APP",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Puoi scoprirle e richiederle tutti i giorni, fino alla domenica.  In ogni caso troverai uno storico premi con tutto ciò che hai richiesto fino alla scadenza delle promozioni.",
+              "textPositionButton": "false",
+              "image": "app-qr-code-smartphone.jpg",
+              "title": "Tutti i lunedì nuove sorprese",
+              "action": {
+                "url": "https://business.vodafone.it/my-vodafone-business",
+                "type": "1",
+                "small": "false",
+                "title": "SCOPRI l’APP",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_ICON_TITLE_DESCRIPTION",
+          "title": "<p>Quanto è semplice <b>essere felici?</b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Apri l'App My Vodafone Business e accedi a Happy Week",
+              "textPositionButton": "false",
+              "image": "mobile.png",
+              "title": "Apri l’App",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Apri la sezione Happy Week e seleziona i vantaggi  che ti interessano.",
+              "textPositionButton": "false",
+              "image": "all-rewards.png",
+              "title": "Scegli i premi",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Richiedi il codice e utilizzalo sul sito del partner. ",
+              "textPositionButton": "false",
+              "image": "Group.png",
+              "title": "Richiedi il codice",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_IMAGE_TITLE_DESCRIPTION",
+          "title": "<p>Quali <b>vantaggi</b> puoi trovare</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Per scoprire nuovi prodotti e servizi.",
+              "textPositionButton": "false",
+              "image": "happyweek-omaggi.jpg",
+              "title": "Omaggi",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Per risparmiare grazie a Vodafone Business.",
+              "textPositionButton": "false",
+              "image": "happyweek-sconti.jpg",
+              "title": "Sconti esclusivi",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Per offrire benefici per tutti i tuoi dipendenti.",
+              "textPositionButton": "false",
+              "image": "happyweek-offerte-azienda.jpg",
+              "title": "Offerte per la tua azienda",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_LARGE_LARGE",
+          "title": "<p><b>I</b> <b>vantaggi</b> di essere Vodafone Business.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Dove i desideri diventano realtà in un click",
+              "textPositionButton": "false",
+              "image": "businessclub-club-S.jpg",
+              "title": "Business Club",
+              "action": {
+                "url": "https://business.vodafone.it/business-club",
+                "type": "1",
+                "small": "true",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Il consulente più adatto alle tue esigenze",
+              "textPositionButton": "false",
+              "image": "tobi-business-S.jpg",
+              "title": "TOBi Business",
+              "action": {
+                "url": "https://business.vodafone.it/tobi-business",
+                "type": "1",
+                "small": "true",
+                "localUrl": "https://business.vodafone.it/tobi-business",
+                "isBlank": "false"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "tagging": {
+      "eventCategory": "happy-week"
+    }
+  },
+  "la-rete-vodafone": {
+    "pagesparams": {
+      "key": "laReteVodafone",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "true",
+        "isHeaderSmall": "false"
+      },
+      "urlBuilder": [
+        {
+          "page": "La-Rete-Vodafone"
+        }
+      ]
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "description": "Stabile e Inarrestabile",
+          "type": "TOP_HERO",
+          "image": "retevodafone-hero-L.jpg",
+          "title": "<p>La Rete Vodafone</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Anche se non la vedi, è <b>con te</b> in <b>ogni istante</b>. <b>Ovunque andrai</b>, quando avrai bisogno di lei, la troverai al tuo fianco per darti sempre il <b>massimo delle sue prestazioni</b>. Perché è la Rete Vodafone, <b>stabile e inarrestabile</b>. E <b>tu</b> sei il <b>centro di tutto</b>.",
+              "textPositionButton": "false",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "https://www.youtube.com/embed/EsNPc02k-s4",
+          "type": "VIDEO",
+          "title": "<p><b>La Rete Vodafone è il cuore</b> di tutto quello che fai.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          }
+        },
+        {
+          "type": "SLIDER_IMAGE_TITLE_DESCRIPTION",
+          "title": "<p><b>Quando lavori</b> in ufficio, in viaggio o da casa lei c’è<br />\r\ne <b>puoi sempre contare su di lei</b></p>\r\n",
+          "button": {
+            "label": "SCOPRI DI PIÙ"
+          },
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "title": "SCOPRI DI PIÙ",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "È accanto a te, anche quando lavori. Tu non la vedi, ma potrai utilizzare la sua potenza e velocità per far crescere il tuo business.\r\n",
+              "textPositionButton": "false",
+              "image": "app-profilo-dipendente.jpg",
+              "title": "Quando sei in ufficio",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "title": "SCOPRI DI PIÙ",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Ovunque tu sia, qualunque avventura tu stia vivendo, potrai sempre contare sul suo sostegno. Sarà insieme a te, stabile e inarrestabile, in tutti i momenti che contano.",
+              "textPositionButton": "false",
+              "image": "retevodafone-quando-viaggi.jpg",
+              "title": "Quando viaggi",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "title": "SCOPRI DI PIÙ",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Potrai chiamare, inviare SMS e utilizzare una parte dei Giga già inclusi nella tua offerta senza alcun sovrapprezzo. ",
+              "textPositionButton": "false",
+              "image": "retevodafone-tempolibero.jpg",
+              "title": "Nel tempo libero",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "title": "SCOPRI DI PIÙ",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SPLITTED_IMAGE_TEXT",
+          "title": "<p><b>Per la tutela dell’ambiente</b> facciamo rete</p>\r\n",
+          "button": {
+            "url": "https://business.vodafone.it/cosa-ci-rende-green",
+            "label": "SCOPRI DI PIÙ"
+          },
+          "customAction": {
+            "url": "https://business.vodafone.it/cosa-ci-rende-green",
+            "type": "1",
+            "small": "false",
+            "title": "SCOPRI DI PIÙ",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Lo sapevi? La Rete Vodafone è alimentata al 100% da acqua, sole e vento. Con l’utilizzo di fonti rinnovabili e strumenti all’avanguardia, Vodafone si impegna a ridurre i consumi energetici e l’impatto ambientale di tutti i clienti che utilizzano la sua Rete. Insieme possiamo fare tanto per la tutela dell’ambiente.",
+              "textPositionButton": "false",
+              "image": "green.jpg",
+              "title": "È al 100% Green",
+              "action": {
+                "url": "https://business.vodafone.it/cosa-ci-rende-green",
+                "type": "1",
+                "small": "false",
+                "title": "SCOPRI DI PIÙ",
+                "localUrl": "https://business.vodafone.it/cosa-ci-rende-green",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_DEFAULT",
+          "title": "<p><b>Connessi al futuro</b>. La nostra <b>rete</b> guarda sempre avanti.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "textPositionButton": "false",
+              "category": "Rete Fibra",
+              "image": "videocall.jpg",
+              "title": "Più potente, più stabile e più sicura",
+              "action": {
+                "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/rete-vodafone?icmp=ebu_web-aziende_HP_V3_B1_rete-vodafone",
+                "type": "1",
+                "small": "true",
+                "isBlank": "false"
+              }
+            },
+            {
+              "textPositionButton": "false",
+              "category": "Rete 5G",
+              "image": "virtual-reality.JPG",
+              "title": "Una connessione senza precedenti",
+              "action": {
+                "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Rete-Vodafone/rete-vodafone-5g?icmp=ebu_web-aziende_HP_V3_B2_rete-5g",
+                "type": "1",
+                "small": "true",
+                "isBlank": "false"
+              }
+            },
+            {
+              "textPositionButton": "false",
+              "category": "Rete FWA",
+              "image": "summer-landscape.jpg",
+              "title": "L’alta velocità, ovunque con FWA 5G",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/offerte-rete-fissa/fissa-wireless-5g.html?icmp=ebu_web-aziende_HP_V3_B3_rete-fwa",
+                "type": "1",
+                "small": "true",
+                "isBlank": "false"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "tagging": {
+      "eventCategory": "la-rete-vodafone"
+    }
+  },
+  "power-4g": {
+    "widgets": {
+      "sliders": [
+        {
+          "description": "Tutta la potenza del 4G per la tua rete fissa",
+          "type": "TOP_HERO",
+          "image": "power4g-L-hero.jpg",
+          "title": "<p>Power 4G</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          }
+        },
+        {
+          "description": "Una <b>novità</b> esclusiva <b>Vodafone Business</b>: un servizio che, aggiunto alla propria offerta di rete fissa, permette di unire alla <b>velocità</b> già fornita dalla <b>rete fissa</b> quella della <b>rete mobile in 4G</b>, raggiungendo performance uniche.",
+          "type": "TEXT",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          }
+        },
+        {
+          "type": "SLIDER_ICON_TITLE_DESCRIPTION",
+          "title": "<p>Perchè scegliere<b> Power 4G?</b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Wi-Fi ultraveloce, fino a 4 volte più veloce rispetto ad un modem tradizionale e riduzione del consumo di batteria dei device collegati.",
+              "textPositionButton": "false",
+              "image": "Icon-5g-red.png",
+              "title": "Performance",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Supporta fino a 120 device contemporaneamente ottimizzando il consumo della batteria dei device collegati e predisposti.",
+              "textPositionButton": "false",
+              "image": "icon-devices-red.png",
+              "title": "Backup",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Migliora la copertura in tutta la casa fino al 30%\r\nin più rispetto ad un modem tradizionale.",
+              "textPositionButton": "false",
+              "image": "icon-wifi-red.png",
+              "title": "Stabilità",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "Puoi acquistare Power4G insieme alla tua offerta OneNet P.IVA o OneBusiness unicamente in tecnologia ADSL        o FTTC        e unicamente con copertura mobile in 4G. \r\nVisita le pagine dedicate ai piani di rete fissa e convergenza, effettua la verifica di copertura del tuo indirizzo ed aggiungi il Power4G direttamente al tuo carrello.\r\nOppure, se preferisci, chiedi direttamente al tuo consulente al telefono o vai in negozio.",
+          "type": "SPLITTED_IMAGE_TEXT",
+          "title": "<p>Scopri una novità esclusiva Vodafone Business: <b>Power 4G</b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Power4G funziona grazie alla SIM presente nella Vodafone Internet Key: una volta inserita la chiavetta nella Vodafone Station, si attiverà la rete mobile andando a sommarsi alla rete fissa:\r\n\r\n40 Mbpd in dowload in tecnologia ADSL\r\n150 Mbps in dowload in tecnologia FTTC",
+              "textPositionButton": "false",
+              "image": "power-station.jpg",
+              "title": "Come funziona",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_ICON_TITLE_DESCRIPTION",
+          "title": "<p><b>Come posso acquistarlo?</b></p>\r\n<h6>Tutto ciò che ti serve per lavorare al meglio in un unico pacchetto che funziona alla perfezione su computer, telefono o tablet.</h6>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Acquista la tua OneNet P.IVA o OneBusiness ed aggiungi all’offerta Power4G.",
+              "textPositionButton": "false",
+              "title": "Acquista un’offerta di rete Fissa",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Ricevi a casa la Vodafone Station e la Vodafone Internet Key, già incluse nelle offerte Vodafone Business.",
+              "textPositionButton": "false",
+              "title": "Vodafone Station",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Attendi l’arrivo del tecnico per l’installazione della tua linea.\r\n",
+              "textPositionButton": "false",
+              "title": "Tecnico specializzato",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Non appena la tua rete fissa sarà attiva, lo sarà anche Power4G. Tieni sempre collegata la Vodafone Internet Key alla Vodafone Stationa.\r\n",
+              "textPositionButton": "false",
+              "title": "Attivazione rete",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "FAQ",
+          "title": "<p>Avere qualche <b>dubbio è normale.</b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "In caso di acquisto del servizio Power4G, il cliente potrà usufruire di velocità di navigazione maggiore sulla rete fissa grazie alla rete mobile in 4G. Il servizio consente un potenziamento della navigazione con la rete fissa, senza comprometterne la fruizione in caso di eventuali problemi con la rete mobile.\r\n\r\nTramite Power4G, il cliente potrà incrementare la sua velocità di navigazione da 20 Mbps fino a 40 Mbps in download e da 1 Mbps fino a 5 Mbps in upload (per tecnologia ADSL) oppure da 100 Mbps fino a 150 Mbps in download e da 20 Mbps fino a 50 Mbps in upload (per tecnologia FTTC).\r\n\r\nIl servizio Power4G è fruibile:\r\nunicamente con la Vodafone Power Station e la Vodafone Internet Key inserita correttamente. Qualora la sua Vodafone Station debba essere sostituita per consentirle di fruire dei servizi inclusi nella sua offerta, la nuova Station le verrà inviata senza il versamento di alcun ulteriore corrispettivo a titolo di sconto merce. Qualora per fruire di nuovi servizi o di servizi più avanzati relativi alla connettivita fissa, sia necessario effettuare degli interventi, le verrranno addebitati 4 euro al mese per 24 mesi;\r\nunicamente con tecnologie ADSL e FTTC, con esclusione della tecnologia FTTH. In caso di migrazione di una precedente linea attiva a tecnologia FTTH (fibra), il servizio sarà automaticamente disabilitato;\r\nfino a concorrenza di 350 Giga ogni mese. Al raggiungimento della soglia, il cliente continuerà a navigare alla velocità di rete fissa standard.\r\nIl servizio Power4G fornisce automaticamente al cliente un IP pubblico statico, che rimane attivo anche in caso di disservizi della rete fissa.\r\nQualora il cliente disattivi Power4G, l’IP attribuitogli con il servizio verrà disabilitato e il cliente potrà continuare a usufuire dell’IP incluso nell’offerta sottoscritta.\r\n\r\nRicordiamo che l’effettiva velocità di navigazione dipende dalla copertura, dalla capacità, dal grado di congestione della rete e dal dispositivo utilizzato.\r\n\r\nIl primo rinnovo coincide con il giorno di attivazione del servizio Power4G e ha durata mensile: il servizio prevede addebito bimestrale in fattura di importo pari a quanto sottoscritto.\r\nIl rinnovo è automatico; è possibile disattivare in ogni momento Power4G nell’area “Fai da te” o chiamando il numero 42323.\r\n\r\nIl servizio non prevede alcun costo di attivazione o di disattivazione.",
+              "textPositionButton": "false",
+              "title": "Termini e condizioni Power 4G",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "pagesparams": {
+      "key": "Power4G",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "true",
+        "isHeaderSmall": "false"
+      },
+      "urlBuilder": [
+        {
+          "page": "Power-4G"
+        }
+      ]
+    },
+    "tagging": {
+      "eventCategory": "power-4g"
+    }
+  },
+  "wifi6-station": {
+    "pagesparams": {
+      "key": "Wifi6Station",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "true",
+        "isHeaderSmall": "false"
+      },
+      "urlBuilder": [
+        {
+          "page": "Wifi6-Station"
+        }
+      ]
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "description": "Scopri il miglior Wi-Fi Vodafone di sempre, stabile, 8 antenne e pieno controllo dal tuo smartphone",
+          "type": "TOP_HERO",
+          "image": "wifi6-station-L-hero.jpg",
+          "title": "<p>La nuova Vodafone Wi-Fi 6 Station</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Da oggi la tua connessione ha un nuovo alleato: </br>\r\n<b>la Vodafone Wi-Fi 6 Station</b> che migliora <b>velocità</b>, <b>stabilità</b> e <b>copertura</b> in tutta la casa.",
+              "textPositionButton": "false",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_ICON_TITLE_DESCRIPTION",
+          "title": "<p>Tutte le <b>qualità</b> del <b>Wi-Fi 6 Station</b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Wi-Fi ultraveloce, fino a 4 volte più veloce rispetto ad un modem tradizionale e riduzione del consumo di batteria dei device collegati.",
+              "textPositionButton": "false",
+              "image": "Icon-5g-red.png",
+              "title": "Performance",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Supporta fino a 120 device contemporaneamente ottimizzando il consumo della batteria dei device collegati e predisposti.",
+              "textPositionButton": "false",
+              "image": "icon-devices-red.png",
+              "title": "Backup",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Migliora la copertura in tutta la casa fino al 30%\r\nin più rispetto ad un modem tradizionale.",
+              "textPositionButton": "false",
+              "image": "icon-wifi-red.png",
+              "title": "Stabilità",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_IMAGE_TITLE_DESCRIPTION",
+          "title": "<p><b>Come funziona</b></p>\r\n",
+          "disclaimer": "<p>È disponibile su tutte le nuove attivazioni in Fibra e Fibra misto rame (FTTH e FTTC), per tutti i clienti chescelgono di utilizzare Vodafone Station; il Wi-Fi Optimizer è pre-configurato di serie in ogni Vodafone Statione non serve nessuna azione di installazione del software.Fino a 4 volte più veloce e fino al 30% in più di copertura!</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Notevole aumento nella velocità di connessione, ma anche una diminuzione dei consumi energetici e, quindi, una maggiore autonomia di computer, smartphone e smartwatch che si connettono alla rete senza fili.",
+              "textPositionButton": "false",
+              "image": "wifi6-maggiore-velocita.jpg",
+              "title": "Maggiore velocità",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Con il Wi-FI 6 la banda dati è suddivisa in un numero maggiore di sottocanali ottimizzando la banda per ogni singolo dispositivo, evitando così che questi interferiscano tra loro.",
+              "textPositionButton": "false",
+              "image": "wifi6-ottimizzazione-banda.jpg",
+              "title": "Ottimizzazione della banda",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Migliore gestione delle antenne MIMO (Multiple-in Multiple-out), che ora possono gestire contemporaneamente più flussi dati sia in ingresso sia in uscita permettendo così al router di gestire in contemporanea i flussi di pacchetti dati in arrivo da differenti dispositivi.",
+              "textPositionButton": "false",
+              "image": "wifi6-gestione-antenne.jpg",
+              "title": "Migliore gestione delle antenne",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "tagging": {
+      "eventCategory": "wifi6-station"
+    }
+  },
+  "business-club": {
+    "pagesparams": {
+      "key": "businessClub",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "true",
+        "isHeaderSmall": "false"
+      },
+      "urlBuilder": [
+        {
+          "page": "Business-Club"
+        }
+      ]
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "type": "TOP_HERO",
+          "image": "businessclub-L-hero.jpg",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Scopri il <b>Club</b> dedicato ai <b>clienti Vodafone Business</b>.\r\nCon Business Club puoi <b>risparmiare tutti i mesi</b> sulle tue spese, <b>fare del bene al Pianeta</b> e scoprire il <b>meglio delle eccellenze italiane</b>.",
+              "textPositionButton": "false",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_ICON_TITLE_DESCRIPTION",
+          "title": "<p><b>Grandi marchi</b></p>\r\n<p>Le nostre migliori parteship per consentire al cliente di risparmiare ogni mese e offrire corporate benefit ai dipendenti.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Dal 5% al 10% di cashback su tutte le tue prenotazioni.",
+              "textPositionButton": "false",
+              "image": "booking.png",
+              "title": "Booking",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Carta gratuita per il primo anno e tanti altri vantaggi!",
+              "textPositionButton": "false",
+              "image": "amex.png",
+              "title": "American Express",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Risparmia sui pedaggi, anche quelli della tua azienda.",
+              "textPositionButton": "false",
+              "image": "telepass.png",
+              "title": "Telepass",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "20% di sconto sui noleggi auto in Italia.",
+              "textPositionButton": "false",
+              "image": "avis.png",
+              "title": "20% di sconto sui noleggi auto in Italia.",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Ogni mese 5€ di sconto sui tuoi acquisti.",
+              "textPositionButton": "false",
+              "image": "borbone.png",
+              "title": "Caffè Borbone",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "15% di sconto sul catalogo online.",
+              "textPositionButton": "false",
+              "image": "philips.png",
+              "title": "Philips Hue",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "10% sulle spedizioni UPS Express in Italia e all'Estero.",
+              "textPositionButton": "false",
+              "image": "ups.png",
+              "title": "UPS",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Hai fino al 7% di sconto sulla tua polizza Auto, Moto, Veicoli commerciali e Camper con Allianz Direct.",
+              "textPositionButton": "false",
+              "image": "allianz.png",
+              "title": "Allianz Direct-Auto",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Con Vodafone Business Club hai uno sconto del 10% sulla tua polizza casa con Allianz Direct.",
+              "textPositionButton": "false",
+              "image": "allianz.png",
+              "title": "Allianz Direct-Casa",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Ogni mese 10€ di sconto sulla tua spesa online.",
+              "textPositionButton": "false",
+              "image": "carrefour.png",
+              "title": "Carrefour",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "Attenzione al pianeta in partnership con azienda che hanno una spiccata mission green.",
+          "type": "SLIDER_ICON_TITLE_DESCRIPTION",
+          "title": "<p><b>Partner per l’ambiente</b></p>\r\n<p>Attenzione al pianeta in partnership con azienda che hanno una spiccazta mission green.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Adotta e ragala alberi, ricevendone i frutti, con il 10% di sconto.",
+              "textPositionButton": "false",
+              "image": "biofarm.png",
+              "title": "Biorfarm",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "15% di sconto su tutti i prodotti SodaStream.",
+              "textPositionButton": "false",
+              "image": "sodasteam.png",
+              "title": "Sodastream",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Scopri lo sconto Luce e Gas per la tua azienda su my Vodafone Business.",
+              "textPositionButton": "false",
+              "image": "axpo.png",
+              "title": "Axpo",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Scopri lo sconto Luce e Gas per la tua casa su my Vodafone Business.",
+              "textPositionButton": "false",
+              "image": "pulse.png",
+              "title": "Pulsee",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_ICON_TITLE_DESCRIPTION",
+          "title": "<p><b>Eccellenze da scoprire</b></p>\r\n<p>Raccontiamo le storie dei nostri clienti e creiamo una community tramite cui ottenere visibilità.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Trattamenti Barò Cosmetics creati in esclusiva per te!",
+              "textPositionButton": "false",
+              "image": "baro.png",
+              "title": "Barò Cosmetic",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "10% di sconto sul sito.",
+              "textPositionButton": "false",
+              "image": "mami.png",
+              "title": "Mami Milano",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Sconto di 30€ valido su una spesa minima di 200€ sui tuoi acquisti sul sito e nei negozi.",
+              "textPositionButton": "false",
+              "image": "velasca.png",
+              "title": "Velasca",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "80% di sconto su tutti i corsi.",
+              "textPositionButton": "false",
+              "image": "biova.png",
+              "title": "Biova Project",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "80% di sconto su tutti i corsi.",
+              "textPositionButton": "false",
+              "image": "oneclick.png",
+              "title": "OneClick - Tuttofare24",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SPLITTED_IMAGE_TEXT",
+          "title": "<p><b>Tutto questo e tanto altro nella nostra App</b></p>\r\n",
+          "button": {
+            "url": "https://business.vodafone.it/my-vodafone-business",
+            "label": "SCOPRI L'APP"
+          },
+          "customAction": {
+            "url": "https://business.vodafone.it/my-vodafone-business",
+            "type": "1",
+            "small": "false",
+            "title": "SCOPRI L'APP",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Con Business Club puoi risparmiare tutti i mesi sulle tue spese, fare del bene al Pianeta e scoprire il meglio delle eccellenze italiane. Accedi all'app My Vodafone Business per scoprire nel dettaglio tutti i vantaggi del programma.",
+              "textPositionButton": "false",
+              "image": "app-qr-code-smartphone.jpg",
+              "title": "Scopri il Club dedicato ai clienti Vodafone Business.",
+              "action": {
+                "url": "https://business.vodafone.it/my-vodafone-business",
+                "type": "1",
+                "small": "false",
+                "title": "SCOPRI l’APP",
+                "isBlank": "false"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "tagging": {
+      "eventCategory": "business-club"
+    }
+  },
+  "fissa-e-soluzioni-digitali": {
+    "pagesparams": {
+      "key": "hubFissaSoluzioniDigitali",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "true",
+        "isHeaderSmall": "false"
+      },
+      "apiPath": {
+        "apiProductsList": "business/products/all",
+        "apiOfferList": "business/get-product-for-hub/get-product-hub-fissa-soluzioni-digitali"
+      },
+      "urlBuilder": [
+        {
+          "page": "hub-fissa"
+        },
+        {
+          "page": "soluzioni-digitali"
+        }
+      ]
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "type": "HUB",
+          "title": "<p><b>Fissa smart con Digital Solution</b>.</p>\r\n<p>L’offerta internet con le soluzioni per <b>potenziare il tuo business</b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          }
+        },
+        {
+          "type": "SLIDER_ICON_TITLE_DESCRIPTION",
+          "title": "<p>Un’offerta <b>semplice e chiara.</b> </p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Internet alla massima velocità in FTTH         fino a 2.5 Gigabit/s, chiamate a consumo e Vodafone Station sempre inclusa nel prezzo.",
+              "textPositionButton": "false",
+              "image": "Icon-acceleration-red.png",
+              "title": "Internet super veloce",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Puoi attivarla online in totale autonomia, ti serve solo la partita IVA la carta d'identità del rappresentante legale.",
+              "textPositionButton": "false",
+              "image": "ico_smile.png",
+              "title": "Attivazione facile",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Gestisci in autonomia le richieste di supporto tecnico, monitora proattivamente la tua rete fissa e personalizza il modello di servizio in base alle tue esigenze.",
+              "textPositionButton": "false",
+              "image": "icon-cosultant-red.png",
+              "title": "Assistenza dedicata",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_ICON_TITLE_DESCRIPTION",
+          "title": "<p><b>Scopri le Soluzioni</b> abbinate a Fissa Smart</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "L'identità digitale per il tuo lavoro.",
+              "textPositionButton": "false",
+              "image": "logods-solcial-spid.png",
+              "title": "Spid Professionitsti by InfoCert",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/soluzioni-digitali/spid-professionisti.html",
+                "type": "1",
+                "small": "false",
+                "title": "SCOPRI DI PIÙ",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Protezione semplice e completa per dispositivi fissi, mobili e app.",
+              "textPositionButton": "false",
+              "image": "logods-solcial-worryfree.png",
+              "title": "Worry-Free Service Advanced",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/soluzioni-digitali/trend-micro.html",
+                "type": "1",
+                "small": "false",
+                "title": "SCOPRI DI PIÙ",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Trasforma il Wi-Fi del tuo negozio in uno strumento per fare business. Offri un accesso semplice con il social login e colleziona i dati dei tuoi clienti per creare campagne mirate. ",
+              "textPositionButton": "false",
+              "image": "logods-solcial-connect.png",
+              "title": "Social connect",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/soluzioni-digitali/social-connect.html",
+                "type": "1",
+                "small": "false",
+                "title": "SCOPRI DI PIÙ",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_LARGE_SMALL",
+          "title": "<p><b>Tutta la tecnologia inclusa </b>in ogni offerta.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "La Fibra Vodafone, per andare al massimo.",
+              "textPositionButton": "true",
+              "image": "vodafone-wifi6-station-closeup.jpg",
+              "title": "Vodafone Station",
+              "action": {
+                "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Fibra-e-ADSL/Rete-Fissa/vodafone-wifi6-station",
+                "type": "1",
+                "small": "true",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "textPositionButton": "false",
+              "image": "ragazzo-felice-al-computer.jpg",
+              "title": "Power 4G per navigare anche in assenza di rete",
+              "action": {
+                "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Landing/power-4g",
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "textPositionButton": "false",
+              "image": "man-with-tablet.jpg",
+              "title": "Vodafone YourDrive per salvare i tuoi dati",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "textPositionButton": "false",
+              "image": "business-woman-internetkey.jpg",
+              "title": "Iternet Key per navigare anche in mobilità",
+              "imageMobile": "business-woman-internetkey.jpg",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_LARGE_SMALL",
+          "title": "<p><b>I vantaggi</b> di essere Vodafone Business.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Il programma fedeltà che premia il tuo entusiasmo.",
+              "textPositionButton": "false",
+              "image": "HappyWeek-landscape.png",
+              "title": "Happy Week",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/happy-week.html?icmp=ebu_web-aziende_HP_V4_B1_happy-week",
+                "type": "1",
+                "small": "true",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Dove i desideri diventano realtà in un click",
+              "textPositionButton": "false",
+              "image": "business_club.jpg",
+              "title": "Business Club",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/business-club.html?icmp=ebu_web-aziende_HP_V4_B2_business-club",
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "La miglior alleata del il tuo lavoro",
+              "textPositionButton": "false",
+              "image": "app-cover-L.jpg",
+              "title": "My Vodafone Business",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "tobi-business": {
+    "pagesparams": {
+      "key": "tobiBusiness",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "true",
+        "isHeaderSmall": "false"
+      },
+      "urlBuilder": [
+        {
+          "page": "tobi-business"
+        }
+      ]
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "type": "TOP_HERO",
+          "image": "tobi-business-L-hero.jpg",
+          "title": "<p>Scopri TOBi Business<br />\r\nL’assistente digitale<br />\r\ndi Vodafone</p>\r\n",
+          "customAction": {
+            "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Supporto/TOBi?icmp=ebu_web-aziende_HP_MDD2_STRUMENTIDIGITALI_tobi-business",
+            "type": "1",
+            "small": "false",
+            "title": "CHIEDI A TOBi",
+            "isBlank": "false"
+          },
+          "divider": {
+            "image": "TOBi.png"
+          },
+          "elements": [
+            {
+              "description": "TOBi Business è l'assistente digitale di Vodafone, disponibile anche per la tua azienda\r\nnell'App My Vodafone Business e nel Fai da te.</br>\r\nCon TOBi puoi trovare l'informazione che cerchi o il consulente più adatto alle tue esigenze. Puoi esprimerti in modo naturale, chiedendo ad esempio di scaricare le fatture, controllare i contatori, visualizzare il tuo parco aziendale e molto altro.",
+              "textPositionButton": "false",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "Ecco qualche esempio:",
+          "type": "SLIDER_EXPERIENCES",
+          "image": "vfB.jpg",
+          "title": "<p>Cosa puoi chiedere a TOBi Business?</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "“Vorrei un aggiornamento del mio asset aziendale”",
+              "textPositionButton": "false",
+              "image": "tobi-business-monitor.jpg",
+              "title": "Monitoraggio",
+              "maskIcon": "bollinoMaskicon.png",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "“Vorrei informazioni sulla mia ultima fattura”",
+              "textPositionButton": "false",
+              "image": "tobi-business-pagamenti.jpg",
+              "title": "Pagamenti",
+              "maskIcon": "pagamentoMaskIcon.png",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "“Vorrei attivare Happy Week Business”",
+              "textPositionButton": "false",
+              "image": "tobi-business-servizi.jpg",
+              "title": "Servizi",
+              "maskIcon": "serviziMaskIcon.png",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "“Ho notato un rallentamento nella rete aziendale”",
+              "textPositionButton": "false",
+              "image": "tobi-business-rete.jpg",
+              "title": "Rete",
+              "maskIcon": "reteMaskIcon.png",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "“Qual è il PUK del mio numero aziendale?”",
+              "textPositionButton": "false",
+              "image": "tobi-business-sicurezza.jpg",
+              "title": "Sicurezza",
+              "maskIcon": "sicurezzaMaskIcon.png",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_DEFAULT",
+          "title": "<p>Scopri TOBi anche su Whatsapp e RCS</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "textPositionButton": "false",
+              "category": "Whatsapp",
+              "image": "tobi-business-wa-card.jpg",
+              "title": "“Ciao TOBi, qual è il mio credito residuo?”",
+              "action": {
+                "url": "/Tobi-business-Whatsapp",
+                "type": "7",
+                "small": "true",
+                "buttonType": "undefined",
+                "localUrl": "/Tobi-business-Whatsapp",
+                "isBlank": "false"
+              }
+            },
+            {
+              "textPositionButton": "false",
+              "category": "Chat Messaggi",
+              "image": "tobi-business-sms-card.jpg",
+              "title": "“Ciao TOBi, quanti Giga ho?”",
+              "action": {
+                "url": "/Tobi-business-Rcs",
+                "type": "7",
+                "small": "true",
+                "buttonType": "undefined",
+                "localUrl": "/Tobi-business-Rcs",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "<p style=\"text-align: center\">Inizia subito a chattare con TOBi </p>",
+          "type": "TEXT",
+          "customAction": {
+            "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Supporto/TOBi?icmp=ebu_web-aziende_HP_MDD2_STRUMENTIDIGITALI_tobi-business",
+            "type": "1",
+            "small": "false",
+            "title": "CHIEDI A TOBi",
+            "isBlank": "false"
+          }
+        }
+      ]
+    },
+    "tagging": {
+      "eventCategory": "tobi-business"
+    }
+  },
+  "tobi-business-whatsapp": {
+    "pagesparams": {
+      "key": "TobiBusinessWhatsapp",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "true",
+        "isHeaderSmall": "false"
+      },
+      "urlBuilder": [
+        {
+          "page": "Tobi-business-Whatsapp"
+        }
+      ]
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "type": "TOP_HERO",
+          "image": "tobi-business-wa-hero-S.jpg",
+          "title": "<p>TOBi Business, l’assistente digitale di Vodafone, è anche su Whatsapp.</p>\r\n",
+          "customAction": {
+            "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Supporto/TOBi?icmp=ebu_web-aziende_HP_MDD2_STRUMENTIDIGITALI_tobi-business",
+            "type": "1",
+            "small": "false",
+            "title": "INIZIA A CHATTARE",
+            "isBlank": "false"
+          }
+        },
+        {
+          "type": "SLIDER_ICON_TITLE_DESCRIPTION",
+          "title": "<p>TOBi Business, l’assistente digitale di Vodafone sempre a tua disposizione,<br />\r\n<b>anche su Whatsapp al +39 3499942323</b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Assicurati di aver scaricato l'app di <b>WhatsApp</b> da App Store o Play Store.",
+              "textPositionButton": "false",
+              "title": "Scarica l'app di WhatsApp",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Apri questo <a>link<a/> per iniziarela conversazione con TOBi Business",
+              "textPositionButton": "false",
+              "title": "Inizia la conversazione",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Chatta con TOBi Business per chiedere assistenza.",
+              "textPositionButton": "false",
+              "title": "Fai le tue domande a TOBi Business",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "FAQ",
+          "title": "<p><b>FAQ</b></p>\r\n",
+          "button": {
+            "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Supporto/TOBi?icmp=ebu_web-aziende_HP_MDD2_STRUMENTIDIGITALI_tobi-business",
+            "label": "CHIEDI A TOBi"
+          },
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Per iniziare a parlare con TOBi, l’assistente digitale di Vodafone da canale WhatsApp assicurati prima di aver scaricato l’applicazione da App Store o Play Store. Aggiungi poi il numero di TOBi tra i contatti della rubrica del tuo smartphone oppure clicca questo <a href=\"https://api.whatsapp.com/send?phone=393499942323&text=Ciao%20TOBi%20cosa%20sai%20fare%3F\" link</a>.",
+              "textPositionButton": "false",
+              "title": "Come faccio ad attivare TOBi Business su WhatsApp?",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Per aggiungere il numero di TOBi WhatsApp basta inserire tra i contatti della rubrica del tuo smartphone il numero +39 3499942323.In alternativa, da canale mobile, puoi cliccare il seguente link per iniziare subito la conversazione con TOBi: <a href=\"https://api.whatsapp.com/send?phone=393499942323&text=Ciao%20TOBi%20cosa%20sai%20fare%3F\" >b.tobi.it/whatsapp</a>",
+              "textPositionButton": "false",
+              "title": "Come posso aggiungere tra i miei contatti il numero di TOBi Business WhatsApp?",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "La conversazione con TOBi non è a pagamento. Per parlare con TOBi da canale WhatsApp è tuttavia necessario essere collegati ad una connessione Wi-Fi oppure avere un piano telefonico dati attivo.Il consumo dei dati è legato al piano sottoscritto e dipende dalle condizioni del proprio operatore.",
+              "textPositionButton": "false",
+              "title": "La conversazione con TOBi Business WhatsApp è a pagamento?",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Si, puoi parlare con TOBi da canale WhatsApp anche all’estero secondo le condizioni contrattuali per l’utilizzo dei dati sottoscritte con il proprio operatore telefonico.",
+              "textPositionButton": "false",
+              "title": "Posso utilizzare TOBi Business WhatsApp anche all’estero?",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "<p style=\"text-align: center\">Inizia subito a chattare con TOBi </p>",
+          "type": "TEXT",
+          "customAction": {
+            "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Supporto/TOBi?icmp=ebu_web-aziende_HP_MDD2_STRUMENTIDIGITALI_tobi-business",
+            "type": "1",
+            "small": "false",
+            "title": "CHIEDI A TOBi",
+            "isBlank": "false"
+          }
+        }
+      ]
+    },
+    "tagging": {
+      "eventCategory": "tobi-business-whatsapp"
+    }
+  },
+  "tobi-business-rcs": {
+    "pagesparams": {
+      "key": "Tobi Business RCS",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "true",
+        "isHeaderSmall": "false"
+      },
+      "urlBuilder": [
+        {
+          "page": "Tobi-business-Rcs"
+        }
+      ]
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "type": "TOP_HERO",
+          "image": "tobi-business-sms-hero-S.jpg",
+          "title": "<p>TOBi Business, l’assistente digitale di Vodafone, è anche su Chat messaggi</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          }
+        },
+        {
+          "type": "SLIDER_ICON_TITLE_DESCRIPTION",
+          "title": "<p>TOBi Business, l’assistente digitale di Vodafone sempre a tua disposizione,<br />\r\nanche sul <b>servizio di messaggistica avanzata di Android al +39 3499942323</b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Assicurati di avere attive le \"funzionalità di chat\".",
+              "textPositionButton": "false",
+              "title": "Utilizza l'app Messaggi oppure scarica l'app Android Message",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Apri l’app e scrivi al numero 3499942323. TOBi inizierà la conversazione aprendo la chat.",
+              "textPositionButton": "false",
+              "title": "Inizia la conversazione",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Chatta con TOBi per chiedere assistenza.",
+              "textPositionButton": "false",
+              "title": "Chiedi a TOBi",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "FAQ",
+          "title": "<p><b>FAQ</b></p>\r\n",
+          "button": {
+            "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Supporto/TOBi?icmp=ebu_web-aziende_HP_MDD2_STRUMENTIDIGITALI_tobi-business",
+            "label": "CHIEDI A TOBi"
+          },
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Per iniziare a parlare con TOBi, l’assistente digitale di Vodafone con tecnologia SMS apri l’app «messaggi» del tuo telefono. Aggiungi poi il numero 42323 tra i contatti della rubrica del tuo smartphone e scrivigli qualcosa. Si aprirà una nuova chat con la faccia di TOBi e potrai portare avanti la tua conversazione su quella chat.",
+              "textPositionButton": "false",
+              "title": "Come faccio a chattare con TOBi Business su tecnologia RCS?",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "RCS è l’acronimo della tecnologia Rich Communication Service, un nuovo standard di comunicazione che arricchisce gli SMS con elementi multimediali. La tecnologia RCS1 è supportata sulle app native di messaging di Huawei, Sony e device Samsung precedenti a S9, S10 e Galaxy Note 9 (es. Samsung Messaggi). La tecnologia RCS2 è supportata sugli smartphone che utilizzano Android 5.0 Lollipop o superiore con Google Android Messages o Samsung Messaggi (attualmente solo Samsung S9, S10 e Galaxy Note 9). App native di messaging di Huawei e Sony non supportano RCS2.",
+              "textPositionButton": "false",
+              "title": "Quali device supportano la tecnologia RCS?",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Per aggiungere il numero di TOBi basta inserire tra i contatti della rubrica del tuo smartphone il numero 42323.",
+              "textPositionButton": "false",
+              "title": "Come posso aggiungere tra i miei contatti il numero di TOBi Business?",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "La conversazione con TOBi non è a pagamento. Per parlare con TOBi tramite tecnologia RCS è tuttavia necessario essere collegati ad una connessione Wi-Fi oppure avere un piano telefonico dati attivo. Il consumo dei dati è legato al piano sottoscritto e dipende dalle condizioni del proprio operatore.",
+              "textPositionButton": "false",
+              "title": "La conversazione con TOBi Business tramite tecnologia RCS è a pagamento?",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Si, puoi parlare con TOBi tramite tecnologia RCS anche all’estero secondo le condizioni contrattuali per l’utilizzo dei dati sottoscritte con il proprio operatore telefonico.",
+              "textPositionButton": "false",
+              "title": "Posso utilizzare TOBi Business tramite tecnologia RCS anche all’estero?",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "<p style=\"text-align: center\">Inizia subito a chattare con TOBi </p>",
+          "type": "TEXT",
+          "customAction": {
+            "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Supporto/TOBi?icmp=ebu_web-aziende_HP_MDD2_STRUMENTIDIGITALI_tobi-business",
+            "type": "1",
+            "small": "false",
+            "title": "CHIEDI a TOBi",
+            "isBlank": "false"
+          }
+        }
+      ]
+    },
+    "tagging": {
+      "eventCategory": "tobi-business-rcs"
+    }
+  },
+  "cosa-ci-rende-green": {
+    "pagesparams": {
+      "key": "cosaCiRendeGreen",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "true",
+        "isHeaderSmall": "false"
+      },
+      "urlBuilder": [
+        {
+          "page": "cosa-ci-rende-green"
+        }
+      ]
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "description": "Usiamo la tecnologia per fare scelte ecosostenibili",
+          "type": "TOP_HERO",
+          "image": "green-hero-L.jpeg",
+          "title": "<p>Switch to green</p>\r\n",
+          "button": {
+            "label": "COSA CI RENDE GREEN"
+          },
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          }
+        },
+        {
+          "description": "Vodafone Italia si impegna nella <b>tutela ambientale</b> con tecnologie, progetti e best practice che contribuiscono alla <b>riduzione dei consumi</b> e all'individuazione di <b>soluzioni alternative*.</b>",
+          "type": "TEXT",
+          "disclaimer": "<p>*in linea con gli Obiettivi per lo Sviluppo Sostenibile stabiliti dall’Agenda 2030 delle Nazioni Unite</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          }
+        },
+        {
+          "type": "SPLITTED_IMAGE_TEXT",
+          "title": "<p>La Rete più grande d’Europa, <b>alimentata</b> da <b>fonti rinnovabili.</b><br />\r\n<b>Lo sapevi?</b> La Rete Vodafone è alimentata al <b>100% da acqua, sole e vento.</b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "L'IoT è fondamentale per le imprese e contribuisce alla loro sostenibilità. Vodafone offre soluzioni complete di connettività IoT in oltre 570 reti in 182 paesi e promuove la trasformazione digitale attraverso servizi e soluzioni digitali, sfruttando le potenzialità dell'IoT e del 5G per modelli di lavoro più sostenibili.",
+              "textPositionButton": "false",
+              "image": "green-iot.jpg",
+              "title": "IoT",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SPLITTED_IMAGE_TEXT",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Vodafone ha lanciato \"Energy Data Management\", una soluzione IoT per il monitoraggio e l'ottimizzazione dei dati energetici delle imprese, riducendo i consumi e gli sprechi. Scelta anche da Bialetti, la soluzione offre il monitoraggio dei costi in tempo reale, la regolazione degli impianti energetici e la riduzione dei costi di manutenzione.",
+              "textPositionButton": "false",
+              "image": "green-bigdata.jpg",
+              "title": "Big Data",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SPLITTED_IMAGE_TEXT",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Vodafone ha presentato una soluzione di Smart Agriculture e Food che traccia la filiera di produzione del pane dall'inizio alla fine, utilizzando 5G, intelligenza artificiale e tecnologia Blockchain. Il progetto, realizzato con il Panificio Davide Longoni e IBM, ha coinvolto il consumatore finale nel punto vendita a Milano, partendo da un sistema di sensoristica 5G nel Parco della Vettabbia a Chiaravalle.",
+              "textPositionButton": "false",
+              "image": "green-5g.jpg",
+              "title": "5G",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "tagging": {
+      "eventCategory": "cosa-ci-rende-green"
+    }
+  },
+  "confcommercio": {
+    "pagesparams": {
+      "key": "Confommercio",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "true",
+        "isHeaderSmall": "false"
+      },
+      "apiPath": {
+        "apiProductsList": "business/products/all",
+        "apiOfferList": "business/get-product-for-hub/get-hub-confcommercio"
+      },
+      "urlBuilder": [
+        {
+          "page": "vodafone-e-commercio"
+        }
+      ]
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "description": "Insieme per far crescere il tuo business",
+          "type": "TOP_HERO",
+          "image": "retevodafone-hero-L.jpg",
+          "title": "<p>Vodafone e Confcommercio</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          }
+        },
+        {
+          "type": "HUB",
+          "title": "<p>Solo per i clienti associati <b>Confcommercio</b> che attiveranno una nuova SIM il <b>Galaxy S23</b> e l’<b>Iphone 14 Plus</b> ad un prezzo vantaggioso. </p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          }
+        },
+        {
+          "type": "SPLITTED_IMAGE_TEXT",
+          "title": "<p><b>Scopri</b> perchè essere <b>Vodafone</b></p>\r\n",
+          "button": {
+            "url": "https://business.vodafone.it/voucher",
+            "label": "Scopri di più"
+          },
+          "customAction": {
+            "url": "https://business.vodafone.it/voucher",
+            "type": "1",
+            "small": "false",
+            "title": "Scopri di più",
+            "localUrl": "https://business.vodafone.it/voucher",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Lascia i tuoi contatti, un nostro esperto ti richiamerà per spiegarti come ottenere il Bonus Fibra icona Fibra FTTH e le offerte Vodafone a te dedicate",
+              "textPositionButton": "false",
+              "image": "voucher-connettivita-hero-L.jpg",
+              "title": "Voucher Connettività:  fino a 2500€ per Partita IVA e PMI",
+              "action": {
+                "url": "https://business.vodafone.it/voucher",
+                "type": "1",
+                "small": "false",
+                "title": "Scopri di più",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_LARGE_SMALL",
+          "title": "<p><b>I vantaggi </b>di essere Vodafone Business.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Il bello di essere Business ogni giorno",
+              "textPositionButton": "false",
+              "image": "HappyWeek-landscape.png",
+              "title": "Happy Week",
+              "action": {
+                "url": "https://business.vodafone.it/happy-week",
+                "type": "1",
+                "small": "true",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Dove i desideri diventano realtà in un click",
+              "textPositionButton": "false",
+              "image": "business_club.jpg",
+              "title": "Business Club",
+              "action": {
+                "url": "https://business.vodafone.it/business-club",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "La miglior alleata del il tuo lavoro",
+              "textPositionButton": "false",
+              "image": "app-cover-L.jpg",
+              "title": "My Vodafone Business",
+              "action": {
+                "url": "https://business.vodafone.it/my-vodafone-business",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "tagging": {
+      "eventCategory": "confcommercio"
+    }
+  },
+  "homepage-business": {
+    "heroslider": {
+      "divider": {
+        "text": "testo divisore",
+        "image": "immagine-divisore",
+        "imageMobile": "immagine-mobile-divisore"
+      },
+      "slides": [
+        {
+          "description": "Naviga senza limiti fino a 2.5 Gbps con Modem e attivazione sempre inclusi.",
+          "textPositionButton": "false",
+          "id": "1",
+          "key": "FIXED",
+          "category": "UFFICIO",
+          "image": "woman-working-in-the-office.jpg",
+          "title": "Internet per la tua P.IVA alla massima velocità",
+          "action": {
+            "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Fibra-e-ADSL/Rete-Fissa?icmp=ebu_web-aziende_HP_HS_B1_rete-fissa",
+            "type": "1",
+            "small": "false",
+            "title": "Scopri le offerte",
+            "isBlank": "false"
+          }
+        },
+        {
+          "description": "Con le offerte Vodafone Business sei sempre connesso con clienti e collaboratori anche fuori casa.\r\nAnche in Europa e nel resto del mondo.\r\n",
+          "textPositionButton": "false",
+          "id": "2",
+          "key": "FIXED",
+          "category": "MOBILE",
+          "image": "herospace-offerta-mobile_DT_smart.jpg",
+          "title": "Offerte per la telefonia mobile",
+          "imageMobile": "herospace-offerta-mobile_MS.jpg",
+          "action": {
+            "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Mobile/Tariffe/Voce?icmp=ebu_web-aziende_HP_HS_B2_tariffe-voce",
+            "type": "1",
+            "small": "false",
+            "title": "Scoprile subito",
+            "isBlank": "false"
+          }
+        },
+        {
+          "description": "Fino a 2.500€ di risparmio per Professionisti e PMI",
+          "textPositionButton": "false",
+          "id": "3",
+          "key": "FIXED",
+          "category": "RETE FISSA",
+          "image": "cover-voucher-connettivita-vodafone-hero.jpg",
+          "title": "Voucher connettività",
+          "action": {
+            "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Fibra-e-ADSL/Offerte-per-P-IVA/voucher-connettivita-mimit?icmp=ebu_web-aziende_HP_HS_B3_voucher",
+            "type": "1",
+            "small": "false",
+            "title": "Scopri di più",
+            "isBlank": "false"
+          }
+        }
+      ]
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "type": "SLIDER_DEFAULT",
+          "title": "<p><b>E non finisce qui</b>. Vodafone ha sempre un <b>piano per te</b>.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "textPositionButton": "false",
+              "id": "1",
+              "key": "FIXED",
+              "category": "Offerte Mobile per P.IVA",
+              "image": "small-business-owner.jpg",
+              "title": "Mobile Smart",
+              "overlayImage": "overlay_mobile.png",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/offerte-telefonia-mobile/mobile-smart.html?icmp=ebu_web-aziende_HP_V1_B1_mobile-smart",
+                "type": "1",
+                "small": "false",
+                "title": "scoprila a 17€ al mese",
+                "isBlank": "false"
+              }
+            },
+            {
+              "textPositionButton": "false",
+              "id": "2",
+              "key": "FIXED",
+              "category": "Offerte Rete Fissa per P.IVA",
+              "image": "young-man-working-at-home-office.jpg",
+              "title": "Fissa Smart",
+              "overlayImage": "overlay_ufficio.png",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/offerte-rete-fissa/fissa-smart.html?icmp=ebu_web-aziende_HP_V1_B2_fissa-smart",
+                "type": "1",
+                "small": "false",
+                "title": "scoprila a 25€ al mese",
+                "isBlank": "false"
+              }
+            },
+            {
+              "textPositionButton": "false",
+              "id": "3",
+              "key": "FIXED",
+              "category": "Offerte rete fissa per P.IVA",
+              "image": "cover-voucher-connettivita-vodafone.jpg",
+              "title": "Voucher Connettività",
+              "overlayImage": "overlay_ufficio.png",
+              "action": {
+                "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Fibra-e-ADSL/Offerte-per-P-IVA/voucher-connettivita-mimit?icmp=ebu_web-aziende_HP_V1_B3_voucher-connettività",
+                "type": "1",
+                "small": "false",
+                "title": "risparmia fino a 2500€",
+                "isBlank": "false"
+              }
+            },
+            {
+              "textPositionButton": "false",
+              "id": "4",
+              "key": "FIXED",
+              "category": "Offerte Dati per  P.IVA",
+              "image": "visual_datismart.jpg",
+              "title": "Dati Smart con Microsoft 365",
+              "action": {
+                "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Landing/bundle-dati-smart-m365?icmp=ebu_web-aziende_HP_V1_B4_dati-smart-m365",
+                "type": "1",
+                "small": "false",
+                "title": "SCOPRILA A 18,90€ al mese",
+                "isBlank": "false"
+              }
+            },
+            {
+              "textPositionButton": "false",
+              "id": "5",
+              "key": "FIXED",
+              "category": "Offerte Rete Fissa per Aziende",
+              "image": "businesspeople-working-together.jpg",
+              "title": "OneNet Ufficio",
+              "overlayImage": "overlay_azienda.png",
+              "action": {
+                "url": "https://www.vodafone.it/portal/Aziende/Piccole-e-Medie-Aziende/One-Net-Ufficio?icmp=ebu_web-aziende_HP_V1_B5_one-net-ufficio",
+                "type": "1",
+                "small": "false",
+                "title": "Scopri di più",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "ANCHORS",
+          "title": "<p>Siamo qui per te. Un'<b> esperienza </b>Vodafone, <b>su misura</b>.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Ogni lunedì nuovi vantaggi per tutti i clienti di rete fissa e mobile.",
+              "textPositionButton": "false",
+              "id": "1",
+              "key": "FIXED",
+              "title": "Happy Week",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/happy-week.html?icmp=ebu_web-aziende_HP_S1_happy-week",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Il mondo di Vodafone Business\r\nsempre a portata di mano.",
+              "textPositionButton": "false",
+              "id": "2",
+              "key": "FIXED",
+              "title": "App",
+              "action": {
+                "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Mobile/Servizi-e-Applicazioni/App-My-Vodafone-Business?icmp=ebu_web-aziende_HP_S2_app",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Le risposte a tutte\r\n le tue domande.",
+              "textPositionButton": "false",
+              "id": "3",
+              "key": "FIXED",
+              "title": "Supporto",
+              "action": {
+                "url": "https://www.vodafone.it/aziende/supporto.html?icmp=ebu_web-aziende_HP_S3_supporto",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "Gestisci nel modo più efficiente il tuo lavoro con i tool e le piattaforme digitali garantite da Vodafone.",
+          "type": "SLIDER_EXPERIENCES",
+          "image": "vfB.jpg",
+          "title": "<p>Soluzioni Digitali per il tuo business</p>\r\n",
+          "customAction": {
+            "url": "https://www.vodafone.it/business/eshop/soluzioni-digitali.html?icmp=BZ_HP_PIVA_navbar_Business_Solutions",
+            "type": "1",
+            "small": "false",
+            "title": "TUTTE LE SOLUZIONI",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "La suite in Cloud di Microsoft",
+              "textPositionButton": "false",
+              "id": "1",
+              "key": "FIXED",
+              "image": "img-m365_nl.jpg",
+              "title": "Microsoft 365",
+              "maskIcon": "logo-m365.png",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/soluzioni-digitali/m365-nce.html?icmp=ebu_web-aziende_HP_V2_B1_m365",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Per gestire la fatturazione elettronica attiva e passiva.",
+              "textPositionButton": "false",
+              "id": "2",
+              "key": "FIXED",
+              "image": "img-fattura-elettronica_nl.jpg",
+              "title": "Fattura elettronica",
+              "maskIcon": "logo-fattura-elettronica.png",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/soluzioni-digitali/fattura-elettronica.html?icmp=ebu_web-aziende_HP_V2_B3_fattura-elettronica",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "L'identità digitale per il tuo lavoro.",
+              "textPositionButton": "false",
+              "id": "3",
+              "key": "FIXED",
+              "image": "img-infocert_nl.jpg",
+              "title": "SPID Professionisti",
+              "maskIcon": "logo-infocert.png",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/soluzioni-digitali/spid-professionisti.html?icmp=ebu_web-aziende_HP_V2_B2_spid-professionisti",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "I tuoi dati disponibili ovunque tu sia",
+              "textPositionButton": "false",
+              "id": "4",
+              "key": "FIXED",
+              "image": "img-your-backup_nl.jpg",
+              "title": "Your backup",
+              "maskIcon": "logo-your-backup.png",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/soluzioni-digitali/your-backup.html?icmp=ebu_web-aziende_HP_V2_B4_your-backup",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "La Suite di Google per comunicare, collaborare e condividere",
+              "textPositionButton": "false",
+              "id": "5",
+              "key": "FIXED",
+              "image": "img-google-workspace_nl.jpg",
+              "title": "Google workspace",
+              "maskIcon": "logo-google.png",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/soluzioni-digitali/g-suite.html?icmp=ebu_web-aziende_HP_V2_B5_google-workspace",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_DEFAULT",
+          "title": "<p><b>Connessi al futuro</b>. La nostra <b>rete</b> guarda sempre avanti.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "textPositionButton": "false",
+              "id": "1",
+              "key": "FIXED",
+              "category": "La rete Vodafone",
+              "image": "videocall.jpg",
+              "title": "Stabile e inarrestabile",
+              "action": {
+                "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/rete-vodafone?icmp=ebu_web-aziende_HP_V3_B1_rete-vodafone",
+                "type": "1",
+                "small": "true",
+                "isBlank": "false"
+              }
+            },
+            {
+              "textPositionButton": "false",
+              "id": "2",
+              "key": "FIXED",
+              "category": "Rete 5G",
+              "image": "virtual-reality.JPG",
+              "title": "Una connessione senza precedenti",
+              "action": {
+                "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Rete-Vodafone/rete-vodafone-5g?icmp=ebu_web-aziende_HP_V3_B2_rete-5g",
+                "type": "1",
+                "small": "true",
+                "isBlank": "false"
+              }
+            },
+            {
+              "textPositionButton": "false",
+              "id": "3",
+              "key": "FIXED",
+              "category": "Rete FWA",
+              "image": "summer-landscape.jpg",
+              "title": "L’alta velocità, ovunque con FWA 5G",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/offerte-rete-fissa/fissa-wireless-5g.html?icmp=ebu_web-aziende_HP_V3_B3_rete-fwa",
+                "type": "1",
+                "small": "true",
+                "isBlank": "false"
+              }
+            },
+            {
+              "textPositionButton": "false",
+              "id": "4",
+              "key": "FIXED",
+              "category": "Switch to green",
+              "image": "green.jpg",
+              "title": "Per la tutela dell’ambiente, facciamo rete.",
+              "action": {
+                "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Landing/earth-day-2022?icmp=ebu_web-aziende_HP_V3_B4_switch-to-green",
+                "type": "1",
+                "small": "true",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_LARGE_SMALL",
+          "title": "<p><b>I vantaggi</b> di essere Vodafone Business.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Il bello di essere Business ogni giorno.",
+              "textPositionButton": "false",
+              "id": "1",
+              "key": "FIXED",
+              "image": "HappyWeek-landscape.png",
+              "title": "Happy Week",
+              "imageMobile": "HappyWeek-portrait.png",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/happy-week.html?icmp=ebu_web-aziende_HP_V4_B1_happy-week",
+                "type": "1",
+                "small": "true",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Dove i desideri diventano realtà in un click.",
+              "textPositionButton": "false",
+              "id": "2",
+              "key": "FIXED",
+              "image": "business_club.jpg",
+              "title": "Business Club",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/business-club.html?icmp=ebu_web-aziende_HP_V4_B2_business-club",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "La miglior alleata del tuo lavoro.",
+              "textPositionButton": "false",
+              "id": "3",
+              "key": "FIXED",
+              "image": "myvodafonebusiness-app.jpg",
+              "title": "My Vodafone Business",
+              "action": {
+                "url": "https://www.vodafone.it/portal/Aziende/Partita-IVA/Mobile/Servizi-e-Applicazioni/App-My-Vodafone-Business?icmp=ebu_web-aziende_HP_V4_B3_my-vodafone-business",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_LARGE_SMALL",
+          "title": "<p><b>Tutta la tecnologia</b> di cui hai bisogno.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "La S Pen incorporata ti consente di fare multitasking senza problemi. Tutto a portata di mano.",
+              "textPositionButton": "false",
+              "id": "1",
+              "key": "FIXED",
+              "image": "Sezione_Prodotti_Desktop_1248x960.jpg",
+              "title": "Nuovo Samsung Galaxy S23 Ultra",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/smartphone/samsung-galaxy-s23-ultra.html?icmp=ebu_web-aziende_HP_V5_B1_samsung-galaxy-s-23-ultra",
+                "type": "1",
+                "small": "true",
+                "isBlank": "false"
+              }
+            },
+            {
+              "textPositionButton": "false",
+              "id": "2",
+              "key": "FIXED",
+              "image": "iphone14pro-3.jpg",
+              "title": "iPhone 14 Pro",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/smartphone/iphone-14-pro.html?icmp=ebu_web-aziende_HP_V5_B2_iphone-14-pro",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "textPositionButton": "false",
+              "id": "3",
+              "key": "FIXED",
+              "image": "smartphone-box-hp.png",
+              "title": "Smartphone",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/smartphone.html?icmp=ebu_web-aziende_HP_V5_B3_smartphone",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "textPositionButton": "false",
+              "id": "4",
+              "key": "FIXED",
+              "image": "tablet.jpg",
+              "title": "Tablet",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/tablet.html?icmp=ebu_web-aziende_HP_V5_B4_tablet",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "textPositionButton": "false",
+              "id": "5",
+              "key": "FIXED",
+              "image": "centralini2.jpg",
+              "title": "Centralini",
+              "action": {
+                "url": "http://www.vodafone.it/portal/Aziende/Piccole-e-Medie-Aziende/Fibra-e-ADSL/Offerte-Rete-Fissa/telefoni-e-dispositivi?icmp=ebu_web-aziende_HP_V5_B5_centralini",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "pagesparams": {
+      "key": "homePageBusiness",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "true",
+        "isHeaderSmall": "false"
+      },
+      "urlBuilder": [
+        {}
+      ]
+    },
+    "seo": {
+      "canonicalUrl": "https://www.vodafone.it",
+      "title": "Offerte Telefonia Mobile, Fibra e ADSL, Smartphone | Vodafone",
+      "ogImageUrl": "https://www.vodafone.it/portal/resources/media/Other/vfa/media/images/icone/ico_header_logo_red_04_12_19.png",
+      "ogDescription": "Scopri le nostre migliori offerte di telefonia mobile, Fibra, ADSL e FWA; i nuovi Smartphone e i vantaggi Vodafone per Privati e Aziende."
+    },
+    "tagging": {
+      "event": "Home"
+    }
+  }
+}

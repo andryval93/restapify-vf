@@ -1,0 +1,137 @@
+{
+    "vodafone-station": {
+      "device": {
+        "card": {
+          "buttonLabel": "VISUALIZZA DETTAGLI",
+          "description": "<p>La tua connessione è ancora più potente grazie alla Vodafone Wi-Fi 6 Station con Wi-Fi Optimizer. Con le sue 8 antenne, ti permette di connettere fino a 120 device e navigare al massimo della stabilità, controllando tutto dal tuo smartphone.</p>\r\n",
+          "image": "vodafoneStationSmallCutted.jpg",
+          "title": "Vodafone Wi-Fi 6  Station"
+        },
+        "detail": {
+          "subtitle": "Vodafone Wi-Fi 6 Station ",
+          "title": "Vodafone Wi-Fi 6 Station ",
+          "description": {
+            "textSimple": "Con la Vodafone Wi-Fi 6 Station hai il Wi-Fi più veloce e stabile di sempre. \r\nNavighi fino a 5.4 Gigabit al secondo con dual band in 2,4 GHz e 5GHz e colleghi un massimo di 120 dispositivi contemporaneamente, senza perdere stabilità. \r\nPuoi goderti una copertura estesa e affidabile in ogni angolo della casa, con un segnale e una latenza sempre ottimizzati grazie al Wi-Fi Optimizer. In più, risparmi energia e riduci il consumo di batteria dei device collegati.\r\n\r\nLa Vodafone Station viene fornita a titolo gratuito e in caso di recesso non e’ previsto alcun obbligo di restituzione. Sara’ comunque possibile, al fine di consentirne il corretto smaltimento, usufruire del servizio gratuito di restituzione della Vodafone Station prenotando online la riconsegna su vodafone.it"
+          }
+        },
+        "visibility": {
+          "showInFwa": "false",
+          "showInFtthTim": "true",
+          "showInFwaIndoor": "false",
+          "showInFwaOutdoor": "false",
+          "showInAdsl": "false",
+          "showInFttc": "false",
+          "showInFtth": "true",
+          "showInFwaOutdoor5G": "false"
+        }
+      }
+    },
+    "power-station": {
+      "device": {
+        "card": {
+          "buttonLabel": "VISUALIZZA DETTAGLI",
+          "description": "<p>La tua connessione è ancora più potente grazie alla Vodafone Wi-Fi 6 Station con Wi-Fi Optimizer. Con le sue 8 antenne, ti permette di connettere fino a 120 device e navigare al massimo della stabilità, controllando tutto dal tuo smartphone.<br />\r\n</p>\r\n",
+          "image": "powerstation.png",
+          "title": "Vodafone Station"
+        },
+        "detail": {
+          "subtitle": "Vodafone Wi-Fi 6  Station",
+          "title": "Vodafone Wi-Fi 6  Station",
+          "description": {
+            "textHtml": "<p>Il cliente riceverà la Vodafone Station a titolo gratuito in sconto merce a condizione che l’offerta rimanga attiva per almeno 24 mesi. In caso di recesso anticipato prima dei 24 mesi sarà tenuto alla restituzione della Vodafone Station. In caso di mancata restituzione della Station entro 30 giorni dalla disattivazione della linea, Vodafone procederà ad addebitare un importo commisurato al valore del bene pari a:<br />\r\n<br />\r\n</p>\r\n<ul>\r\n<li>Euro 70 qualora il recesso sia esercitato nei 12 mesi ...</li>\r\n<li>Euro 50 qualora il recesso sia esercitato dal tredicesimo ...</li>\r\n</ul>\r\n<p>Le modalità di restituzione della Vodafone Station sono disponibili su vodafone.it</p>\r\n",
+            "textSimple": "Con la Vodafone Wi-Fi 6 Station hai il Wi-Fi più veloce e stabile di sempre. \r\nNavighi fino a 5.4 Gigabit al secondo con dual band in 2,4 GHz e 5GHz e colleghi un massimo di 120 dispositivi contemporaneamente, senza perdere stabilità. \r\nPuoi goderti una copertura estesa e affidabile in ogni angolo della casa, con un segnale e una latenza sempre ottimizzati grazie al Wi-Fi Optimizer. In più, risparmi energia e riduci il consumo di batteria dei device collegati.\r\n\r\nLa Vodafone Station viene fornita a titolo gratuito e in caso di recesso non e’ previsto alcun obbligo di restituzione. Sara’ comunque possibile, al fine di consentirne il corretto smaltimento, usufruire del servizio gratuito di restituzione della Vodafone Station prenotando online la riconsegna su vodafone.it"
+          }
+        },
+        "visibility": {
+          "showInFwa": "false",
+          "showInAdsl": "false",
+          "showInFttc": "false",
+          "showInFtth": "false"
+        }
+      }
+    },
+    "power-station-6": {
+      "device": {
+        "card": {
+          "buttonLabel": "VISUALIZZA DETTAGLI",
+          "description": "<p>Con la Vodafone Wi-Fi 6 Power Station hai il Wi-Fi più veloce e stabile di sempre, in ogni angolo della casa. Puoi collegare fino a 120 dispositivi contemporaneamente, senza perdere stabilità di rete.</p>\r\n",
+          "image": "vodafoneStationSmallCutted.jpg",
+          "title": "Vodafone Wi-Fi 6 Power Station "
+        },
+        "detail": {
+          "subtitle": "Vodafone Wi-Fi 6 Power Station ",
+          "title": "Vodafone Wi-Fi 6 Power Station ",
+          "description": {
+            "textSimple": "Con la Vodafone Wi-Fi 6 Power Station hai il Wi-Fi più veloce e stabile di sempre. \r\nNavighi fino a 5.4 Gigabit al secondo con dual band in 2,4 GHz e 5GHz e colleghi un massimo di 120 dispositivi contemporaneamente, senza perdere stabilità. \r\nPuoi goderti una copertura estesa e affidabile in ogni angolo della casa, con un segnale e una latenza sempre ottimizzati grazie al Wi-Fi Optimizer. In più, risparmi energia e riduci il consumo di batteria dei device collegati.\r\n\r\nLa Vodafone Station viene fornita a titolo gratuito e in caso di recesso non e’ previsto alcun obbligo di restituzione. Sara’ comunque possibile, al fine di consentirne il corretto smaltimento, usufruire del servizio gratuito di restituzione della Vodafone Station prenotando online la riconsegna su vodafone.it"
+          }
+        },
+        "visibility": {
+          "showInFwa": "false",
+          "showInFtthTim": "true",
+          "showInFwaIndoor5G": "false",
+          "showInFwaIndoor": "true",
+          "showInFwaOutdoor": "true",
+          "showInAdsl": "false",
+          "showInFttc": "false",
+          "showInFtth": "false",
+          "showInFwaOutdoor5G": "false"
+        }
+      }
+    },
+    "station-fwa": {
+      "device": {
+        "card": {
+          "buttonLabel": "VISUALIZZA DETTAGLI",
+          "description": "<p>Con la nostra stazione per fwa out door .........</p>\r\n",
+          "image": "powerstation.png",
+          "title": "Vodafone station FWA"
+        },
+        "detail": {
+          "subtitle": "Vodafone Wi-Fi 6 Power Station ",
+          "title": "Vodafone Wi-Fi 6 Power Station ",
+          "description": {
+            "textSimple": "Con la Vodafone Wi-Fi 6 Power Station hai il Wi-Fi più veloce e stabile di sempre. \r\nNavighi fino a 5.4 Gigabit al secondo con dual band in 2,4 GHz e 5GHz e colleghi un massimo di 120 dispositivi contemporaneamente, senza perdere stabilità. \r\nPuoi goderti una copertura estesa e affidabile in ogni angolo della casa, con un segnale e una latenza sempre ottimizzati grazie al Wi-Fi Optimizer. In più, risparmi energia e riduci il consumo di batteria dei device collegati.\r\n\r\nLa Vodafone Station viene fornita a titolo gratuito e in caso di recesso non e’ previsto alcun obbligo di restituzione. Sara’ comunque possibile, al fine di consentirne il corretto smaltimento, usufruire del servizio gratuito di restituzione della Vodafone Station prenotando online la riconsegna su vodafone.it"
+          }
+        },
+        "visibility": {
+          "showInFwa": "false",
+          "showInFtthTim": "false",
+          "showInFwaIndoor5G": "false",
+          "showInFwaIndoor": "true",
+          "showInFwaOutdoor": "true",
+          "showInAdsl": "false",
+          "showInFttc": "false",
+          "showInFtth": "false",
+          "showInFwaOutdoor5G": "false"
+        }
+      }
+    },
+    "power-station-indoor": {
+      "device": {
+        "card": {
+          "buttonLabel": "VISUALIZZA DETTAGLI",
+          "description": "<p>Con la Vodafone Wi-Fi 6 Power Station hai il Wi-Fi più veloce e stabile di sempre, in ogni angolo della casa. Puoi collegare fino a 120 dispositivi contemporaneamente, senza perdere stabilità di rete.</p>\r\n",
+          "image": "vodafoneStationSmallCutted.jpg",
+          "title": "Power Station Speciale per la tua FWAINDOOR5G"
+        },
+        "detail": {
+          "subtitle": "Vodafone Wi-Fi 6 Power Station ",
+          "title": "Vodafone Wi-Fi 6 Power Station ",
+          "description": {
+            "textSimple": "Con la Vodafone Wi-Fi 6 Power Station hai il Wi-Fi più veloce e stabile di sempre. \r\nNavighi fino a 5.4 Gigabit al secondo con dual band in 2,4 GHz e 5GHz e colleghi un massimo di 120 dispositivi contemporaneamente, senza perdere stabilità. \r\nPuoi goderti una copertura estesa e affidabile in ogni angolo della casa, con un segnale e una latenza sempre ottimizzati grazie al Wi-Fi Optimizer. In più, risparmi energia e riduci il consumo di batteria dei device collegati.\r\n\r\nLa Vodafone Station viene fornita a titolo gratuito e in caso di recesso non e’ previsto alcun obbligo di restituzione. Sara’ comunque possibile, al fine di consentirne il corretto smaltimento, usufruire del servizio gratuito di restituzione della Vodafone Station prenotando online la riconsegna su vodafone.it"
+          }
+        },
+        "visibility": {
+          "showInFwa": "false",
+          "showInFtthTim": "true",
+          "showInFwaIndoor5G": "true",
+          "showInFwaIndoor": "true",
+          "showInFwaOutdoor": "true",
+          "showInAdsl": "false",
+          "showInFttc": "false",
+          "showInFtth": "false",
+          "showInFwaOutdoor5G": "false"
+        }
+      }
+    }
+  }

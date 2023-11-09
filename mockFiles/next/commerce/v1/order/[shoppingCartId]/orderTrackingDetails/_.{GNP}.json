@@ -1,0 +1,84 @@
+{
+  "deliveryOrders": [
+    {
+      "code": "T",
+      "description": "Consegna il tecnico",
+      "deliveryItems": [
+        {
+          "itemId": "108007403_4636019",
+          "itemCid": "621587",
+          "itemType": "SIM",
+          "itemName": "SIM",
+          "lineOfBusiness": "IN"
+        },
+        {
+          "itemId": "108007417_4636021",
+          "itemCid": "2786781",
+          "itemType": "EQP",
+          "itemName": "Vodafone Wi-Fi 6 Station",
+          "lineOfBusiness": "IN"
+        }
+      ],
+      "recipientDetails": {
+        "recipientName": {
+          "formattedName": "ORDERGNPONLY;XBS"
+        },
+        "recipientAddress": {
+          "id": "268572974",
+          "street": "VIA PAOLO SARPI",
+          "streetNumber": "1",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "postalCode": "20154",
+          "formattedAddress1": "VIA PAOLO SARPI 1"
+        },
+        "contactPhoneNumber": "3452670987",
+        "contactEmailAddress": "pierfrancesco.capone@vodafone.com"
+      },
+      "shippingDetails": {}
+    }
+  ],
+  "deliverySteps": [
+    {
+      "stepCode": "OV",
+      "checked": true,
+      "fulfillmentDetails": [
+        {
+          "entityType": "Fixed",
+          "additionalInfo": [
+            {
+              "key": "serviceNo",
+              "value": "390247762689"
+            }
+          ]
+        },
+        {
+          "entityType": "Data-Sim",
+          "additionalInfo": [
+            {
+              "key": "serviceNo",
+              "value": "393412136037"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stepCode": "AC",
+      "checked": false
+    }
+  ],
+  "phase2KO": [
+    {
+      "fixedvoice": {
+        "dynamicAttributeMap": {
+          "GnpType": "NOT CONTEXTUAL",
+          "Phase2Required": "N",
+          "PortInCLI": "390233614118"
+        }
+      }
+    }
+  ],
+  "orderActionSpecificStageStatus": "HandleWirelineFulfillmentResponse"
+}

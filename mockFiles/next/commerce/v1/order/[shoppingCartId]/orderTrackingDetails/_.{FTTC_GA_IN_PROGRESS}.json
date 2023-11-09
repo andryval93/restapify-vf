@@ -1,0 +1,82 @@
+{
+  "deliveryOrders": [
+    {
+      "code": "S",
+      "description": "Shipping to Home",
+      "shippingOptions": [
+        {
+          "name": "ST",
+          "displayName": "Standard Delivery",
+          "price": {
+            "currencyCode": "EUR",
+            "amount": 0
+          },
+          "isSelected": true
+        }
+      ],
+      "deliveryItems": [
+        {
+          "itemId": "108460215_5042030",
+          "itemCid": "4616181",
+          "itemType": "EQP",
+          "itemName": "Vodafone Power Station Wifi 6 R1",
+          "lineOfBusiness": "IN"
+        },
+        {
+          "itemId": "108460247_5042032",
+          "itemCid": "621587",
+          "itemType": "SIM",
+          "itemName": "SIM R07",
+          "lineOfBusiness": "IN"
+        }
+      ],
+      "recipientDetails": {
+        "recipientName": {
+          "formattedName": "WTFZLV;QUYGCL"
+        },
+        "recipientAddress": {
+          "id": "268621334",
+          "street": "VIA BISCEGLIE",
+          "streetNumber": "73",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "postalCode": "20152",
+          "formattedAddress1": "VIA BISCEGLIE 73"
+        },
+        "contactPhoneNumber": "3934981101",
+        "contactEmailAddress": "Priyanka.Bawane@amdocs.com"
+      },
+      "shippingDetails": {
+        "sapStatusCode": "IC",
+        "deliveryEstimatedDate": "2023-10-10T22:23:02Z",
+        "trackingId": "M5 1234567",
+        "contractNumber": "3685458585",
+        "sapSummary": "Manca disponibilità (quando manca la disponibilità del aterial in magazzino)",
+        "eventDate": "2023-10-11T09:05:51Z",
+        "ddtNumber": "5839000450",
+        "ddtDate": "2023-10-10T22:23:02Z"
+      }
+    }
+  ],
+  "deliverySteps": [
+    {
+      "stepCode": "OV",
+      "checked": false
+    },
+    {
+      "stepCode": "DP",
+      "checked": true
+    },
+    {
+      "stepCode": "ID",
+      "checked": false,
+      "statusOK": true
+    },
+    {
+      "stepCode": "AC",
+      "checked": false
+    }
+  ],
+  "orderActionSpecificStageStatus": "HandleWirelineFulfillmentResponse"
+}

@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "description": "SUCCESS",
+  "result": {
+    "section": [
+      {
+        "id": "109",
+        "order": 6,
+        "label": "Servizi per non perdere le chiamate",
+        "products": [
+          {
+            "id": "85",
+            "type": "OLA",
+            "subType": ["OLA", "SERVICE"],
+            "offerId": "73",
+            "objectCode": "1833",
+            "order": 630,
+            "name": "SMS Avviso di Ascolto",
+            "shortDescription": "Ricevi un SMS di notifica quando il messaggio che hai lasciato in segreteria &#232; stato ascoltato",
+            "fullDescription": {
+              "url": "https://www.vodafone.it/portal/Privati/Tariffe-e-Prodotti/SMS-Avviso-di-Ascolto-e-SMS-Mittente",
+              "richText": "Ricevi un SMS di notifica quando il messaggio che hai lasciato in segreteria &#232; stato ascoltato"
+            },
+            "costRenewalDescription": "<div></div>",
+            "costActivationDescription": "<div></div>",
+            "costDeactivationDescription": "<div></div>",
+            "costActivationRenewalDescription": "<div></div>",
+            "cost": {
+              "buyCost": 0.0,
+              "frequency": ""
+            },
+            "actions": {},
+            "status": "ACTIVE",
+            "deactivableMessage": "<p>Puoi disattivare il servizio chiamando il numero <a href=tel:42070\">42070</a> o dall&#39;area personale Fai da te del sito Vodafone.it</p>",
+            "forceDetailsOnActivation": false,
+            "hiddenActive": false,
+            "hiddenActivable": false,
+            "hideHtml": false,
+            "active": true,
+            "nba": false,
+            "renewal": false,
+            "showAgreementEnabled": false,
+            "inActivation": false,
+            "ola3": false,
+            "deactivable": false,
+            "activable": true
+          }
+        ]
+      },
+      {
+        "id": "110",
+        "order": 7,
+        "label": "Servizi per controllare la tua spesa",
+        "products": [
+          {
+            "id": "654",
+            "type": "OLA",
+            "subType": ["OLA", "SERVICE"],
+            "offerId": "93",
+            "objectCode": "3616",
+            "order": 280,
+            "name": "Soglia Spesa Dati",
+            "shortDescription": "Blocca Internet all&#39;estero al raggiungimento della soglia impostata",
+            "fullDescription": {
+              "url": "https://www.vodafone.it/portal/client/cms/viewCmsPage.action?pageId=12658&menuId=11655&popup=true",
+              "richText": "Blocca Internet all&#39;estero al raggiungimento della soglia impostata"
+            },
+            "costRenewalDescription": "<div></div>",
+            "costActivationDescription": "<div></div>",
+            "costDeactivationDescription": "<div></div>",
+            "costActivationRenewalDescription": "<div></div>",
+            "cost": {
+              "buyCost": 0.0,
+              "activationDate": "2021-11-23T00:00:00+0100",
+              "frequency": ""
+            },
+            "actions": {},
+            "status": "ACTIVE",
+            "deactivableMessage": "<p>Puoi modificare la soglia e disattivare il servizio dall&#39;area personale Fai da te del sito Vodafone.it</p>",
+            "forceDetailsOnActivation": false,
+            "hiddenActive": false,
+            "hiddenActivable": false,
+            "hideHtml": false,
+            "active": true,
+            "nba": false,
+            "renewal": false,
+            "showAgreementEnabled": false,
+            "inActivation": false,
+            "ola3": false,
+            "deactivable": false,
+            "activable": true
+          },
+          {
+            "id": "720",
+            "type": "OLA3",
+            "subType": ["PROMOTION", "OLA3"],
+            "objectCode": "1081",
+            "order": 160,
+            "name": "Avviso Internet Estero",
+            "shortDescription": "Ti aiutiamo a tenere sotto controllo la tua spesa, sei sempre aggiornato sul tuo traffico dati all&#39;estero",
+            "fullDescription": {
+              "url": "https://www.vodafone.it/portal/Privati/Tariffe-e-Prodotti/Avviso-Internet-servizio-gratuito-che-invia-una-comunicazione-via-SMS-al-raggiungimento-di-determinate-soglie-di-spesa-settimanale-per-traffico-Internet",
+              "richText": "Ti aiutiamo a tenere sotto controllo la tua spesa, sei sempre aggiornato sul tuo traffico dati all&#39;estero"
+            },
+            "costRenewalDescription": "<div></div>",
+            "costActivationDescription": "<div></div>",
+            "costDeactivationDescription": "<div></div>",
+            "costActivationRenewalDescription": "<div></div>",
+            "cost": {
+              "buyCost": 0.0,
+              "activationDate": "2021-11-23T12:55:40+0100",
+              "frequency": ""
+            },
+            "actions": {},
+            "status": "ACTIVE",
+            "forceDetailsOnActivation": false,
+            "hiddenActive": false,
+            "hiddenActivable": false,
+            "hideHtml": false,
+            "active": true,
+            "nba": false,
+            "renewal": false,
+            "showAgreementEnabled": false,
+            "inActivation": false,
+            "ola3": true,
+            "deactivable": true,
+            "activable": true
+          }
+        ]
+      },
+      {
+        "id": "111",
+        "order": 8,
+        "label": "Servizi per il blocco del traffico",
+        "products": [
+          {
+            "id": "3670",
+            "type": "OLA3",
+            "subType": ["SERVICE", "OLA3"],
+            "objectCode": "9121",
+            "order": 1,
+            "name": "Blocco Servizi SMS in abbonamento",
+            "shortDescription": "Blocco Servizi SMS e&#39; un servizio che blocca l&#8217;addebito di servizi SMS in abbonamento forniti da terze parti (es. suonerie, oroscopi, previsioni meteo, news).",
+            "fullDescription": {
+              "url": "https://www.vodafone.it/portal/client/cms/viewCmsPage.action?pageId=65897&popup=true",
+              "richText": "Blocco Servizi SMS e&#39; un servizio che blocca l&#8217;addebito di servizi SMS in abbonamento forniti da terze parti (es. suonerie, oroscopi, previsioni meteo, news)."
+            },
+            "costRenewalDescription": "<div></div>",
+            "costActivationDescription": "<div></div>",
+            "costDeactivationDescription": "<div></div>",
+            "costActivationRenewalDescription": "<div></div>",
+            "cost": {
+              "buyCost": 0.0,
+              "activationDate": "2021-11-23T00:00:00+0100",
+              "frequency": ""
+            },
+            "actions": {},
+            "status": "ACTIVE",
+            "deactivableMessage": "<p>Puoi disattivare il servizio dall'area personale Fai da te del sito Vodafone.it </p>",
+            "forceDetailsOnActivation": false,
+            "hiddenActive": false,
+            "hiddenActivable": false,
+            "hideHtml": false,
+            "active": true,
+            "nba": false,
+            "renewal": false,
+            "showAgreementEnabled": false,
+            "inActivation": false,
+            "ola3": true,
+            "deactivable": false,
+            "activable": true
+          }
+        ]
+      },
+      {
+        "id": "30",
+        "order": 5,
+        "label": "Piano della SIM",
+        "products": [
+          {
+            "id": "1947",
+            "type": "TARIFF_PLAN",
+            "subType": ["TMCODE", "TARIFF_PLAN"],
+            "objectCode": "1947",
+            "order": 1,
+            "name": "Vodafone 25 New",
+            "shortDescription": "<p>Chiamate: 20 cent scatto alla risposta + 25 cent al minuto verso tutti<br>SMS: 29 cent verso tutti<br>Smart Passport +, Segreteria Telefonica, Chiamami Recall e Ricevuta di ritorno SMS, in caso di utilizzo hanno il costo indicato nei maggiori dettagli</p>",
+            "fullDescription": {
+              "url": "https://www.vodafone.it/portal/client/cms/viewCmsPage.action?pageId=65121&popup=true",
+              "richText": ""
+            },
+            "costRenewalDescription": "<div></div>",
+            "costActivationDescription": "<div></div>",
+            "costDeactivationDescription": "<div></div>",
+            "costActivationRenewalDescription": "<div></div>",
+            "cost": {
+              "buyCost": 0.0,
+              "frequency": ""
+            },
+            "actions": {},
+            "status": "ACTIVE",
+            "deactivableMessage": "<p>Per gestire il cambio del Piano della SIM chiama il 42070 oppure visita il sito vodafone.it effettuando la login con le stesse credenziali utilizzate in My Vodafone</p>",
+            "forceDetailsOnActivation": false,
+            "hiddenActive": false,
+            "hiddenActivable": true,
+            "hideHtml": false,
+            "tmProduct": {
+              "activationDate": "2021-11-23T12:52:53+0100"
+            },
+            "active": true,
+            "nba": false,
+            "renewal": false,
+            "showAgreementEnabled": false,
+            "inActivation": false,
+            "ola3": false,
+            "deactivable": false,
+            "activable": false
+          }
+        ]
+      },
+      {
+        "id": "31",
+        "order": 4,
+        "label": "Opzioni e promozioni",
+        "products": [
+          {
+            "id": "3597",
+            "type": "OLA3",
+            "subType": ["PROMOTION", "OLA3"],
+            "objectCode": "3018",
+            "order": 1,
+            "name": "Vodafone Pass Smart Meeting",
+            "shortDescription": "3 mesi di giga illimitati da utilizzare sui principali servizi di video conference e lezioni online. Poi si disattivano in automatico",
+            "fullDescription": {
+              "url": "https://www.vodafone.it/portal/client/cms/viewCmsPage.action?pageId=62686&popup=true",
+              "richText": "3 mesi di giga illimitati da utilizzare sui principali servizi di video conference e lezioni online. Poi si disattivano in automatico"
+            },
+            "costRenewalDescription": "<div></div>",
+            "costActivationDescription": "<div></div>",
+            "costDeactivationDescription": "<p>valido fino al 01 giugno 2022</p>",
+            "costActivationRenewalDescription": "<div></div>",
+            "cost": {
+              "buyCost": 0.0,
+              "bundleRenewalDate": "2022-06-01T00:00:00+0200",
+              "activationDate": "2022-03-01T11:27:50+0100",
+              "expirationDate": "2022-06-01T11:21:49+0200",
+              "frequency": "per 3 mesi"
+            },
+            "actions": {},
+            "status": "ACTIVE",
+            "deactivableMessage": "<p>L'offerta si disattiva in automatico</p>",
+            "forceDetailsOnActivation": false,
+            "hiddenActive": false,
+            "hiddenActivable": false,
+            "hideHtml": false,
+            "active": true,
+            "nba": false,
+            "renewal": false,
+            "showAgreementEnabled": false,
+            "inActivation": false,
+            "ola3": true,
+            "deactivable": false,
+            "activable": true
+          }
+        ]
+      },
+      {
+        "id": "32",
+        "order": 3,
+        "label": "Tariffe base",
+        "products": [
+          {
+            "id": "3317",
+            "type": "OLA3",
+            "subType": ["BUNDLE", "PROMOTION", "OLA3", "MIX_SHAKE"],
+            "objectCode": "PKGKIDS3",
+            "order": 1,
+            "name": "Shake Remix Unlimited Junior",
+            "shortDescription": "7 Giga<br>300 minuti verso tutti<br>50 SMS verso tutti<br>, Giga illimitati per Chat e Mappe al mese",
+            "fullDescription": {
+              "url": "https://www.vodafone.it/portal/client/cms/viewCmsPage.action?pageId=62253&popup=true",
+              "richText": "L&#39;offerta pensata per la sicurezza dei tuoi figli tra gli 8 e i 15 anni. Crea per loro il mix che preferisci di Giga, minuti e SMS, a partire da 7 Giga in 4G, 300 minuti e 50 SMS."
+            },
+            "costRenewalDescription": "<div><p class=\"cost\">7,00&euro;</p><p>al mese</p></div>",
+            "costActivationDescription": "<div></div>",
+            "costDeactivationDescription": "<div><p class=\"cost\">valido fino al 01 aprile 2022 </p></div>",
+            "costActivationRenewalDescription": "<div><p class=\"cost\">7,00&euro;</p><p>al mese</p></div>",
+            "cost": {
+              "buyCost": 7.0,
+              "activationDate": "2022-03-01T01:00:00+0100",
+              "expirationDate": "2022-04-01T02:00:00+0200",
+              "frequency": "al mese"
+            },
+            "actions": {},
+            "status": "ACTIVE",
+            "forceDetailsOnActivation": false,
+            "hiddenActive": false,
+            "hiddenActivable": false,
+            "hideHtml": false,
+            "active": true,
+            "nba": false,
+            "renewal": false,
+            "showAgreementEnabled": false,
+            "inActivation": false,
+            "ola3": true,
+            "deactivable": true,
+            "activable": true
+          }
+        ]
+      }
+    ]
+  }
+}

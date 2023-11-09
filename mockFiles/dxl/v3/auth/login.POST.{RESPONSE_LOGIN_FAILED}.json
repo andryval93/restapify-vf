@@ -1,0 +1,14 @@
+{
+  "code": 1,
+  "description": "RESPONSE_LOGIN_FAILED",
+  "message": "Credenziali non corrette: verificale facendo attenzione alla corrispondenza maiuscole/minuscole della password. IN ALTERNATIVA disattivando il Wi-Fi puoi accedere anche senza credenziali.",
+  "errorDetails": {
+    "methodKey": "DualRunLoginJourneyClient#loggedLogin(String,String,String,LoggedLoginRequest)",
+    "error": {
+      "code": "WEB-1",
+      "reason": "",
+      "message": "User not found"
+    },
+    "status": 401
+  }
+}

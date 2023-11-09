@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "description": "SUCCESS",
+  "result": {
+    "wifiToken": "xYazoyhhOKfZIig+Uf+6Jej4fSoUuCeV2m8BZcTf0DZ2ii6GGHXLbQrHl/KnrTfOLiQkiZ7MN6oqhvKEZ5mtXDkULHNom+8y2nd1T/hdyxC+G6tYWZXNF3nwKhqVo7gKIYCzHN3DtGT1nHFWSrtQpGD55297hMA6UoI4y4WOAwK3wwdC/6NQ1zN9Gw1xVt2j",
+    "psgToken": "xQIJ5pSpmzRkVKCuNHYOBGxxGc3JQ8fSOYLBSuPbVgs=#c4XlNHfivHEqtyrPqPldWQ==",
+    "msisdn": "3400000000",
+    "items": [
+      {
+        "type": "sim",
+        "value": "3400000000"
+      },
+      {
+        "type": "landline",
+        "value": "0240000000"
+      }
+    ],
+    "fiscalCode": "CLLFNC91M10E038M",
+    "isNext": false
+  }
+}
+

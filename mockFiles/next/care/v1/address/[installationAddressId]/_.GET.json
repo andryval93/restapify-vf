@@ -1,0 +1,21 @@
+{
+  "href": "/care/v1/address/268564343?salesChannel=selfService",
+  "rel": "self",
+  "id": "268564343",
+  "city": "MILANO",
+  "country": "IT",
+  "displayCountry": "Italia",
+  "postalCode": "20147",
+  "stateOrProvince": "MI",
+  "displayStateOrProvince": "MILANO",
+  "street": "VIA LORENTEGGIO",
+  "formattedAddress": "VIA LORENTEGGIO,VIA LORENTEGGIO 240,MILANO,MILANO,20147,Italia",
+  "formattedAddress1": "VIA LORENTEGGIO 240",
+  "latitude": "45.446088",
+  "longitude": "9.124061",
+  "externalId": "38000093578",
+  "streetNumber": "240",
+  "homeZone": "00135401",
+  "districtCode": "0",
+  "istatCode": "03015146"
+}

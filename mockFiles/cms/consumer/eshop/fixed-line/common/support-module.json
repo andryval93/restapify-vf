@@ -1,0 +1,20 @@
+{
+  "supportmodules": {
+    "thinkAboutIt": {
+      "buttonLabel": "INVIA RIEPILOGO",
+      "description": "Inserisci il tuo indirizzo e-mail e ti invieremo il riepilogo ...",
+      "privacy": "<p>Autorizzo <i>Vodafone </i>al contatto telefonico ...</p>\r\n",
+      "title": "Vuoi pensarci su?",
+      "ctaSupportCall": "INVIAMI IL RIEPILOGO",
+      "inputLabel": "Indirizzo email"
+    },
+    "needHelp": {
+      "buttonLabel": "TI CHIAMA VODAFONE",
+      "description": "Vuoi supporto per acquistare un'offerta di Rete Fissa?",
+      "privacy": "<p>Autorizzo&nbsp;<i>Vodafone&nbsp;</i>al contatto telefonico ...</p>\r\n",
+      "title": "Serve aiuto?",
+      "ctaSupportCall": "RICHIAMAMI GRATIS",
+      "inputLabel": "Numero di telefono"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "href": "/care/v1/getPostalAddressList?salesChannel=selfService",
+  "rel": "self",
+  "errorCode": "2"
+}

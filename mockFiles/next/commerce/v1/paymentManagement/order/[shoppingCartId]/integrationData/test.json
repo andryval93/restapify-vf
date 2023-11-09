@@ -1,0 +1,23 @@
+{
+  "ORDERID": "442366329A_NO_ad473fa6-16f7-4331-bd6c-14816b97bdd0",
+  "CALLSIAIND": "true",
+  "URLMS": "https://apicweb3rd.vodafone.it/nextapi/3pin/Payment/GetPaymentOperation",
+  "URLDONE": "https://www.vodafone.it/eshop/order/payment-status.html",
+  "URLBACK": "https://www.vodafone.it/eshop/checkout.html",
+  "LANG": "ITA",
+  "AMOUNT": "0",
+  "CURRENCY": "978",
+  "SHOPID": "129288001710006",
+  "ACCOUNTINGMODE": "D",
+  "AUTHORMODE": "I",
+  "OPTIONS": "BGHIQRM",
+  "EMAIL": "pippuzzoasdf@gmail.com",
+  "USERID": "601585609",
+  "TAXID": "DGSPPP80A01F205X",
+  "MAC": "d3380f81903bc19112a67d19f4e37fc9ad65543e8c66ee466bf5455441c7a6ce",
+  "ANTIFRAUD": "hQEMA2CMO8GxY3uAAQf/WDx9E/H1jCAQOeJBaps1i/Z1qLTazYm2aT4XLdsa0lRekPJNvN+6bV/+qlrwT54WLq8psApKWfEulHrnp+MVyxuZgVXr5Qd1bdjjWTXE7P4KmxELPT8dGO/4m2SFA3C7wUlq0O7bXJbjDZ2FMznaW5qMFwzSXm1XPwQ4kL+rEWj8pyH3Axs+lMXOGg8bKKALKAFfqPn7GwIRtw459bv8Dgsu2ricNTix5NFN0jIr63g8dHt2nlZ4cjrXUMmGub8nU0qPegaX+YbbSbvgRNEPaROmG/DWXR4dHl9rmIKtGPEt2H1XznQgz9HYStFURJ8kL99s1r0F2w8hW4/l3+lKFsnA6+6hoczGEafUmPMzLeYibuzp+qtvDfL0NQB3YQf1kXVGkCzG5rn7RRztwxQnlp0HFqiMpnJOkof+AsAVM8f2qSanLnSvOe8j98Mecx0gMEXOrsqPv4IMtXij3g52neCn5cOdKaUvdEaWNAG8L7AA6iBaa80k3xnOwO5H/V8NYYlDJQkppqSeZ24738pzarDN8vaTwH3FF+PRtG5IIDw76Afk+UrZRZIracXSgef83GyKxBwKWxmcuPHGMuJTpuWam6SygXwQEPC8rcq3oXbC1NPX0SxW6rk4v1DC3aEkM/xpC5TZUHm85tLzf8q/dbkp6bKk0bg5piVUAf2VEkMBEli+C6o13Cevpq387wQRgbtEeQ+ZzEUNgmIJotUZuZ4ARd7BLm+WMlgNPi1fl0wNDiQtV9ZOMOytO+7Kpq+dqq2tohF3+DKjVIVSb85czhPh78mDEKiM3HtTmV/OG0nRTd53L1ZE9IAM8fMoxSLBeuTqET/stF3qIcaohHps9dTF+bRO9VOKq6h9g2+JngMaMRBVQdJO4i6yqBX1/CSiPVmXb36+OZ4OReoxQj4==1W0",
+  "PRODUCTREF": "3385648789",
+  "NAME": "Pippo",
+  "SURNAME": "De giuseppe",
+  "TRECURR": "U"
+}

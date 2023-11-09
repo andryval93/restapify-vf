@@ -1,0 +1,133 @@
+{
+  "id": "10693361",
+  "serviceabilityResult": "serviceable",
+  "offeringServiceabilityItem": [
+    {
+      "offering": {
+        "id": "6643883",
+        "name": "FWA 5G Outdoor 24,90 € Ottobre 2022_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "4657283",
+        "name": "FWA 5G Outdoor 24,90 €_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "6671983",
+        "name": "FWA 5G Outdoor 26,90 € Ottobre 2022_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "4600395",
+        "name": "FWA 5G Outdoor 27,90 € Settembre 2022_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "5928383",
+        "name": "FWA 5G Outdoor 27,90 €_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "4665983",
+        "name": "FWA 5G Outdoor 29,90 €_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "6771383",
+        "name": "FWA Outdoor 5G Plus 24,90 Ottobre 2022 PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "6829183",
+        "name": "FWA Outdoor 5G Plus 26,90 Ottobre 2022 PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "4203681",
+        "name": "FWA Outdoor 5G Plus PO R1"
+      }
+    }
+  ],
+  "serviceabilityCharacteristic": [
+    {
+      "displayName": "ActualTechnology",
+      "value": "FWA",
+      "displayValue": "FWA"
+    },
+    {
+      "displayName": "MaxDownloadSpeed",
+      "value": "300000",
+      "displayValue": "300 Megabit"
+    },
+    {
+      "displayName": "Technology",
+      "value": "FWA_Outdoor_5G",
+      "displayValue": "FWA_Outdoor_5G"
+    },
+    {
+      "displayName": "MinVelocity"
+    },
+    {
+      "displayName": "MaxVelocity",
+      "displayValue": "300"
+    },
+    {
+      "displayName": "MedVelocity"
+    },
+    {
+      "displayName": "Latency"
+    },
+    {
+      "displayName": "FWA_indoor",
+      "value": "Y",
+      "displayValue": "Y"
+    },
+    {
+      "displayName": "FWA_outdoor",
+      "value": "Y",
+      "displayValue": "Y"
+    },
+    {
+      "displayName": "UploadMin"
+    },
+    {
+      "displayName": "UploadMed"
+    },
+    {
+      "displayName": "UploadMax",
+      "displayValue": "50"
+    },
+    {
+      "displayName": "DisplayTechnologyName",
+      "displayValue": "FWA-Outdoor-5G"
+    },
+    {
+      "displayName": "VTV",
+      "displayValue": "1"
+    }
+  ],
+  "serviceabilityAddress": {
+    "city": "PONZA",
+    "country": "IT",
+    "displayCountry": "Italy",
+    "postalCode": "04027",
+    "stateOrProvince": "LT",
+    "displayStateOrProvince": "LATINA",
+    "street": "VIA GUARINI",
+    "latitude": "40.89244999",
+    "longitude": "12.95522000",
+    "externalId": "38000610769",
+    "streetNumber": "1",
+    "homeZone": "00331801",
+    "istatCode": "12059018"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "code": 0,
+  "description": "SUCCESS",
+  "result": {
+    "activation_cost": 0.0,
+    "renewal_cost": 0.0,
+    "email_address": "testcvm.digital@gmail.com",
+    "email_status": "SENT",
+    "send_email": true
+  }
+}

@@ -1,0 +1,85 @@
+{
+    "id": "288348",
+    "serviceabilityResult": "serviceable",
+    "offeringServiceabilityItem": [
+        {
+            "offering": {
+                "id": "4203481",
+                "name": "FWA Indoor 5G Plus PO R1"
+            }
+        }
+    ],
+    "serviceabilityCharacteristic": [
+        {
+            "displayName": "ActualTechnology",
+            "value": "FWA",
+            "displayValue": "FWA"
+        },
+        {
+            "displayName": "MaxDownloadSpeed",
+            "value": "300000",
+            "displayValue": "300 Megabit"
+        },
+        {
+            "displayName": "Technology",
+            "value": "FWA_Indoor_5G",
+            "displayValue": "FWA_Indoor_5G"
+        },
+        {
+            "displayName": "MinVelocity"
+        },
+        {
+            "displayName": "MaxVelocity",
+            "displayValue": "300"
+        },
+        {
+            "displayName": "MedVelocity"
+        },
+        {
+            "displayName": "Latency"
+        },
+        {
+            "displayName": "FWA_indoor",
+            "value": "N",
+            "displayValue": "N"
+        },
+        {
+            "displayName": "FWA_outdoor",
+            "value": "N",
+            "displayValue": "N"
+        },
+        {
+            "displayName": "UploadMin"
+        },
+        {
+            "displayName": "UploadMed"
+        },
+        {
+            "displayName": "UploadMax",
+            "displayValue": "50"
+        },
+        {
+            "displayName": "DisplayTechnologyName",
+            "displayValue": "FWA-Indoor-5G"
+        },
+        {
+            "displayName": "VTV",
+            "displayValue": "1"
+        }
+    ],
+    "serviceabilityAddress": {
+        "city": "CUSANO MILANINO",
+        "country": "IT",
+        "displayCountry": "Italy",
+        "postalCode": "20095",
+        "stateOrProvince": "MI",
+        "displayStateOrProvince": "MILANO",
+        "street": "VIALE GIACOMO MATTEOTTI",
+        "latitude": "45.55075600",
+        "longitude": "9.18497200",
+        "externalId": "38000288866",
+        "streetNumber": "1",
+        "homeZone": "00135292",
+        "istatCode": "03015098"
+    }
+}

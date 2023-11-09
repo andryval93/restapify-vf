@@ -1,0 +1,74 @@
+{
+  "id": "176159",
+  "href": "http://shopping-cart-v2.dxl-microservices.dxl.vodafone.it/ShoppingCart/v2/shoppingCart/176159",
+  "cartItem": [
+      {
+          "id": "214413",
+          "quantity": 1,
+          "product": {
+              "product": [
+                  {
+                      "id": "214414",
+                      "productSpecification": {
+                          "id": "837812886",
+                          "href": "http://productcatalogmanagement.dxl-microservices.dxl.vodafone.it/ProductCatalogManagement/v3/productSpecification/837812886",
+                          "name": "Sempre Serviti P.IVA",
+                          "@referredType": "AddOn"
+                      }
+                  },
+                  {
+                      "id": "214415",
+                      "realizingService": [
+                          {
+                              "id": "1068",
+                              "name": "VULA",
+                              "characteristic": [
+                                  {
+                                      "name": "4G",
+                                      "value": "Y"
+                                  }
+                              ]
+                          }
+                      ]
+                  }
+              ],
+              "productCharacteristic": [
+                  {
+                      "name": "category",
+                      "value": "CustomProductOffering"
+                  }
+              ],
+              "productSpecification": {
+                  "id": "670000306174",
+                  "href": "http://productcatalogmanagement.dxl-microservices.dxl.vodafone.it/ProductCatalogManagement/v3/productSpecification/670000306174",
+                  "name": "Fissa Smart"
+              }
+          },
+          "productOffering": {
+              "id": "63727f2a4a2314000193aa1c",
+              "href": "http://productcatalogmanagement.dxl-microservices.dxl.vodafone.it/ProductCatalogManagement/v3/productOffering/63727f2a4a2314000193aa1c",
+              "@referredType": "FIXED"
+          },
+          "status": "active"
+      }
+  ],
+  "contactMedium": [
+      {
+          "mediumType": "installation address",
+          "preferred": true,
+          "characteristic": {
+              "city": "SENAGO",
+              "postCode": "20030",
+              "socialNetworkId": "38000247943",
+              "stateOrProvince": "MI",
+              "street1": "VIA MONTE ROSA|4"
+          },
+          "@type": "GeographicAddress"
+      }
+  ],
+  "validFor": {
+      "endDateTime": "2023-07-17T12:30:47Z",
+      "startDateTime": "2023-07-14T12:30:47Z"
+  },
+  "@type": "ShoppingCart"
+}

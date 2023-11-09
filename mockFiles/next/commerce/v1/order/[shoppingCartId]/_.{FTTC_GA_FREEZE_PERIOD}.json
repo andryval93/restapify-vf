@@ -1,0 +1,1564 @@
+{
+    "href": "/commerce/v1/order/3271406A?salesChannel=selfService",
+    "rel": "self",
+    "id": "3271406A",
+    "state": "inProgress",
+    "orderDate": "2023-08-10T09:04:45Z",
+    "requestedCompletionDate": "2023-08-10T21:59:59Z",
+    "isLocked": false,
+    "originalChannel": "selfService",
+    "currentChannel": "selfService",
+    "customer": {
+      "href": "/care/v1/customer/329066162?salesChannel=selfService",
+      "rel": "enclosure",
+      "id": "329066162"
+    },
+    "orderTotalPrice": [
+      {
+        "type": "oneTime",
+        "price": {
+          "currencyCode": "EUR",
+          "taxIncludedAmount": 0.00,
+          "amount": 0.00
+        }
+      },
+      {
+        "recurringChargePeriod": "month",
+        "type": "recurring",
+        "price": {
+          "currencyCode": "EUR",
+          "taxIncludedAmount": 27.90,
+          "amount": 22.87,
+          "taxAmount": 5.03
+        }
+      },
+      {
+        "type": "oneTime",
+        "price": {
+          "currencyCode": "EUR",
+          "taxIncludedAmount": 0.00,
+          "amount": 0.00
+        },
+        "isNonImmediateOC": true
+      },
+      {
+        "type": "oneTime",
+        "price": {
+          "currencyCode": "EUR",
+          "taxIncludedAmount": 0.00,
+          "amount": 0.00
+        },
+        "isOnInvoiceOC": true
+      },
+      {
+        "type": "oneTime",
+        "price": {
+          "currencyCode": "EUR",
+          "taxRate": 0.0,
+          "taxIncludedAmount": 0.00,
+          "amount": 0.00
+        },
+        "isTotalPriceOC": true
+      },
+      {
+        "type": "oneTime",
+        "price": {
+          "currencyCode": "EUR",
+          "taxIncludedAmount": 0.00,
+          "amount": 0.00
+        },
+        "isNonAdditionalChargesOC": true
+      }
+    ],
+    "orderItem": [
+      {
+        "type": "multiPlayOrderItem",
+        "id": "3271407A",
+        "quantity": 1,
+        "orderItemTotalPrice": [
+          {
+            "type": "oneTime",
+            "price": {
+              "currencyCode": "EUR",
+              "taxIncludedAmount": 0.00,
+              "amount": 0.00
+            }
+          },
+          {
+            "recurringChargePeriod": "month",
+            "type": "recurring",
+            "price": {
+              "currencyCode": "EUR",
+              "taxIncludedAmount": 27.90,
+              "amount": 22.87,
+              "taxAmount": 5.03
+            }
+          },
+          {
+            "type": "oneTime",
+            "price": {
+              "currencyCode": "EUR",
+              "taxIncludedAmount": 0.00,
+              "amount": 0.00
+            },
+            "isNonImmediateOC": true
+          },
+          {
+            "type": "oneTime",
+            "price": {
+              "currencyCode": "EUR",
+              "taxIncludedAmount": 0.00,
+              "amount": 0.00
+            },
+            "isOnInvoiceOC": true
+          },
+          {
+            "type": "oneTime",
+            "price": {
+              "currencyCode": "EUR",
+              "taxRate": 0.0,
+              "taxIncludedAmount": 0.00,
+              "amount": 0.00
+            },
+            "isTotalPriceOC": true
+          }
+        ],
+        "offering": {
+          "href": "/commerce/v1/multiPlayOffering/3893198?salesChannel=selfService",
+          "id": "3893198",
+          "type": "multiPlayOffering",
+          "name": "Internet Unlimited",
+          "displayName": "Internet Unlimited",
+          "description": "Con Internet Unlimited, a 27,90E/mese, navighi senza limiti:\n-fino a 20Mbps in tec ADSL\n-fino a 200Mbps in tec FTTC\n-fino a 2.5Gbps in tec FTTH\nIn piu' hai:\n-una SIM dati\n-chiamate illimitate verso tutti i numeri fissi e mobili nazionali + 19€cent di scatto alla risposta\n-chiamate vs i nr fissi internaz. a 19cent/min + 19cent di scatto alla risp (Zona1: Europa occidentale, USA e Canada)"
+        },
+        "product": {
+          "installationAddress": {
+            "id": "1073867823"
+          }
+        },
+        "fixedVoice": [
+          {
+            "type": "fixedVoiceOrderItem",
+            "id": "3271407A",
+            "action": "add",
+            "state": "pending",
+            "quantity": 1,
+            "orderItemPrice": [
+              {
+                "name": "Limite utilizzo",
+                "type": "oneTime",
+                "displayName": "Limite utilizzo",
+                "description": "Limite utilizzo",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                },
+                "isNonImmediateOC": true
+              },
+              {
+                "recurringChargePeriod": "month",
+                "name": "Limite utilizzo",
+                "type": "recurring",
+                "displayName": "Limite utilizzo",
+                "description": "Limite utilizzo",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                }
+              },
+              {
+                "name": "Segreteria telefonica",
+                "type": "oneTime",
+                "displayName": "Segreteria telefonica",
+                "description": "Segreteria telefonica",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                },
+                "showTextInsteadRate": "Incluso",
+                "isNonImmediateOC": true
+              },
+              {
+                "recurringChargePeriod": "month",
+                "name": "Segreteria telefonica",
+                "type": "recurring",
+                "displayName": "Segreteria telefonica",
+                "description": "Segreteria telefonica",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                },
+                "showTextInsteadRate": "Incluso"
+              }
+            ],
+            "orderItemTotalPrice": [
+              {
+                "id": "106796883",
+                "type": "oneTime",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                },
+                "isNonImmediateOC": true
+              },
+              {
+                "id": "106796883",
+                "recurringChargePeriod": "month",
+                "type": "recurring",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                }
+              }
+            ],
+            "offering": {
+              "href": "/commerce/v1/fixedVoiceOffering/3893198?salesChannel=selfService",
+              "id": "3893198",
+              "type": "fixedVoiceOffering",
+              "paymentManagementType": "post"
+            },
+            "product": {
+              "id": "106796873",
+              "name": "Componente principale Voce",
+              "type": "fixedVoiceProduct",
+              "billingAccount": {
+                "href": "/care/v1/billingAccount/930836784?salesChannel=selfService",
+                "id": "930836784"
+              },
+              "productIndividual": {
+                "href": "/care/v1/productIndividual/2308102100038215?salesChannel=selfService",
+                "id": "2308102100038215",
+                "firstName": "FTTC",
+                "lastName": "SECONDO"
+              },
+              "installationAddress": {
+                "id": "1073867823"
+              }
+            },
+            "isWithdrawAmendAllowed": false,
+            "orderActionId": "3271407",
+            "isAmendAllowedIndicator": true,
+            "isAmend": false,
+            "amendOrderActionId": "3271407",
+            "addOn": [
+              {
+                "type": "fixedVoiceAddOnOrderItem",
+                "action": "add",
+                "state": "pending",
+                "orderItemPrice": [
+                  {
+                    "id": "106796876",
+                    "type": "oneTime",
+                    "price": {
+                      "currencyCode": "EUR",
+                      "taxIncludedAmount": 0.00,
+                      "amount": 0.00,
+                      "taxAmount": 0.00
+                    },
+                    "showTextInsteadRate": "Incluso",
+                    "isNonImmediateOC": true
+                  },
+                  {
+                    "id": "257059881",
+                    "recurringChargePeriod": "month",
+                    "name": "Chiamate verso fissi e mobili nazionali",
+                    "type": "recurring",
+                    "displayName": "Chiamate verso fissi e mobili nazionali",
+                    "description": "Chiama tutti i numeri di rete fissa e mobile nazionali senza limiti",
+                    "price": {
+                      "currencyCode": "EUR",
+                      "taxIncludedAmount": 0.00,
+                      "amount": 0.00,
+                      "taxAmount": 0.00
+                    },
+                    "allowedOverrideType": "override",
+                    "showTextInsteadRate": "Incluso",
+                    "isNonImmediateOC": true
+                  }
+                ],
+                "offering": {
+                  "id": "BO:257059881_257059881_257069181",
+                  "name": "Chiamate verso fissi e mobili nazionali"
+                },
+                "product": {
+                  "id": "BO:106796876_257059881_106796875",
+                  "name": "Chiamate verso fissi e mobili nazionali",
+                  "type": "fixedVoiceAddOnProduct"
+                }
+              }
+            ],
+            "plan": {
+              "type": "fixedVoicePlanOrderItem",
+              "id": "106796881",
+              "action": "add",
+              "state": "pending",
+              "quantity": 1,
+              "orderItemPrice": [
+                {
+                  "id": "106796882",
+                  "type": "oneTime",
+                  "price": {
+                    "currencyCode": "EUR",
+                    "taxIncludedAmount": 0.00,
+                    "amount": 0.00,
+                    "taxAmount": 0.00
+                  },
+                  "showTextInsteadRate": "Incluso"
+                },
+                {
+                  "id": "256982381",
+                  "recurringChargePeriod": "month",
+                  "name": "Piano Voce",
+                  "type": "recurring",
+                  "displayName": "Piano Voce",
+                  "description": "Piano Voce",
+                  "price": {
+                    "currencyCode": "EUR",
+                    "taxIncludedAmount": 0.00,
+                    "amount": 0.00,
+                    "taxAmount": 0.00
+                  },
+                  "allowedOverrideType": "none",
+                  "showTextInsteadRate": "Incluso"
+                }
+              ],
+              "offering": {
+                "id": "256982381",
+                "type": "fixedVoicePlanOffering",
+                "name": "Piano Voce",
+                "displayName": "Piano Voce",
+                "description": "Piano Voce",
+                "paymentManagementType": "post"
+              },
+              "fixedVoicePlanProduct": {
+                "id": "106796882",
+                "name": "Piano Voce",
+                "type": "fixedVoicePlanProduct",
+                "productCharacteristic": [
+                  {
+                    "name": "Contract_End_Date_Next_R1",
+                    "displayName": "Data di fine contratto"
+                  }
+                ],
+                "productSpecification": {
+                  "id": "256982381",
+                  "name": "Piano Voce",
+                  "type": "fixedVoicePlanSpecification"
+                },
+                "phoneNumber": {
+                  "phoneNumber": "390249732185"
+                }
+              }
+            }
+          }
+        ],
+        "internet": [
+          {
+            "type": "internetOrderItem",
+            "id": "3271411A",
+            "action": "add",
+            "state": "pending",
+            "quantity": 1,
+            "orderItemPrice": [
+              {
+                "name": "Costo di Attivazione",
+                "type": "oneTime",
+                "displayName": "Costo di Attivazione",
+                "description": "Il costo di attivazione previsto per abilitare la tua nuova offerta",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                },
+                "showTextInsteadRate": "Incluso",
+                "subType": "activation"
+              },
+              {
+                "recurringChargePeriod": "month",
+                "name": "Costo di Attivazione",
+                "type": "recurring",
+                "displayName": "Costo di Attivazione",
+                "description": "Il costo di attivazione previsto per abilitare la tua nuova offerta",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                },
+                "showTextInsteadRate": "Incluso",
+                "subType": "activation",
+                "defaultNoOfInstallments": "0",
+                "installmentsList": [
+                  "0",
+                  "12",
+                  "24",
+                  "48"
+                ]
+              },
+              {
+                "name": "Costo upgrade Power Station Wifi6",
+                "type": "oneTime",
+                "displayName": "Costo upgrade Power Station Wifi6",
+                "description": "Costo upgrade Power Station Wifi6",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                },
+                "subType": "fixedEquipment"
+              },
+              {
+                "recurringChargePeriod": "month",
+                "name": "Costo upgrade Power Station Wifi6",
+                "type": "recurring",
+                "displayName": "Costo upgrade Power Station Wifi6",
+                "description": "Costo upgrade Power Station Wifi6",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                },
+                "subType": "fixedEquipment"
+              },
+              {
+                "name": "Vodafone Station",
+                "type": "oneTime",
+                "displayName": "Vodafone Power Station Wifi 6",
+                "description": "Vodafone Station",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                },
+                "showTextInsteadRate": "Inclusa",
+                "orderPriceItemType": "FixedEquipment",
+                "subType": "fixedEquipment"
+              },
+              {
+                "recurringChargePeriod": "month",
+                "name": "Vodafone Station",
+                "type": "recurring",
+                "displayName": "Vodafone Power Station Wifi 6",
+                "description": "Vodafone Station",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                },
+                "showTextInsteadRate": "Inclusa",
+                "orderPriceItemType": "FixedEquipment",
+                "subType": "fixedEquipment"
+              }
+            ],
+            "orderItemTotalPrice": [
+              {
+                "type": "oneTime",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                }
+              },
+              {
+                "recurringChargePeriod": "month",
+                "type": "recurring",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 27.90,
+                  "amount": 22.87,
+                  "taxAmount": 5.03
+                }
+              }
+            ],
+            "offering": {
+              "href": "/commerce/v1/fixedVoiceOffering/3893198?salesChannel=selfService",
+              "id": "3893198",
+              "type": "internetOffering",
+              "name": "Internet Unlimited",
+              "displayName": "Internet Unlimited",
+              "description": "Internet Unlimited",
+              "paymentManagementType": "post"
+            },
+            "product": {
+              "id": "106796924",
+              "name": "Componente principale Internet",
+              "type": "internetProduct",
+              "installationAddress": {
+                "id": "1073867823"
+              },
+              "billingAccount": {
+                "href": "/care/v1/billingAccount/930836784?salesChannel=selfService",
+                "id": "930836784"
+              },
+              "productIndividual": {
+                "href": "/care/v1/productIndividual/2308102100038215?salesChannel=selfService",
+                "id": "2308102100038215",
+                "firstName": "FTTC",
+                "lastName": "SECONDO"
+              }
+            },
+            "isWithdrawAmendAllowed": false,
+            "orderActionId": "3271411",
+            "isAmendAllowedIndicator": true,
+            "isAmend": false,
+            "amendOrderActionId": "3271411",
+            "plan": {
+              "type": "internetPlanOrderItem",
+              "id": "106796937",
+              "action": "add",
+              "state": "pending",
+              "quantity": 1,
+              "orderItemPrice": [
+                {
+                  "id": "106796938",
+                  "type": "oneTime",
+                  "price": {
+                    "currencyCode": "EUR",
+                    "taxIncludedAmount": 0.00,
+                    "amount": 0.00,
+                    "taxAmount": 0.00
+                  }
+                },
+                {
+                  "id": "3883998",
+                  "recurringChargePeriod": "month",
+                  "name": "Internet Unlimited",
+                  "type": "recurring",
+                  "displayName": "Internet Unlimited",
+                  "description": "Internet Unlimited",
+                  "originalprice": {
+                    "currencyCode": "EUR",
+                    "amount": 27.90
+                  },
+                  "price": {
+                    "currencyCode": "EUR",
+                    "taxIncludedAmount": 27.90,
+                    "amount": 22.87,
+                    "taxAmount": 5.03
+                  },
+                  "allowedOverrideType": "override"
+                }
+              ],
+              "offering": {
+                "id": "3883998",
+                "type": "internetPlanOffering",
+                "name": "Internet Unlimited",
+                "displayName": "Internet Unlimited",
+                "description": "Internet Unlimited",
+                "paymentManagementType": "post"
+              },
+              "internetPlanProduct": {
+                "id": "106796938",
+                "name": "Internet Unlimited",
+                "type": "internetPlanProduct",
+                "productCharacteristic": [
+                  {
+                    "name": "Access_Type_Next_R1",
+                    "displayName": "Tipo di connessione",
+                    "value": "BS",
+                    "displayValue": "BS"
+                  },
+                  {
+                    "name": "ER_Package_Detail_Next_R1",
+                    "displayName": "ER Dettagli pacchetto"
+                  },
+                  {
+                    "name": "Speed_Next_R1",
+                    "displayName": "Velocità",
+                    "value": "20",
+                    "displayValue": "20"
+                  }
+                ],
+                "productSpecification": {
+                  "id": "3883998",
+                  "name": "Internet Unlimited",
+                  "type": "internetPlanSpecification"
+                }
+              }
+            }
+          }
+        ],
+        "mobile": [
+          {
+            "type": "mobileOrderItem",
+            "id": "3271409A",
+            "action": "add",
+            "state": "inProgress",
+            "quantity": 1,
+            "orderItemPrice": [
+              {
+                "name": "Piano 15 GB al Giorno",
+                "type": "oneTime",
+                "displayName": "Piano 15 GB al Giorno",
+                "description": "Piano 15 GB al Giorno",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                },
+                "showTextInsteadRate": "Incluso",
+                "isNonImmediateOC": true
+              },
+              {
+                "recurringChargePeriod": "month",
+                "name": "Piano 15 GB al Giorno",
+                "type": "recurring",
+                "displayName": "Piano 15 GB al Giorno",
+                "description": "Piano 15 GB al Giorno",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                },
+                "showTextInsteadRate": "Incluso"
+              },
+              {
+                "name": "3G Provisioning",
+                "type": "oneTime",
+                "displayName": "3G Provisioning",
+                "description": "3G Provisioning",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                },
+                "isNonImmediateOC": true
+              },
+              {
+                "recurringChargePeriod": "month",
+                "name": "3G Provisioning",
+                "type": "recurring",
+                "displayName": "3G Provisioning",
+                "description": "3G Provisioning",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                }
+              },
+              {
+                "name": "Promo MBB Back Up 50GB 4G",
+                "type": "oneTime",
+                "displayName": "Promo MBB Back Up 50GB 4G",
+                "description": "Promo MBB Back Up 50GB 4G",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                },
+                "isNonImmediateOC": true
+              },
+              {
+                "recurringChargePeriod": "month",
+                "name": "Promo MBB Back Up 50GB 4G",
+                "type": "recurring",
+                "displayName": "Promo MBB Back Up 50GB 4G",
+                "description": "Promo MBB Back Up 50GB 4G",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                }
+              },
+              {
+                "name": "SIM IA PAD",
+                "type": "oneTime",
+                "displayName": "SIM IA PAD",
+                "description": " SIM IA PAD ",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                },
+                "isNonImmediateOC": true
+              },
+              {
+                "recurringChargePeriod": "month",
+                "name": "SIM IA PAD",
+                "type": "recurring",
+                "displayName": "SIM IA PAD",
+                "description": " SIM IA PAD ",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                }
+              },
+              {
+                "name": "Internet Unlimited SIM 21",
+                "type": "oneTime",
+                "displayName": "Internet Unlimited SIM 21",
+                "description": "Internet Unlimited SIM 21",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                },
+                "isNonImmediateOC": true
+              },
+              {
+                "recurringChargePeriod": "month",
+                "name": "Internet Unlimited SIM 21",
+                "type": "recurring",
+                "displayName": "Internet Unlimited SIM 21",
+                "description": "Internet Unlimited SIM 21",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                }
+              },
+              {
+                "name": "SIM Card Technical Offer",
+                "type": "oneTime",
+                "displayName": "SIM Card Technical Offer",
+                "description": "SIM Card Technical Offer",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                },
+                "isNonImmediateOC": true
+              },
+              {
+                "recurringChargePeriod": "month",
+                "name": "SIM Card Technical Offer",
+                "type": "recurring",
+                "displayName": "SIM Card Technical Offer",
+                "description": "SIM Card Technical Offer",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                }
+              },
+              {
+                "name": "Costo SIM",
+                "type": "oneTime",
+                "displayName": "Costo SIM",
+                "description": "Costo SIM",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                },
+                "isNonImmediateOC": true
+              },
+              {
+                "recurringChargePeriod": "month",
+                "name": "Costo SIM",
+                "type": "recurring",
+                "displayName": "Costo SIM",
+                "description": "Costo SIM",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                }
+              }
+            ],
+            "orderItemTotalPrice": [
+              {
+                "id": "106796922",
+                "type": "oneTime",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00
+                },
+                "isNonImmediateOC": true
+              },
+              {
+                "id": "106796922",
+                "recurringChargePeriod": "month",
+                "type": "recurring",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0.00,
+                  "amount": 0.00,
+                  "taxAmount": 0.00
+                }
+              }
+            ],
+            "offering": {
+              "href": "/commerce/v1/mobileOffering/3893198?salesChannel=selfService",
+              "id": "3893198",
+              "type": "mobileOffering",
+              "displayName": "Internet 1 GB",
+              "description": "Internet 1 GB",
+              "paymentManagementType": "post"
+            },
+            "product": {
+              "id": "106796892",
+              "name": "Componente principale",
+              "type": "mobileProduct",
+              "productCharacteristic": [
+                {
+                  "name": "AddedWithConsent_R07",
+                  "displayName": "Added With Consent R07",
+                  "value": "No",
+                  "displayValue": "No"
+                },
+                {
+                  "name": "Availed_Discount_Offers_Next_R1",
+                  "displayName": "Sconti applicati"
+                },
+                {
+                  "name": "COSP_Next_R07",
+                  "displayName": "COSP",
+                  "value": "122",
+                  "displayValue": "122"
+                },
+                {
+                  "name": "Call_Cost_Notificatoin_Next_R07",
+                  "displayName": "Consenso al ricevimento SMS costo chiamata",
+                  "value": "0",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "Campaign_Correlation_Key_Next_R1",
+                  "displayName": "Campaign Correlation Key"
+                },
+                {
+                  "name": "Change_MSISDN_Counter_Next_R07",
+                  "displayName": "Contatore cambi MSISDN",
+                  "value": "0",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "Customer_Sub_Type_Next_R07",
+                  "displayName": "Customer Sub Type",
+                  "value": "P",
+                  "displayValue": "P"
+                },
+                {
+                  "name": "Customer_Type_Next_R07",
+                  "displayName": "Tipologia Cliente",
+                  "value": "P",
+                  "displayValue": "P"
+                },
+                {
+                  "name": "Cut_Over_Date_Next_R07",
+                  "displayName": "data Cut Over"
+                },
+                {
+                  "name": "Dealer_Id_Next_R07",
+                  "displayName": "Dealer Id"
+                },
+                {
+                  "name": "Deposit_Amount_Next_R07",
+                  "displayName": "Importo Deposito"
+                },
+                {
+                  "name": "Deposit_number_of_months_or_installments_Next_R07",
+                  "displayName": "Numero mesi o rate di deposito"
+                },
+                {
+                  "name": "Deposit_release_Policy_Next_R07",
+                  "displayName": "Policy per rilascio del deposito"
+                },
+                {
+                  "name": "Double_Allowance_Value_Next_R07",
+                  "displayName": "Double Allowance Value"
+                },
+                {
+                  "name": "Double_GB_Qualification_R07",
+                  "displayName": "Double GB Qualification"
+                },
+                {
+                  "name": "Former_Debt_Amount_Next_R07",
+                  "displayName": "Importo Debito precedente"
+                },
+                {
+                  "name": "Guardian_MSISDN_Next_R1",
+                  "displayName": "SIM Master"
+                },
+                {
+                  "name": "Hard_Hotline_Indicator_Next_R07",
+                  "displayName": "Hotline Indicator",
+                  "value": "0",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "Installment_Policy_for_Disconnection_Next_R1",
+                  "displayName": "Piano rateale post disattivazione",
+                  "value": "No acceleration",
+                  "displayValue": "No acceleration"
+                },
+                {
+                  "name": "Is_Global_Next_R07",
+                  "displayName": "Is Global",
+                  "value": "No",
+                  "displayValue": "No"
+                },
+                {
+                  "name": "Is_Recurring_TopUp_Automatically_Included_Next_R07",
+                  "displayName": "Ricarica automatica a carrello",
+                  "value": "Yes",
+                  "displayValue": "Yes"
+                },
+                {
+                  "name": "Is_Temporary_Number_Requested",
+                  "displayName": "Is Temporary Number Requested",
+                  "value": "N",
+                  "displayValue": "N"
+                },
+                {
+                  "name": "Last_Top_Up_Date_Next_R07",
+                  "displayName": "Data ultima Ricarica valida per Giga Ricarica"
+                },
+                {
+                  "name": "Last_Top_Up_Transaction_ID_Next_R07",
+                  "displayName": "Ultima ricarica valida per Giga Ricarica"
+                },
+                {
+                  "name": "Legacy_IFRS_Contract_End_Date_Next_R1",
+                  "displayName": "Data di fine del vincolo contrattuale Legacy"
+                },
+                {
+                  "name": "MSISDN",
+                  "displayName": "MSISDN",
+                  "value": "393450460648",
+                  "displayValue": "393450460648"
+                },
+                {
+                  "name": "Migration_Date_Next_R07",
+                  "displayName": "Migration Date R07"
+                },
+                {
+                  "name": "Migration_MSISDN_ID_Next_R07",
+                  "displayName": "Migration MSISDN_ID",
+                  "value": "1000247061",
+                  "displayValue": "1000247061"
+                },
+                {
+                  "name": "Migration_SIM_ID_Next_R07",
+                  "displayName": "Migration SIM_ID",
+                  "value": "1000252479",
+                  "displayValue": "1000252479"
+                },
+                {
+                  "name": "Number_of_Added_BO_Next_R07",
+                  "displayName": "Numero Offerte aggiunte"
+                },
+                {
+                  "name": "Number_of_Removed_BO_Next_R07",
+                  "displayName": "Numero Offerte rimosse"
+                },
+                {
+                  "name": "Offer_With_End_Date_Next_R1",
+                  "displayName": "Offer With End Date"
+                },
+                {
+                  "name": "Old_PPU_Addon_Eligible_R07",
+                  "displayName": "Old PPU Addon Eligible",
+                  "value": "No",
+                  "displayValue": "No"
+                },
+                {
+                  "name": "Payment_Method_Deposit_Amount_Next_R1",
+                  "displayName": "Deposito per Metodo di pagamento"
+                },
+                {
+                  "name": "Plan_Rank_Next_R07",
+                  "displayName": "Rank Tariffa Base"
+                },
+                {
+                  "name": "Port_In_Next_R07",
+                  "displayName": "Port In",
+                  "value": "0",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "Port_Out_Commitment_End_Date_Next_R07",
+                  "displayName": "Port Out Commitment End Date"
+                },
+                {
+                  "name": "Port_Out_Date_Next_R07",
+                  "displayName": "data Port Out"
+                },
+                {
+                  "name": "Port_Out_Duration_Next_R07",
+                  "displayName": "Port Out Duration"
+                },
+                {
+                  "name": "Port_Out_Ind_Next_R07",
+                  "displayName": "Port Out",
+                  "value": "0",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "Port_Out_Provider_Next_R07",
+                  "displayName": "Operatore destianazione"
+                },
+                {
+                  "name": "Present_Associated_PPU_Next_R07",
+                  "displayName": "Present Associated PPU",
+                  "value": "3233798",
+                  "displayValue": "3233798"
+                },
+                {
+                  "name": "Previous_Associated_PPU_Next_R07",
+                  "displayName": "Previous Associated PPU"
+                },
+                {
+                  "name": "Previous_Plan_Rank_Next_R07",
+                  "displayName": "Previous Plan Rank"
+                },
+                {
+                  "name": "Product_Type_Next_R07",
+                  "displayName": "Prodotti",
+                  "value": "Mobile Broadband",
+                  "displayValue": "Mobile Broadband"
+                },
+                {
+                  "name": "RDI_Next_07",
+                  "displayName": "RDI",
+                  "value": "N",
+                  "displayValue": "N"
+                },
+                {
+                  "name": "Real_User_Migration_On_Legacy_Date_Next_R1",
+                  "displayName": "Data migrazione Real Uti"
+                },
+                {
+                  "name": "Real_User_Migration_On_Legacy_Next_R1",
+                  "displayName": "Migrazione Real Uti",
+                  "value": "N",
+                  "displayValue": "N"
+                },
+                {
+                  "name": "Remorse_Period_End_Date_Next_R07",
+                  "displayName": "Data fine diritto di ripensamento"
+                },
+                {
+                  "name": "Remorse_Period_Start_Date_Next_R07",
+                  "displayName": "Data di inizio del periodo di ripensamento"
+                },
+                {
+                  "name": "RemovedWithConsent_R07",
+                  "displayName": "Removed With Consent",
+                  "value": "No",
+                  "displayValue": "No"
+                },
+                {
+                  "name": "Roaming_Profile_Next_R07",
+                  "displayName": "Profilo Roaming",
+                  "value": "3",
+                  "displayValue": "3"
+                },
+                {
+                  "name": "SAM_Profile_Next_R07",
+                  "displayName": "Profilo SAM",
+                  "value": "4",
+                  "displayValue": "4"
+                },
+                {
+                  "name": "SMS_Notification_Allowed_Next_R07",
+                  "displayName": "Consenso SMS notifica",
+                  "value": "1",
+                  "displayValue": "1"
+                },
+                {
+                  "name": "Service_Deposit_Amount_Next_R1",
+                  "displayName": "Deposito per Servizio"
+                },
+                {
+                  "name": "TemporaryVoiceLineMSISDN",
+                  "displayName": "MSISDN temporaneo"
+                },
+                {
+                  "name": "Try_and_Buy_Promotions_Next_R07",
+                  "displayName": "Try and Buy Promotions"
+                },
+                {
+                  "name": "User_Type_Next_R07",
+                  "displayName": "Tipologia Offerta",
+                  "value": "POST",
+                  "displayValue": "POST"
+                },
+                {
+                  "name": "Valid_End_Date_Next_R07",
+                  "displayName": "Valid End Date"
+                },
+                {
+                  "name": "Valid_Start_Date_Next_R07",
+                  "displayName": "Valid Start Date"
+                },
+                {
+                  "name": "Voice_Data_Ind_Next_R07",
+                  "displayName": "Voce/Dati",
+                  "value": "Data",
+                  "displayValue": "Data"
+                }
+              ],
+              "billingAccount": {
+                "href": "/care/v1/billingAccount/930836784?salesChannel=selfService",
+                "id": "930836784"
+              }
+            },
+            "availableOrderItemAction": [
+              "resume",
+              "cancel",
+              "amend"
+            ],
+            "isWithdrawAmendAllowed": false,
+            "contactId": "2308102100038215",
+            "portInError": false,
+            "orderActionId": "3271409",
+            "isAmendAllowedIndicator": true,
+            "isAmend": false,
+            "amendOrderActionId": "3271409",
+            "addOn": [
+              {
+                "type": "mobileAddOnOrderItem",
+                "action": "add",
+                "state": "pending",
+                "orderItemPrice": [
+                  {
+                    "id": "106796897",
+                    "type": "oneTime",
+                    "price": {
+                      "currencyCode": "EUR",
+                      "taxIncludedAmount": 0.00,
+                      "amount": 0.00,
+                      "taxAmount": 0.00
+                    },
+                    "isNonImmediateOC": true
+                  },
+                  {
+                    "id": "106796897",
+                    "recurringChargePeriod": "month",
+                    "type": "recurring",
+                    "price": {
+                      "currencyCode": "EUR",
+                      "taxIncludedAmount": 0.00,
+                      "amount": 0.00,
+                      "taxAmount": 0.00
+                    },
+                    "isNonImmediateOC": true
+                  }
+                ],
+                "offering": {
+                  "id": "1837787",
+                  "name": "Soglia Spesa Dati"
+                },
+                "product": {
+                  "id": "106796896",
+                  "name": "Soglia Spesa Dati",
+                  "type": "mobileAddonProduct"
+                },
+                "dynamicAttributesMap": {
+                  "offerType": null,
+                  "Billing_Offer_Id": "1840887"
+                }
+              }
+            ],
+            "sim": {
+              "type": "mobileSIMOrderItem",
+              "id": "106796918",
+              "action": "add",
+              "state": "inProgress",
+              "quantity": 1,
+              "orderItemPrice": [
+                {
+                  "type": "oneTime",
+                  "price": {
+                    "currencyCode": "EUR",
+                    "taxIncludedAmount": 0.00,
+                    "amount": 0.00,
+                    "taxAmount": 0.00
+                  }
+                },
+                {
+                  "recurringChargePeriod": "month",
+                  "type": "recurring",
+                  "price": {
+                    "currencyCode": "EUR",
+                    "taxIncludedAmount": 0.00,
+                    "amount": 0.00,
+                    "taxAmount": 0.00
+                  }
+                }
+              ],
+              "offering": {
+                "href": "/commerce/v1/mobileOffering/621587?salesChannel=selfService",
+                "id": "621587",
+                "type": "mobileSimOffering",
+                "name": "SIM_Next_R07",
+                "displayName": "SIM",
+                "description": "Il componente SIM raggruppa tutti gli attributi anagrafici della scheda SIM"
+              },
+              "mobileSIMProduct": {
+                "id": "106796918",
+                "name": "SIM",
+                "type": "mobileSimProduct",
+                "productCharacteristic": [
+                  {
+                    "name": "Capacity_Next_R07",
+                    "displayName": "Capacità"
+                  },
+                  {
+                    "name": "Connectivity_Next_R07",
+                    "displayName": "Connettività"
+                  },
+                  {
+                    "name": "EID_Next_R1",
+                    "displayName": "EID"
+                  },
+                  {
+                    "name": "Electrical_Profile_Next_R07",
+                    "displayName": "Profilo elettrico"
+                  },
+                  {
+                    "name": "IMSI_ServiceID_R07",
+                    "displayName": "IMSI_ServiceID"
+                  },
+                  {
+                    "name": "Match_ID_Next_R1",
+                    "displayName": "Match ID"
+                  },
+                  {
+                    "name": "Original_SIM_Size_Next_R07",
+                    "displayName": "Original SIM Size"
+                  },
+                  {
+                    "name": "PUK_Barring_R07",
+                    "displayName": "PUK Barring",
+                    "value": "No",
+                    "displayValue": "No"
+                  },
+                  {
+                    "name": "Previous_Delivery_Method_Next_R1",
+                    "displayName": "Metodo di spedizione precedente",
+                    "value": "NA",
+                    "displayValue": "NA"
+                  },
+                  {
+                    "name": "RLC_IMSI",
+                    "displayName": "IMSI"
+                  },
+                  {
+                    "name": "Reservation_ID_Next_R07",
+                    "displayName": "SKU Reservation ID",
+                    "value": "12345",
+                    "displayValue": "12345"
+                  },
+                  {
+                    "name": "SIM_Activation_Code_Next_R1",
+                    "displayName": "Codice di attivazione"
+                  },
+                  {
+                    "name": "SIM_Card_Number_Next_R07",
+                    "displayName": "Numero seriale SIM"
+                  },
+                  {
+                    "name": "SIM_Format_Next_R1",
+                    "displayName": "Formato SIM",
+                    "value": "000000000000821335",
+                    "displayValue": "000000000000821335"
+                  },
+                  {
+                    "name": "SIM_Size_Next_R07",
+                    "displayName": "Formato SIM",
+                    "value": "TRIO",
+                    "displayValue": "TRIO"
+                  },
+                  {
+                    "name": "SIM_Warranty_End_Date_Next_R07",
+                    "displayName": "Data fine garanzia",
+                    "value": "09/08/2025 23:59:59",
+                    "displayValue": "09/08/2025 23:59:59"
+                  },
+                  {
+                    "name": "SKU",
+                    "displayName": "SKU",
+                    "value": "000000000000821335",
+                    "displayValue": "000000000000821335"
+                  }
+                ],
+                "productSpecification": {
+                  "id": "621587",
+                  "name": "SIM",
+                  "type": "mobileSimSpecification"
+                },
+                "sku": "000000000000821335",
+                "simType": "TRIO"
+              }
+            },
+            "plan": {
+              "type": "mobilePlanOrderItem",
+              "id": "106796913",
+              "action": "add",
+              "state": "inProgress",
+              "quantity": 1,
+              "orderItemPrice": [
+                {
+                  "id": "106796914",
+                  "type": "oneTime",
+                  "price": {
+                    "currencyCode": "EUR",
+                    "taxIncludedAmount": 0.00,
+                    "amount": 0.00,
+                    "taxAmount": 0.00
+                  }
+                },
+                {
+                  "id": "106796914",
+                  "recurringChargePeriod": "month",
+                  "type": "recurring",
+                  "price": {
+                    "currencyCode": "EUR",
+                    "taxIncludedAmount": 0.00,
+                    "amount": 0.00,
+                    "taxAmount": 0.00
+                  },
+                  "allowedOverrideType": "none"
+                }
+              ],
+              "offering": {
+                "id": "3125881",
+                "type": "mobilePlanOffering",
+                "name": "Internet 1 GB",
+                "displayName": "Internet 1 GB",
+                "description": "Internet 1 GB",
+                "isInvisible": true,
+                "paymentManagementType": "post"
+              },
+              "changeDetails": {
+                "isSettings": false,
+                "isPPU": true,
+                "isPaymentMethod": false,
+                "isMsisdn": false
+              },
+              "isKaskoIncluded": false,
+              "mobilePlanProduct": {}
+            },
+            "ppuPlan": {
+              "type": "mobilePlanOrderItem",
+              "action": "add",
+              "orderItemPrice": [
+                {
+                  "type": "oneTime",
+                  "price": {
+                    "currencyCode": "EUR",
+                    "taxIncludedAmount": 0.00,
+                    "amount": 0.00,
+                    "taxAmount": 0.00
+                  }
+                },
+                {
+                  "recurringChargePeriod": "month",
+                  "type": "recurring",
+                  "price": {
+                    "currencyCode": "EUR",
+                    "taxIncludedAmount": 0.00,
+                    "amount": 0.00,
+                    "taxAmount": 0.00
+                  }
+                }
+              ],
+              "offering": {
+                "id": "3233798",
+                "name": "Internet Unlimited SIM 21",
+                "displayName": "Internet Unlimited SIM 21"
+              }
+            },
+            "replacedSim": {
+              "type": "mobileSIMOrderItem",
+              "id": "106796918",
+              "action": "add",
+              "state": "inProgress",
+              "quantity": 1,
+              "orderItemPrice": [
+                {
+                  "type": "oneTime",
+                  "price": {
+                    "currencyCode": "EUR",
+                    "taxIncludedAmount": 0.00,
+                    "amount": 0.00,
+                    "taxAmount": 0.00
+                  }
+                },
+                {
+                  "recurringChargePeriod": "month",
+                  "type": "recurring",
+                  "price": {
+                    "currencyCode": "EUR",
+                    "taxIncludedAmount": 0.00,
+                    "amount": 0.00,
+                    "taxAmount": 0.00
+                  }
+                }
+              ],
+              "offering": {
+                "href": "/commerce/v1/mobileOffering/621587?salesChannel=selfService",
+                "id": "621587",
+                "type": "mobileSimOffering",
+                "name": "SIM_Next_R07",
+                "displayName": "SIM",
+                "description": "Il componente SIM raggruppa tutti gli attributi anagrafici della scheda SIM"
+              },
+              "mobileSIMProduct": {
+                "id": "106796918",
+                "name": "SIM",
+                "type": "mobileSimProduct",
+                "productCharacteristic": [
+                  {
+                    "name": "Capacity_Next_R07",
+                    "displayName": "Capacità"
+                  },
+                  {
+                    "name": "Connectivity_Next_R07",
+                    "displayName": "Connettività"
+                  },
+                  {
+                    "name": "EID_Next_R1",
+                    "displayName": "EID"
+                  },
+                  {
+                    "name": "Electrical_Profile_Next_R07",
+                    "displayName": "Profilo elettrico"
+                  },
+                  {
+                    "name": "IMSI_ServiceID_R07",
+                    "displayName": "IMSI_ServiceID"
+                  },
+                  {
+                    "name": "Match_ID_Next_R1",
+                    "displayName": "Match ID"
+                  },
+                  {
+                    "name": "Original_SIM_Size_Next_R07",
+                    "displayName": "Original SIM Size"
+                  },
+                  {
+                    "name": "PUK_Barring_R07",
+                    "displayName": "PUK Barring",
+                    "value": "No",
+                    "displayValue": "No"
+                  },
+                  {
+                    "name": "Previous_Delivery_Method_Next_R1",
+                    "displayName": "Metodo di spedizione precedente",
+                    "value": "NA",
+                    "displayValue": "NA"
+                  },
+                  {
+                    "name": "RLC_IMSI",
+                    "displayName": "IMSI"
+                  },
+                  {
+                    "name": "Reservation_ID_Next_R07",
+                    "displayName": "SKU Reservation ID",
+                    "value": "12345",
+                    "displayValue": "12345"
+                  },
+                  {
+                    "name": "SIM_Activation_Code_Next_R1",
+                    "displayName": "Codice di attivazione"
+                  },
+                  {
+                    "name": "SIM_Card_Number_Next_R07",
+                    "displayName": "Numero seriale SIM"
+                  },
+                  {
+                    "name": "SIM_Format_Next_R1",
+                    "displayName": "Formato SIM",
+                    "value": "000000000000821335",
+                    "displayValue": "000000000000821335"
+                  },
+                  {
+                    "name": "SIM_Size_Next_R07",
+                    "displayName": "Formato SIM",
+                    "value": "TRIO",
+                    "displayValue": "TRIO"
+                  },
+                  {
+                    "name": "SIM_Warranty_End_Date_Next_R07",
+                    "displayName": "Data fine garanzia",
+                    "value": "09/08/2025 23:59:59",
+                    "displayValue": "09/08/2025 23:59:59"
+                  },
+                  {
+                    "name": "SKU",
+                    "displayName": "SKU",
+                    "value": "000000000000821335",
+                    "displayValue": "000000000000821335"
+                  }
+                ],
+                "productSpecification": {
+                  "id": "621587",
+                  "name": "SIM",
+                  "type": "mobileSimSpecification"
+                },
+                "sku": "000000000000821335",
+                "simType": "TRIO"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "availableOrderAction": [
+      "resume",
+      "cancel"
+    ],
+    "orderDeliveryDetails": {
+      "recipientAddress": {
+        "id": "1073875827",
+        "street": "VIA BISCEGLIE",
+        "streetNumber": "73",
+        "city": "MILANO",
+        "country": "IT",
+        "stateOrProvince": "MI",
+        "postalCode": "20152",
+        "formattedAddress1": "73 VIA BISCEGLIE"
+      },
+      "orderDeliveryCode": "S",
+      "orderDeliveryDesc": "Spedizione a casa",
+      "identificationMethods": [
+        {
+          "code": "NA",
+          "selected": true
+        }
+      ]
+    },
+    "isOrderTakeOverAllowed": false,
+    "isRechargeSaved": false,
+    "isChangeShippingPresented": true,
+    "isBookedOrder": false,
+    "poType": "Triple Play"
+  }

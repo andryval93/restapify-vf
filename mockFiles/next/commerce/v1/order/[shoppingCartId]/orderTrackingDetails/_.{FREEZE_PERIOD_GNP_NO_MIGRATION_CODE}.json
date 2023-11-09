@@ -1,0 +1,62 @@
+{
+  "deliveryOrders": [
+    {
+      "code": "T",
+      "description": "Consegna il tecnico",
+      "deliveryItems": [
+        {
+          "itemId": "108006334_4635911",
+          "itemCid": "621587",
+          "itemType": "SIM",
+          "itemName": "SIM",
+          "lineOfBusiness": "IN"
+        },
+        {
+          "itemId": "108006348_4635913",
+          "itemCid": "2786781",
+          "itemType": "EQP",
+          "itemName": "Vodafone Wi-Fi 6 Station",
+          "lineOfBusiness": "IN"
+        }
+      ],
+      "recipientDetails": {
+        "recipientName": {
+          "formattedName": "FREZZENOMIGRAZIONE;XBS"
+        },
+        "recipientAddress": {
+          "id": "268614008",
+          "street": "VIA LORENTEGGIO",
+          "streetNumber": "163",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "postalCode": "20146",
+          "formattedAddress1": "VIA LORENTEGGIO 163"
+        },
+        "contactPhoneNumber": "3428473890",
+        "contactEmailAddress": "pierfrancesco.capone@vodafone.com"
+      },
+      "shippingDetails": {}
+    }
+  ],
+  "deliverySteps": [
+    {
+      "stepCode": "OV",
+      "checked": true
+    },
+    {
+      "stepCode": "AC",
+      "checked": false
+    }
+  ],
+  "phase2KO": [
+    {
+      "fixedvoice": {
+        "dynamicAttributeMap": {
+          "PortInCLI": "390248375035"
+        }
+      }
+    }
+  ],
+  "orderActionSpecificStageStatus": "AwaitingMigrationCodeInfo"
+}

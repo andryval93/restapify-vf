@@ -1,0 +1,33 @@
+{
+  "id": "479503494",
+  "externalRefernce": "479503494A",
+  "orderItems": [
+    {
+      "id": "479503495",
+      "externalRefernce": "479503495A",
+      "product": {
+        "childProduct": [
+          {
+            "id": "2929381",
+            "type": "mobileSIMCard",
+            "format": [
+              {
+                "id": "000000000000821339",
+                "name": "eSim",
+                "description": "It is an eSim card",
+                "selection": false
+              },
+              {
+                "id": "000000000000821335",
+                "name": "SIM fisica",
+                "description": "It is a physical sim card",
+                "selection": true
+              }
+            ]
+          }
+        ],
+        "type": "Mobile"
+      }
+    }
+  ]
+}

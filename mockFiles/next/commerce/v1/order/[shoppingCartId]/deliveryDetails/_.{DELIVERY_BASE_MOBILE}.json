@@ -1,0 +1,111 @@
+{
+  "deliveryItems": [
+    {
+      "itemId": "1812320163_511400780",
+      "itemCid": "621587",
+      "itemType": "SIM",
+      "itemName": "SIM R07",
+      "lineOfBusiness": "WS"
+    }
+  ],
+  "identificationDetails": [
+    {
+      "code": "CO",
+      "description": "Courier",
+      "isSelected": true
+    },
+    {
+      "code": "D",
+      "description": "Dealer",
+      "isSelected": false
+    },
+    {
+      "code": "VR",
+      "description": "Video Riconoscimento",
+      "isSelected": false
+    }
+  ],
+  "deliveryDetails": [
+    {
+      "code": "S",
+      "description": "Shipping to Home",
+      "isSelected": true,
+      "shippingOptions": [
+        {
+          "name": "ST",
+          "displayName": "Standard Delivery",
+          "price": {
+            "currencyCode": "EUR",
+            "amount": 0
+          },
+          "isSelected": false
+        }
+      ]
+    }
+  ],
+  "recipientDetails": {
+    "recipientName": {
+      "formattedName": "giorgio;vallurido"
+    },
+    "recipientAddress": {
+      "id": "273193326",
+      "street": "VIA GUARINI",
+      "streetNumber": "1",
+      "city": "PONZA",
+      "country": "IT",
+      "stateOrProvince": "LT",
+      "postalCode": "04027",
+      "formattedAddress1": "1 VIA GUARINI"
+    },
+    "availableAddresses": [
+      {
+        "id": "272189130",
+        "street": "VIA LORENTEGGIO",
+        "streetNumber": "240",
+        "city": "MILANO",
+        "country": "IT",
+        "stateOrProvince": "MI",
+        "displayStateOrProvince": "MILANO",
+        "postalCode": "20147",
+        "formattedAddress1": "VIA LORENTEGGIO 240"
+      },
+      {
+        "id": "273193326",
+        "street": "VIA GUARINI",
+        "streetNumber": "1",
+        "city": "PONZA",
+        "country": "IT",
+        "stateOrProvince": "LT",
+        "displayStateOrProvince": "LATINA",
+        "postalCode": "04027",
+        "formattedAddress1": "1 VIA GUARINI"
+      }
+    ],
+    "contactPhoneNumber": "3341680284",
+    "contactEmailAddress": "umberto.vignotto1@vodafone.com"
+  },
+  "deliveryTrackingDetails": {
+    "trackingStatusList": [
+      {
+        "stepCode": "OV",
+        "checked": true,
+        "statusOK": true
+      },
+      {
+        "stepCode": "DP",
+        "checked": false,
+        "statusOK": true
+      },
+      {
+        "stepCode": "ID",
+        "checked": false,
+        "statusOK": true
+      },
+      {
+        "stepCode": "SA",
+        "checked": false,
+        "statusOK": true
+      }
+    ]
+  }
+}

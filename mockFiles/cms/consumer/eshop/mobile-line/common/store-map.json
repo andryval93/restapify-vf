@@ -1,0 +1,20 @@
+{
+  "storemap": {
+    "common": {
+      "ctaSaveLable": "Seleziona questo punto di ritiro",
+      "subtitle": "Inserisci le prime lettere del tuo indirizzo per farlo comparire magicamente.",
+      "title": "Modifica indirizzo",
+      "switchLabelDX": "Mappa",
+      "switchLabelSX": "Lista",
+      "ctaModifyLable": "Modifica indirizzo"
+    },
+    "postalOffice": {
+      "subtitle": "Ecco gli uffici postali vicini al tuo indirizzo di installazione",
+      "title": "Ufficio Postale"
+    },
+    "vfStore": {
+      "subtitle": "Ecco i negozi Vodafone vicini al tuo indirizzo di installazione",
+      "title": "Vodafone Store"
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "deliveryOrders": [
+    {
+      "code": "T",
+      "description": "Consegna il tecnico",
+      "deliveryItems": [
+        {
+          "itemId": "108006232_4635904",
+          "itemCid": "621587",
+          "itemType": "SIM",
+          "itemName": "SIM",
+          "lineOfBusiness": "IN"
+        },
+        {
+          "itemId": "108006246_4635906",
+          "itemCid": "2786781",
+          "itemType": "EQP",
+          "itemName": "Vodafone Wi-Fi 6 Station",
+          "lineOfBusiness": "IN"
+        }
+      ],
+      "recipientDetails": {
+        "recipientName": {
+          "formattedName": "Provasolomigrazione;XBS"
+        },
+        "recipientAddress": {
+          "id": "268614006",
+          "street": "VIA LORENTEGGIO",
+          "streetNumber": "35",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "postalCode": "20146",
+          "formattedAddress1": "VIA LORENTEGGIO 35"
+        },
+        "contactPhoneNumber": "3462738987",
+        "contactEmailAddress": "pierfrancesco.capone@vodafone.com"
+      },
+      "shippingDetails": {}
+    }
+  ],
+  "deliverySteps": [
+    {
+      "stepCode": "OV",
+      "checked": true,
+      "fulfillmentDetails": [
+        {
+          "entityType": "Fixed",
+          "additionalInfo": [
+            {
+              "key": "serviceNo",
+              "value": "390247762541"
+            }
+          ]
+        },
+        {
+          "entityType": "Data-Sim",
+          "additionalInfo": [
+            {
+              "key": "serviceNo",
+              "value": "393412137139"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stepCode": "AC",
+      "checked": false
+    }
+  ],
+  "phase2KO": [
+    {
+      "fixedvoice": {
+        "dynamicAttributeMap": {
+          "GnpType": "NOT CONTEXTUAL",
+          "Phase2Required": "N",
+          "PortInCLI": "390247715916"
+        }
+      }
+    }
+  ],
+  "orderActionSpecificStageStatus": "HandleWirelineFulfillmentResponse"
+}

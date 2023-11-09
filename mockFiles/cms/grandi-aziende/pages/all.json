@@ -1,0 +1,343 @@
+{
+  "homepage": {
+    "widgets": {
+      "sliders": [
+        {
+          "description": "<b>Connettiti dove e quando vuoi, con la massima velocità.</b><br/><br/>Per te <b>in regalo 150 Giga al mese per tre mesi</b> sulla SIM che hai ricevuto con l'attivazione della tua rete fissa. I Giga in regalo si attivano in automatico il <b>28 Ottobre</b> e si disattivano in automatico senza alcun costo il 22 Gennaio.",
+          "type": "TOP_HERO",
+          "title": "150 Giga per tutto quello che ami. Torna il tuo regalo preferito!",
+          "image": "1.jpeg",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "id": "14",
+              "key": "hubMobileLine",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "id": "6391483",
+              "key": "hubFixedLine",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "id": "6829183",
+              "key": "hubFixedLine",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ],
+          "button": {
+            "label": "Tutte le offerte mobile"
+          }
+        },
+        {
+          "type": "ANCHORS",
+          "title": "<p>Anche a come farti <b>sentire speciale.</b><br />\r\n</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Per celebrare ogni giorno\r\nla nostra storia insieme.\r\n",
+              "id": "1",
+              "title": "Happy",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/vantaggi-vodafone/vodafone-happy.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Online, in modo  semplice e immediato.",
+              "id": "2",
+              "title": "Ricarica",
+              "action": {
+                "url": "https://ricarica1click.vodafone.it/ricaricaevo/main.do",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": " Il tuo mondo  a portata di mano.",
+              "id": "3",
+              "title": "App",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/vantaggi-vodafone/app-myvodafone.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Le risposte a tutte \r\nle tue domande.",
+              "id": "4",
+              "image": "vmax.jpeg",
+              "title": "Supporto",
+              "action": {
+                "url": "https://www.vodafone.it/privati/supporto.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "Le tue passioni sono anche le nostre. Noi siamo pronti a viverle tutte, e tu?\r\n",
+          "type": "SLIDER_EXPERIENCES",
+          "image": "vfB.jpg",
+          "title": "<p>Scoprirai che abbiamo molto in comune.</p>\r\n",
+          "button": {
+            "label": "Scopri le tue passioni"
+          },
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "divider": {
+            "text": "passioni",
+            "image": "passions.gif"
+          },
+          "elements": [
+            {
+              "description": "Con il meglio di cinema, serie tv e musica.",
+              "id": "1",
+              "image": "Divertiti.png",
+              "title": "Divertiti",
+              "maskIcon": "Divertiti@2x.png",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/vodafone-entertainment.html?icmp=MDD_vodafone_entertainment?icmp=MDD_home-page",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Con la libertà di uscire senza telefono.",
+              "id": "2",
+              "image": "Allenati.png",
+              "title": "Allenati",
+              "maskIcon": "Allenati@2x.png",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/mobile/onenumber.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Con Vodafone il tuo smartphone ha sempre valore.",
+              "id": "3",
+              "image": "Rilassati.png",
+              "title": "Rilassati",
+              "maskIcon": "Rilassati@2x.png",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/mobile/smart-change.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Sfoglia il catalogo GameNow e preparati alla sfida.",
+              "id": "4",
+              "image": "Gioca.png",
+              "title": "Gioca",
+              "maskIcon": "Gioca@2x.png",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/mobile/game-now.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Con la Rete Vodafone puoi andare dappertutto.",
+              "image": "Viaggia.png",
+              "title": "Viaggia",
+              "maskIcon": "Viaggia@2x.png",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/mobile/offerte-telefonia-mobile/estero.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_LARGE_SMALL",
+          "title": "<p><b>Hai tutta la tecnologia</b> che vuoi.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "id": "1",
+              "image": "wow.gif",
+              "title": "TEST",
+              "imageMobile": "wow.gif",
+              "action": {
+                "url": "https://www.vodafone.it/content/vodafone/it/self-service-channel/contenuti/mobile/TEST/samsung-galaxy-unpacked-TEST.html",
+                "type": "1",
+                "small": "true",
+                "isBlank": "false"
+              }
+            },
+            {
+              "id": "2",
+              "image": "smartphone.png",
+              "title": "Smartphone",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/tariffe-e-prodotti/prodotti/smartphone.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "id": "3",
+              "image": "smartwatch.png",
+              "title": "Smartwatch",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/tariffe-e-prodotti/prodotti/smartphone.html?icmp=home-page&deviceList=%7B%22selectedMobileOfferingCommitmentId%22%3A%22%22%2C%22selectedMobileOfferingCommitmentDuration%22%3A%22%22%2C%22limit%22%3Anull%2C%22paginationOffset%22%3A0%2C%22selectedSortOption%22%3A%7B%22name%22%3A%22rank%22%2C%22displayName%22%3A%22rank_asc%22%2C%22ascending%22%3Atrue%7D%2C%22selectedCategoryId%22%3A%2255180_1192580%22%2C%22groupByVariant%22%3Atrue%2C%22variantToDisplayFirst%22%3A%22%22%2C%22displayStockAvailability%22%3A%22all%22%2C%22paymentMethod%22%3A%22%22%2C%22relation%22%3A%22SELECT_DEVICE%22%2C%22selectedFilters%22%3A%5B%7B%22id%22%3A%2248780%22%2C%22title%22%3A%22Sistema+Operativo%22%2C%22name%22%3A%22Operating_System%22%2C%22value%22%3A%5B%5D%2C%22isRangeFilter%22%3Afalse%7D%2C%7B%22id%22%3A%2248980%22%2C%22title%22%3A%22Dimensioni+Display%22%2C%22name%22%3A%22Display_Size%22%2C%22value%22%3A%5B%221%2C2+in.%22%2C%221%2C3+in.%22%2C%221%2C55+in.%22%2C%221%2C56+in.%22%2C%221143+mm2%22%2C%22N.D.%22%2C%22977+mm2%22%2C%22904+mm2%22%2C%22759+mm2%22%2C%22740+mm2%22%5D%2C%22isRangeFilter%22%3Afalse%7D%2C%7B%22id%22%3A%2249380%22%2C%22title%22%3A%22Mono+%2F+Dual+SIM%22%2C%22name%22%3A%22Mono_Dual_SIM%22%2C%22value%22%3A%5B%5D%2C%22isRangeFilter%22%3Afalse%7D%2C%7B%22id%22%3A%2249580%22%2C%22title%22%3A%22Fotocamera+Integrata%22%2C%22name%22%3A%22Primary_Camera%22%2C%22value%22%3A%5B%5D%2C%22isRangeFilter%22%3Afalse%7D%2C%7B%22id%22%3A%2250480%22%2C%22title%22%3A%22Doppia+Fotocamera%22%2C%22name%22%3A%22Dual_Camera%22%2C%22value%22%3A%5B%5D%2C%22isRangeFilter%22%3Afalse%7D%2C%7B%22id%22%3A%22646180%22%2C%22title%22%3A%22Tipologia+di+SIM%22%2C%22name%22%3A%22SIM_Type_SPS%22%2C%22value%22%3A%5B%5D%2C%22isRangeFilter%22%3Afalse%7D%2C%7B%22id%22%3A%221283380%22%2C%22title%22%3A%22Device+5G%22%2C%22name%22%3A%22Device_5G%22%2C%22value%22%3A%5B%5D%2C%22isRangeFilter%22%3Afalse%7D%5D%2C%22hash%22%3A%22adeab456dd5153c38bdf18b8c97a4b65%22%2C%22searchText%22%3A%22%22%2C%22filterStock%22%3Afalse%7D",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "id": "4",
+              "image": "TV.png",
+              "title": "TV e Console",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/fibra/smart-tv.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_LARGE_SMALL",
+          "title": "<p>Essere Vodafone ha i suoi <b>vantaggi</b>.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "divider": {
+            "text": "wow",
+            "image": "wow.gif"
+          },
+          "elements": [
+            {
+              "description": "Per celebrare ogni giorno la nostra storia insieme.",
+              "id": "1",
+              "image": "Happy_STILL2.png",
+              "title": "Vodafone Happy",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/vantaggi-vodafone/vodafone-happy.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Il programma fedeltà  che premia il tuo entusiasmo.",
+              "id": "2",
+              "image": "Club.png",
+              "title": "Vodafone Club",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/vantaggi-vodafone/vodafone-club.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Stabile e affidabile.\r\nSu di lei puoi sempre contare. ",
+              "id": "3",
+              "image": "Guarda_STILL2.png",
+              "title": "Rete Vodafone",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/rete-vodafone.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Per avere sempre a portata di mano tutto il tuo mondo.",
+              "id": "4",
+              "image": "My_vodafone_App.png",
+              "title": "My Vodafone app",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/vantaggi-vodafone/app-myvodafone.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Protezione e privacy, per navigare senza rischi.",
+              "id": "5",
+              "image": "Rete_Sicura.png",
+              "title": "Rete sicura 2.0",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/mobile/rete-sicura.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "seo": {
+      "canonicalUrl": "seo canonica",
+      "title": "title seo homepage",
+      "ogImageUrl": "seo img",
+      "ogDescription": "description seo home page"
+    },
+    "pagesparams": {
+      "key": "homePageSunrise",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "true",
+        "isFooterSmall": "false",
+        "isHeaderSmall": "false"
+      },
+      "urlBuilder": [
+        {
+          "page": " "
+        }
+      ]
+    }
+  }
+}

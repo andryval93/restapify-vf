@@ -1,0 +1,107 @@
+{
+  "deliveryOrders": [
+    {
+      "code": "T",
+      "description": "Delivery by Technician",
+      "deliveryItems": [
+        {
+          "itemId": "108255382_4707631",
+          "itemCid": "2786781",
+          "itemType": "EQP",
+          "itemName": "Vodafone Wi-Fi 6 Station R1",
+          "lineOfBusiness": "IN"
+        }
+      ],
+      "recipientDetails": {
+        "recipientName": {
+          "formattedName": "ISP;XBS"
+        },
+        "recipientAddress": {
+          "id": "268564243",
+          "street": "VIA LORENTEGGIO",
+          "streetNumber": "240",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "postalCode": "20147",
+          "formattedAddress1": "VIA LORENTEGGIO 240"
+        },
+        "contactPhoneNumber": "3934981416",
+        "contactEmailAddress": "khodres@amdocs.com"
+      },
+      "shippingDetails": {},
+      "storeId": "24107.02X27",
+      "store": {
+        "storeId": "24107.02X27",
+        "storeName": {
+          "businessName1": "RT_WLN"
+        },
+        "storeAddress": {
+          "id": "268437798",
+          "street": "VIA LORENTEGGIO",
+          "streetNumber": "240",
+          "city": "MILANO",
+          "country": "Italia",
+          "displayCountry": "Italia",
+          "stateOrProvince": "MI",
+          "displayStateOrProvince": "MI",
+          "postalCode": "20147",
+          "formattedAddress2": "240 VIA LORENTEGGIO, MILANO, MILANO, 20147, Italia"
+        }
+      }
+    },
+    {
+      "code": "P",
+      "description": "Pick-up in Store",
+      "shippingOptions": [
+        {
+          "name": "ST",
+          "displayName": "Standard Delivery",
+          "price": {
+            "currencyCode": "EUR",
+            "amount": 0
+          },
+          "isSelected": true
+        }
+      ],
+      "deliveryItems": [
+        {
+          "itemId": "108255391_4707631",
+          "itemCid": "3601483",
+          "itemType": "DEV",
+          "itemName": "IPHONE XR BIANCO 64GB Rigenerato R07",
+          "lineOfBusiness": "IN"
+        },
+        {
+          "itemId": "108255350_4707627",
+          "itemCid": "621587",
+          "itemType": "SIM",
+          "itemName": "SIM R07",
+          "lineOfBusiness": "IN"
+        }
+      ],
+      "recipientDetails": {
+        "recipientName": {
+          "formattedName": "ISP;XBS"
+        },
+        "contactPhoneNumber": "3934981416",
+        "contactEmailAddress": "khodres@amdocs.com"
+      },
+      "shippingDetails": {},
+      "store": {
+        "storeId": "24107.02X27"
+      }
+    }
+  ],
+  "deliverySteps": [
+    {
+      "stepCode": "OV",
+      "checked": false
+    },
+    {
+      "stepCode": "AC",
+      "checked": false
+    }
+  ],
+  "orderActionSpecificStageStatus": "HandleWirelineFulfillmentResponse"
+}

@@ -1,0 +1,52 @@
+{
+  "attachments": [
+    {
+      "originator": "dmaasadmin",
+      "internal": true,
+      "filename": "Contratto_27931A_3061_20230503105602.pdf",
+      "title": "R1 template for contract for paper mode contract with signature placeholder without sending PDF to Accenture",
+      "mimeType": "application/pdf",
+      "url": "contentstore/2023/05/03/11/01/563353_V1-Contratto_27931A_3061_20230503105602.pdf",
+      "documentType": "Contract",
+      "documentSubType": "Contract",
+      "customerID": "100000982",
+      "documentID": "563353",
+      "creationDate": "1683101019000",
+      "updateDate": "1683101019000",
+      "orderID": "27931A",
+      "storeId": ",24107.02X27,"
+    },
+    {
+      "originator": "dmaasadmin",
+      "internal": true,
+      "filename": "Contratto_27931A_3060_20230503105030.pdf",
+      "title": "R1 template for contract for paper mode contract with signature placeholder without sending PDF to Accenture",
+      "mimeType": "application/pdf",
+      "url": "contentstore/2023/05/03/10/56/563344_V1-Contratto_27931A_3060_20230503105030.pdf",
+      "documentType": "Contract",
+      "documentSubType": "Contract",
+      "customerID": "100000982",
+      "documentID": "563344",
+      "creationDate": "1683100686000",
+      "updateDate": "1683100686000",
+      "orderID": "27931A",
+      "storeId": ",24107.02X27,"
+    },
+    {
+      "originator": "dmaasadmin",
+      "internal": true,
+      "filename": "Contratto_27931A_3059_20230503094334.pdf",
+      "title": "R1 template for contract for paper mode contract with signature placeholder without sending PDF to Accenture",
+      "mimeType": "application/pdf",
+      "url": "contentstore/2023/05/03/09/49/563289_V1-Contratto_27931A_3059_20230503094334.pdf",
+      "documentType": "Contract",
+      "documentSubType": "Contract",
+      "customerID": "100000982",
+      "documentID": "563289",
+      "creationDate": "1683096671000",
+      "updateDate": "1683096671000",
+      "orderID": "27931A",
+      "storeId": ",24107.02X27,"
+    }
+  ]
+}

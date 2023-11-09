@@ -1,0 +1,129 @@
+{
+  "termsandconditions": {
+    "card": {
+      "description": "Per poter concludere il tuo acquisto, verifica e accetta le condizioni contrattuali mettendo una spunta qui sotto.",
+      "conditions": "Dichiaro di aver accettato le condizioni generali di contratto, di aver preso visione dell'informativa privacy, dell'informativa S.I.M.o.I.Tel e della sintesi contrattuale. ",
+      "title": "Termini e condizioni",
+      "activation": {
+        "description": "Richiedo esplicitamente di avviare le procedure di attivazione del servizio di Rete Fissa durante il periodo di recesso, al fine di avere la linea attiva al più presto possibile.",
+        "title": "Attivazione immediata",
+        "detailLinkLabel": "Visualizza dettagli richiesta",
+        "urlLink": "http://google.com",
+        "choice": {
+          "option1": "Avvia l'attivazione immediata",
+          "option2": "No"
+        }
+      }
+    },
+    "modals": [
+      {
+        "buttonLabel": "SCARICA PDF",
+        "description": "Qui puoi scaricare le Condizioni Generali di Contratto relative al servizio che stai sottoscrivendo con Vodafone.",
+        "title": "Condizioni generali",
+        "url": ""
+      },
+      {
+        "buttonLabel": "SCARICA PDF",
+        "description": "Qui puoi scaricare tutte le informazioni sul trattamento dei tuoi dati personali che saranno osservate da Vodafone.",
+        "title": "Informativa sulla privacy",
+        "url": ""
+      },
+      {
+        "buttonLabel": "SCARICA PDF",
+        "description": "Qui puoi scaricare le informazioni relative a banca dati S.I.M.o.I.Tel, relativa a morosità intenzionali della clientela nel settore telefonico.",
+        "title": "Informativa S.I.M.o.I.Tel",
+        "url": ""
+      },
+      {
+        "buttonLabel": "SCARICA PDF",
+        "description": "Qui puoi scaricare la sintesi del contratto che sottoscrivi con Vodafone.",
+        "title": "Sintesi contrattuale",
+        "url": ""
+      }
+    ],
+    "activationDetail": {
+      "title": "Attivazione immediata",
+      "descriptions": [
+        {
+          "text": "Potrai iniziare ad usare subito (o quasi) la tua nuova offerta Vodafone. Dovrai solo aspettare l’eventuale completamento della procedura di portabilità.",
+          "title": "Vantaggi"
+        },
+        {
+          "text": "Non potrai più ripensarci. Richiedendo l’attivazione immediata, rinunci infatti al diritto di recesso, altrimenti valido per 14 giorni dalla tua richiesta.",
+          "title": "Vincoli"
+        }
+      ],
+      "accordion": [
+        {
+          "text": "Se hai aderito all'offerta Fibra mista Rame (FTTC) e Fibra (FTTH) o Internet con un operatore al telefono, sul sito o tramite un agente Vodafone, hai 14 giorni di tempo per esercitare il diritto di ripensamento mandando una raccomandata A/R alla Casella Postale 109 – 14100 Asti oppure inviando una email PEC all'indirizzo disdette@vodafone.pec.it e restituendo la Vodafone Station con le modalità indicate di seguito.",
+          "title": "Posso ripensarci?"
+        },
+        {
+          "text": "Puoi farlo in qualsiasi momento con una raccomandata a/r. 30 giorni dopo che Vodafone avrà ricevuto la tua richiesta, il recesso dal contratto sarà effettivo.\nL'indirizzo a cui spedire la Raccomandata è: “Servizio Clienti Vodafone, c/o Casella Postale 190 – 10015, Ivrea (TO)”",
+          "title": "Come posso dare disdetta/recedere dal contratto?"
+        },
+        {
+          "text": "In caso di sottoscrizione di offerta abbonamento, dal momento di attivazione del piano esiste un vincolo contrattuale di 12 mesi. Se il cliente abbina uno smartphone all'offerta (incluso o a rate) la permanenza minima contrattuale è di 24 o 30 mesi a seconda del modello scelto.\nIn caso di recesso anticipato, disattivazione della SIM o cambio piano verso un piano con un contributo mensile di importo inferiore all'abbonamento sottoscritto, è previsto un corrispettivo pari a 100 euro.\nIn caso di sottoscrizione dell'offerta RELAX ricaricabile è previsto un costo di attivazione di 100 euro, scontato del 100% in caso di permanenza sull'offerta per almeno 12 mesi.\nInoltre, per tutte le nuove offerte RELAX (in vigore da Giugno 2015) è previsto un contributo iniziale di 19 euro per i già clienti Vodafone.",
+          "title": "Sono previsti dei costi fissi nei casi di cambio piano, cambio operatore o recesso?"
+        }
+      ]
+    }
+  },
+  "consents": {
+    "card": {
+      "description": "Ti chiediamo di verificare ed accettare i consensi per concludere l’acquisto.",
+      "title": "Consensi",
+      "terms": {
+        "title": "Dichiaro di aver accettato i seguenti consensi:",
+        "customLinkLabel": "Personalizza"
+      }
+    },
+    "modal": {
+      "buttonLabel": "ACCETTA E PROSEGUI",
+      "description": "Ti chiediamo di personalizzare i consensi per concludere l'acquisto.",
+      "title": "Consensi",
+      "list": [
+        {
+          "description": "Autorizzo Vodafone a inviarmi promozioni ...",
+          "text": "per comunicare su prodotti e servizi Vodafone",
+          "title": "Commerciale",
+          "detailLinkLabel": "Maggiori dettagli",
+          "choice": {
+            "option1": "Autorizzo",
+            "option2": "Non autorizzo"
+          }
+        },
+        {
+          "description": "Autorizzo Vodafone al trattamento dei dati ...",
+          "text": "per la creazione di un profilo cliente",
+          "title": "Profilazione",
+          "detailLinkLabel": "Maggiori dettagli",
+          "choice": {
+            "option1": "Autorizzo",
+            "option2": "Non autorizzo"
+          }
+        },
+        {
+          "description": "Autorizzo Vodafone al trattamento dei dati di posizione ...",
+          "text": "per autorizzare i dati di posizione",
+          "title": "Localizzazione",
+          "detailLinkLabel": "Maggiori dettagli",
+          "choice": {
+            "option1": "Autorizzo",
+            "option2": "Non autorizzo"
+          }
+        },
+        {
+          "description": "Autorizzo il trattamento dei dati ...",
+          "text": "a terzi per offerte su misura",
+          "title": "Comunicazione a terzi",
+          "detailLinkLabel": "Maggiori dettagli",
+          "choice": {
+            "option1": "Autorizzo",
+            "option2": "Non autorizzo"
+          }
+        }
+      ]
+    }
+  }
+}

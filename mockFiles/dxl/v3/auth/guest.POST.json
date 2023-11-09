@@ -1,0 +1,9 @@
+{
+  "code": 0,
+  "description": "SUCCESS",
+  "result": {
+    "token": "eyJhbGciOiJSUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiWWVCTnAtbGoxd0FCLTlvWnR6anhNQ2pPdVlfbVBpaWEiLCJzdWIiOiJ2b2RhZm9uZS1keGwiLCJpc3MiOiJqcy1sb2dpbiIsImF1ZCI6ImF1ZGllbmNlX3ZhbHVlIiwiZXhwIjoxNjQyMDkzNDk1fQ.gFE5281qIanX7t1xx8z08H5aPjvfNTBUYosATPU2UnGxBX4gJvEQL3BXUq_bJWSZfbdaSHuP6tO7rCRgoLMMUJom0BABTD2qE6UpnQSgDgT9lUPymEAOMswlgVeIdFHAOGKsX0DbNcgg4ZeROW0Xnt1wA4p1uL4lKFKpv1lrNyByPM8-oRJHKGwLh18Exl16o1YBHqbetgRDIBR21ctPFYsoUEyS2Gjq9YfhlP1lOKAORbhxv9-VJw1rTD7SRu1GKpqj8RLxsb9HjtLamusEQui6Kz3-DjZwcymTcipn3WEHu_VjMrJ_y0JDOB6vBKUrxSDtsZ63ngBmGFdAHsuTRQ",
+    "widgetNextRefreshDelay": "15",
+    "widgetAutoRefreshDelay": "15"
+  }
+}

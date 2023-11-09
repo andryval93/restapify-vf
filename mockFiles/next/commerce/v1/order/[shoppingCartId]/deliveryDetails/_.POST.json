@@ -1,0 +1,55 @@
+[
+  {
+    "deliveryItems": [
+      {
+        "items": [
+          {
+            "itemId": "1651908292_453568471",
+            "itemCid": "621587",
+            "itemType": "SIM",
+            "itemName": "SIM",
+            "lineOfBusiness": "IN"
+          },
+          {
+            "itemId": "1651908306_453568474",
+            "itemCid": "2786781",
+            "itemType": "EQP",
+            "itemName": "Vodafone Wi-Fi 6 Station",
+            "lineOfBusiness": "IN"
+          }
+        ],
+        "details": [
+          {
+            "code": "T",
+            "description": "Consegna il tecnico",
+            "isSelected": true
+          }
+        ]
+      }
+    ],
+    "identificationDetails": [
+      {
+        "code": "NA",
+        "description": "Nessuno",
+        "isSelected": true
+      }
+    ],
+    "recipientDetails": {
+      "recipientName": {
+        "formattedName": "giovanni ravelli"
+      },
+      "recipientAddress": {
+        "id": "272319432",
+        "street": "VIA PAOLO SARPI",
+        "streetNumber": "4",
+        "city": "MILANO",
+        "country": "IT",
+        "stateOrProvince": "MI",
+        "postalCode": "20154",
+        "formattedAddress1": "VIA PAOLO SARPI 4"
+      },
+      "contactPhoneNumber": "3927945896",
+      "contactEmailAddress": "ravelli@gio.com"
+    }
+  }
+]

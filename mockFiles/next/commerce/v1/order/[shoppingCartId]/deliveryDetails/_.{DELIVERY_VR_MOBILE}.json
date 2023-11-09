@@ -1,0 +1,266 @@
+[
+  {
+    "deliveryItems": [
+      {
+        "items": [
+          {
+            "itemId": "1807654877_508407024",
+            "itemCid": "621587",
+            "itemType": "SIM",
+            "itemName": "SIM R07",
+            "lineOfBusiness": "WS"
+          }
+        ],
+        "details": [
+          {
+            "code": "S",
+            "description": "Shipping to Home",
+            "isSelected": true,
+            "shippingOptions": [
+              {
+                "name": "ST",
+                "displayName": "Standard Delivery",
+                "price": { "currencyCode": "EUR", "amount": 0 },
+                "isSelected": false
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "identificationDetails": [{ "code": "VR", "description": "Video Recognition", "isSelected": true }],
+    "recipientDetails": {
+      "recipientName": { "formattedName": "Frombo;Fabricchio" },
+      "recipientAddress": {
+        "id": "270784384",
+        "street": "VIA PAOLO SARPI",
+        "streetNumber": "5",
+        "city": "MILANO",
+        "country": "IT",
+        "stateOrProvince": "MI",
+        "postalCode": "20154",
+        "formattedAddress1": "VIA PAOLO SARPI 5"
+      },
+      "availableAddresses": [
+        {
+          "id": "272315454",
+          "street": "VIA PAOLO SARPI",
+          "streetNumber": "5",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "displayStateOrProvince": "MILANO",
+          "postalCode": "20154",
+          "formattedAddress1": "VIA PAOLO SARPI 5"
+        },
+        {
+          "id": "272694911",
+          "city": "PONZA",
+          "country": "IT",
+          "stateOrProvince": "LT",
+          "displayStateOrProvince": "LATINA",
+          "postalCode": "04027",
+          "formattedAddress1": "VIA PANORAMICA SNC"
+        },
+        {
+          "id": "272692622",
+          "city": "COLLEGNO",
+          "country": "IT",
+          "stateOrProvince": "TO",
+          "displayStateOrProvince": "TORINO",
+          "postalCode": "10093",
+          "formattedAddress1": "VIA ROMA 74"
+        },
+        {
+          "id": "272692741",
+          "city": "TORINO",
+          "country": "IT",
+          "stateOrProvince": "TO",
+          "displayStateOrProvince": "TORINO",
+          "postalCode": "10124",
+          "formattedAddress1": "PIAZZA SANTA GIULIA 12"
+        },
+        {
+          "id": "272693632",
+          "city": "FORLI` DEL SANNIO",
+          "country": "IT",
+          "stateOrProvince": "IS",
+          "displayStateOrProvince": "ISERNIA",
+          "postalCode": "86084",
+          "formattedAddress1": "PIAZZA REGINA MARGHERITA 7"
+        },
+        {
+          "id": "272689767",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "displayStateOrProvince": "MILANO",
+          "postalCode": "20121",
+          "formattedAddress1": "BASTIONI DI PORTA VOLTA 7"
+        },
+        {
+          "id": "272689799",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "displayStateOrProvince": "MILANO",
+          "postalCode": "20138",
+          "formattedAddress1": "VIA MONTE CENGIO 8"
+        },
+        {
+          "id": "272689897",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "displayStateOrProvince": "MILANO",
+          "postalCode": "20147",
+          "formattedAddress1": "VIA PAOLO SEGNERI 3"
+        },
+        {
+          "id": "272694873",
+          "city": "VITERBO",
+          "country": "IT",
+          "stateOrProvince": "VT",
+          "displayStateOrProvince": "VITERBO",
+          "postalCode": "01100",
+          "formattedAddress1": "VIA ALESSANDRO VOLTA 22"
+        },
+        {
+          "id": "272189130",
+          "street": "VIA LORENTEGGIO",
+          "streetNumber": "240",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "displayStateOrProvince": "MILANO",
+          "postalCode": "20147",
+          "formattedAddress1": "VIA LORENTEGGIO 240"
+        },
+        {
+          "id": "273447251",
+          "street": "VIA BISCEGLIE",
+          "streetNumber": "74",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "displayStateOrProvince": "MILANO",
+          "postalCode": "20152",
+          "formattedAddress1": "VIA BISCEGLIE 74"
+        },
+        {
+          "id": "272692815",
+          "city": "COLLEGNO",
+          "country": "IT",
+          "stateOrProvince": "TO",
+          "displayStateOrProvince": "TORINO",
+          "postalCode": "10093",
+          "formattedAddress1": "VIA XI FEBBRAIO 1"
+        },
+        {
+          "id": "272689780",
+          "city": "MONZA",
+          "country": "IT",
+          "stateOrProvince": "MB",
+          "displayStateOrProvince": "MONZA E DELLA BRIANZA",
+          "postalCode": "20900",
+          "formattedAddress1": "VIA GEROLAMO GASLINI 1"
+        },
+        {
+          "id": "273794391",
+          "street": "VIALE DEI ROMANISTI",
+          "streetNumber": "/100000",
+          "city": "ROMA",
+          "country": "IT",
+          "stateOrProvince": "RM",
+          "displayStateOrProvince": "ROMA",
+          "postalCode": "00169",
+          "formattedAddress1": "VIALE DEI ROMANISTI /100000"
+        },
+        {
+          "id": "272299107",
+          "street": "VIA PAOLO SARPI",
+          "streetNumber": "2",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "displayStateOrProvince": "MILANO",
+          "postalCode": "20154",
+          "formattedAddress1": "VIA PAOLO SARPI 2"
+        },
+        {
+          "id": "270784384",
+          "street": "VIA PAOLO SARPI",
+          "streetNumber": "5",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "displayStateOrProvince": "MILANO",
+          "postalCode": "20154",
+          "formattedAddress1": "VIA PAOLO SARPI 5"
+        },
+        {
+          "id": "272293146",
+          "street": "VIA PAOLO SARPI",
+          "streetNumber": "1",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "displayStateOrProvince": "MILANO",
+          "postalCode": "20154",
+          "formattedAddress1": "VIA PAOLO SARPI 1"
+        },
+        {
+          "id": "272689924",
+          "city": "VIMERCATE",
+          "country": "IT",
+          "stateOrProvince": "MB",
+          "displayStateOrProvince": "MONZA E DELLA BRIANZA",
+          "postalCode": "20871",
+          "formattedAddress1": "VIA GRAMSCI 5"
+        },
+        {
+          "id": "272689989",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "displayStateOrProvince": "MILANO",
+          "postalCode": "20146",
+          "formattedAddress1": "LARGO GIOVANNI BATTISTA SCALABRINI 5"
+        },
+        {
+          "id": "272689945",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "displayStateOrProvince": "MILANO",
+          "postalCode": "20152",
+          "formattedAddress1": "VIA CASCINA BAROCCO 8"
+        },
+        {
+          "id": "272435470",
+          "street": "VIA TORINO",
+          "streetNumber": "2",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "displayStateOrProvince": "MILANO",
+          "postalCode": "20123",
+          "formattedAddress1": "VIA TORINO 2"
+        },
+        {
+          "id": "273372829",
+          "street": "VIA TORINO",
+          "streetNumber": "4",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "displayStateOrProvince": "MILANO",
+          "postalCode": "20123",
+          "formattedAddress1": "VIA TORINO 4"
+        }
+      ],
+      "contactPhoneNumber": "3807444287",
+      "contactEmailAddress": "andrea.severini1@vodafone.com"
+    }
+  }
+]

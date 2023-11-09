@@ -1,0 +1,40 @@
+{
+  "billinginformation": {
+    "title": "I tuoi dati personali",
+    "card": {
+      "description": "<p>Come vorresti ricevere la tua fattura?</p>\r\n",
+      "title": "Fatturazione",
+      "editBillingAddress": "Inserisci il nuovo indirizzo di fatturazione",
+      "choice": {
+        "option1": {
+          "description": "<p>Le fatture verranno spedite all'indirizzo <b>FIRSTADDRESS</b> al costo di 2€</p>\r\n",
+          "linkAddressLabel": "Cambia Indirizzo",
+          "title": "In formato cartaceo"
+        },
+        "option2": {
+          "description": "<p>Le fatture verranno spedite all'indirizzo gratuitamente <b>EMAIL</b></p>\r\n",
+          "title": "Alla mia e-mail",
+          "linkEcoLabel": "Scelta sostenibile"
+        }
+      }
+    },
+    "address": {
+      "buttonLabel": "SALVA INDIRIZZO",
+      "description": "<p>Inserisci il nuovo indirizzo di spedizione</p>\r\n",
+      "title": "Cambio indirizzo"
+    },
+    "selectInput": {
+      "civicNumber": "Numero civico",
+      "address": "Indirizzo",
+      "municipality": "Comune",
+      "province": "Provincia",
+      "cap": "CAP",
+      "note": "Note per la consegna"
+    },
+    "errorMessage": {
+      "error0": "Campo obbligatorio.",
+      "error1": "Campo errato.",
+      "error2": "Tutti i campi sono obbligatori."
+    }
+  }
+}

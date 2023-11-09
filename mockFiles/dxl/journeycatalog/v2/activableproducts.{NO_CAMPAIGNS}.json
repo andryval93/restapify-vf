@@ -1,0 +1,109 @@
+{
+  "mop": "CR",
+  "products": [
+    {
+      "id": {
+        "treatmentCode": "e462.6a6.ffffffff83ed2431.ffffffff8d2f2cd1",
+        "campaignId": "000001701"
+      },
+      "name": "Vodafone Club",
+      "type": "addon",
+      "productType": "NBA",
+      "description": "Vantaggi fissi tutti i mesi nelle principali categoria di spesa",
+      "longDescription": "Con Vodafone Club hai vantaggi fissi tutti i mesi nelle principali categorie di spesa per un risparmio minimo di 15€ al mese! Ecco alcuni esempi di sconto: 5€ di buono carburante su 30€ di rifornimento presso i distributori Q8, 10€ di sconto su 99€ di spesa minima presso i supermercati Carrefour, 5% di sconto per le prenotazioni su Booking.com, 30€ di sconto su 150€ di acquisti su Yoox.com. In più ogni mese hai 10 Giga aggiuntivi e il servizio 5G della Rete Vodafone sul tuo numero mobile. Iscriviti a soli 0,99€ il primo mese per godere di tutti i benefici dedicati ai clienti Vodafone Club. Rinnovi successivi a 3,99€ al mese.",
+      "characteristics": [],
+      "campaignDetail": {
+        "bolloDescription": "Primo mese a 0.99€",
+        "featureDescription": [],
+        "price": [
+          {
+            "priceRef": "campaign",
+            "value": "3.99",
+            "priceType": "recurring"
+          },
+          {
+            "priceRef": "campaign",
+            "value": "0.00",
+            "priceType": "oneshot"
+          },
+          {
+            "priceRef": "market",
+            "value": "3.99",
+            "priceType": "recurring"
+          },
+          {
+            "priceRef": "market",
+            "value": "0.00",
+            "priceType": "oneshot"
+          }
+        ],
+        "components": {
+          "retrieveSessionId": "7bcaf301-1d54-4102-bc3f-dfcece378009",
+          "billingOffer": [
+            {
+              "id": "5472183",
+              "price": []
+            },
+            {
+              "id": "7418483",
+              "price": []
+            }
+          ]
+        }
+      },
+      "activationDate": "2023-03-10"
+    },
+    {
+      "id": {
+        "treatmentCode": "dbd4.6a4.ffffffffe7fb19ea.61bc22fa",
+        "campaignId": "000001699"
+      },
+      "name": "Rete Sicura 2.0",
+      "type": "addon",
+      "productType": "NBA",
+      "description": "Per proteggere i tuoi dati personali e la navigazione internet del tuo dispositivo",
+      "longDescription": "Attiva Rete Sicura 2.0, servizio che protegge i tuoi dati personali (nomi utente, password, carte di credito, indirizzo mail) e la navigazione internet del tuo dispositivo. Con il Parental Control puoi filtrare i siti con contenuti inappropriati per i tuoi figli. Il servizio ID monitoring di Iris powered by Generali verifica la presenza dei tuoi dati su dark e deep Web, ti fornisce un riscontro immediato e ti aiuta a gestire eventuali danni. Inoltre, con il nuovo portale Coach digitale ricevi notizie, consigli e podcast per conoscere i rischi della rete e per imparare a difenderti meglio. Scopri il nuovo mondo della sicurezza per te e la tua famiglia a soli 0.99€ il primo mese, i rinnovi successivi a 1.99€ al mese.",
+      "characteristics": [],
+      "campaignDetail": {
+        "bolloDescription": "Primo mese a 0.99€",
+        "featureDescription": [],
+        "price": [
+          {
+            "priceRef": "campaign",
+            "value": "1.99",
+            "priceType": "recurring"
+          },
+          {
+            "priceRef": "campaign",
+            "value": "0.00",
+            "priceType": "oneshot"
+          },
+          {
+            "priceRef": "market",
+            "value": "1.99",
+            "priceType": "recurring"
+          },
+          {
+            "priceRef": "market",
+            "value": "0.00",
+            "priceType": "oneshot"
+          }
+        ],
+        "components": {
+          "retrieveSessionId": "7bcaf301-1d54-4102-bc3f-dfcece378009",
+          "billingOffer": [
+            {
+              "id": "259530095",
+              "price": []
+            },
+            {
+              "id": "7418583",
+              "price": []
+            }
+          ]
+        }
+      },
+      "activationDate": "2023-03-10"
+    }
+  ]
+}

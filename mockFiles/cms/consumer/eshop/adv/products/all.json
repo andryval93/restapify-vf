@@ -1,0 +1,1208 @@
+{
+  "67676767": {
+    "offerdetail": {
+      "offerImageMobile": "internet-unlimited.jpg",
+      "id": "67676767",
+      "slug": "prodotto-documentazione",
+      "offerImage": "internet-unlimited.jpg",
+      "offerDescription": "Descrizione Offerta",
+      "planIdMobile": "67676767_67676767",
+      "offerName": "Nome offerta",
+      "offerType": "2",
+      "enableAbTest": "false",
+      "offerCategory": {
+        "topTab": "Prodotto fisso",
+        "isLockIn": "false",
+        "id": "1",
+        "enableLockInFlow": "true",
+        "isLockInProduct": "true",
+        "tags": [{ "keyword": "Prodotto offerta" }, { "keyword": "Test Tags" }]
+      },
+      "offerActivate": { "type": "5", "title": "Clicca per azione" },
+      "offerPrice": {
+        "priceActivationRecurring": " $ONETIME  and $RECURRING",
+        "description": "INVECE DI 29,90€",
+        "subpriceRecurring": "<p>$RECURRING <b>SOTTOPREZZO</b></p>\r\n",
+        "detail": "Dettaglio <p style=\"font-size: 18px;line-height: 24px;\">Compreso il costo di attivazione di<br /><b>5€ al mese per 24 mesi</b></p>\r\n",
+        "subpriceActivationRecurring": "<p>$RECURRING <b>sottoprezzo $ONETIEM</b></p>\r\n",
+        "priceRecurring": "$RECURRING",
+        "subpriceActivation": "<p>$ONETIME <b>SOTTOPREZZO</b></p>\r\n",
+        "price": "14,90€",
+        "priceActivation": "$ONETIME ",
+        "recurrence": "mese",
+        "originalPrice": "99,00"
+      },
+      "offerVisibility": {
+        "showInPromo": "true",
+        "showInHub": "true",
+        "showInSolutions": "true",
+        "showInHP": "true",
+        "showInRelated": "true"
+      },
+      "hubProductDetail": {
+        "marketingLabel": "Marketing Tag",
+        "frontLabel": "Label per prezzo",
+        "offerCtaLabel": "Pulsante dettagli",
+        "shortCharacteristics": {
+          "title": "TItolo short Char",
+          "list": [
+            {
+              "action": "<p><b>Le tecnologie a tua disposizione</b></p>\r\n<p>Verifica la copertura per conoscere quale tecnologia  raggiunge la tua abitazione. Potresti avere accesso alla tecnologia in Fibra ottica FTTH che ti garantisce la massima velocità e stabilità di connessione fino a 2.5 Gigabit/s, alla tecnologia in Fibra ottica FTTC mista rame con  una velocità di download che arriva fino a 200 Megabit/s, alla tecnologia ADSL con rete in solo rame e una velocità massima di 100 Megabit/s, o ancora alla tecnologia FWA, che raggiunge fino a 30 Megabit/s (con rete a banda larga) e fino a 100 Megabit/s (con banda ultralarga), anche nei luoghi in cui la fibra ottica non arriva.</p>\r\n",
+              "title": "Titolo della lista"
+            },
+            { "title": "Modem con Wi-Fi Optimizer per un’esperienza di connessione superiore" },
+            { "title": "Solo online le chiamate sono illimitate verso mobili e fissi nazionali" },
+            {
+              "title": "Miglior prezzo garantito per i nuovi clienti. Questa è l’offerta Vodafone più bassa che puoi trovare. Te lo garantiamo."
+            }
+          ]
+        },
+        "action": {
+          "url": "https://assistenza.vodafone.it/cmb/entrypoint/?skill=cvm_convergenza&DESC=WEB___NOABTEST_ORG__Fixed_unlimited-cvm_2290",
+          "type": "4",
+          "small": "false",
+          "title": "Bottone aggiuntivo",
+          "isBlank": "false"
+        },
+        "buttonShowDetail": {
+          "type": "9",
+          "small": "false",
+          "title": "Bottone aggiuntivo 2",
+          "isBlank": "false"
+        },
+        "shortCharacteristicsLockIn": {
+          "title": "Titolo delle caratteristiche",
+          "list": [
+            {
+              "action": "<p>Ottima per divertirsi con gli amici</p>\r\n",
+              "icon": "Divertiti@2x.png",
+              "title": "Internet senza limiti"
+            },
+            {
+              "action": "<p>Massimizza la tua esperienza sulla rete vodafone</p>\r\n",
+              "icon": "Gioca@2x.png",
+              "title": "Aggiungi la fissa alla tua sim"
+            }
+          ]
+        }
+      },
+      "pdpProductDetail": {
+        "productDescription": "DESCRIOZIONE PDP <p><span style=\"color:#FF0000\";>La comodità è di casa: naviga </span><b>senza limiti</b> con <b>la migliore tecnologia, tutta la potenza della Fibra</b>  <button> <span data-action='product' data-desc=\"Verifica la copertura per conoscere quale tecnologia  raggiunge la tua abitazione. Potresti avere accesso alla tecnologia in Fibra ottica FTTH che ti garantisce la massima velocità e stabilità di connessione fino a 2.5 Gigabit/s. O in alternativa, alla tecnologia in Fibra ottica FTTC mista rame con  una velocità di download che arriva fino a 200 Megabit/s, o ancora alla tecnologia ADSL con rete in solo rame e una velocità massima di 100 Megabit/s..\">+</span></button> e il Modem con <b>Wi-Fi ottimizzato</b> incluso, per un segnale perfetto per <b style=\"color:#FBFF00\";>tutti i device collegati<b>. In più solo online le <b>chiamate illimitate.</b></p>",
+        "offerDetailLabel": "PDP footer label",
+        "offerCTALabel": "Pdp button ",
+        "backLabel": "Pdp Back Label",
+        "inflactionText": "<p>INFLATION PDP Offerta valida su tecnologia Fibra FTTH misto Fibra/Rame FTTC ADSL e FWA . Velocità 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH – Fiber To The Home. Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su <a href=\"https://www.vodafone.it/eshop/tariffe-e-prodotti/internet-a-casa/fibra-ottica.html?icmp=offerte-fibra#vfa-drop-section1\" target=\"_blank\">info tecnologia</a> e <a href=\"https://www.vodafone.it/portal/Privati/Tariffe-e-Prodotti/Fibra--ADSL-e-telefono/copertura-comuni?icmp=offerte-fibra\" target=\"_blank\">copertura comuni</a>.</p>\r\n",
+        "divider": { "image": "Allenati@2x.png" },
+        "action": {
+          "url": "https://assistenza.vodafone.it/cmb/entrypoint/?skill=cvm_convergenza&DESC=WEB___NOABTEST_ORG__Fixed_unlimited-cvm_2290",
+          "type": "4",
+          "small": "false",
+          "title": "Azione secondatia PDP",
+          "isBlank": "false"
+        }
+      },
+      "checkoutProductDetail": {
+        "urlRedirectR02": "https://assistenza.vodafone.it/cmb/entrypoint/?skill=cvm_convergenza&DESC=D_06_N_NOABTEST_ADV_Pagina-di-dettaglio_offerte-fibra-cvm__2290",
+        "buttonAcceptAndGoNext": "Accetta e prosegui",
+        "description": "<p>Abbiamo questo nuovo pordotto per te che sei già <b>cliente</b></p>\r\n",
+        "footer": "Ottima soluzione creata per te",
+        "urlClickToCallOtp": "https://assistenza.vodafone.it/cmb/entrypoint/?skill=cvm_convergenza&DESC=D_06_N_NOABTEST_ADV_Pagina-di-dettaglio_offerte-fibra-cvm__2290",
+        "title": "BUONE NOTIZIE",
+        "addressLabel": "La nostra offerta per: $userAddress",
+        "buttonGoNext": "Prosegui",
+        "urlClickToCallNoCoverage": "https://assistenza.vodafone.it/cmb/entrypoint/?skill=cvm_convergenza&DESC=D_06_N_NOABTEST_ADV_Pagina-di-dettaglio_offerte-fibra-cvm__2290",
+        "sendEmailHelp": {
+          "enable": "true",
+          "url": "https://assistenza.vodafone.it/cmb/entrypoint/?skill=cvm_convergenza&DESC=D_06_N_NOABTEST_ADV_Pagina-di-dettaglio_offerte-fibra-cvm__2290"
+        },
+        "callMeNowHelp": {
+          "enable": "true",
+          "url": "https://assistenza.vodafone.it/cmb/entrypoint/?skill=adsl_4&DESC=WEB___NOABTEST_ORG_coverage-tool_Fixed_ko_unlimited_2490"
+        },
+        "redirectFWA": {
+          "url": "https://assistenza.vodafone.it/cmb/entrypoint/?skill=adsl_4&DESC=D_06_N_NOABTEST_ADV_Pagina-di-dettaglio_offerte-fibra-cvm__2290",
+          "type": "4",
+          "title": "Ti richiamiamo gratis",
+          "card": {
+            "description": "Buone notizie! Il tuo indirizzo è raggiunto dalla tecnologia FWA. \r\n\r\nPer procedere e conoscere i dettagli dell’offerta, ti basta cliccare qui sotto: potrai parlare direttamente con un nostro operatore che ti guiderà passo per passo nell’attivazione.",
+            "title": "Il tuo indirizzo è raggiunto da tecnologia FWA"
+          }
+        },
+        "pdfContractSummary": {
+          "pdfUrl": "https://mail.vodafone.it/",
+          "pdfLabel": "QUI TROVI IL PDF"
+        },
+        "topImage": { "lottie": "lorenzoSuper.json" },
+        "genericErrorCallMeNow": { "url": "www.google.it", "label": "Generic error call me" },
+        "paymentErrorCallMeNow": { "url": "www.google.it", "label": "Payment error call me" }
+      },
+      "loaders": {
+        "shoppingCart": "lottie-internet-unlimited2.json",
+        "coverageTool": "lottie-internet-unlimited1.json",
+        "yourAddressCard": "deliveryAnimation.json"
+      },
+      "homepageDetail": {
+        "bgImage": "cattelanLivingroom.jpg",
+        "video": "InternetUnlimited_Horizontal.mp4",
+        "overlayImage": "casa.png",
+        "videoMobile": "InternetUnlimited_Vertical.mp4",
+        "action": {
+          "type": "5",
+          "small": "false",
+          "title": "Attiva lock in ",
+          "isBlank": "false"
+        }
+      },
+      "inflaction": {
+        "text": "Dettaglio con modale",
+        "popup": "<p>Testo in <b>html</b> per la modale</p>\r\n"
+      },
+      "seo": {
+        "canonicalUrl": "CANONICAL URL SEO",
+        "title": "title SEO",
+        "ogImageUrl": "img SEO",
+        "ogDescription": "description SEO"
+      },
+      "offerAlternative": {
+        "message": "<p>MESSAGGIO ALTERNATIVO </p>\r\n<p> </p>\r\n",
+        "offersId": [
+          { "id": "5070483", "showMessage": "false" },
+          { "id": "6829183", "showMessage": "false" },
+          { "id": "6854883", "showMessage": "false" },
+          { "id": "6383983", "showMessage": "false" }
+        ]
+      },
+      "offerLockIn": {
+        "isLockIn": "false",
+        "shoppingCart": {
+          "description": "<p>Per te che hai già una SIM Vodafone abbiamo riservato un’offerta più <b>conveniente</b>.</p>\r\n",
+          "title": "Buone notizie!",
+          "topImage": { "lottie": "lorenzoSuper.json" }
+        },
+        "card": {
+          "title": "Hai già la SIM?  Attiva la Fissa!",
+          "footerLabel": "Il prezzo è valido finchè la tua SIM resta in Vodafone.",
+          "list": [
+            {
+              "action": "<p>Unendo la tua offerta mobile alla linea di casa, avrai <b>in regalo Giga Illimitati in 5G sulle tue SIM</b></p>\r\n",
+              "icon": "5g.png"
+            }
+          ]
+        },
+        "price": {
+          "priceActivationRecurring": "prezzo con activation $ONETIME e recurring $RECURRING",
+          "subpriceRecurring": "<p><b>Sottoprezzo</b> con recurring $RECURRING</p>\r\n",
+          "subpriceActivationRecurring": "<p><b>Sottoprezzo</b> con activation $ONETIME e recurring $RECURRING</p>\r\n",
+          "priceRecurring": "prezzo con recurring $RECURRING",
+          "subpriceActivation": "<p><b>Sottoprezzo</b> con activation $ONETIME</p>\r\n",
+          "priceActivation": "prezzo con activation $ONETIME"
+        }
+      },
+      "offerCharacteristics": [
+        {
+          "description": "<p>Servizio Fiber To The Home (FTTH ). La Fibra arriva in casa tua alla massima velocità.</p>\r\n",
+          "title": "Caratteristiche del prodotto"
+        },
+        {
+          "description": "<p>Dati illimitati fino alla velocità di 2,5 Gigabit al secondo in download.</p>\r\n",
+          "title": "TRAFFICO DATI"
+        },
+        {
+          "description": "<p>Minuti illimitati verso fissi e mobili nazionali.</p>\r\n",
+          "title": "CHIAMATE DA TELEFONO FISSO"
+        },
+        {
+          "description": "<p>Vodafone Wi-Fi 6 Station, performante e stabile, fino a 120 dispositivi connessi..</p>\r\n",
+          "title": "MODEM - ROUTER"
+        },
+        {
+          "description": "<p>SIM dati con 1 Giga al mese per qualsiasi esigenza di connessione.</p>\r\n",
+          "title": "CONNESSIONE MOBILE"
+        },
+        {
+          "description": "<p>L’offerta prevede un costo di attivazione di 5€ al mese per 24 mesi compreso nell'offerta. In caso di recesso prima dei 24 mesi, continui a pagare le rate residue con la stessa cadenza e lo stesso metodo di pagamento precedentemente scelto, a meno che tu richieda di pagarle in un'unica soluzione.</p>\r\n",
+          "title": "DURATA MINIMA CONTRATTUALE"
+        },
+        {
+          "description": "<p>È previsto un costo di disattivazione della linea di 15€ in caso di passaggio ad altro operatore o di 23€ per cessazione della linea fissa.</p>\r\n",
+          "title": "DISMISSIONE LINEA"
+        }
+      ],
+      "offerPriceDescription": [
+        {
+          "description": "<p>È possibile navigare alla velocità massima complessiva di 2.5Gb/s con la tecnologia di copertura FFTH, fruibile sia tramite il modem Wi-Fi 6 di Vodafone incluso nell’offerta, sia con un modem libero, in linea con le specifiche di voda.it/modemlibero. Un singolo device può raggiungere tale velocità se è connesso al WiFi del modem Wi-Fi 6 Vodafone e se è abilitato allo standard Wi-Fi 6, secondo le specifiche tecniche del costruttore. Le condizioni di traffico dipendono dalla posizione geografica, dal grado di congestione delle infrastrutture di rete e dei canali Wi-Fi in uso, dalla qualità dell’infrastruttura di rete domestica.</p>\r\n",
+          "title": "Dettagli sulla velocità e sul modem"
+        }
+      ]
+    },
+    "tagging": { "parameter": "cbu_web_fibra" },
+    "coexistence": { "url": "https://assistenza.vodafone.it/cmb/entrypoint/call_me_now.php" },
+    "widgets": {
+      "sliders": [
+        {
+          "type": "SLIDER_IMAGE_TITLE_DESCRIPTION",
+          "title": "<p>La <b>Rete </b>che si <b>adatta a te.</b></p>\r\n",
+          "customAction": { "type": "1", "small": "false" },
+          "divider": { "image": "supporto.jpg" },
+          "elements": [
+            {
+              "description": "Con la Fibra di Vodafone porti a casa una connessione potente, sia in download che in upload. Così puoi navigare alla massima velocità e stabilità, senza limiti.",
+              "id": "1",
+              "image": "Rete_Card_1.png",
+              "title": "Quando vuoi vivere la tua casa.",
+              "action": { "type": "1", "small": "false" }
+            },
+            {
+              "description": "Con la Fibra Vodafone, ti diverti in 4K.\r\nHai sempre la performance migliore su tutti i tuoi device e le app, per guardare i film e le serie TV o per giocare in HD, senza interruzioni.",
+              "id": "2",
+              "image": "Rete_Card_2.png",
+              "title": "Quando ti dedichi a ciò che ami.",
+              "action": { "type": "1", "small": "false" }
+            },
+            {
+              "description": "Con la Fibra Vodafone puoi gestire le tue call di lavoro o i tuoi corsi online in modo ottimale, senza ritardi di connessione e senza mai perdere la concentrazione.",
+              "id": "3",
+              "image": "img1.png",
+              "title": "Quando ti serve concentrazione.",
+              "action": { "type": "1", "small": "false" }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_ICON_TITLE_DESCRIPTION",
+          "title": "<p><b>Tutto semplice e chiaro. </b></p>\r\n",
+          "customAction": { "type": "1", "small": "false" },
+          "elements": [
+            {
+              "description": "Internet alla massima velocità in FTTH fino a 2.5 Gigabit/s, chiamate illimitate e station: con la nostra Fibra hai tutto incluso nel prezzo.             ",
+              "id": "1",
+              "image": "ico_check.png",
+              "title": "Hai tutto incluso",
+              "action": { "type": "1", "small": "false" }
+            },
+            {
+              "description": "Puoi recedere in ogni momento il contratto. Se deciderai di recedere prima dei 24 mesi ti basterà versare le rate residue del costo di attivazione.",
+              "id": "2",
+              "image": "ico_insieme.png",
+              "title": "Insieme quanto vuoi",
+              "action": { "type": "1", "small": "false" }
+            },
+            {
+              "description": "Per l’attivazione ti serve solo la tua carta d'identità, il codice fiscale e quello di migrazione se mantieni il vecchio numero. ",
+              "id": "3",
+              "image": "ico_smile.png",
+              "title": "È davvero semplice",
+              "action": { "type": "1", "small": "false" }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_LARGE_SMALL",
+          "title": "<p>Essere Vodafone ha i suoi <b>vantaggi</b>.</p>\r\n",
+          "customAction": { "type": "1", "small": "false" },
+          "elements": [
+            {
+              "description": "Stabile e affidabile.\r\nSu di lei puoi sempre contare. ",
+              "id": "1",
+              "image": "4.jpeg",
+              "title": "Rete Vodafone",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/rete-vodafone.html?icmp=internet_unlimited",
+                "type": "1",
+                "small": "true"
+              }
+            },
+            {
+              "description": "Per celebrare ogni giorno la nostra storia insieme.",
+              "id": "2",
+              "image": "Happy_STILL1.png",
+              "title": "Vodafone Happy",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/vantaggi-vodafone/vodafone-happy.html?icmp=internet_unlimited",
+                "type": "1",
+                "small": "true"
+              }
+            },
+            {
+              "description": "Proteggere il pianeta è la nostra scelta, che ne comporta molte di più. ",
+              "id": "3",
+              "image": "green.jpeg",
+              "title": "Switch to Green",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/switch-to-green.html?icmp=internet_unlimited",
+                "type": "1",
+                "small": "true"
+              }
+            },
+            {
+              "description": "Per avere sempre a portata di mano tutto il tuo mondo.",
+              "id": "4",
+              "image": "My_vodafone_App.png",
+              "title": "My Vodafone app",
+              "maskIcon": "users.png",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/vantaggi-vodafone/app-myvodafone.html?icmp=internet_unlimited",
+                "type": "1",
+                "small": "true"
+              }
+            },
+            {
+              "description": "Per avere la migliore esperienza di navigazione in ogni angolo della casa.",
+              "id": "5",
+              "image": "Super_Wi-Fi_6_Extender.png",
+              "title": "Super Wi-Fi 6 Extender",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/fibra/super-wifi-extender.html?icmp=internet_unlimited",
+                "type": "1",
+                "small": "true"
+              }
+            }
+          ]
+        },
+        {
+          "type": "FAQ",
+          "title": "<p>Avere qualche <b>dubbio </b>è normale.</p>\r\n",
+          "customAction": { "type": "1", "small": "false" },
+          "elements": [
+            {
+              "description": "Rete Sicura Family è il servizio che ti protegge da virus e siti dannosi durante\r\n                        la navigazione sulla rete Vodafone (connessione dati o internet a casa) e ti offre la funzione\r\n                        di Parental Control per una navigazione sicura anche per i bambini. Le funzioni di sicurezza\r\n                        includono \"Protezione Antivirus\", \"Protezione Web\", \"Protezione della tua identità online\", con\r\n                        livelli di protezione personalizzabili dall'app My Vodafone. Il servizio offre anche la funzione\r\n                        di Parental Control: i genitori, dal proprio dispositivo, possono gestire le impostazioni di\r\n                        sicurezza per i propri figli, controllare il tipo di contenuto a cui possono accedere (funzione\r\n                        \"Filtri di contenuto\") e impostare limiti al tempo di connessione (funzioni \"Pausa\" e\r\n                        \"Buonanotte\").",
+              "id": "1",
+              "title": "Che cos'è Rete Sicura Family?",
+              "action": { "type": "1", "small": "false" }
+            },
+            {
+              "description": "Si, puoi acquistare l'offerta senza il modem incluso. Il costo dell'offerta non cambia.  Clicca su \"Ti richiamiamo noi\" per acquistare l'offerta con il supporto di un nostro operatore.",
+              "id": "2",
+              "title": "È possibile acquistare l'offerta senza modem incluso?",
+              "action": { "type": "1", "small": "false" }
+            },
+            {
+              "description": "Puoi navigare in Internet e utilizzare il Servizio voce con un modem diverso dalla Vodafone\r\n                        Station. Tutte le informazioni su come installare e configurare il modem sono disponibili su <a\r\n                            href=\"https://www.vodafone.it/privati/supporto/assistenza-dispositivi/altri-dispositivi/modem-alternativo.html\"\r\n                            target=\"_blank\">voda.it/modemlibero</a>.<br>Se hai deciso di acquistare un’offerta V-MAX con\r\n                        modem libero non saranno disponibili i servizi Vodafone Sempre Connessi, Rete Sicura Family e\r\n                        Wi-Fi garantito in quanto non compativili con modem diversi dalla Vodafone\r\n                        Station.<br> Se hai una linea FTTH e la tua Vodafone Station non ha una ONT integrata te ne\r\n                        verrà fornita e installata una esterna senza alcun costo aggiuntivo. A questa potrai collegare\r\n                        anche un modem diverso dalla Vodafone Station. Se la tua Vodafone Station ha una ONT integrata\r\n                        ma vuoi utilizzare un modem diverso per la tua linea FTTH potrai comunque richiedere\r\n                        gratuitamente l’installazione di una ONT esterna contattando il 190.",
+              "id": "3",
+              "title": "È possibile navigare con un modem diverso dalla Vodafone Station e richiedere una ONT esterna?",
+              "action": { "type": "1", "small": "false" }
+            }
+          ]
+        }
+      ]
+    },
+    "widgetscheckout": {
+      "sliders": [
+        {
+          "type": "SLIDER_IMAGE_TITLE_DESCRIPTION",
+          "title": "<p><b>La connessione perfetta</b> per le tue passioni.</p>\r\n",
+          "customAction": { "type": "1", "small": "false" },
+          "elements": [
+            {
+              "description": "Con la Fibra di Vodafone porti a casa una connessione potente, sia in download che in upload. Così puoi navigare alla massima velocità e stabilità, senza limiti.",
+              "id": "1",
+              "image": "Rete_Card_1.png",
+              "title": "Quando vuoi vivere la tua casa.",
+              "action": { "type": "1", "small": "false" }
+            },
+            {
+              "description": "Con la Fibra Vodafone, ti diverti in 4K.\r\nHai sempre la performance migliore su tutti i tuoi device e le app, per guardare i film e le serie TV o per giocare in HD, senza interruzioni.",
+              "id": "2",
+              "image": "Rete_Card_2.png",
+              "title": "Quando ti dedichi a ciò che ami.",
+              "action": { "type": "1", "small": "false" }
+            },
+            {
+              "description": "Con la Fibra Vodafone puoi gestire le tue call di lavoro o i tuoi corsi online in modo ottimale, senza ritardi di connessione e senza mai perdere la concentrazione.",
+              "id": "3",
+              "image": "Rete_Card_3.png",
+              "title": "Quando ti serve concentrazione.",
+              "action": { "type": "1", "small": "false" }
+            }
+          ]
+        },
+        {
+          "type": "SHOPPING_CART_TECHNOLOGIES",
+          "title": "<p><b>Tecnologia </b>del futuro.</p>\r\n",
+          "customAction": { "type": "1", "small": "false" }
+        }
+      ]
+    },
+    "disclaimer": {
+      "text": "<p>Offerta valida su tecnologia Fibra misto Fibra/Rame e ADSL. Velocità 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH – Fiber To The Home. Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su <a href=\"http://www.google.it/\" target=\"_blank\">info tecnologia</a> e <a href=\"http://www.google.it/\" target=\"_blank\">copertura comuni</a>.</p>\r\n"
+    },
+    "widgetslockin": {
+      "sliders": [
+        {
+          "type": "SHOPPING_CART_TECHNOLOGIES",
+          "title": "<p>Slider tecnologia <b>LOCK IN&nbsp;</b></p>\r\n",
+          "customAction": { "type": "1", "small": "false", "isBlank": "false" }
+        },
+        {
+          "type": "SLIDER_DEFAULT",
+          "title": "<p>Sunrise Lockin</p>\r\n",
+          "customAction": { "type": "1", "small": "false", "isBlank": "false" },
+          "elements": [
+            {
+              "description": "test ",
+              "image": "1.jpeg",
+              "title": "Ciao ",
+              "action": { "type": "1", "small": "false", "isBlank": "false" }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "6391483": {
+    "offerdetail": {
+      "offerImageMobile": "internet-unlimited.jpg",
+      "id": "6391483",
+      "slug": "internet-unlimited",
+      "offerImage": "internet-unlimited.jpg",
+      "offerDescription": "Naviga a casa, senza limiti.",
+      "offerName": "Internet Unlimited",
+      "offerType": "2",
+      "offerCategory": {
+        "isLockIn": "false",
+        "id": "1",
+        "tags": [
+          {
+            "keyword": "Miglior prezzo garantito"
+          }
+        ]
+      },
+      "offerActivate": {
+        "type": "10",
+        "title": "ATTIVA ORA",
+        "urlForRedirect": "https://consumer-test.vodafone.it/adv/internet-unlimited"
+      },
+      "offerPrice": {
+        "detail": "<p style=\"font-size: 18px;line-height: 24px;\">Compreso il costo di attivazione di<br /><b>5€ al mese per 24 mesi</b></p>\r\n",
+        "price": "24,90€",
+        "recurrence": "mese"
+      },
+      "offerVisibility": {
+        "showInPromo": "true",
+        "showInHub": "true",
+        "showInSolutions": "true",
+        "showInHP": "true",
+        "showInRelated": "true"
+      },
+      "hubProductDetail": {
+        "marketingLabel": "Solo online",
+        "frontLabel": "A partire da",
+        "offerCtaLabel": "SCOPRI DETTAGLI",
+        "shortCharacteristics": {
+          "list": [
+            {
+              "action": "<p><b>Le tecnologie a tua disposizione</b></p>\r\n<p>Verifica la copertura per conoscere quale tecnologia  raggiunge la tua abitazione. Potresti avere accesso alla tecnologia in Fibra ottica FTTH che ti garantisce la massima velocità e stabilità di connessione fino a 2.5 Gigabit/s, alla tecnologia in Fibra ottica FTTC mista rame con  una velocità di download che arriva fino a 200 Megabit/s, alla tecnologia ADSL con rete in solo rame e una velocità massima di 100 Megabit/s, o ancora alla tecnologia FWA, che raggiunge fino a 30 Megabit/s (con rete a banda larga) e fino a 100 Megabit/s (con banda ultralarga), anche nei luoghi in cui la fibra ottica non arriva.</p>\r\n",
+              "title": "Internet senza limiti, con la migliore tecnologia Vodafone"
+            },
+            {
+              "title": "Modem con Wi-Fi Optimizer per un’esperienza di connessione superiore"
+            },
+            {
+              "title": "Solo online le chiamate sono illimitate verso mobili e fissi nazionali"
+            },
+            {
+              "title": "Miglior prezzo garantito per i nuovi clienti. Questa è l’offerta Vodafone più bassa che puoi trovare. Te lo garantiamo."
+            }
+          ]
+        },
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        },
+        "buttonShowDetail": {
+          "type": "9",
+          "small": "false",
+          "isBlank": "false"
+        }
+      },
+      "pdpProductDetail": {
+        "productDescription": "<p>La comodità è di casa: naviga <b>senza limiti</b> con <b>la migliore tecnologia, tutta la potenza della Fibra</b>  <button> <span data-action='product' data-desc=’Verifica la copertura per conoscere quale tecnologia  raggiunge la tua abitazione. Potresti avere accesso alla tecnologia in Fibra ottica FTTH che ti garantisce la massima velocità e stabilità di connessione fino a 2.5 Gigabit/s. O in alternativa, alla tecnologia in Fibra ottica FTTC mista rame con  una velocità di download che arriva fino a 200 Megabit/s, o ancora alla tecnologia ADSL con rete in solo rame e una velocità massima di 100 Megabit/s..'>+</span></button> e il Modem con <b>Wi-Fi ottimizzato</b> incluso, per un segnale perfetto per <b>tutti i device collegati<b>. In più solo online le <b>chiamate illimitate.</b></p>",
+        "offerDetailLabel": "VEDI DETTAGLI",
+        "offerCTALabel": "DETTAGLI DELL'OFFERTA",
+        "backLabel": "Tutte le offerte di Rete Fissa",
+        "inflactionText": "<p>Offerta valida su tecnologia Fibra FTTH misto Fibra/Rame FTTC ADSL e FWA . Velocità 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH – Fiber To The Home. Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su <a href=\"https://www.vodafone.it/eshop/tariffe-e-prodotti/internet-a-casa/fibra-ottica.html?icmp=offerte-fibra#vfa-drop-section1\" target=\"_blank\">info tecnologia</a> e <a href=\"https://www.vodafone.it/portal/Privati/Tariffe-e-Prodotti/Fibra--ADSL-e-telefono/copertura-comuni?icmp=offerte-fibra\" target=\"_blank\">copertura comuni</a>.</p>\r\n",
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        }
+      },
+      "checkoutProductDetail": {
+        "buttonAcceptAndGoNext": "Accetta e prosegui",
+        "addressLabel": "La nostra offerta per: $userAddress",
+        "buttonGoNext": "Prosegui",
+        "sendEmailHelp": {
+          "enable": "true",
+          "url": "https://assistenza.vodafone.it/cmb/entrypoint/?skill=cvm_convergenza&DESC=D_06_N_NOABTEST_ADV_Pagina-di-dettaglio_offerte-fibra-cvm__2290"
+        },
+        "callMeNowHelp": {
+          "enable": "false",
+          "url": "https://assistenza.vodafone.it/cmb/entrypoint/?skill=cvm_convergenza&DESC=D_06_N_NOABTEST_ADV_Pagina-di-dettaglio_offerte-fibra-cvm__2290"
+        },
+        "redirectFWA": {
+          "url": "https://assistenza.vodafone.it/cmb/entrypoint/?skill=adsl_4&DESC=D_06_N_NOABTEST_ADV_Pagina-di-dettaglio_offerte-fibra-cvm__2290",
+          "type": "4",
+          "title": "Ti richiamiamo gratis",
+          "card": {
+            "description": "Buone notizie! Il tuo indirizzo è raggiunto dalla tecnologia FWA. \r\n\r\nPer procedere e conoscere i dettagli dell’offerta, ti basta cliccare qui sotto: potrai parlare direttamente con un nostro operatore che ti guiderà passo per passo nell’attivazione.",
+            "title": "Il tuo indirizzo è raggiunto da tecnologia FWA"
+          }
+        },
+        "pdfContractSummary": {
+          "pdfUrl": "https://myvfapp-aem.vodafone.it/content/dam/myvf/mva10/cce-pdf/6383983.pdf",
+          "pdfLabel": "Qui il pdf"
+        }
+      },
+      "loaders": {
+        "shoppingCart": "detailAnimation.json",
+        "coverageTool": "coverageToolAnimation.json",
+        "yourAddressCard": "deliveryAnimation.json"
+      },
+      "homepageDetail": {
+        "bgImage": "cattelanLivingroom.jpg",
+        "video": "InternetUnlimited_Horizontal.mp4",
+        "overlayImage": "CasaMaskIcon.png",
+        "videoMobile": "InternetUnlimited_Vertical.mp4",
+        "action": {
+          "type": "5",
+          "small": "false",
+          "title": "SOLO ONLINE 24,90€ al mese",
+          "isBlank": "false"
+        }
+      },
+      "offerCharacteristics": [
+        {
+          "description": "<p>Servizio Fiber To The Home (FTTH ). La Fibra arriva in casa tua alla massima velocità.</p>\r\n",
+          "title": "CONNESSIONE LINEA FISSA"
+        },
+        {
+          "description": "<p>Dati illimitati fino alla velocità di 2,5 Gigabit al secondo in download.</p>\r\n",
+          "title": "TRAFFICO DATI"
+        },
+        {
+          "description": "<p>Minuti illimitati verso fissi e mobili nazionali.</p>\r\n",
+          "title": "CHIAMATE DA TELEFONO FISSO"
+        },
+        {
+          "description": "<p>Vodafone Wi-Fi 6 Station, performante e stabile, fino a 120 dispositivi connessi..</p>\r\n",
+          "title": "MODEM - ROUTER"
+        },
+        {
+          "description": "<p>SIM dati con 1 Giga al mese per qualsiasi esigenza di connessione.</p>\r\n",
+          "title": "CONNESSIONE MOBILE"
+        },
+        {
+          "description": "<p>L’offerta prevede un costo di attivazione di 5€ al mese per 24 mesi compreso nell'offerta. In caso di recesso prima dei 24 mesi, continui a pagare le rate residue con la stessa cadenza e lo stesso metodo di pagamento precedentemente scelto, a meno che tu richieda di pagarle in un'unica soluzione.</p>\r\n",
+          "title": "DURATA MINIMA CONTRATTUALE"
+        },
+        {
+          "description": "<p>È previsto un costo di disattivazione della linea di 15€ in caso di passaggio ad altro operatore o di 23€ per cessazione della linea fissa.</p>\r\n",
+          "title": "DISMISSIONE LINEA"
+        }
+      ],
+      "offerPriceDescription": [
+        {
+          "description": "<p>È possibile navigare alla velocità massima complessiva di 2.5Gb/s con la tecnologia di copertura FFTH, fruibile sia tramite il modem Wi-Fi 6 di Vodafone incluso nell’offerta, sia con un modem libero, in linea con le specifiche di voda.it/modemlibero. Un singolo device può raggiungere tale velocità se è connesso al WiFi del modem Wi-Fi 6 Vodafone e se è abilitato allo standard Wi-Fi 6, secondo le specifiche tecniche del costruttore. Le condizioni di traffico dipendono dalla posizione geografica, dal grado di congestione delle infrastrutture di rete e dei canali Wi-Fi in uso, dalla qualità dell’infrastruttura di rete domestica.</p>\r\n",
+          "title": "Dettagli sulla velocità e sul modem"
+        }
+      ]
+    },
+    "tagging": {
+      "parameter": "cbu_web_fibra"
+    },
+    "coexistence": {
+      "url": "https://assistenza.vodafone.it/cmb/entrypoint/call_me_now.php"
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "type": "SLIDER_IMAGE_TITLE_DESCRIPTION",
+          "title": "<p>La <b>Rete </b>che si <b>adatta a te.</b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false"
+          },
+          "divider": {
+            "image": "supporto.jpg"
+          },
+          "elements": [
+            {
+              "description": "Con la Fibra di Vodafone porti a casa una connessione potente, sia in download che in upload. Così puoi navigare alla massima velocità e stabilità, senza limiti.",
+              "id": "1",
+              "image": "Rete_Card_1.png",
+              "title": "Quando vuoi vivere la tua casa.",
+              "action": {
+                "type": "1",
+                "small": "false"
+              }
+            },
+            {
+              "description": "Con la Fibra Vodafone, ti diverti in 4K.\r\nHai sempre la performance migliore su tutti i tuoi device e le app, per guardare i film e le serie TV o per giocare in HD, senza interruzioni.",
+              "id": "2",
+              "image": "Rete_Card_2.png",
+              "title": "Quando ti dedichi a ciò che ami.",
+              "action": {
+                "type": "1",
+                "small": "false"
+              }
+            },
+            {
+              "description": "Con la Fibra Vodafone puoi gestire le tue call di lavoro o i tuoi corsi online in modo ottimale, senza ritardi di connessione e senza mai perdere la concentrazione.",
+              "id": "3",
+              "image": "img1.png",
+              "title": "Quando ti serve concentrazione.",
+              "action": {
+                "type": "1",
+                "small": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_ICON_TITLE_DESCRIPTION",
+          "title": "<p><b>Tutto semplice e chiaro. </b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false"
+          },
+          "elements": [
+            {
+              "description": "Internet alla massima velocità in FTTH fino a 2.5 Gigabit/s, chiamate illimitate e station: con la nostra Fibra hai tutto incluso nel prezzo.             ",
+              "id": "1",
+              "image": "ico_check.png",
+              "title": "Hai tutto incluso",
+              "action": {
+                "type": "1",
+                "small": "false"
+              }
+            },
+            {
+              "description": "Puoi recedere in ogni momento il contratto. Se deciderai di recedere prima dei 24 mesi ti basterà versare le rate residue del costo di attivazione.",
+              "id": "2",
+              "image": "ico_insieme.png",
+              "title": "Insieme quanto vuoi",
+              "action": {
+                "type": "1",
+                "small": "false"
+              }
+            },
+            {
+              "description": "Per l’attivazione ti serve solo la tua carta d'identità, il codice fiscale e quello di migrazione se mantieni il vecchio numero. ",
+              "id": "3",
+              "image": "ico_smile.png",
+              "title": "È davvero semplice",
+              "action": {
+                "type": "1",
+                "small": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_LARGE_SMALL",
+          "title": "<p>Essere Vodafone ha i suoi <b>vantaggi</b>.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false"
+          },
+          "elements": [
+            {
+              "description": "Stabile e affidabile.\r\nSu di lei puoi sempre contare. ",
+              "id": "1",
+              "image": "4.jpeg",
+              "title": "Rete Vodafone",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/rete-vodafone.html?icmp=internet_unlimited",
+                "type": "1",
+                "small": "true"
+              }
+            },
+            {
+              "description": "Per celebrare ogni giorno la nostra storia insieme.",
+              "id": "2",
+              "image": "Happy_STILL1.png",
+              "title": "Vodafone Happy",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/vantaggi-vodafone/vodafone-happy.html?icmp=internet_unlimited",
+                "type": "1",
+                "small": "true"
+              }
+            },
+            {
+              "description": "Proteggere il pianeta è la nostra scelta, che ne comporta molte di più. ",
+              "id": "3",
+              "image": "green.jpeg",
+              "title": "Switch to Green",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/switch-to-green.html?icmp=internet_unlimited",
+                "type": "1",
+                "small": "true"
+              }
+            },
+            {
+              "description": "Per avere sempre a portata di mano tutto il tuo mondo.",
+              "id": "4",
+              "image": "My_vodafone_App.png",
+              "title": "My Vodafone app",
+              "maskIcon": "users.png",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/vantaggi-vodafone/app-myvodafone.html?icmp=internet_unlimited",
+                "type": "1",
+                "small": "true"
+              }
+            },
+            {
+              "description": "Per avere la migliore esperienza di navigazione in ogni angolo della casa.",
+              "id": "5",
+              "image": "Super_Wi-Fi_6_Extender.png",
+              "title": "Super Wi-Fi 6 Extender",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/fibra/super-wifi-extender.html?icmp=internet_unlimited",
+                "type": "1",
+                "small": "true"
+              }
+            }
+          ]
+        },
+        {
+          "type": "FAQ",
+          "title": "<p>Avere qualche <b>dubbio </b>è normale.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false"
+          },
+          "elements": [
+            {
+              "description": "Rete Sicura Family è il servizio che ti protegge da virus e siti dannosi durante\r\n                        la navigazione sulla rete Vodafone (connessione dati o internet a casa) e ti offre la funzione\r\n                        di Parental Control per una navigazione sicura anche per i bambini. Le funzioni di sicurezza\r\n                        includono \"Protezione Antivirus\", \"Protezione Web\", \"Protezione della tua identità online\", con\r\n                        livelli di protezione personalizzabili dall'app My Vodafone. Il servizio offre anche la funzione\r\n                        di Parental Control: i genitori, dal proprio dispositivo, possono gestire le impostazioni di\r\n                        sicurezza per i propri figli, controllare il tipo di contenuto a cui possono accedere (funzione\r\n                        \"Filtri di contenuto\") e impostare limiti al tempo di connessione (funzioni \"Pausa\" e\r\n                        \"Buonanotte\").",
+              "id": "1",
+              "title": "Che cos'è Rete Sicura Family?",
+              "action": {
+                "type": "1",
+                "small": "false"
+              }
+            },
+            {
+              "description": "Si, puoi acquistare l'offerta senza il modem incluso. Il costo dell'offerta non cambia.  Clicca su \"Ti richiamiamo noi\" per acquistare l'offerta con il supporto di un nostro operatore.",
+              "id": "2",
+              "title": "È possibile acquistare l'offerta senza modem incluso?",
+              "action": {
+                "type": "1",
+                "small": "false"
+              }
+            },
+            {
+              "description": "Puoi navigare in Internet e utilizzare il Servizio voce con un modem diverso dalla Vodafone\r\n                        Station. Tutte le informazioni su come installare e configurare il modem sono disponibili su <a\r\n                            href=\"https://www.vodafone.it/privati/supporto/assistenza-dispositivi/altri-dispositivi/modem-alternativo.html\"\r\n                            target=\"_blank\">voda.it/modemlibero</a>.<br>Se hai deciso di acquistare un’offerta V-MAX con\r\n                        modem libero non saranno disponibili i servizi Vodafone Sempre Connessi, Rete Sicura Family e\r\n                        Wi-Fi garantito in quanto non compativili con modem diversi dalla Vodafone\r\n                        Station.<br> Se hai una linea FTTH e la tua Vodafone Station non ha una ONT integrata te ne\r\n                        verrà fornita e installata una esterna senza alcun costo aggiuntivo. A questa potrai collegare\r\n                        anche un modem diverso dalla Vodafone Station. Se la tua Vodafone Station ha una ONT integrata\r\n                        ma vuoi utilizzare un modem diverso per la tua linea FTTH potrai comunque richiedere\r\n                        gratuitamente l’installazione di una ONT esterna contattando il 190.",
+              "id": "3",
+              "title": "È possibile navigare con un modem diverso dalla Vodafone Station e richiedere una ONT esterna?",
+              "action": {
+                "type": "1",
+                "small": "false"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "widgetscheckout": {
+      "sliders": [
+        {
+          "type": "SLIDER_IMAGE_TITLE_DESCRIPTION",
+          "title": "<p><b>La connessione perfetta</b> per le tue passioni.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false"
+          },
+          "elements": [
+            {
+              "description": "Con la Fibra di Vodafone porti a casa una connessione potente, sia in download che in upload. Così puoi navigare alla massima velocità e stabilità, senza limiti.",
+              "id": "1",
+              "image": "Rete_Card_1.png",
+              "title": "Quando vuoi vivere la tua casa.",
+              "action": {
+                "type": "1",
+                "small": "false"
+              }
+            },
+            {
+              "description": "Con la Fibra Vodafone, ti diverti in 4K.\r\nHai sempre la performance migliore su tutti i tuoi device e le app, per guardare i film e le serie TV o per giocare in HD, senza interruzioni.",
+              "id": "2",
+              "image": "Rete_Card_2.png",
+              "title": "Quando ti dedichi a ciò che ami.",
+              "action": {
+                "type": "1",
+                "small": "false"
+              }
+            },
+            {
+              "description": "Con la Fibra Vodafone puoi gestire le tue call di lavoro o i tuoi corsi online in modo ottimale, senza ritardi di connessione e senza mai perdere la concentrazione.",
+              "id": "3",
+              "image": "Rete_Card_3.png",
+              "title": "Quando ti serve concentrazione.",
+              "action": {
+                "type": "1",
+                "small": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SHOPPING_CART_TECHNOLOGIES",
+          "title": "<p><b>Tecnologia </b>del futuro.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false"
+          }
+        }
+      ]
+    },
+    "disclaimer": {
+      "text": "<p>Offerta valida su tecnologia Fibra misto Fibra/Rame e ADSL. Velocità 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH – Fiber To The Home. Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su <a href=\"http://www.google.it/\" target=\"_blank\">info tecnologia</a> e <a href=\"http://www.google.it/\" target=\"_blank\">copertura comuni</a>.</p>\r\n"
+    }
+  },
+  "6391487": {
+    "offerdetail": {
+      "offerImageMobile": "lock-in-unlimited.png",
+      "id": "6391487",
+      "slug": "lock-in",
+      "offerImage": "lock-in-unlimited.png",
+      "offerDescription": "Hai già la SIM? Attiva la Fissa! ",
+      "offerName": "Internet unlimited già clienti",
+      "offerType": "2",
+      "offerCategory": {
+        "isLockIn": "false",
+        "id": "1",
+        "tags": [
+          {
+            "keyword": "Miglior prezzo garantito per i già clienti"
+          }
+        ]
+      },
+      "offerActivate": {
+        "type": "10",
+        "title": "ATTIVA QUI",
+        "urlForRedirect": "https://consumer-test.vodafone.it/adv/lock-in"
+      },
+      "offerPrice": {
+        "detail": "<p style=\"font-size: 18px;line-height: 24px;\">Compreso il costo di attivazione di<br><b>5€ al mese per 24 mesi</b></p>\r\n",
+        "price": "22,90€",
+        "recurrence": "mese"
+      },
+      "offerVisibility": {
+        "showInPromo": "false",
+        "showInHub": "true",
+        "showInSolutions": "true",
+        "showInHP": "false",
+        "showInRelated": "false"
+      },
+      "hubProductDetail": {
+        "frontLabel": "Scopri il prezzo dedicato a te a partire da",
+        "offerCtaLabel": "SCOPRI DETTAGLI",
+        "shortCharacteristics": {
+          "list": [
+            {
+              "action": "<p><b>Le tecnologie a tua disposizione</b></p>\r\n<p>Verifica la copertura per conoscere quale tecnologia  raggiunge la tua abitazione. Potresti avere accesso alla tecnologia in Fibra ottica FTTH che ti garantisce la massima velocità e stabilità di connessione fino a 2.5 Gigabit/s, alla tecnologia in Fibra ottica FTTC mista rame con  una velocità di download che arriva fino a 200 Megabit/s, alla tecnologia ADSL con rete in solo rame e una velocità massima di 100 Megabit/s, o ancora alla tecnologia FWA, che raggiunge fino a 30 Megabit/s (con rete a banda larga) e fino a 100 Megabit/s (con banda ultralarga), anche nei luoghi in cui la fibra ottica non arriva.</p>\r\n",
+              "title": "Internet senza limiti, con la migliore tecnologia Vodafone"
+            },
+            {
+              "title": "Modem con Wi-Fi Optimizer per un’esperienza di connessione superiore"
+            },
+            {
+              "title": "Miglior prezzo garantito per i già clienti Vodafone.  Ti garantiamo il miglior prezzo dedicato e personalizzato per te."
+            }
+          ]
+        },
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        },
+        "buttonShowDetail": {
+          "type": "9",
+          "small": "false",
+          "isBlank": "false"
+        }
+      },
+      "pdpProductDetail": {
+        "productDescription": "<b>Se sei già cliente mobile</b>, porta anche a casa una connessione <b>senza limiti</b> con <b>la migliore tecnologia, la potenza della Fibra</b> <button> <span data-action='product' data-desc=’Verifica la copertura per conoscere quale tecnologia  raggiunge la tua abitazione. Potresti avere accesso alla tecnologia in Fibra ottica FTTH che ti garantisce la massima velocità e stabilità di connessione fino a 2.5 Gigabit/s. O in alternativa, alla tecnologia in Fibra ottica FTTC mista rame con  una velocità di download che arriva fino a 200 Megabit/s, o ancora alla tecnologia ADSL con rete in solo rame e una velocità massima di 100 Megabit/s..'>+</span></button> e il Modem con <b>Wi-Fi ottimizzato</b> incluso, per un segnale sempre perfetto. In più, solo online, hai le <b>chiamate illimitate!</b>",
+        "offerDetailLabel": "VEDI DETTAGLI",
+        "offerCTALabel": "DETTAGLI DELL'OFFERTA",
+        "backLabel": "Tutte le offerte di Rete Fissa",
+        "inflactionText": "<p>Offerta valida su tecnologia Fibra FTTH misto Fibra/Rame FTTC ADSL e FWA . Velocità 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH – Fiber To The Home. Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su <a href=\"https://www.vodafone.it/eshop/tariffe-e-prodotti/internet-a-casa/fibra-ottica.html?icmp=offerte-fibra#vfa-drop-section1\">info tecnologia</a> e <a href=\"https://www.vodafone.it/portal/Privati/Tariffe-e-Prodotti/Fibra--ADSL-e-telefono/copertura-comuni?icmp=offerte-fibra\">copertura comuni</a>.</p>\r\n",
+        "divider": {
+          "image": "wow_transparent.gif"
+        },
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        }
+      },
+      "checkoutProductDetail": {
+        "buttonAcceptAndGoNext": "Accetta e prosegui",
+        "addressLabel": "La nostra offerta per: $userAddress",
+        "buttonGoNext": "Prosegui",
+        "sendEmailHelp": {
+          "enable": "false",
+          "url": "https://assistenza.vodafone.it/cmb/entrypoint/?skill=cvm_convergenza&DESC=D_06_N_NOABTEST_ADV_Pagina-di-dettaglio_offerte-fibra-cvm__2290"
+        },
+        "callMeNowHelp": {
+          "enable": "true",
+          "url": "https://assistenza.vodafone.it/cmb/entrypoint/?skill=cvm_convergenza&DESC=D_06_N_NOABTEST_ADV_Pagina-di-dettaglio_offerte-fibra-cvm__2290"
+        },
+        "redirectFWA": {
+          "url": "https://assistenza.vodafone.it/cmb/entrypoint/?skill=cvm_convergenza&DESC=D_06_N_NOABTEST_ADV_Pagina-di-dettaglio_offerte-fibra-cvm__2290",
+          "type": "1",
+          "title": "Attiva offerta FWA",
+          "card": {
+            "title": "Copertura FWA"
+          }
+        }
+      },
+      "loaders": {
+        "shoppingCart": "detailAnimation.json",
+        "coverageTool": "coverageToolAnimation.json",
+        "yourAddressCard": "deliveryAnimation.json"
+      },
+      "homepageDetail": {
+        "bgImage": "Unlimited_CVM.png",
+        "overlayImage": "CasaMaskIcon.png",
+        "action": {
+          "url": "https://assistenza.vodafone.it/cmb/entrypoint/?skill=cvm_convergenza&DESC=WEB___NOABTEST_ORG_Catologo_offerte-fibra_unlimited-cvm_2290",
+          "type": "4",
+          "small": "false",
+          "title": "SCOPRILA A 22,90€ AL MESE",
+          "isBlank": "false"
+        }
+      },
+      "offerCharacteristics": [
+        {
+          "description": "<p>L’offerta non prevede costi di attivazione, disdici quando vuoi!</p>\r\n",
+          "title": "Senza vincoli e costi di attivazione"
+        },
+        {
+          "description": "<p>Naviga fino ad 2.5 Gigabit/s in FTTH sulla GigaNetwork Fibra.</p>\r\n",
+          "title": "Internet alla massima velocità senza limiti "
+        },
+        {
+          "description": "<p>Il software intelligente che ottimizza la connessione di tutti i tuoi dispositivi.</p>\r\n",
+          "title": "Modem con Wi-fi optimazer"
+        },
+        {
+          "description": "<p>Minuti illimitati verso fissi e mobili nazionali.</p>\r\n",
+          "title": "Chiamate da telefono"
+        }
+      ],
+      "offerPriceDescription": [
+        {
+          "description": "<p><b>Costo di rinnovo</b></p>\r\n<p>27,90€ al mese. Il primo rinnovo coincide con il giorno dell'attivazione. Ogni rinnovo ha durata mensile.</p>\r\n<p><b>Costo di attivazione</b></p>\r\n<p>Non sono previsti costi di attivazione.</p>\r\n",
+          "title": "Dettagli sui costi dell'offerta"
+        },
+        {
+          "description": "<p><b>Costi di disattivazione</b></p>\r\n<p>È previsto un costo di disattivazione della linea di 28 euro in caso di passaggio ad altro operatore o cessazione della linea fissa.</p>\r\n<p><b>Diritto di recesso</b></p>\r\n<p>Vodafone ti informa che, in caso di conclusione del contratto a distanza o fuori dai locali commerciali, hai diritto di recedere dal contratto, senza indicarne le ragioni e senza penalità, dal momento della conclusione del contratto e fino a 14 giorni dalla data di consegna dei beni presso il tuo domicilio.</p>\r\n<p><b>Tempi di attivazione della linea e consegna della Vodafone Station</b></p>\r\n<p>Entro 10 giorni dalla conclusione del contratto, ti consegneremo a casa la Vodafone Station e la tua SIM Internet inclusa. Vodafone ti assicura l'attivazione del servizio entro un massimo di 60 giorni, trascorsi i quali ti rimborserà il disservizio.</p>\r\n",
+          "title": "Condizioni contrattuali"
+        },
+        {
+          "description": "<p><b>Regole per l'uso consapevole del servizio</b></p>\r\n<p>Vodafone salvaguarda la qualità del servizio dati a vantaggio dei clienti per consentire a tutti di connettersi a internet con la migliore esperienza possibile. La qualità del servizio potrebbe essere ridotta dall’utilizzo anomalo effettuato da un ristretto numero di clienti che utilizzano applicazioni che permettono lo scambio di file di grandi dimensioni (come peer to peer e file sharing). Per questo, al fine di garantire un alto livello di servizio alla grande maggioranza dei clienti, Vodafone si riserva la facoltà di applicare limitazioni temporanee della velocità di connessione.</p>\r\n<p><b>Regole per la fruizione del servizio</b></p>\r\n<p>Ogni offerta deve essere fruita presso l’indirizzo comunicato alla sottoscrizione del contratto. Tutte le chiamate sono tariffate a scatti di 30 secondi, addebitati anticipatamente. In caso di interruzione di energia elettrica non sarà possibile effettuare chiamate, nemmeno di emergenza. Le informazioni sulla localizzazione delle chiamate verranno rese disponibili in accordo con gli enti preposti. Il servizio di blocco di chiamata viene garantito in modalità permanente tramite PIN. Il servizio fax è abilitato con l’offerta Internet Unlimited (solo su rete fissa Vodafone) per chi è in possesso della Vodafone Station Revolution. Il tempo massimo di attivazione dei servizi è di 60 giorni. Per maggiori informazioni consulta la Carta del Cliente su vodafone.it Puoi navigare in internet anche con un modem diverso dalla Vodafone Station.<br />\r\nPer ulteriori dettagli su installazione e configurazione vai su voda.it/modemlibero</p>\r\n<p><b>Assistenza e reclami</b></p>\r\n<p>È possibile presentare reclami formali scrivendo a casella postale 190 - 10015 Ivrea (TO). Per ulteriori dettagli consulta la Carta del Cliente nella sezione Per il consumatore su vodafone.it</p>\r\n",
+          "title": "Ulteriori informazioni"
+        }
+      ]
+    },
+    "tagging": {
+      "parameter": "cbu_web_fibra"
+    },
+    "coexistence": {
+      "url": "https://www.vodafone.it/eshop/tariffe-e-prodotti/fibra-adsl-e-telefono/internet-a-casa/fibra.html"
+    },
+    "disclaimer": {
+      "text": "<p>Offerta valida su tecnologia Fibra misto Fibra/Rame e ADSL. Velocità 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH – Fiber To The Home. Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su <a href=\"http://www.google.it/\" target=\"_blank\">info tecnologia</a> e <a href=\"http://www.google.it/\" target=\"_blank\">copertura comuni</a>.</p>\r\n"
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "type": "SLIDER_IMAGE_TITLE_DESCRIPTION",
+          "title": "<p>La <b>Rete </b>che si <b>adatta a te</b>. </p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false"
+          },
+          "elements": [
+            {
+              "description": "Desiderare il massimo della potenza, velocità e stabilità di Vodafone anche per la tua casa è assolutamente normale. Solo per i già clienti, la nostra offerta per la Fissa è disponibile a un prezzo speciale.",
+              "id": "1",
+              "image": "unlimited_fissa.jpeg",
+              "title": "Quando sei già cliente mobile.",
+              "action": {
+                "type": "1",
+                "small": "false"
+              }
+            },
+            {
+              "description": "Con la Fibra di Vodafone porti a casa una connessione potente, sia in download che in upload. Così puoi navigare alla massima velocità e stabilità, senza limiti.",
+              "id": "2",
+              "image": "1.jpeg",
+              "title": "Quando vuoi vivere la tua casa.",
+              "action": {
+                "type": "1",
+                "small": "false"
+              }
+            },
+            {
+              "description": "Con la Fibra Vodafone, ti diverti in 4K.\r\nHai sempre la performance migliore su tutti i tuoi device e le app, per guardare i film e le serie TV o per giocare in HD, senza interruzioni.",
+              "id": "3",
+              "image": "1.jpeg",
+              "title": "Quando ti dedichi a ciò che ami.",
+              "action": {
+                "type": "1",
+                "small": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_ICON_TITLE_DESCRIPTION",
+          "title": "<p>Tutto <b>semplice e chiaro</b>. </p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false"
+          },
+          "elements": [
+            {
+              "description": "Internet alla massima velocità in FTTH  fino a 2.5 Gigabit/s, chiamate illimitate e station: con la nostra Fibra hai tutto incluso nel prezzo.             ",
+              "id": "1",
+              "image": "ico_check.png",
+              "title": "Hai tutto incluso",
+              "action": {
+                "type": "1",
+                "small": "false"
+              }
+            },
+            {
+              "description": "Puoi recedere in ogni momento il contratto. Se deciderai di recedere prima dei 24 mesi ti basterà versare le rate residue del costo di attivazione.",
+              "id": "2",
+              "image": "ico_insieme.png",
+              "title": "Insieme quanto vuoi",
+              "action": {
+                "type": "1",
+                "small": "false"
+              }
+            },
+            {
+              "description": "Per l’attivazione ti serve solo la tua carta d'identità, il codice fiscale e quello di migrazione se mantieni il vecchio numero. ",
+              "id": "3",
+              "image": "ico_smile.png",
+              "title": "È davvero semplice",
+              "action": {
+                "type": "1",
+                "small": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_LARGE_SMALL",
+          "title": "<p>Essere Vodafone ha i suoi <b>vantaggi</b>.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false"
+          },
+          "elements": [
+            {
+              "description": "Stabile e affidabile.\r\nSu di lei puoi sempre contare. ",
+              "id": "1",
+              "image": "4.jpeg",
+              "title": "Rete Vodafone",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/rete-vodafone.html?icmp=internet_unlimited",
+                "type": "1",
+                "small": "true"
+              }
+            },
+            {
+              "description": "Per celebrare ogni giorno la nostra storia insieme.",
+              "id": "2",
+              "image": "Happy_STILL1.png",
+              "title": "Vodafone Happy",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/vantaggi-vodafone/vodafone-happy.html?icmp=internet_unlimited",
+                "type": "1",
+                "small": "true"
+              }
+            },
+            {
+              "description": "Proteggere il pianeta è la nostra scelta, che ne comporta molte di più. ",
+              "id": "3",
+              "image": "green.jpeg",
+              "title": "Switch to Green",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/switch-to-green.html?icmp=internet_unlimited",
+                "type": "1",
+                "small": "true"
+              }
+            },
+            {
+              "description": "Per avere sempre a portata di mano tutto il tuo mondo.",
+              "id": "4",
+              "image": "My_vodafone_App.png",
+              "title": "My Vodafone app",
+              "maskIcon": "users.png",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/vantaggi-vodafone/app-myvodafone.html?icmp=internet_unlimited",
+                "type": "1",
+                "small": "true"
+              }
+            },
+            {
+              "description": "Per avere la migliore esperienza di navigazione in ogni angolo della casa.",
+              "id": "5",
+              "image": "Super_Wi-Fi_6_Extender.png",
+              "title": "Super Wi-Fi 6 Extender",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/fibra/super-wifi-extender.html?icmp=internet_unlimited",
+                "type": "1",
+                "small": "true"
+              }
+            }
+          ]
+        },
+        {
+          "type": "FAQ",
+          "title": "<p>Avere qualche <b>dubbio </b>è normale.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false"
+          },
+          "elements": [
+            {
+              "description": "Rete Sicura Family è il servizio che ti protegge da virus e siti dannosi durante\r\n                        la navigazione sulla rete Vodafone (connessione dati o internet a casa) e ti offre la funzione\r\n                        di Parental Control per una navigazione sicura anche per i bambini. Le funzioni di sicurezza\r\n                        includono \"Protezione Antivirus\", \"Protezione Web\", \"Protezione della tua identità online\", con\r\n                        livelli di protezione personalizzabili dall'app My Vodafone. Il servizio offre anche la funzione\r\n                        di Parental Control: i genitori, dal proprio dispositivo, possono gestire le impostazioni di\r\n                        sicurezza per i propri figli, controllare il tipo di contenuto a cui possono accedere (funzione\r\n                        \"Filtri di contenuto\") e impostare limiti al tempo di connessione (funzioni \"Pausa\" e\r\n                        \"Buonanotte\").",
+              "id": "1",
+              "title": "Che cos'è Rete Sicura Family?",
+              "action": {
+                "type": "1",
+                "small": "false"
+              }
+            },
+            {
+              "description": "Si, puoi acquistare l'offerta senza il modem incluso. Il costo dell'offerta non cambia.  Clicca su \"Ti richiamiamo noi\" per acquistare l'offerta con il supporto di un nostro operatore.",
+              "id": "2",
+              "title": "È possibile acquistare l'offerta senza modem incluso?",
+              "action": {
+                "type": "1",
+                "small": "false"
+              }
+            },
+            {
+              "description": "Puoi navigare in Internet e utilizzare il Servizio voce con un modem diverso dalla Vodafone\r\n                        Station. Tutte le informazioni su come installare e configurare il modem sono disponibili su <a\r\n                            href=\"https://www.vodafone.it/privati/supporto/assistenza-dispositivi/altri-dispositivi/modem-alternativo.html\"\r\n                            target=\"_blank\">voda.it/modemlibero</a>.<br>Se hai deciso di acquistare un’offerta V-MAX con\r\n                        modem libero non saranno disponibili i servizi Vodafone Sempre Connessi, Rete Sicura Family e\r\n                        Wi-Fi garantito in quanto non compativili con modem diversi dalla Vodafone\r\n                        Station.<br> Se hai una linea FTTH e la tua Vodafone Station non ha una ONT integrata te ne\r\n                        verrà fornita e installata una esterna senza alcun costo aggiuntivo. A questa potrai collegare\r\n                        anche un modem diverso dalla Vodafone Station. Se la tua Vodafone Station ha una ONT integrata\r\n                        ma vuoi utilizzare un modem diverso per la tua linea FTTH potrai comunque richiedere\r\n                        gratuitamente l’installazione di una ONT esterna contattando il 190.",
+              "id": "3",
+              "title": "È possibile navigare con un modem diverso dalla Vodafone Station e richiedere una ONT esterna?",
+              "action": {
+                "type": "1",
+                "small": "false"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

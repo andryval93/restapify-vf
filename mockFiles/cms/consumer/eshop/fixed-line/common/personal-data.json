@@ -1,0 +1,132 @@
+{
+  "personalinfo": {
+    "generalInfo": {
+      "subtitle": "Inserisci i tuoi contatti personali per essere ricontattato al telefono e per ricevere via mail le comunicazioni sull'attivazione?",
+      "description": "Ci bastano solo alcune info ...",
+      "fcMissingLabel": "Non ricordo il codice fiscale",
+      "title": "Ci siamo quasi!",
+      "errorMessage": {
+        "error0": "testo errore",
+        "error1": "testo errore",
+        "error2": "testo errore",
+        "error3": "testo errore"
+      }
+    },
+    "fiscalCode": {
+      "buttonLabel": "CALCOLA",
+      "description": "Abbiamo bisogno di pochissimi dati dell’intestatario della linea per procedere.",
+      "title": "Dati personali",
+      "errorMessage": {
+        "error0": "Questo campo e' obbligatorio",
+        "error1": "Campo errato",
+        "error2": "Tutti i campi sono obbligatori",
+        "error3": "Tutti i campi sono obbligatori"
+      }
+    },
+    "clientRecognition": {
+      "description": "Abbiamo notato che sei già nostro cliente ...",
+      "codeNewLabel": "Richiedi nuovo codice",
+      "title": "Verifica identità",
+      "contactNotAccessLabel": "Non accedo a questo numero",
+      "urlContactNotAccess": "www.google.it",
+      "telephoneVerify": "Inserisci il codice ricevuto sul numero $number",
+      "codeMissingLabel": "Non hai ricevuto il codice?",
+      "codeNotAccessLabel": "Non accedo a questi contatti",
+      "emailVerify": "Inserisci il codice ricevuto alla tua e-mail: $email",
+      "smsVerify": "Inserisci il codice ricevuto al tuo numero di cellulare: $phoneNumber",
+      "codeResponse": {
+        "description": "Inserisci il codice a 6 cifre ...",
+        "alertWarn": "Il codice inserito non è corretto ...",
+        "otpError": "Codice errato, riprova ...",
+        "title": "Verifica identità",
+        "alertSuccess": "Ti abbiamo inviato un nuovo codice ..."
+      },
+      "redirect": {
+        "buttonLabel": "VERIFICA OFFERTE DISPONIBILI",
+        "description": "Abbiamo trovato un'offerta più adatta",
+        "url": "https://www.vodafone.it/eshop/mobile/offerte-telefonia-mobile.html?icmp=D_HP_RB__b1_offerte%20mobile",
+        "title": "Abbiamo un'offerta migliore"
+      }
+    },
+    "preFilledDocument": {
+      "description": "Il documento deve combaciare con i dati ...",
+      "title": "Documento",
+      "errorMessage": {
+        "error0": "testo errore",
+        "error1": "testo errore",
+        "error2": "testo errore",
+        "error3": "testo errore"
+      }
+    },
+    "clientRegistered": {
+      "description": "Ecco un riepilogo dei tuoi contatti personali per essere ricontattato al telefono e per ricevere via mail le comunicazioni sull’attivazione. Verifica che siano corretti o modificali prima di proseguire.",
+      "checkTelephone": "Il tuo numero di telefono",
+      "smallInfo": "Vorrei essere contattato in caso di interruzione ...",
+      "checkEmail": "Il tuo indirizzo email",
+      "title": "I tuoi contatti",
+      "editNumber": "Modifica numero"
+    },
+    "clientLogged": {
+      "editNumber": {
+        "buttonLabel": "SALVA NUMERO DI TELEFONO",
+        "description": "Seleziona al numero di telefono sul quale vuoi ricevere le comunicazioni ...",
+        "addNewNumberLabel": "Aggiungi nuovo numero",
+        "title": "Modifica numero",
+        "errorMessage": {
+          "error0": "testo errore",
+          "error1": "testo errore",
+          "error2": "testo errore",
+          "error3": "testo errore"
+        }
+      },
+      "newNumber": {
+        "buttonLabel": "SALVA NUMERO DI TELEFONO",
+        "description": "Inserisci il nuovo numero di telefono",
+        "title": "Nuovo numero",
+        "errorMessage": {
+          "error0": "testo errore",
+          "error1": "testo errore",
+          "error2": "testo errore",
+          "error3": "testo errore"
+        }
+      },
+      "editEmail": {
+        "subtitle": "subtitle Edit email",
+        "buttonLabel": "button Label Edit email",
+        "title": "Modifica email"
+      },
+      "newEmail": {
+        "subtitle": "Inserisci il nuovo indirizzo email.",
+        "buttonLabel": "Salva email",
+        "title": "Modifica email"
+      }
+    },
+    "clientNotLogged": {
+      "description": "Non puoi accedere al numero su cui ti abbiamo inviato il codice? ...",
+      "missingPasswordLabel": "Password dimenticata",
+      "buttonAccessLabel": "ACCEDI",
+      "buttonCallLabel": "TI CHIAMA VODAFONE",
+      "title": "Verifica identità",
+      "areYouClientLabel": "Sei un cliente Vodafone ma non sei registrato?"
+    },
+    "selectInput": {
+      "lastName": "Cognome",
+      "docExpirationDate": "Data di scadenza",
+      "gender": "Gender",
+      "birthdate": "Data di nascita",
+      "fiscalCode": "Codice fiscale",
+      "username": "Username",
+      "docNumber": "Numero del documento",
+      "city": "Comune di nascita",
+      "nation": "Nazione di nasicta",
+      "email": "E-mail",
+      "firstName": "Nome",
+      "telephone": "Numero di telefono",
+      "contact": "Contatto",
+      "country": "Luogo di nascita",
+      "password": "Password",
+      "docType": "Tipo di documento",
+      "contactPlaceholder": "Seleziona il tuo contatto"
+    }
+  }
+}

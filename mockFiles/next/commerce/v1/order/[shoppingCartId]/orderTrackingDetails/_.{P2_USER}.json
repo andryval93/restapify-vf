@@ -1,0 +1,87 @@
+{
+  "deliveryOrders": [
+    {
+      "code": "S",
+      "description": "Shipping to Home",
+      "shippingOptions": [
+        {
+          "name": "ST",
+          "displayName": "Standard Delivery",
+          "price": {
+            "currencyCode": "EUR",
+            "amount": 0
+          },
+          "isSelected": true
+        }
+      ],
+      "deliveryItems": [
+        {
+          "itemId": "108523248_5056875",
+          "itemCid": "621587",
+          "itemType": "SIM",
+          "itemName": "SIM R07",
+          "lineOfBusiness": "IN"
+        },
+        {
+          "itemId": "108523262_5056877",
+          "itemCid": "4616181",
+          "itemType": "EQP",
+          "itemName": "Vodafone Power Station Wifi 6 R1",
+          "lineOfBusiness": "IN"
+        }
+      ],
+      "recipientDetails": {
+        "recipientName": {
+          "formattedName": "TESTPORTABILITAUPDATE;XBSS"
+        },
+        "recipientAddress": {
+          "id": "268622036",
+          "street": "VIA BISCEGLIE",
+          "streetNumber": "76",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "postalCode": "20152",
+          "formattedAddress1": "VIA BISCEGLIE 76"
+        },
+        "contactPhoneNumber": "3491303527",
+        "contactEmailAddress": "pierfrancesco.capone@vodafone.com"
+      },
+      "shippingDetails": {}
+    }
+  ],
+  "deliverySteps": [
+    {
+      "stepCode": "OV",
+      "checked": false
+    },
+    {
+      "stepCode": "P2",
+      "checked": true
+    },
+    {
+      "stepCode": "DP",
+      "checked": false
+    },
+    {
+      "stepCode": "ID",
+      "checked": false
+    },
+    {
+      "stepCode": "AC",
+      "checked": false
+    }
+  ],
+  "phase2KO": [
+    {
+      "fixedvoice": {
+        "dynamicAttributeMap": {
+          "GnpType": "CONTEXTUAL",
+          "Phase2Required": "Y",
+          "PortInCLI": "390220404114"
+        }
+      }
+    }
+  ],
+  "orderActionSpecificStageStatus": "HandlePhase2Response"
+}

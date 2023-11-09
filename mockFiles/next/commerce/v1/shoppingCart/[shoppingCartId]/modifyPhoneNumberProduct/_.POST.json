@@ -1,0 +1,634 @@
+{
+  "href": "/commerce/v1/shoppingCart/442366329A?salesChannel=selfService",
+  "id": "442366329A",
+  "customer": {
+    "href": "/care/v1/customer/601585609?salesChannel=selfService",
+    "id": "601585609"
+  },
+  "validFor": { "startDateTime": "2022-03-04T14:55:50Z" },
+  "isLocked": false,
+  "cartTotalPrice": [
+    {
+      "type": "oneTime",
+      "price": {
+        "taxRate": 0,
+        "taxIncludedAmount": 0,
+        "amount": 0,
+        "taxAmount": 0
+      }
+    },
+    {
+      "recurringChargePeriod": "month",
+      "type": "recurring",
+      "originalprice": {
+        "currencyCode": "EUR",
+        "taxIncludedAmount": 24.9,
+        "amount": 24.9
+      },
+      "price": {
+        "currencyCode": "EUR",
+        "taxRate": 22,
+        "taxIncludedAmount": 24.9,
+        "amount": 20.41,
+        "taxAmount": 4.49
+      }
+    }
+  ],
+  "cartItem": [
+    {
+      "type": "multiPlayCartItem",
+      "id": "1618448562_MP_3603483",
+      "quantity": 1,
+      "offering": {
+        "href": "/commerce/v1/multiPlayOffering/3603483?salesChannel=selfService",
+        "id": "3603483",
+        "type": "multiPlayOffering",
+        "name": "Internet Unlimited",
+        "displayName": "Internet Unlimited",
+        "description": "New Element",
+        "attachment": [
+          {
+            "type": "html",
+            "purpose": "legalInformation",
+            "url": "/content/dam/digitalexp/commerce/catalog/plans/internet-unlimited-fibra-2490-agosto-2021/plan-legal-it.html"
+          },
+          {
+            "type": "html",
+            "purpose": "benefits",
+            "url": "/content/dam/digitalexp/commerce/catalog/plans/internet-unlimited-fibra-2490-agosto-2021/plan-benefits-it.html"
+          },
+          {
+            "type": "html",
+            "purpose": "advantages",
+            "url": "/content/dam/digitalexp/commerce/catalog/plans/internet-unlimited-fibra-2490-agosto-2021/plan-advantages-it.html"
+          },
+          {
+            "type": "html",
+            "purpose": "duration",
+            "url": "/content/dam/digitalexp/commerce/catalog/plans/internet-unlimited-fibra-2490-agosto-2021/plan-contract-it.html"
+          },
+          {
+            "type": "html",
+            "purpose": "condition",
+            "url": "/content/dam/digitalexp/commerce/catalog/plans/internet-unlimited-fibra-2490-agosto-2021/plan-conditions-it.html"
+          },
+          {
+            "type": "html",
+            "purpose": "disclaimer",
+            "url": "/content/dam/digitalexp/commerce/catalog/plans/internet-unlimited-fibra-2490-agosto-2021/plan-disclaimer-it.html"
+          },
+          {
+            "type": "html",
+            "purpose": "advantagesDetails",
+            "url": "/content/dam/digitalexp/commerce/catalog/plans/internet-unlimited-fibra-2490-agosto-2021/plan-advantages-details.html"
+          },
+          {
+            "type": "html",
+            "purpose": "heroBanner",
+            "url": "/content/dam/digitalexp/commerce/catalog/plans/internet-unlimited-fibra-2490-agosto-2021/plan-hero-ben-conf-it.html"
+          },
+          {
+            "type": "html",
+            "purpose": "marketing",
+            "url": "/content/dam/digitalexp/commerce/catalog/plans/internet-unlimited-fibra-2490-agosto-2021/footer-box-seo-it.html"
+          },
+          {
+            "url": "/content/dam/digitalexp/commerce/catalog/plans/internet-unlimited-fibra-2490-agosto-2021/plan-banner-seo-it.html"
+          },
+          {
+            "type": "html",
+            "purpose": "cartUpDetails",
+            "url": "/content/dam/digitalexp/commerce/catalog/plans/internet-unlimited-fibra-2490-agosto-2021/cart-topview-it.html"
+          },
+          {
+            "type": "html",
+            "purpose": "cartBtmDetails",
+            "url": "/content/dam/digitalexp/commerce/catalog/plans/internet-unlimited-fibra-2490-agosto-2021/cart-bottomview-it.html"
+          },
+          {
+            "type": "html",
+            "purpose": "cartMidDetails",
+            "url": "/content/dam/digitalexp/commerce/catalog/plans/internet-unlimited-fibra-2490-agosto-2021/cart-midview-it.html"
+          }
+        ],
+        "isNotR02": false
+      },
+      "product": {
+        "href": "/commerce/v1/product/1618448562?salesChannel=selfService",
+        "id": "1618448562",
+        "type": "multiPlayProduct",
+        "installationAddress": { "id": "271471246" }
+      },
+      "poType": "DualPlay",
+      "fixedVoice": [
+        {
+          "id": "442366332A",
+          "type": "fixedVoiceCartItem",
+          "quantity": 1,
+          "status": "active",
+          "itemPrice": [
+            {
+              "id": "1618449110",
+              "name": "Internet Unlimited Giugno 2021 SIM",
+              "displayName": "Internet Unlimited Giugno 2021 SIM",
+              "offering": {},
+              "isNonImmediateOC": true
+            },
+            {
+              "id": "1618449112",
+              "name": "Internet Unlimited Giugno 2021 SIM PBX",
+              "displayName": "Internet Unlimited Giugno 2021 SIM PBX",
+              "offering": {},
+              "isNonImmediateOC": true
+            }
+          ],
+          "itemTotalPrice": [{}],
+          "offering": {
+            "id": "3603483_3610283_3235398",
+            "type": "fixedVoiceOffering",
+            "name": "Fixed Voice PO",
+            "displayName": "Fixed Voice PO",
+            "description": " "
+          },
+          "product": {
+            "id": "1618448565",
+            "name": "Fixed Voice Main",
+            "type": "fixedVoiceProduct",
+            "productCharacteristic": [
+              {
+                "name": "PortIn_Ind",
+                "displayName": "Port In",
+                "value": "No",
+                "displayValue": "No"
+              },
+              {
+                "name": "TelephoneNumber",
+                "displayName": "Telephone Number",
+                "value": "1618448565",
+                "displayValue": "1618448565"
+              }
+            ],
+            "installationAddress": { "id": "271471246" }
+          },
+          "requestedStartDate": "1970-01-01",
+          "reason": {},
+          "plan": {
+            "id": "1618449108",
+            "type": "fixedVoicePlanCartItem",
+            "action": "add",
+            "quantity": 1,
+            "status": "active",
+            "itemPrice": [{ "id": "1618449108" }],
+            "offering": {
+              "href": "/commerce/v1/fixedVoiceOffering/3610283_3235398?salesChannel=selfService",
+              "id": "3610283_3235398",
+              "type": "fixedVoicePlanOffering",
+              "name": "Internet Unlimited Giugno 2021 LINK PBX",
+              "displayName": "Internet Unlimited Giugno 2021 LINK PBX",
+              "paymentManagementType": "post"
+            },
+            "product": {
+              "id": "1618449107",
+              "type": "fixedVoicePlanProduct",
+              "productCharacteristic": [
+                { "name": "Plan_Category", "displayName": "Plan Category" }
+              ],
+              "productSpecification": {
+                "id": "85780",
+                "name": "Fixed Voice Plan",
+                "type": "mobilePlanSpecification"
+              }
+            }
+          }
+        }
+      ],
+      "internet": [
+        {
+          "id": "442366330A",
+          "type": "internetCartItem",
+          "quantity": 1,
+          "status": "active",
+          "itemPrice": [
+            {
+              "id": "1618449104",
+              "name": "Costo di attivazione a 0 non visibile",
+              "displayName": "Costo di attivazione a 0 non visibile",
+              "offering": {
+                "attachment": [
+                  {
+                    "type": "image",
+                    "purpose": "summary",
+                    "url": "/content/dam/digitalexp/commerce/catalog/addons/costo-di-attivazione-non-visibile/small-pic-it.jpg"
+                  }
+                ]
+              },
+              "isNonImmediateOC": true
+            },
+            {
+              "id": "1618449095",
+              "name": "Fixed VAS",
+              "displayName": "Fixed VAS",
+              "offering": {},
+              "isNonImmediateOC": true
+            },
+            {
+              "id": "1618449097",
+              "name": "Vodafone Ready a 0 non visibile",
+              "displayName": "Vodafone Ready a 0 non visibile",
+              "offering": {
+                "attachment": [
+                  {
+                    "type": "html",
+                    "purpose": "details",
+                    "url": "/content/dam/digitalexp/commerce/catalog/addons/vodafone-ready-non-visibile/information-it.html"
+                  },
+                  {
+                    "type": "html",
+                    "purpose": "advAddOnInfo",
+                    "url": "/content/dam/digitalexp/commerce/catalog/addons/vodafone-ready-non-visibile/adv-info-it.html"
+                  },
+                  {
+                    "type": "image",
+                    "purpose": "summary",
+                    "url": "/content/dam/digitalexp/commerce/catalog/addons/vodafone-ready-non-visibile/small-pic-it.jpg"
+                  }
+                ]
+              },
+              "isNonImmediateOC": true
+            },
+            {
+              "id": "1618449092",
+              "recurringChargePeriod": "month",
+              "name": "Equipment",
+              "type": "recurring",
+              "displayName": "Vodafone Wi-Fi 6 Station",
+              "allowedOverrideType": "none",
+              "price": {
+                "currencyCode": "EUR",
+                "taxRate": 0,
+                "taxIncludedAmount": 0,
+                "amount": 0,
+                "taxAmount": 0
+              },
+              "showTextInsteadRate": "Inclusa",
+              "offering": {
+                "attachment": [
+                  {
+                    "type": "image",
+                    "purpose": "summary",
+                    "url": "/content/dam/digitalexp/commerce/catalog/devices/vodafone-wi-fi6/small-image-it.jpg"
+                  }
+                ]
+              },
+              "isNonImmediateOC": true
+            },
+            {
+              "id": "1618449099",
+              "name": "Plan",
+              "displayName": "Digital Fixed Offer Discount 24,90",
+              "offering": {},
+              "isNonImmediateOC": true
+            }
+          ],
+          "itemTotalPrice": [
+            {},
+            {
+              "recurringChargePeriod": "month",
+              "type": "recurring",
+              "originalprice": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 24.9,
+                "amount": 24.9
+              },
+              "price": {
+                "currencyCode": "EUR",
+                "taxRate": 22,
+                "taxIncludedAmount": 24.9,
+                "amount": 20.41,
+                "taxAmount": 4.49
+              }
+            }
+          ],
+          "offering": {
+            "id": "3603483_3603583_3602883",
+            "type": "internetOffering",
+            "name": "Internet PO",
+            "displayName": "Internet PO",
+            "description": " "
+          },
+          "product": {
+            "id": "1618448563",
+            "name": "Internet Main",
+            "type": "internetProduct",
+            "productCharacteristic": [
+              {
+                "name": "Convergent_Group_ID",
+                "displayName": "Convergent Group ID"
+              },
+              {
+                "name": "Convergent_Group_Type_ID",
+                "displayName": "Convergent Group Type ID"
+              },
+              {
+                "name": "Convergent_Group_Type_ID_Name",
+                "displayName": "Convergent Group Type ID Name"
+              },
+              {
+                "name": "Convergent_MSISDN",
+                "displayName": "Convergent MSISDN"
+              },
+              {
+                "name": "Convergent_Reward_ID",
+                "displayName": "Convergent Reward ID"
+              },
+              {
+                "name": "Convergent_Reward_Name",
+                "displayName": "Convergent Reward Name"
+              },
+              {
+                "name": "Convergent_Reward_SN_Code",
+                "displayName": "Convergent Reward SN_code Category"
+              },
+              {
+                "name": "PortIn_Ind",
+                "displayName": "Port In",
+                "value": "No",
+                "displayValue": "No"
+              },
+              {
+                "name": "ServiceID",
+                "displayName": "Service ID",
+                "value": "1618448563",
+                "displayValue": "1618448563"
+              }
+            ]
+          },
+          "requestedStartDate": "1970-01-01",
+          "reason": {},
+          "plan": {
+            "id": "1618449099",
+            "type": "internetPlanCartItem",
+            "action": "add",
+            "quantity": 1,
+            "status": "active",
+            "itemPrice": [
+              {},
+              {
+                "recurringChargePeriod": "month",
+                "type": "recurring",
+                "originalprice": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 24.9,
+                  "amount": 24.9
+                },
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxRate": 22,
+                  "taxIncludedAmount": 24.9,
+                  "amount": 20.41,
+                  "taxAmount": 4.49
+                }
+              }
+            ],
+            "offering": {
+              "href": "/commerce/v1/internetOffering/3603583_3602883?salesChannel=selfService",
+              "id": "3603583_3602883",
+              "type": "internetPlanOffering",
+              "name": "Internet Unlimited Fibra 24,90 Agosto 2021 BO",
+              "displayName": "Internet Unlimited Fibra 24,90 Agosto 2021 BO",
+              "paymentManagementType": "post"
+            },
+            "product": {
+              "id": "1618449098",
+              "productCharacteristic": [
+                {
+                  "name": "Access_Type",
+                  "displayName": "Tipologia di Accesso",
+                  "value": "FTTH",
+                  "displayValue": "FTTH"
+                },
+                {
+                  "name": "IDGAT",
+                  "displayName": "IDGAT",
+                  "value": "MI/FCO/9",
+                  "displayValue": "MI/FCO/9"
+                },
+                {
+                  "name": "Plan_Category",
+                  "displayName": "Plan Category",
+                  "value": "DualPlay_No_Flat",
+                  "displayValue": "DualPlay_No_Flat"
+                },
+                {
+                  "name": "Speed",
+                  "displayName": "Velocità",
+                  "value": "2500",
+                  "displayValue": "2500"
+                },
+                {
+                  "name": "Technical_package_ID",
+                  "displayName": "Pacchetto Tecnico ID",
+                  "value": "1201",
+                  "displayValue": "1201"
+                }
+              ]
+            }
+          },
+          "addOn": [
+            {
+              "id": "BO:1618449094_3605883_1618449093",
+              "type": "internetAddOnCartItem",
+              "action": "add",
+              "status": "active",
+              "itemPrice": [
+                {
+                  "type": "oneTime",
+                  "price": {
+                    "taxRate": 0,
+                    "taxIncludedAmount": 0,
+                    "amount": 0,
+                    "taxAmount": 0
+                  },
+                  "advAdditionalDescription": "senza limiti",
+                  "isNonImmediateOC": true
+                },
+                {
+                  "recurringChargePeriod": "month",
+                  "type": "recurring",
+                  "price": {
+                    "currencyCode": "EUR",
+                    "taxRate": 0,
+                    "taxIncludedAmount": 0,
+                    "amount": 0,
+                    "taxAmount": 0
+                  },
+                  "advAdditionalDescription": "senza limiti",
+                  "isNonImmediateOC": true
+                }
+              ],
+              "offering": {
+                "id": "BO:1393882_3605883_156280",
+                "type": "internetAddOnOffering",
+                "name": "Chiamate verso fissi nazionali",
+                "displayName": "Chiamate verso fissi nazionali",
+                "attachment": [
+                  {
+                    "type": "html",
+                    "purpose": "details",
+                    "url": "/content/dam/digitalexp/commerce/catalog/addons/fissi-nazionali-senza-limiti/information-it.html"
+                  },
+                  {
+                    "type": "image",
+                    "purpose": "summary",
+                    "url": "/content/dam/digitalexp/commerce/catalog/addons/fissi-nazionali-senza-limiti/small-pic-it.jpg"
+                  }
+                ]
+              },
+              "internetAddOnProduct": {
+                "id": "BO:1618449094_3605883_1618449093",
+                "name": "Chiamate verso fissi nazionali",
+                "type": "internetAddOnProduct",
+                "status": "Attivo",
+                "productSpecification": {
+                  "id": "BO:3605883",
+                  "name": "Chiamate verso fissi nazionali",
+                  "type": "internetAddOnSpecification",
+                  "inclusionType": "mandatoryItem"
+                },
+                "isCrossProductDiscount": false
+              },
+              "isCrossProductDiscount": false,
+              "showTextInsteadRate": "Incluso"
+            },
+            {
+              "id": "BO:1618449096_3605983_1618449093",
+              "type": "internetAddOnCartItem",
+              "action": "add",
+              "status": "active",
+              "itemPrice": [
+                {
+                  "type": "oneTime",
+                  "price": {
+                    "taxRate": 0,
+                    "taxIncludedAmount": 0,
+                    "amount": 0,
+                    "taxAmount": 0
+                  },
+                  "advAdditionalDescription": "senza limiti",
+                  "isNonImmediateOC": true
+                },
+                {
+                  "recurringChargePeriod": "month",
+                  "type": "recurring",
+                  "price": {
+                    "currencyCode": "EUR",
+                    "taxRate": 0,
+                    "taxIncludedAmount": 0,
+                    "amount": 0,
+                    "taxAmount": 0
+                  },
+                  "advAdditionalDescription": "senza limiti",
+                  "isNonImmediateOC": true
+                }
+              ],
+              "offering": {
+                "id": "BO:1393982_3605983_156280",
+                "type": "internetAddOnOffering",
+                "name": "Chiamate verso mobili nazionali",
+                "displayName": "Chiamate verso mobili nazionali",
+                "attachment": [
+                  {
+                    "type": "html",
+                    "purpose": "details",
+                    "url": "/content/dam/digitalexp/commerce/catalog/addons/mobili-nazionali-senza-limiti/information-it.html"
+                  },
+                  {
+                    "type": "image",
+                    "purpose": "summary",
+                    "url": "/content/dam/digitalexp/commerce/catalog/addons/mobili-nazionali-senza-limiti/small-pic-it.jpg"
+                  }
+                ]
+              },
+              "internetAddOnProduct": {
+                "id": "BO:1618449096_3605983_1618449093",
+                "name": "Chiamate verso mobili nazionali",
+                "type": "internetAddOnProduct",
+                "status": "Attivo",
+                "productSpecification": {
+                  "id": "BO:3605983",
+                  "name": "Chiamate verso mobili nazionali",
+                  "type": "internetAddOnSpecification",
+                  "inclusionType": "mandatoryItem"
+                },
+                "isCrossProductDiscount": false
+              },
+              "isCrossProductDiscount": false,
+              "showTextInsteadRate": "Incluso"
+            }
+          ],
+          "addOnTotalPrice": [
+            {
+              "type": "oneTime",
+              "price": { "taxIncludedAmount": 0, "amount": 0, "taxAmount": 0 }
+            },
+            {
+              "recurringChargePeriod": "month",
+              "type": "recurring",
+              "price": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 0,
+                "amount": 0,
+                "taxAmount": 0
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "order": {
+    "href": "/commerce/v1/order/442366329A?salesChannel=selfService",
+    "id": "442366329A"
+  },
+  "currentChannel": "selfService",
+  "originalChannel": "selfService",
+  "cartValidation": {
+    "status": "success",
+    "cartItemValidation": [
+      {
+        "status": "success",
+        "rootCartItemId": "442366332A",
+        "offeringDisplayName": "Internet Unlimited",
+        "cartItemValidationMessage": [
+          {
+            "status": "success",
+            "cartItemId": "1618448565",
+            "validationMessageType": "eligibility"
+          },
+          {
+            "status": "success",
+            "cartItemId": "1618449108",
+            "validationMessageType": "eligibility"
+          }
+        ]
+      },
+      {
+        "status": "success",
+        "rootCartItemId": "442366330A",
+        "offeringDisplayName": "Internet Unlimited",
+        "cartItemValidationMessage": [
+          {
+            "status": "success",
+            "cartItemId": "1618448563",
+            "validationMessageType": "eligibility"
+          },
+          {
+            "status": "success",
+            "cartItemId": "1618449099",
+            "validationMessageType": "eligibility"
+          }
+        ]
+      }
+    ]
+  }
+}

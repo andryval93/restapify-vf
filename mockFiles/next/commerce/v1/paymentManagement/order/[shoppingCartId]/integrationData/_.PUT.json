@@ -1,0 +1,27 @@
+{
+  "data": {
+    "siaOrderId": "442366329A_NO_0dce19ca-11a6-448f-aa6e-058080552e9a",
+    "callSiaInd": true,
+    "urlms": "https://apicweb3rd.vodafone.it/nextapi/3pin/Payment/GetPaymentOperation",
+    "urldone": "https://www.vodafone.it/eshop/order/payment-status.html",
+    "urlback": "https://www.vodafone.it/eshop/checkout.html",
+    "lang": "ITA",
+    "amount": 0,
+    "currency": "978",
+    "shopid": "129288001710006",
+    "accountingmode": "D",
+    "authormode": "I",
+    "options": "BGHIQRM",
+    "email": "pippuzzoasdf@gmail.com",
+    "userid": "601585609",
+    "taxid": "DGSPPP80A01F205X",
+    "mac": "d921158dd73ca5d9d474c16daf36f3acfa761669949269bd7588e0b7b7053f80",
+    "urlSIA": "https://payments.vodafone.it/vodafone/pagamenti/main?PAGE=LAND",
+    "siaSimulatorMode": false,
+    "antifraud": "hQEMA2CMO8GxY3uAAQf/eA6ONEYd/GxRHoKTT6w3/m/V/6OqTkemTrhEeRof5ChTYFVHYKOPKhWcwTERNhg4FBO+58S+zmstCfCTGijELTFdv4cEnRuXO4YM3ecXYymYh0N6J+AVsQgKDi5QYydXA/oICwsdUwxDUxSUNC8HwF5RwijtMvDayb6Ytwa93pb1Swtu6E7Mdax9r3V9lBQ9LWrHyHl2cPu34nAi+sX1MGdL/UPcZqMF/Wn+jkg/bLNmzRx83HO837Uw3qwUtjroDl+J1ITT3QjOConGaU+6o27r+fgrcSoBZ2JDOpfjpQzKi/qAX5tbXZNiB7/7c7FBdnsH6ELse+MCMsklyHoiysnA7WDmY3ICfVSoKL5LoVeayO9GLqv4254FTrfgzZNSw2XDPj+DbtVzNGxKTxabKxIDFENaD43ZwIAp1/Db+1KkLddogu2NQ1jAoQIzM8Anv5dVQoQdkwD9GOD9kcepUdnzr/itiC4jzEGZN0qkRbqu9vj3VdN835EMh+lr2j4szCS5PKwS3sxjHBvWfMWt2ryFbpAJvXrv2hcwOkw89k5aGgl05OA5PzYEZXycARZZSZUZDeToBlNez24jY8uJOcZELDDiPv/1ZpQgS1W9moHd9LwIjRFKBKovZQoGzS/hOrLDS6Q2nzz2aUe5DeqvLYUshWopDaelA+/jRMrFQwpFpp2FcHkC1x0M8SoB28N95Cz+CL4lEPrrheYAUKWD96AkNROgi+mIBed037o46lXUcg50a+8tUvIxoU6K0+YNsNU4k53qG68otF2HA9z8Ca6EL5T2Od7BuwRa3FqWZDmihAGXbcDvITrnQ9838AgHbdmaltkMHgOa4NfsUo7SCyE3DLqXgLQY9IvMOzJL6hQdBvX8rDGqkE3hthIyF/ItKHvaM6a+/l0ohnZjjqt2Vg===ISU",
+    "productref": "3385648789",
+    "name": "Pippo",
+    "surname": "De giuseppe",
+    "trecurr": "U"
+  }
+}

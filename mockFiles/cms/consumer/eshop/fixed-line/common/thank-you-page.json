@@ -1,0 +1,35 @@
+{
+  "thankyoupage": {
+    "cardOrder": {
+      "description": "Il tuo ordine ORDERID è andato a buon fine",
+      "secondaryImage": "immagine-due.jpg",
+      "primaryImage": "immagine-uno.jpg",
+      "title": "Perfetto!",
+      "confirmationNumber": {
+        "description": "Ti invieremo un <b>SMS</b> con il codice della tua pratica <b>DOSSIERID</b> fondamentale per ricevere informazioni sull’ordine <b>ORDERID</b> e un link per seguire lo stato di attivazione della tua linea.\r\n",
+        "notReceivedLabel": "Non l'hai ricevuto?",
+        "newMessageLink": "Invia un nuovo SMS",
+        "contactLabel": "Il tuo numero di telefono"
+      },
+      "confirmationMail": {
+        "description": "<p><b>Riceverai una e-mail</b> con il riepilogo della tua offerta e una copia del contratto.</p>\r\n",
+        "notReceivedLabel": "Non l'hai ricevuto?",
+        "newMessageLink": "Invia una nuova email",
+        "contactLabel": "Il tuo indirizzo email"
+      }
+    },
+    "cardApp": {
+      "buttonLabel": "SCARICA L'APP",
+      "description": "Con MyVodafone App puoi controllare lo stato del tuo ordine ...",
+      "secondaryImage": "immagine-quatro.jpg",
+      "primaryImage": "immagine-tre.jpg",
+      "title": "Tutto a portata di App"
+    },
+    "cardQrCode": {
+      "qrCodeImg": "qrcode-app?.png",
+      "secondaryTitle": "my vodafone app",
+      "primaryTitle": "Scarica l’App!",
+      "description": "Inquadra il QR code con la fotocamera del tuo smartphone o tablet e scarica l’app My Vodafone."
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "addressId": "268555215",
+  "customerRef": {
+    "id": "100039962",
+    "name": "carla ranocchia",
+    "customerTenure": "0"
+  },
+  "individualRef": {
+    "id": "22090122669",
+    "firstName": "carla",
+    "lastName": "ranocchia",
+    "personAge": "39",
+    "partialDataFlag": false,
+    "noFiscalCodeFlag": "Italian",
+    "fiscalCode": "RNCCRL83A44A662F",
+    "personGender": "female",
+    "identObjId": "268565605",
+    "msisdn": "3459706251",
+    "email": "roberta.randazzo@vodafone.com"
+  },
+  "billingAccount": {
+    "id": "333354263",
+    "billDeliveryDetails": {}
+  },
+  "financialAccountRef": {
+    "id": "500020929"
+  },
+  "resultInfo": "existingNextCustomer",
+  "marketTag": "VF",
+  "activeSimMobile": false
+}

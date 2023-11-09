@@ -1,0 +1,163 @@
+{
+  "id": "10696565",
+  "serviceabilityResult": "serviceable",
+  "offeringServiceabilityItem": [
+    {
+      "offering": {
+        "id": "4895983",
+        "name": "FWA Indoor 21,90 €_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "5302583",
+        "name": "FWA Indoor 24,90 € + Una Tantum Act Cost Only_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "6625583",
+        "name": "FWA Indoor 24,90 € Ottobre 2022_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "260389195",
+        "name": "FWA Indoor 24,90 €_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "6653683",
+        "name": "FWA Indoor 26,90 € Ottobre 2022_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "4912183",
+        "name": "FWA Indoor 26,90 €_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "5311583",
+        "name": "FWA Indoor 27,90 € + Una Tantum Act Cost Only_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "4583495",
+        "name": "FWA Indoor 27,90 € Settembre 2022_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "4508884",
+        "name": "FWA Indoor 27,90 €_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "260440495",
+        "name": "FWA Indoor 29,90 €_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "2838698",
+        "name": "FWA Indoor Dipendenti 24,90 €_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "6758283",
+        "name": "FWA Indoor plus 24,90 Ottobre 2022 PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "6842283",
+        "name": "FWA Indoor plus 26,90 Ottobre 2022 PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "4202681",
+        "name": "FWA Indoor plus PO R1"
+      }
+    }
+  ],
+  "serviceabilityCharacteristic": [
+    {
+      "displayName": "ActualTechnology",
+      "value": "FWA",
+      "displayValue": "FWA"
+    },
+    {
+      "displayName": "MaxDownloadSpeed",
+      "value": "100000",
+      "displayValue": "100 Megabit"
+    },
+    {
+      "displayName": "Technology",
+      "value": "FWA_Indoor",
+      "displayValue": "FWA_Indoor"
+    },
+    {
+      "displayName": "MinVelocity"
+    },
+    {
+      "displayName": "MaxVelocity",
+      "displayValue": "100"
+    },
+    {
+      "displayName": "MedVelocity"
+    },
+    {
+      "displayName": "Latency"
+    },
+    {
+      "displayName": "FWA_indoor",
+      "value": "Y",
+      "displayValue": "Y"
+    },
+    {
+      "displayName": "FWA_outdoor",
+      "value": "Y",
+      "displayValue": "Y"
+    },
+    {
+      "displayName": "UploadMin"
+    },
+    {
+      "displayName": "UploadMed"
+    },
+    {
+      "displayName": "UploadMax",
+      "displayValue": "50"
+    },
+    {
+      "displayName": "DisplayTechnologyName",
+      "displayValue": "FWA-Indoor"
+    },
+    {
+      "displayName": "VTV",
+      "displayValue": "1"
+    }
+  ],
+  "serviceabilityAddress": {
+    "city": "VITERBO",
+    "country": "IT",
+    "displayCountry": "Italy",
+    "postalCode": "01100",
+    "stateOrProvince": "VT",
+    "displayStateOrProvince": "VITERBO",
+    "street": "STRADA DEL BULLICAME",
+    "latitude": "42.41913660",
+    "longitude": "12.07328750",
+    "externalId": "38000421248",
+    "streetNumber": "12",
+    "homeZone": "00343241",
+    "istatCode": "12056059"
+  }
+}

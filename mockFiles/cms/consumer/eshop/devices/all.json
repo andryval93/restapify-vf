@@ -1,0 +1,797 @@
+{
+  "samsung-s21-fe": {
+    "devicedetail": {
+      "description": "<p>con tanti GB per le tue foto</p>\r\n",
+      "deviceBrand": "Samsung",
+      "tagLine": "best choiche",
+      "category": "smartphone",
+      "image": "iphone.png",
+      "price": "<p>Molti <b>euri</b></p>\r\n",
+      "offerLabel": "A Soli",
+      "isSellable": "true",
+      "isAvailable": "true",
+      "deviceName": "S21 FE",
+      "lowestPrice": "<p>A partire da 12€</p>\r\n",
+      "haveMarketingLabel": "true",
+      "hub": {
+        "outOfStockLabel": "TERMINATI",
+        "action": {
+          "url": "www.google.it",
+          "type": "1",
+          "small": "true",
+          "style": "primary",
+          "title": "Scopri di più",
+          "localUrl": "local url",
+          "isBlank": "true"
+        },
+        "availableColor": {
+          "enabled": "true",
+          "label": "Colori"
+        }
+      },
+      "pdp": {
+        "backLabel": "Torna al catalogo smartphone",
+        "stickyDescription": "<p>Bellissmo <b>smartphone</b></p>\r\n",
+        "stickyShowDetailLabel": "Visualizza dettagli",
+        "stickyTopLabel": "Il prezzo è di ",
+        "stickyHideDetailLabel": "Nascondi dettagli",
+        "action": {
+          "url": "www.google.it",
+          "type": "1",
+          "small": "false",
+          "style": "primary",
+          "title": "Scopri come averlo",
+          "localUrl": "local url",
+          "isBlank": "true"
+        },
+        "secondAction": {
+          "url": "url ",
+          "type": "1",
+          "small": "false",
+          "style": "primary",
+          "title": "Altro",
+          "localUrl": "local url",
+          "isBlank": "false"
+        },
+        "keywords": [
+          {
+            "key": "nuovo"
+          },
+          {
+            "key": "iphone"
+          }
+        ]
+      },
+      "models": [
+        {
+          "displayNameColor": "Giallo Sole",
+          "exColor": "rgb(255,217,127)",
+          "idSize": "3",
+          "sku": "123312",
+          "price": "<p>A soli 980€ <b>SOLO</b> <b>PER</b> <b>OGGI</b></p>\r\n",
+          "isSellable": "true",
+          "isAvailable": "true",
+          "isDefault": "false",
+          "idColor": "1",
+          "images": [
+            {
+              "key": "iphone.png"
+            },
+            {
+              "key": "iphone.png"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "samsung-s22": {
+    "devicedetail": {
+      "description": "<p>con tanti GB per le tue foto</p>\r\n",
+      "deviceBrand": "Samsung",
+      "tagLine": "best choiche",
+      "category": "smartphone",
+      "image": "iphone.png",
+      "price": "<p>Molti <b>euri</b></p>\r\n",
+      "offerLabel": "A Soli",
+      "isSellable": "true",
+      "isAvailable": "true",
+      "deviceName": "S21 FE",
+      "lowestPrice": "<p>A partire da 12€</p>\r\n",
+      "haveMarketingLabel": "true",
+      "hub": {
+        "outOfStockLabel": "TERMINATI",
+        "action": {
+          "url": "www.google.it",
+          "type": "1",
+          "small": "true",
+          "style": "primary",
+          "title": "Scopri di più",
+          "localUrl": "local url",
+          "isBlank": "true"
+        },
+        "availableColor": {
+          "enabled": "true",
+          "label": "Colori"
+        }
+      },
+      "pdp": {
+        "stickyDescription": "<p>Bellissmo <b>smartphone</b></p>\r\n",
+        "stickyShowDetailLabel": "Visualizza dettagli",
+        "stickyTopLabel": "Il prezzo è di ",
+        "stickyHideDetailLabel": "Nascondi dettagli",
+        "action": {
+          "url": "www.google.it",
+          "type": "1",
+          "small": "false",
+          "style": "primary",
+          "title": "Scopri come averlo",
+          "localUrl": "local url",
+          "isBlank": "true"
+        },
+        "secondAction": {
+          "url": "url ",
+          "type": "1",
+          "small": "false",
+          "style": "primary",
+          "title": "Altro",
+          "localUrl": "local url",
+          "isBlank": "false"
+        },
+        "keywords": [
+          {
+            "key": "nuovo"
+          }
+        ]
+      },
+      "models": [
+        {
+          "displayNameColor": "Giallo Sole",
+          "exColor": "rgb(255,217,127)",
+          "idSize": "3",
+          "sku": "3123321",
+          "price": "<p>A soli 980€ <b>SOLO</b> <b>PER</b> <b>OGGI</b></p>\r\n",
+          "isSellable": "true",
+          "isAvailable": "true",
+          "isDefault": "true",
+          "idColor": "1",
+          "images": [
+            {
+              "key": "iphone.png"
+            },
+            {
+              "key": "iphone.png"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "samsung-s23": {
+    "devicedetail": {
+      "description": "<p>con tanti GB per le tue foto</p>\r\n",
+      "deviceBrand": "Samsung",
+      "tagLine": "best choiche",
+      "category": "smartphone",
+      "image": "iphone.png",
+      "price": "<p>Molti <b>euri</b></p>\r\n",
+      "offerLabel": "A Soli",
+      "isSellable": "true",
+      "isAvailable": "true",
+      "deviceName": "s23",
+      "lowestPrice": "<p>A partire da 12€</p>\r\n",
+      "haveMarketingLabel": "true",
+      "hub": {
+        "outOfStockLabel": "TERMINATI",
+        "action": {
+          "url": "www.google.it",
+          "type": "1",
+          "small": "true",
+          "style": "primary",
+          "title": "Scopri di più",
+          "localUrl": "local url",
+          "isBlank": "true"
+        },
+        "availableColor": {
+          "enabled": "true",
+          "label": "Colori"
+        }
+      },
+      "pdp": {
+        "stickyDescription": "<p>Bellissmo <b>smartphone</b></p>\r\n",
+        "stickyShowDetailLabel": "Visualizza dettagli",
+        "stickyTopLabel": "Il prezzo è di ",
+        "stickyHideDetailLabel": "Nascondi dettagli",
+        "action": {
+          "url": "www.google.it",
+          "type": "1",
+          "small": "false",
+          "style": "primary",
+          "title": "Scopri come averlo",
+          "localUrl": "local url",
+          "isBlank": "true"
+        },
+        "secondAction": {
+          "url": "url ",
+          "type": "1",
+          "small": "false",
+          "style": "primary",
+          "title": "Altro",
+          "localUrl": "local url",
+          "isBlank": "false"
+        }
+      },
+      "models": [
+        {
+          "displayNameColor": "Giallo Sole",
+          "exColor": "rgb(255,217,127)",
+          "idSize": "3",
+          "sku": "1233232",
+          "price": "<p>A soli 980€ <b>SOLO</b> <b>PER</b> <b>OGGI</b></p>\r\n",
+          "isSellable": "true",
+          "isAvailable": "true",
+          "isDefault": "true",
+          "idColor": "1",
+          "images": [
+            {
+              "key": "iphone.png"
+            },
+            {
+              "key": "iphone.png"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "samsung-s22-fe": {
+    "devicedetail": {
+      "description": "<p>con tanti GB per le tue foto</p>\r\n",
+      "deviceBrand": "Samsung",
+      "tagLine": "best choiche",
+      "category": "smartphone",
+      "image": "iphone.png",
+      "price": "<p>Molti <b>euri</b></p>\r\n",
+      "offerLabel": "A Soli",
+      "isSellable": "true",
+      "isAvailable": "true",
+      "deviceName": "S21 FE",
+      "lowestPrice": "<p>A partire da 12€</p>\r\n",
+      "haveMarketingLabel": "true",
+      "hub": {
+        "outOfStockLabel": "TERMINATI",
+        "action": {
+          "url": "www.google.it",
+          "type": "1",
+          "small": "true",
+          "style": "primary",
+          "title": "Scopri di più",
+          "localUrl": "local url",
+          "isBlank": "true"
+        },
+        "availableColor": {
+          "enabled": "true",
+          "label": "Colori"
+        }
+      },
+      "pdp": {
+        "stickyDescription": "<p>Bellissmo <b>smartphone</b></p>\r\n",
+        "stickyShowDetailLabel": "Visualizza dettagli",
+        "stickyTopLabel": "Il prezzo è di ",
+        "stickyHideDetailLabel": "Nascondi dettagli",
+        "action": {
+          "url": "www.google.it",
+          "type": "1",
+          "small": "false",
+          "style": "primary",
+          "title": "Scopri come averlo",
+          "localUrl": "local url",
+          "isBlank": "true"
+        },
+        "secondAction": {
+          "url": "url ",
+          "type": "1",
+          "small": "false",
+          "style": "primary",
+          "title": "Altro",
+          "localUrl": "local url",
+          "isBlank": "false"
+        }
+      },
+      "models": [
+        {
+          "displayNameColor": "Giallo Sole",
+          "exColor": "rgb(255,217,127)",
+          "idSize": "3",
+          "sku": "2",
+          "price": "<p>A soli 980€ <b>SOLO</b> <b>PER</b> <b>OGGI</b></p>\r\n",
+          "isSellable": "true",
+          "isAvailable": "true",
+          "isDefault": "true",
+          "idColor": "1",
+          "images": [
+            {
+              "key": "iphone.png"
+            },
+            {
+              "key": "iphone.png"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "samsung-s24": {
+    "devicedetail": {
+      "description": "<p>con tanti GB per le tue foto</p>\r\n",
+      "deviceBrand": "Samsung",
+      "tagLine": "best choiche",
+      "category": "smartphone",
+      "image": "iphone.png",
+      "price": "<p>Molti <b>euri</b></p>\r\n",
+      "offerLabel": "A Soli",
+      "isSellable": "true",
+      "isAvailable": "true",
+      "deviceName": "S24",
+      "lowestPrice": "<p>A partire da 12€</p>\r\n",
+      "haveMarketingLabel": "true",
+      "hub": {
+        "outOfStockLabel": "TERMINATI",
+        "action": {
+          "url": "www.google.it",
+          "type": "1",
+          "small": "true",
+          "style": "primary",
+          "title": "Scopri di più",
+          "localUrl": "local url",
+          "isBlank": "true"
+        },
+        "availableColor": {
+          "enabled": "true",
+          "label": "Colori"
+        }
+      },
+      "pdp": {
+        "stickyDescription": "<p>Bellissmo <b>smartphone</b></p>\r\n",
+        "stickyShowDetailLabel": "Visualizza dettagli",
+        "stickyTopLabel": "Il prezzo è di ",
+        "stickyHideDetailLabel": "Nascondi dettagli",
+        "action": {
+          "url": "www.google.it",
+          "type": "1",
+          "small": "false",
+          "style": "primary",
+          "title": "Scopri come averlo",
+          "localUrl": "local url",
+          "isBlank": "true"
+        },
+        "secondAction": {
+          "url": "url ",
+          "type": "1",
+          "small": "false",
+          "style": "primary",
+          "title": "Altro",
+          "localUrl": "local url",
+          "isBlank": "false"
+        }
+      },
+      "models": [
+        {
+          "displayNameColor": "Giallo Sole",
+          "exColor": "rgb(255,217,127)",
+          "idSize": "3",
+          "sku": "123",
+          "price": "<p>A soli 980€ <b>SOLO</b> <b>PER</b> <b>OGGI</b></p>\r\n",
+          "isSellable": "true",
+          "isAvailable": "true",
+          "isDefault": "true",
+          "idColor": "1",
+          "images": [
+            {
+              "key": "iphone.png"
+            },
+            {
+              "key": "iphone.png"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "apple-iphone-14-plus": {
+    "devicedetail": {
+      "description": "<p>con tanti GB per le tue foto</p>\r\n",
+      "deviceBrand": "Apple",
+      "tagLine": "best choiche",
+      "category": "smartphone",
+      "image": "iphone.png",
+      "price": "<p>Molti <b>euri</b></p>\r\n",
+      "offerLabel": "A Soli",
+      "isSellable": "true",
+      "isAvailable": "true",
+      "deviceName": "iphone 14 plus",
+      "lowestPrice": "<p>A partire da 12€</p>\r\n",
+      "haveMarketingLabel": "true",
+      "hub": {
+        "outOfStockLabel": "TERMINATI",
+        "action": {
+          "type": "9",
+          "small": "true",
+          "style": "primary",
+          "title": "Scopri di più",
+          "isBlank": "true"
+        },
+        "availableColor": {
+          "enabled": "true",
+          "label": "Colori"
+        }
+      },
+      "pdp": {
+        "stickyDescription": "<p>Bellissmo <b>smartphone</b></p>\r\n",
+        "stickyShowDetailLabel": "Visualizza dettagli",
+        "stickyTopLabel": "Il prezzo è di ",
+        "stickyHideDetailLabel": "Nascondi dettagli",
+        "action": {
+          "url": "www.google.it",
+          "type": "1",
+          "small": "false",
+          "style": "primary",
+          "title": "Scopri come averlo",
+          "localUrl": "local url",
+          "isBlank": "true"
+        },
+        "secondAction": {
+          "url": "url ",
+          "type": "1",
+          "small": "false",
+          "style": "primary",
+          "title": "Altro",
+          "localUrl": "local url",
+          "isBlank": "false"
+        }
+      },
+      "models": [
+        {
+          "displayNameColor": "Giallo sole",
+          "exColor": "rgb(255,217,127)",
+          "idSize": "3",
+          "sku": "55554",
+          "price": "<p>A soli 980€ <b>SOLO</b> <b>PER</b> <b>OGGI</b></p>\r\n",
+          "isSellable": "true",
+          "isAvailable": "true",
+          "isDefault": "true",
+          "idColor": "1",
+          "images": [
+            {
+              "key": "iphone.png"
+            },
+            {
+              "key": "iphone.png"
+            }
+          ]
+        }
+      ]
+    },
+    "tagging": {
+      "journeyType": "journey cms ",
+      "productTargetSegment": "product cms ",
+      "parameter": "test ",
+      "productCategory": [
+        {
+          "key": "cms 1"
+        },
+        {
+          "key": "cms 2"
+        }
+      ]
+    }
+  },
+  "apple-iphone-15-plus": {
+    "devicedetail": {
+      "description": "<p>con tanti GB per le tue foto</p>\r\n",
+      "deviceBrand": "Apple",
+      "tagLine": "best choiche",
+      "category": "smartphone",
+      "image": "iphone.png",
+      "price": "<p>Molti <b>euri</b></p>\r\n",
+      "offerLabel": "A Soli",
+      "isSellable": "true",
+      "isAvailable": "true",
+      "deviceName": "iphone 15 plus",
+      "lowestPrice": "<p>A partire da 12€</p>\r\n",
+      "haveMarketingLabel": "true",
+      "hub": {
+        "outOfStockLabel": "TERMINATI",
+        "action": {
+          "url": "www.google.it",
+          "type": "1",
+          "small": "true",
+          "style": "primary",
+          "title": "Scopri di più",
+          "localUrl": "local url",
+          "isBlank": "true"
+        },
+        "availableColor": {
+          "enabled": "true",
+          "label": "Colori"
+        }
+      },
+      "pdp": {
+        "stickyDescription": "<p>Bellissmo <b>smartphone</b></p>\r\n",
+        "stickyShowDetailLabel": "Visualizza dettagli",
+        "stickyTopLabel": "Il prezzo è di ",
+        "stickyHideDetailLabel": "Nascondi dettagli",
+        "action": {
+          "url": "www.google.it",
+          "type": "1",
+          "small": "false",
+          "style": "primary",
+          "title": "Scopri come averlo",
+          "localUrl": "local url",
+          "isBlank": "true"
+        },
+        "secondAction": {
+          "url": "url ",
+          "type": "1",
+          "small": "false",
+          "style": "primary",
+          "title": "Altro",
+          "localUrl": "local url",
+          "isBlank": "false"
+        }
+      },
+      "models": [
+        {
+          "displayNameColor": "Giallo Sole",
+          "exColor": "rgb(255,217,127)",
+          "idSize": "3",
+          "sku": "9380",
+          "price": "<p>A soli 980€ <b>SOLO</b> <b>PER</b> <b>OGGI</b></p>\r\n",
+          "isSellable": "true",
+          "isAvailable": "true",
+          "isDefault": "true",
+          "idColor": "1",
+          "images": [
+            {
+              "key": "iphone.png"
+            },
+            {
+              "key": "iphone.png"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "apple-iphone-15-pro": {
+    "devicedetail": {
+      "description": "<p>con tanti GB per le tue foto</p>\r\n",
+      "deviceBrand": "Apple",
+      "tagLine": "best choiche",
+      "category": "smartphone",
+      "image": "iphone.png",
+      "price": "<p>Molti <b>euri</b></p>\r\n",
+      "offerLabel": "A Soli",
+      "isSellable": "true",
+      "isAvailable": "true",
+      "deviceName": "iphone 15",
+      "lowestPrice": "<p>A partire da 12€</p>\r\n",
+      "haveMarketingLabel": "true",
+      "hub": {
+        "outOfStockLabel": "TERMINATI",
+        "action": {
+          "url": "www.google.it",
+          "type": "1",
+          "small": "true",
+          "style": "primary",
+          "title": "Scopri di più",
+          "localUrl": "local url",
+          "isBlank": "true"
+        },
+        "availableColor": {
+          "enabled": "true",
+          "label": "Colori"
+        }
+      },
+      "pdp": {
+        "stickyDescription": "<p>Bellissmo <b>smartphone</b></p>\r\n",
+        "stickyShowDetailLabel": "Visualizza dettagli",
+        "stickyTopLabel": "Il prezzo è di ",
+        "stickyHideDetailLabel": "Nascondi dettagli",
+        "action": {
+          "url": "www.google.it",
+          "type": "1",
+          "small": "false",
+          "style": "primary",
+          "title": "Scopri come averlo",
+          "localUrl": "local url",
+          "isBlank": "true"
+        },
+        "secondAction": {
+          "url": "url ",
+          "type": "1",
+          "small": "false",
+          "style": "primary",
+          "title": "Altro",
+          "localUrl": "local url",
+          "isBlank": "false"
+        }
+      },
+      "models": [
+        {
+          "displayNameColor": "Giallo sole",
+          "exColor": "rgb(255,217,127)",
+          "idSize": "3",
+          "sku": "123",
+          "price": "<p>A soli 980€ <b>SOLO</b> <b>PER</b> <b>OGGI</b></p>\r\n",
+          "isSellable": "true",
+          "isAvailable": "true",
+          "isDefault": "true",
+          "idColor": "1",
+          "images": [
+            {
+              "key": "iphone.png"
+            },
+            {
+              "key": "iphone.png"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "apple-iphone-14": {
+    "devicedetail": {
+      "description": "<p>con tanti GB per le tue foto</p>\r\n",
+      "deviceBrand": "Apple",
+      "tagLine": "best choiche",
+      "category": "smartphone",
+      "image": "iphone.png",
+      "price": "<p>Molti <b>euri</b></p>\r\n",
+      "offerLabel": "A Soli",
+      "isSellable": "true",
+      "isAvailable": "true",
+      "deviceName": "iphone 14",
+      "lowestPrice": "<p>A partire da 12€</p>\r\n",
+      "haveMarketingLabel": "true",
+      "hub": {
+        "outOfStockLabel": "TERMINATI",
+        "action": {
+          "url": "www.google.it",
+          "type": "1",
+          "small": "true",
+          "style": "primary",
+          "title": "Scopri di più",
+          "localUrl": "local url",
+          "isBlank": "true"
+        },
+        "availableColor": {
+          "enabled": "true",
+          "label": "Colori"
+        }
+      },
+      "pdp": {
+        "stickyDescription": "<p>Bellissmo <b>smartphone</b></p>\r\n",
+        "stickyShowDetailLabel": "Visualizza dettagli",
+        "stickyTopLabel": "Il prezzo è di ",
+        "stickyHideDetailLabel": "Nascondi dettagli",
+        "action": {
+          "url": "www.google.it",
+          "type": "1",
+          "small": "false",
+          "style": "primary",
+          "title": "Scopri come averlo",
+          "localUrl": "local url",
+          "isBlank": "true"
+        },
+        "secondAction": {
+          "url": "url ",
+          "type": "1",
+          "small": "false",
+          "style": "primary",
+          "title": "Altro",
+          "localUrl": "local url",
+          "isBlank": "false"
+        }
+      },
+      "models": [
+        {
+          "displayNameColor": "Giallo Sole",
+          "exColor": "rgb(255,217,127)",
+          "idSize": "3",
+          "sku": "123ds",
+          "price": "<p>A soli 980€ <b>SOLO</b> <b>PER</b> <b>OGGI</b></p>\r\n",
+          "isSellable": "true",
+          "isAvailable": "true",
+          "isDefault": "true",
+          "idColor": "1",
+          "images": [
+            {
+              "key": "iphone.png"
+            },
+            {
+              "key": "iphone.png"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "apple-iphone-14-pro-max": {
+    "devicedetail": {
+      "description": "<p>con tanti GB per le tue foto</p>\r\n",
+      "deviceBrand": "Apple",
+      "tagLine": "best choiche",
+      "category": "smartphone",
+      "image": "iphone.png",
+      "price": "<p>Molti <b>euri</b></p>\r\n",
+      "offerLabel": "A Soli",
+      "isSellable": "true",
+      "isAvailable": "true",
+      "deviceName": "iphone 14 pro max",
+      "lowestPrice": "<p>A partire da 12€</p>\r\n",
+      "haveMarketingLabel": "true",
+      "hub": {
+        "outOfStockLabel": "TERMINATI",
+        "action": {
+          "url": "www.google.it",
+          "type": "1",
+          "small": "true",
+          "style": "primary",
+          "title": "Scopri di più",
+          "localUrl": "local url",
+          "isBlank": "true"
+        },
+        "availableColor": {
+          "enabled": "true",
+          "label": "Colori"
+        }
+      },
+      "pdp": {
+        "stickyDescription": "<p>Bellissmo <b>smartphone</b></p>\r\n",
+        "stickyShowDetailLabel": "Visualizza dettagli",
+        "stickyTopLabel": "Il prezzo è di ",
+        "stickyHideDetailLabel": "Nascondi dettagli",
+        "action": {
+          "url": "www.google.it",
+          "type": "1",
+          "small": "false",
+          "style": "primary",
+          "title": "Scopri come averlo",
+          "localUrl": "local url",
+          "isBlank": "true"
+        },
+        "secondAction": {
+          "url": "url ",
+          "type": "1",
+          "small": "false",
+          "style": "primary",
+          "title": "Altro",
+          "localUrl": "local url",
+          "isBlank": "false"
+        }
+      },
+      "models": [
+        {
+          "displayNameColor": "Giallo Sole",
+          "exColor": "rgb(255,217,127)",
+          "idSize": "3",
+          "sku": "277123",
+          "price": "<p>A soli 980€ <b>SOLO</b> <b>PER</b> <b>OGGI</b></p>\r\n",
+          "isSellable": "true",
+          "isAvailable": "true",
+          "isDefault": "true",
+          "idColor": "1",
+          "images": [
+            {
+              "key": "iphone.png"
+            },
+            {
+              "key": "iphone.png"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

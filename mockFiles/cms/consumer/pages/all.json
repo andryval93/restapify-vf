@@ -1,0 +1,2057 @@
+{
+  "homepage": {
+    "widgets": {
+      "sliders": [
+        {
+          "description": "SLIDER DESCRIPTION",
+          "type": "SLIDER_IMAGE_TITLE_DESCRIPTION",
+          "title": "<p>SLIDER IMAGE TITLE DESCRIPTION TITLE <b>HTML</b></p>\r\n",
+          "disclaimer": "<p>Offerte valide su tecnologie Fibra FTTH misto Fibra/Rame FTTC   ADSL e FWA. Velocità massima fino a 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH - Fiber To The Home. Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su <a href=\"https://www.vodafone.it/eshop/tariffe-e-prodotti/internet-a-casa/fibra-ottica.html?icmp=web_cbu_fibra_info-tecnologia\">info tecnologia</a> e <a href=\"https://www.vodafone.it/portal/Privati/Tariffe-e-Prodotti/Fibra--ADSL-e-telefono/copertura-comuni?icmp=web_cbu_fibra_copertura-comuni\">copertura comuni</a>.</p>\r\n",
+          "button": {
+            "label": "SLIDER BUTTON.LABEL"
+          },
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "title": "SLIDER CUSTOMACTION.TITLE",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Elements.description",
+              "textPositionButton": "false",
+              "id": "Elements.id",
+              "key": "Elements.key",
+              "category": "Elements.category",
+              "image": "1.jpeg",
+              "title": "Elements.title",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "title": "Elements.action.title",
+                "isBlank": "false"
+              },
+              "pills": {
+                "pills": ["etichetta1", "tag2", "label3"],
+                "isDark": "grey"
+              }
+            }
+          ]
+        },
+        {
+          "description": "SLIDER DESCRIPTION",
+          "type": "SLIDER_ICON_TITLE_DESCRIPTION",
+          "title": "<p>SLIDER ICON TITLE DESCRIPTION TITLE <b>HTML</b></p>\r\n",
+          "disclaimer": "<p>Offerte valide su tecnologie Fibra FTTH misto Fibra/Rame FTTC   ADSL e FWA. Velocità massima fino a 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH - Fiber To The Home. Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su <a href=\"https://www.vodafone.it/eshop/tariffe-e-prodotti/internet-a-casa/fibra-ottica.html?icmp=web_cbu_fibra_info-tecnologia\">info tecnologia</a> e <a href=\"https://www.vodafone.it/portal/Privati/Tariffe-e-Prodotti/Fibra--ADSL-e-telefono/copertura-comuni?icmp=web_cbu_fibra_copertura-comuni\">copertura comuni</a>.</p>\r\n",
+          "button": {
+            "label": "SLIDER BUTTON.LABEL"
+          },
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "title": "SLIDER CUSTOMACTION.TITLE",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "ELEMENTS.DESCRIPTION",
+              "textPositionButton": "false",
+              "id": "ELEMENTS.ID",
+              "key": "ELEMENTS.KEY",
+              "category": "Elements.category",
+              "title": "Elements.Title",
+              "action": {
+                "url": "www.google.it",
+                "type": "1",
+                "small": "false",
+                "title": "Elements.action.title",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Elements.description",
+              "textPositionButton": "false",
+              "id": "Elements.id",
+              "key": "Elements.key",
+              "category": "Elements.category",
+              "title": "Elements.title",
+              "action": {
+                "url": "www.google.it",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "Qui ci sono tutti i prodotti di rete fissa e mobile configurati nella API product-list",
+          "type": "SLIDER_PRODUCTS_CONSUMER",
+          "title": "<p>Abbiamo <b>pensato a tutto</b></p>\r\n",
+          "button": {
+            "url": "url estern",
+            "label": "Nuovo bottone per lore ",
+            "localUrl": "url locale"
+          },
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          }
+        },
+        {
+          "type": "ANCHORS",
+          "title": "<p>Anche a come farti <b>sentire speciale.</b><br />\r\n</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Per celebrare ogni giorno\r\nla nostra storia insieme.\r\n",
+              "id": "1",
+              "title": "Happy",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/vantaggi-vodafone/vodafone-happy.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Online, in modo  semplice e immediato.",
+              "id": "2",
+              "title": "Ricarica",
+              "action": {
+                "url": "https://ricarica1click.vodafone.it/ricaricaevo/main.do",
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": " Il tuo mondo  a portata di mano.",
+              "id": "3",
+              "title": "App",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/vantaggi-vodafone/app-myvodafone.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Le risposte a tutte \r\nle tue domande.",
+              "id": "4",
+              "image": "vmax.jpeg",
+              "title": "Supporto",
+              "action": {
+                "url": "https://www.vodafone.it/privati/supporto.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "Le tue passioni sono anche le nostre. Noi siamo pronti a viverle tutte, e tu?\r\n",
+          "type": "SLIDER_EXPERIENCES",
+          "image": "vfB.jpg",
+          "title": "<p>Scoprirai che abbiamo molto in comune.</p>\r\n",
+          "button": {
+            "label": "Scopri le tue passioni"
+          },
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "divider": {
+            "text": "passioni",
+            "image": "passions.gif"
+          },
+          "elements": [
+            {
+              "description": "Con il meglio di cinema, serie tv e musica.",
+              "id": "1",
+              "image": "Divertiti.png",
+              "title": "Divertiti",
+              "maskIcon": "Divertiti@2x.png",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/vodafone-entertainment.html?icmp=MDD_vodafone_entertainment?icmp=MDD_home-page",
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Con la libertà di uscire senza telefono.",
+              "id": "2",
+              "image": "Allenati.png",
+              "title": "Allenati",
+              "maskIcon": "Allenati@2x.png",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/mobile/onenumber.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Con Vodafone il tuo smartphone ha sempre valore.",
+              "id": "3",
+              "image": "Rilassati.png",
+              "title": "Rilassati",
+              "maskIcon": "Rilassati@2x.png",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/mobile/smart-change.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Sfoglia il catalogo GameNow e preparati alla sfida.",
+              "id": "4",
+              "image": "Gioca.png",
+              "title": "Gioca",
+              "maskIcon": "Gioca@2x.png",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/mobile/game-now.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Con la Rete Vodafone puoi andare dappertutto.",
+              "image": "Viaggia.png",
+              "title": "Viaggia",
+              "maskIcon": "Viaggia@2x.png",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/mobile/offerte-telefonia-mobile/estero.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_LARGE_SMALL",
+          "title": "<p><b>Hai tutta la tecnologia</b> che vuoi.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "id": "1",
+              "image": "vmax.jpeg",
+              "title": "Benvenuto in Vodaofne",
+              "imageMobile": "unlimited_fissa.jpeg",
+              "action": {
+                "url": "https://www.vodafone.it/content/vodafone/it/self-service-channel/contenuti/mobile/TEST/samsung-galaxy-unpacked-TEST.html",
+                "type": "1",
+                "small": "true",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "id": "2",
+              "image": "smartphone.png",
+              "title": "Smartphone",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/tariffe-e-prodotti/prodotti/smartphone.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "id": "3",
+              "image": "smartwatch.png",
+              "title": "Smartwatch",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/tariffe-e-prodotti/prodotti/smartphone.html?icmp=home-page&deviceList=%7B%22selectedMobileOfferingCommitmentId%22%3A%22%22%2C%22selectedMobileOfferingCommitmentDuration%22%3A%22%22%2C%22limit%22%3Anull%2C%22paginationOffset%22%3A0%2C%22selectedSortOption%22%3A%7B%22name%22%3A%22rank%22%2C%22displayName%22%3A%22rank_asc%22%2C%22ascending%22%3Atrue%7D%2C%22selectedCategoryId%22%3A%2255180_1192580%22%2C%22groupByVariant%22%3Atrue%2C%22variantToDisplayFirst%22%3A%22%22%2C%22displayStockAvailability%22%3A%22all%22%2C%22paymentMethod%22%3A%22%22%2C%22relation%22%3A%22SELECT_DEVICE%22%2C%22selectedFilters%22%3A%5B%7B%22id%22%3A%2248780%22%2C%22title%22%3A%22Sistema+Operativo%22%2C%22name%22%3A%22Operating_System%22%2C%22value%22%3A%5B%5D%2C%22isRangeFilter%22%3Afalse%7D%2C%7B%22id%22%3A%2248980%22%2C%22title%22%3A%22Dimensioni+Display%22%2C%22name%22%3A%22Display_Size%22%2C%22value%22%3A%5B%221%2C2+in.%22%2C%221%2C3+in.%22%2C%221%2C55+in.%22%2C%221%2C56+in.%22%2C%221143+mm2%22%2C%22N.D.%22%2C%22977+mm2%22%2C%22904+mm2%22%2C%22759+mm2%22%2C%22740+mm2%22%5D%2C%22isRangeFilter%22%3Afalse%7D%2C%7B%22id%22%3A%2249380%22%2C%22title%22%3A%22Mono+%2F+Dual+SIM%22%2C%22name%22%3A%22Mono_Dual_SIM%22%2C%22value%22%3A%5B%5D%2C%22isRangeFilter%22%3Afalse%7D%2C%7B%22id%22%3A%2249580%22%2C%22title%22%3A%22Fotocamera+Integrata%22%2C%22name%22%3A%22Primary_Camera%22%2C%22value%22%3A%5B%5D%2C%22isRangeFilter%22%3Afalse%7D%2C%7B%22id%22%3A%2250480%22%2C%22title%22%3A%22Doppia+Fotocamera%22%2C%22name%22%3A%22Dual_Camera%22%2C%22value%22%3A%5B%5D%2C%22isRangeFilter%22%3Afalse%7D%2C%7B%22id%22%3A%22646180%22%2C%22title%22%3A%22Tipologia+di+SIM%22%2C%22name%22%3A%22SIM_Type_SPS%22%2C%22value%22%3A%5B%5D%2C%22isRangeFilter%22%3Afalse%7D%2C%7B%22id%22%3A%221283380%22%2C%22title%22%3A%22Device+5G%22%2C%22name%22%3A%22Device_5G%22%2C%22value%22%3A%5B%5D%2C%22isRangeFilter%22%3Afalse%7D%5D%2C%22hash%22%3A%22adeab456dd5153c38bdf18b8c97a4b65%22%2C%22searchText%22%3A%22%22%2C%22filterStock%22%3Afalse%7D",
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "id": "4",
+              "image": "TV.png",
+              "title": "TV e Console",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/fibra/smart-tv.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_LARGE_SMALL",
+          "title": "<p>Essere Vodafone ha i suoi <b>vantaggi</b>.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "divider": {
+            "text": "wow",
+            "image": "wow.gif"
+          },
+          "elements": [
+            {
+              "description": "Per celebrare ogni giorno la nostra storia insieme.",
+              "id": "1",
+              "image": "Happy_STILL2.png",
+              "title": "Vodafone Happy",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/vantaggi-vodafone/vodafone-happy.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Il programma fedeltà  che premia il tuo entusiasmo.",
+              "id": "2",
+              "image": "Club.png",
+              "title": "Vodafone Club",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/vantaggi-vodafone/vodafone-club.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Stabile e affidabile.\r\nSu di lei puoi sempre contare. ",
+              "id": "3",
+              "image": "Guarda_STILL2.png",
+              "title": "Rete Vodafone",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/rete-vodafone.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Per avere sempre a portata di mano tutto il tuo mondo.",
+              "id": "4",
+              "image": "My_vodafone_App.png",
+              "title": "My Vodafone app",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/vantaggi-vodafone/app-myvodafone.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Protezione e privacy, per navigare senza rischi.",
+              "id": "5",
+              "image": "Rete_Sicura.png",
+              "title": "Rete sicura 2.0",
+              "action": {
+                "url": "https://www.vodafone.it/eshop/contenuti/mobile/rete-sicura.html?icmp=home-page",
+                "type": "1",
+                "small": "false",
+                "buttonType": "undefined",
+                "isBlank": "false"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "seo": {
+      "canonicalUrl": "seo canonica",
+      "title": "title seo homepage",
+      "ogImageUrl": "seo img",
+      "ogDescription": "description seo home page"
+    },
+    "pagesparams": {
+      "key": "homepage",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "true",
+        "isHeaderSmall": "false"
+      },
+      "urlBuilder": [
+        {
+          "page": " "
+        }
+      ]
+    }
+  },
+  "hub-fixed-line": {
+    "pagesparams": {
+      "key": "hubFixedLine",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "true",
+        "isHeaderSmall": "false"
+      },
+      "apiPath": {
+        "apiProductsList": "consumer/eshop/fixed-line/products/all",
+        "apiOfferList": "consumer/eshop/fixed-line/offer-list"
+      },
+      "urlBuilder": [
+        {
+          "page": "casa"
+        },
+        {
+          "page": "fibra"
+        }
+      ]
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "type": "HUB",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          }
+        },
+        {
+          "description": "SLIDER DESCRIPTION",
+          "type": "SLIDER_IMAGE_TITLE_DESCRIPTION",
+          "title": "<p>SLIDER IMAGE TITLE DESCRIPTION TITLE <b>HTML</b></p>\r\n",
+          "disclaimer": "<p>Offerte valide su tecnologie Fibra FTTH misto Fibra/Rame FTTC   ADSL e FWA. Velocità massima fino a 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH - Fiber To The Home. Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su <a href=\"https://www.vodafone.it/eshop/tariffe-e-prodotti/internet-a-casa/fibra-ottica.html?icmp=web_cbu_fibra_info-tecnologia\">info tecnologia</a> e <a href=\"https://www.vodafone.it/portal/Privati/Tariffe-e-Prodotti/Fibra--ADSL-e-telefono/copertura-comuni?icmp=web_cbu_fibra_copertura-comuni\">copertura comuni</a>.</p>\r\n",
+          "button": {
+            "label": "SLIDER BUTTON.LABEL"
+          },
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "title": "SLIDER CUSTOMACTION.TITLE",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Elements.description",
+              "textPositionButton": "false",
+              "id": "Elements.id",
+              "key": "Elements.key",
+              "category": "Elements.category",
+              "image": "1.jpeg",
+              "title": "Elements.title",
+              "pills": {
+                "pills": [
+                  {
+                    "keyword": "ciao"
+                  },
+                  {
+                    "keyword": "Umberto"
+                  },
+                  {
+                    "keyword": "ciao"
+                  }
+                ]
+              },
+              "action": {
+                "type": "1",
+                "small": "false",
+                "title": "Elements.action.title",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Elements.description",
+              "textPositionButton": "false",
+              "id": "Elements.id",
+              "key": "Elements.key",
+              "category": "Elements.category",
+              "image": "1.jpeg",
+              "title": "Elements.title",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "title": "Elements.action.title",
+                "isBlank": "false",
+                "style": "primary"
+              }
+            },
+            {
+              "description": "Elements.description, Elements.description, Elements.description, Elements.description, Elements.description, Elements.description",
+              "textPositionButton": "false",
+              "pills": {
+                "pills": [
+                  {
+                    "keyword": "ciao"
+                  },
+                  {
+                    "keyword": "Umberto"
+                  }
+                ],
+                "isDark": "true"
+              },
+              "id": "Elements.id",
+              "key": "Elements.key",
+              "category": "Elements.category",
+              "image": "1.jpeg",
+              "title": "Elements.title",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "title": "Elements.action.title",
+                "isBlank": "false"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hub-mobile-line": {
+    "pagesparams": {
+      "key": "hubMobileLine",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "true",
+        "isHeaderSmall": "false"
+      },
+      "apiPath": {
+        "apiProductsList": "consumer/eshop/mobile-line/products/all",
+        "apiOfferList": "consumer/eshop/mobile-line/offer-list"
+      },
+      "urlBuilder": [
+        {
+          "page": "mobile"
+        },
+        {
+          "page": "telefonia-mobile"
+        }
+      ]
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "type": "HUB",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          }
+        }
+      ]
+    }
+  },
+  "component-documentation": {
+    "heroslider": {
+      "description": "HERO SLIDER DESCRIPTION",
+      "image": "1.jpeg",
+      "title": "<p>HERO SLIDER TITLE&nbsp;</p>\r\n",
+      "slides": [
+        {
+          "description": "HERO SLIDER ELEMENTS DESCRIPTION",
+          "textPositionButton": "false",
+          "id": "HERO SLIDER ELEMENTS ID ",
+          "key": "HERO SLIDER ELEMENTS KEY",
+          "category": "HERO SLIDER ELEMENTS CATEGORY",
+          "image": "1.jpeg",
+          "title": "HERO SLIDER ELEMENTS TITLE",
+          "action": {
+            "type": "1",
+            "small": "false",
+            "buttonType": "undefined",
+            "isBlank": "false"
+          }
+        }
+      ],
+      "divider": {
+        "image": "wow.gif"
+      }
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "description": "SLIDER DEFAULT DESCRIPTION",
+          "type": "SLIDER_DEFAULT",
+          "image": "1.jpeg",
+          "title": "<p>SLIDER DEFAULT TITLE <b>HTML</b></p>\r\n",
+          "disclaimer": "<p>Offerte valide su tecnologie Fibra FTTH misto Fibra/Rame FTTC   ADSL e FWA. Velocità massima fino a 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH - Fiber To The Home. Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su <a href=\"https://www.vodafone.it/eshop/tariffe-e-prodotti/internet-a-casa/fibra-ottica.html?icmp=web_cbu_fibra_info-tecnologia\">info tecnologia</a> e <a href=\"https://www.vodafone.it/portal/Privati/Tariffe-e-Prodotti/Fibra--ADSL-e-telefono/copertura-comuni?icmp=web_cbu_fibra_copertura-comuni\">copertura comuni</a>.</p>\r\n",
+          "button": {
+            "url": "www.google.it",
+            "label": "SLIDER BUTTON.LABEL"
+          },
+          "customAction": {
+            "url": "www.google.it",
+            "type": "1",
+            "small": "false",
+            "title": "SLIDER CUSTOMACTION.TITLE",
+            "isBlank": "false"
+          },
+          "divider": {
+            "image": "wow.gif"
+          },
+          "elements": [
+            {
+              "description": "ELEMENTS.DESCRIPTION",
+              "textPositionButton": "false",
+              "id": "1",
+              "key": "ELEMENTS.KEY",
+              "category": "ELEMENTS.CATEGORY",
+              "image": "1.jpeg",
+              "title": "ELEMENTS.TITLE",
+              "maskIcon": "5g.png",
+              "action": {
+                "url": "www.google.it",
+                "type": "1",
+                "small": "false",
+                "title": "ELEMENTS.ACTION.TITLE",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "SLIDER EXPERIENCES DESCRIPTION",
+          "type": "SLIDER_EXPERIENCES",
+          "image": "Guarda_STILL2.png",
+          "title": "<p>SLIDER EXPERIENCES TITLE <b>HTML</b></p>\r\n",
+          "disclaimer": "<p>Offerte valide su tecnologie Fibra FTTH misto Fibra/Rame FTTC   ADSL e FWA. Velocità massima fino a 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH - Fiber To The Home. Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su <a href=\"https://www.vodafone.it/eshop/tariffe-e-prodotti/internet-a-casa/fibra-ottica.html?icmp=web_cbu_fibra_info-tecnologia\">info tecnologia</a> e <a href=\"https://www.vodafone.it/portal/Privati/Tariffe-e-Prodotti/Fibra--ADSL-e-telefono/copertura-comuni?icmp=web_cbu_fibra_copertura-comuni\">copertura comuni</a>.</p>\r\n",
+          "button": {
+            "url": "www.google.it",
+            "label": "SLIDER BUTTON LABEL"
+          },
+          "customAction": {
+            "url": "www.google.it",
+            "type": "1",
+            "small": "false",
+            "title": "SLIDER CUSTOMACTION.TITLE",
+            "isBlank": "false"
+          },
+          "divider": {
+            "image": "wow.gif"
+          },
+          "elements": [
+            {
+              "description": "ELEMENTS.DESCRIPTION",
+              "textPositionButton": "false",
+              "id": "ELEMENTS.ID",
+              "key": "ELEMENTS.KEY",
+              "category": "ELEMENTS.CATEGORY",
+              "image": "Divertiti.png",
+              "title": "ELEMENTS.TITLE",
+              "maskIcon": "5g.png",
+              "action": {
+                "url": "www.google.it",
+                "type": "1",
+                "small": "false",
+                "title": "Element.action.title",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "SLIDER DESCRIPTION",
+          "type": "SLIDER_ICON_TITLE_DESCRIPTION",
+          "title": "<p>SLIDER ICON TITLE DESCRIPTION TITLE <b>HTML</b></p>\r\n",
+          "disclaimer": "<p>Offerte valide su tecnologie Fibra FTTH misto Fibra/Rame FTTC   ADSL e FWA. Velocità massima fino a 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH - Fiber To The Home. Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su <a href=\"https://www.vodafone.it/eshop/tariffe-e-prodotti/internet-a-casa/fibra-ottica.html?icmp=web_cbu_fibra_info-tecnologia\">info tecnologia</a> e <a href=\"https://www.vodafone.it/portal/Privati/Tariffe-e-Prodotti/Fibra--ADSL-e-telefono/copertura-comuni?icmp=web_cbu_fibra_copertura-comuni\">copertura comuni</a>.</p>\r\n",
+          "button": {
+            "label": "SLIDER BUTTON.LABEL"
+          },
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "title": "SLIDER CUSTOMACTION.TITLE",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "ELEMENTS.DESCRIPTION",
+              "textPositionButton": "false",
+              "id": "ELEMENTS.ID",
+              "key": "ELEMENTS.KEY",
+              "category": "Elements.category",
+              "title": "Elements.Title",
+              "action": {
+                "url": "www.google.it",
+                "type": "1",
+                "small": "false",
+                "title": "Elements.action.title",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Elements.description",
+              "textPositionButton": "false",
+              "id": "Elements.id",
+              "key": "Elements.key",
+              "category": "Elements.category",
+              "title": "Elements.title",
+              "action": {
+                "url": "www.google.it",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "SLIDER DESCRIPTION",
+          "type": "SLIDER_IMAGE_TITLE_DESCRIPTION",
+          "title": "<p>SLIDER IMAGE TITLE DESCRIPTION TITLE <b>HTML</b></p>\r\n",
+          "disclaimer": "<p>Offerte valide su tecnologie Fibra FTTH misto Fibra/Rame FTTC   ADSL e FWA. Velocità massima fino a 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH - Fiber To The Home. Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su <a href=\"https://www.vodafone.it/eshop/tariffe-e-prodotti/internet-a-casa/fibra-ottica.html?icmp=web_cbu_fibra_info-tecnologia\">info tecnologia</a> e <a href=\"https://www.vodafone.it/portal/Privati/Tariffe-e-Prodotti/Fibra--ADSL-e-telefono/copertura-comuni?icmp=web_cbu_fibra_copertura-comuni\">copertura comuni</a>.</p>\r\n",
+          "button": {
+            "label": "SLIDER BUTTON.LABEL"
+          },
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "title": "SLIDER CUSTOMACTION.TITLE",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Elements.description",
+              "textPositionButton": "false",
+              "id": "Elements.id",
+              "key": "Elements.key",
+              "category": "Elements.category",
+              "image": "1.jpeg",
+              "title": "Elements.title",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "title": "Elements.action.title",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "Slider Description",
+          "type": "SLIDER_LARGE_LARGE",
+          "title": "<p>Slider Large Large Title <b>HTML</b></p>\r\n",
+          "disclaimer": "<p>Offerte valide su tecnologie Fibra FTTH misto Fibra/Rame FTTC   ADSL e FWA. Velocità massima fino a 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH - Fiber To The Home. Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su <a href=\"https://www.vodafone.it/eshop/tariffe-e-prodotti/internet-a-casa/fibra-ottica.html?icmp=web_cbu_fibra_info-tecnologia\">info tecnologia</a> e <a href=\"https://www.vodafone.it/portal/Privati/Tariffe-e-Prodotti/Fibra--ADSL-e-telefono/copertura-comuni?icmp=web_cbu_fibra_copertura-comuni\">copertura comuni</a>.</p>\r\n",
+          "button": {
+            "label": "Slider button.label"
+          },
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "title": "Slider customAction.title",
+            "isBlank": "false"
+          },
+          "divider": {
+            "image": "wow.gif"
+          },
+          "elements": [
+            {
+              "description": "element.description",
+              "textPositionButton": "false",
+              "id": "element.id",
+              "key": "element.key",
+              "category": "element.category",
+              "image": "1.jpeg",
+              "title": "element.title",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "title": "element.action.title",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "element.description",
+              "textPositionButton": "false",
+              "key": "element.key",
+              "category": "element.category",
+              "image": "Allenati.png",
+              "title": "element.title",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "slider description",
+          "type": "SLIDER_LARGE_SMALL",
+          "title": "<p>Slider large small Title <b>HTML</b></p>\r\n",
+          "disclaimer": "<p>Offerte valide su tecnologie Fibra FTTH misto Fibra/Rame FTTC   ADSL e FWA. Velocità massima fino a 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH - Fiber To The Home. Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su <a href=\"https://www.vodafone.it/eshop/tariffe-e-prodotti/internet-a-casa/fibra-ottica.html?icmp=web_cbu_fibra_info-tecnologia\">info tecnologia</a> e <a href=\"https://www.vodafone.it/portal/Privati/Tariffe-e-Prodotti/Fibra--ADSL-e-telefono/copertura-comuni?icmp=web_cbu_fibra_copertura-comuni\">copertura comuni</a>.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "element.description",
+              "textPositionButton": "false",
+              "id": "1",
+              "key": "element.key",
+              "category": "element.category",
+              "image": "FTTH.png",
+              "title": "element.title",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "title": "element.action.title",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "element.description",
+              "textPositionButton": "false",
+              "key": "element.key",
+              "category": "element.category",
+              "image": "FWA_STILL2.png",
+              "title": "element.title",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "slider description",
+          "type": "SPLITTED_IMAGE_TEXT",
+          "image": "2.jpeg",
+          "title": "<p>Slider Splitted image Text Title <b>HTML</b></p>\r\n",
+          "disclaimer": "<p>Offerte valide su tecnologie Fibra FTTH misto Fibra/Rame FTTC   ADSL e FWA. Velocità massima fino a 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH - Fiber To The Home. Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su <a href=\"https://www.vodafone.it/eshop/tariffe-e-prodotti/internet-a-casa/fibra-ottica.html?icmp=web_cbu_fibra_info-tecnologia\">info tecnologia</a> e <a href=\"https://www.vodafone.it/portal/Privati/Tariffe-e-Prodotti/Fibra--ADSL-e-telefono/copertura-comuni?icmp=web_cbu_fibra_copertura-comuni\">copertura comuni</a>.</p>\r\n",
+          "button": {
+            "url": "www.google.it",
+            "label": "slider button.label"
+          },
+          "customAction": {
+            "url": "www.google.it",
+            "type": "1",
+            "small": "false",
+            "title": "slider customAction.title",
+            "isBlank": "false"
+          },
+          "divider": {
+            "image": "wow.gif"
+          },
+          "elements": [
+            {
+              "description": "elements.desdcription",
+              "textPositionButton": "false",
+              "id": "elements.id",
+              "key": "elements.key",
+              "category": "elements.category",
+              "image": "3.jpeg",
+              "title": "elements.title",
+              "action": {
+                "url": "www.google.it",
+                "type": "1",
+                "small": "false",
+                "title": "elements.action.title",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "Anchors description ",
+          "type": "ANCHORS",
+          "title": "<p>Anchors Title <b>HTML</b></p>\r\n",
+          "disclaimer": "<p>Offerte valide su tecnologie Fibra FTTH misto Fibra/Rame FTTC   ADSL e FWA. Velocità massima fino a 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH - Fiber To The Home. Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su <a href=\"https://www.vodafone.it/eshop/tariffe-e-prodotti/internet-a-casa/fibra-ottica.html?icmp=web_cbu_fibra_info-tecnologia\">info tecnologia</a> e <a href=\"https://www.vodafone.it/portal/Privati/Tariffe-e-Prodotti/Fibra--ADSL-e-telefono/copertura-comuni?icmp=web_cbu_fibra_copertura-comuni\">copertura comuni</a>.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "elements.description",
+              "textPositionButton": "false",
+              "id": "elements.id",
+              "key": "elements.key",
+              "category": "elements.category",
+              "title": "elements.tite",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "Fwa description",
+          "type": "FAQ",
+          "title": "<p>Faq title<b> HTML </b></p>\r\n",
+          "disclaimer": "<p>Offerte valide su tecnologie Fibra FTTH misto Fibra/Rame FTTC   ADSL e FWA. Velocità massima fino a 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH - Fiber To The Home. Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su <a href=\"https://www.vodafone.it/eshop/tariffe-e-prodotti/internet-a-casa/fibra-ottica.html?icmp=web_cbu_fibra_info-tecnologia\">info tecnologia</a> e <a href=\"https://www.vodafone.it/portal/Privati/Tariffe-e-Prodotti/Fibra--ADSL-e-telefono/copertura-comuni?icmp=web_cbu_fibra_copertura-comuni\">copertura comuni</a>.</p>\r\n",
+          "button": {
+            "label": "slider button.label"
+          },
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "title": "slider customAction.title",
+            "isBlank": "false"
+          },
+          "divider": {
+            "image": "wow.gif"
+          },
+          "elements": [
+            {
+              "description": "elements.description",
+              "textPositionButton": "false",
+              "id": "elements.id",
+              "key": "elements.key",
+              "category": "elements.category",
+              "title": "elements.title",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "title": "elements.action.title",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "https://www.youtube.com/embed/CZx0pFk_QGs",
+          "type": "VIDEO",
+          "title": "<p>Video Title <b>HTML</b></p>\r\n<p>For adding a video put URL in <i>slider.description</i></p>\r\n",
+          "disclaimer": "<p>Offerte valide su tecnologie Fibra FTTH misto Fibra/Rame FTTC   ADSL e FWA. Velocità massima fino a 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH - Fiber To The Home. Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su <a href=\"https://www.vodafone.it/eshop/tariffe-e-prodotti/internet-a-casa/fibra-ottica.html?icmp=web_cbu_fibra_info-tecnologia\">info tecnologia</a> e <a href=\"https://www.vodafone.it/portal/Privati/Tariffe-e-Prodotti/Fibra--ADSL-e-telefono/copertura-comuni?icmp=web_cbu_fibra_copertura-comuni\">copertura comuni</a>.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          }
+        },
+        {
+          "description": "Slider Text description <b>HTML</b>",
+          "type": "TEXT",
+          "title": "<p>TEXT TITLE <b>HTML</b></p>\r\n",
+          "disclaimer": "<p>Offerte valide su tecnologie Fibra FTTH misto Fibra/Rame FTTC   ADSL e FWA. Velocità massima fino a 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH - Fiber To The Home. Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su <a href=\"https://www.vodafone.it/eshop/tariffe-e-prodotti/internet-a-casa/fibra-ottica.html?icmp=web_cbu_fibra_info-tecnologia\">info tecnologia</a> e <a href=\"https://www.vodafone.it/portal/Privati/Tariffe-e-Prodotti/Fibra--ADSL-e-telefono/copertura-comuni?icmp=web_cbu_fibra_copertura-comuni\">copertura comuni</a>.</p>\r\n",
+          "button": {
+            "url": "www.google.it",
+            "label": "slider Button.label"
+          },
+          "customAction": {
+            "url": "www.google.it",
+            "type": "1",
+            "small": "false",
+            "title": "slider customAction.title",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "elements.description",
+              "textPositionButton": "false",
+              "id": "elements.id",
+              "key": "elements.key",
+              "category": "elements.category",
+              "title": "elements.title",
+              "action": {
+                "url": "www.google.it",
+                "type": "1",
+                "small": "false",
+                "title": "Elements.Action",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "Slider Text Action description <b>HTML</b>",
+          "type": "TEXT_ACTION",
+          "title": "<p>Slider Text Action title <b>HTML</b></p>\r\n",
+          "disclaimer": "<p>Offerte valide su tecnologie Fibra FTTH misto Fibra/Rame FTTC   ADSL e FWA. Velocità massima fino a 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH - Fiber To The Home. Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su <a href=\"https://www.vodafone.it/eshop/tariffe-e-prodotti/internet-a-casa/fibra-ottica.html?icmp=web_cbu_fibra_info-tecnologia\">info tecnologia</a> e <a href=\"https://www.vodafone.it/portal/Privati/Tariffe-e-Prodotti/Fibra--ADSL-e-telefono/copertura-comuni?icmp=web_cbu_fibra_copertura-comuni\">copertura comuni</a>.</p>\r\n",
+          "button": {
+            "url": "www.google.it",
+            "label": "Slider button "
+          },
+          "customAction": {
+            "url": "www.google.it",
+            "type": "1",
+            "small": "false",
+            "title": "slider custom action",
+            "isBlank": "false"
+          },
+          "divider": {
+            "image": "wow.gif"
+          },
+          "elements": [
+            {
+              "description": "elements.description",
+              "textPositionButton": "false",
+              "key": "elemnts.key",
+              "category": "elements.key",
+              "title": "elements.title",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "title": "elemenst action ",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "slider description <b>HTML</b>",
+          "type": "TOP_HERO",
+          "image": "1.jpeg",
+          "title": "<p>Slider Top Hero Title <b>HTML</b></p>\r\n",
+          "disclaimer": "<p>Offerte valide su tecnologie Fibra FTTH misto Fibra/Rame FTTC   ADSL e FWA. Velocità massima fino a 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH - Fiber To The Home. Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su <a href=\"https://www.vodafone.it/eshop/tariffe-e-prodotti/internet-a-casa/fibra-ottica.html?icmp=web_cbu_fibra_info-tecnologia\">info tecnologia</a> e <a href=\"https://www.vodafone.it/portal/Privati/Tariffe-e-Prodotti/Fibra--ADSL-e-telefono/copertura-comuni?icmp=web_cbu_fibra_copertura-comuni\">copertura comuni</a>.</p>\r\n",
+          "button": {
+            "url": "www.google.it",
+            "label": "slider button.label"
+          },
+          "customAction": {
+            "url": "www.google.it",
+            "type": "1",
+            "small": "false",
+            "title": "slider cusatomAction.title",
+            "isBlank": "false"
+          },
+          "divider": {
+            "image": "wow.gif"
+          },
+          "elements": [
+            {
+              "description": "elements.description",
+              "textPositionButton": "false",
+              "key": "elements.key",
+              "category": "elements.category",
+              "title": "elements.title",
+              "action": {
+                "url": "www.google.it",
+                "type": "1",
+                "small": "false",
+                "title": "Elements action ",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "slider description ",
+          "type": "TABS",
+          "title": "<p>SLIDER TABS TITLE <b>HTML</b></p>\r\n",
+          "disclaimer": "<p>Offerte valide su tecnologie Fibra FTTH&nbsp;misto Fibra/Rame FTTC&nbsp;&nbsp; ADSL&nbsp;e FWA. Velocità massima fino a 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH - Fiber To The Home. Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su&nbsp;<a href=\"https://www.vodafone.it/eshop/tariffe-e-prodotti/internet-a-casa/fibra-ottica.html?icmp=web_cbu_fibra_info-tecnologia\">info tecnologia</a>&nbsp;e&nbsp;<a href=\"https://www.vodafone.it/portal/Privati/Tariffe-e-Prodotti/Fibra--ADSL-e-telefono/copertura-comuni?icmp=web_cbu_fibra_copertura-comuni\">copertura comuni</a>.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "elements description",
+              "textPositionButton": "false",
+              "id": "elements id",
+              "key": "elements key",
+              "category": "elements category",
+              "title": "elements title",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "elements description",
+              "textPositionButton": "false",
+              "id": "elements id",
+              "key": "elements key",
+              "category": "elements category",
+              "title": "elements title",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "slider description <b>html</b",
+          "ref": "slider ref",
+          "type": "CLICK_TO_CALL",
+          "title": "<p>Slider Click To Call title <b>HTML</b></p>\r\n",
+          "disclaimer": "<p>Offerte valide su tecnologie Fibra FTTH&nbsp;misto Fibra/Rame FTTC&nbsp;&nbsp; ADSL&nbsp;e FWA. Velocità massima fino a 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH - Fiber To The Home. Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su&nbsp;<a href=\"https://www.vodafone.it/eshop/tariffe-e-prodotti/internet-a-casa/fibra-ottica.html?icmp=web_cbu_fibra_info-tecnologia\">info tecnologia</a>&nbsp;e&nbsp;<a href=\"https://www.vodafone.it/portal/Privati/Tariffe-e-Prodotti/Fibra--ADSL-e-telefono/copertura-comuni?icmp=web_cbu_fibra_copertura-comuni\">copertura comuni</a>.</p>\r\n",
+          "button": {
+            "label": "slider button"
+          },
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "title": "slider custom action",
+            "isBlank": "false"
+          },
+          "divider": {
+            "image": "wow.gif"
+          },
+          "elements": [
+            {
+              "description": "elements description",
+              "textPositionButton": "false",
+              "id": "elements id",
+              "key": "elements key",
+              "category": "elements category",
+              "title": "elements title",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "slider description <b>HTML</b>",
+          "type": "DOCUMENTS",
+          "title": "<p>Slider documents title <b>HTML</b></p>\r\n",
+          "disclaimer": "<p>Offerte valide su tecnologie Fibra FTTH&nbsp;misto Fibra/Rame FTTC&nbsp;&nbsp; ADSL&nbsp;e FWA. Velocità massima fino a 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH - Fiber To The Home. Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su&nbsp;<a href=\"https://www.vodafone.it/eshop/tariffe-e-prodotti/internet-a-casa/fibra-ottica.html?icmp=web_cbu_fibra_info-tecnologia\">info tecnologia</a>&nbsp;e&nbsp;<a href=\"https://www.vodafone.it/portal/Privati/Tariffe-e-Prodotti/Fibra--ADSL-e-telefono/copertura-comuni?icmp=web_cbu_fibra_copertura-comuni\">copertura comuni</a>.</p>\r\n",
+          "button": {
+            "label": "slider button"
+          },
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "title": "slider custom action",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "elements description",
+              "textPositionButton": "false",
+              "id": "elements id",
+              "key": "elements key",
+              "category": "elements category",
+              "title": "elements title",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "pagesparams": {
+      "key": "documentationPage",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "true",
+        "isHeaderSmall": "false"
+      },
+      "urlBuilder": [
+        {
+          "page": "documentationPage"
+        }
+      ]
+    }
+  },
+  "home-page-consumer": {
+    "pagesparams": {
+      "key": "oldPage",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "true",
+        "isHeaderSmall": "false"
+      },
+      "urlBuilder": [
+        {
+          "page": "old"
+        },
+        {
+          "page": "page"
+        }
+      ]
+    },
+    "heroslider": {
+      "slides": [
+        {
+          "description": "This is the new page",
+          "textPositionButton": "false",
+          "category": "Presentation",
+          "title": "Hello world",
+          "video": "Happy_Horizontal.mp4",
+          "action": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          }
+        }
+      ]
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "type": "SLIDER_PRODUCTS",
+          "title": "<p>Abbiamo <b>pensato a tutto</b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "textPositionButton": "false",
+              "id": "5",
+              "key": "hubMobileLine",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "textPositionButton": "false",
+              "id": "6391483",
+              "key": "hubFixedLine",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "ANCHORS",
+          "title": "<p>Anche a come farti <b>sentire speciale.</b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Per celebrare ogni giorno\r\nla nostra storia insieme.\r\n",
+              "textPositionButton": "false",
+              "title": "Happy",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "Le tue passioni sono anche le nostre. Noi siamo pronti a viverle tutte, e tu?\r\n",
+          "type": "SLIDER_EXPERIENCES",
+          "image": "vfB.jpg",
+          "title": "<p>Scoprirai che abbiamo molto in comune.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Con il meglio di cinema, serie tv e musica.",
+              "textPositionButton": "false",
+              "image": "Divertiti.png",
+              "title": "Divertiti",
+              "maskIcon": "Divertiti@2x.png",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "presentation-page": {
+    "pagesparams": {
+      "key": "presentationPage",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "true",
+        "isHeaderSmall": "false"
+      },
+      "urlBuilder": [
+        {
+          "page": "presentation"
+        },
+        {
+          "page": "home"
+        }
+      ]
+    },
+    "heroslider": {
+      "slides": [
+        {
+          "description": "This is our first component",
+          "textPositionButton": "false",
+          "category": "PRESENTATION",
+          "title": "Hello world",
+          "video": "Happy_Horizontal.mp4",
+          "action": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          }
+        }
+      ]
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "type": "SLIDER_PRODUCTS",
+          "title": "<p>Abbiamo <b>pensato a tutto</b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "textPositionButton": "false",
+              "id": "5",
+              "key": "hubMobileLine",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "textPositionButton": "false",
+              "id": "6391483",
+              "key": "hubFixedLine",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "ANCHORS",
+          "title": "<p>Anche a come farti <b>sentire speciale.</b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Per celebrare ogni giorno\r\nla nostra storia insieme.\r\n",
+              "textPositionButton": "false",
+              "title": "Happy",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_EXPERIENCES",
+          "image": "vfB.jpg",
+          "title": "<p>Scoprirai che abbiamo molto in comune.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Con il meglio di cinema, serie tv e musica.",
+              "textPositionButton": "false",
+              "image": "Divertiti.png",
+              "title": "Divertiti",
+              "maskIcon": "Divertiti@2x.png",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "test-page": {
+    "pagesparams": {
+      "key": "testPage01",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "true",
+        "isHeaderSmall": "false"
+      },
+      "urlBuilder": [
+        {
+          "page": "test"
+        },
+        {
+          "page": "page"
+        }
+      ]
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "descriptionMobile": "Disponibile su Apple Store, Google Play e App Gallery",
+          "description": "Inquadra il QR code con la fotocamera del tuo smartphone o tablet e scarica l'app My Vodafone. Disponibile su questi store:",
+          "type": "QR_MODULE",
+          "image": "app.jpg",
+          "title": "<p><b>Scarica ora l'app My Vodafone</b></p>\r\n",
+          "imageMobile": "qrcode-app.png",
+          "button": {
+            "url": "http://voda.it/myvodafone?icmp=pushApp",
+            "label": "Scarica l'app My Vodafone"
+          },
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "textPositionButton": "false",
+              "id": "app-store",
+              "image": "appleStore.svg",
+              "action": {
+                "url": "https://www.apple.com/it/store",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "textPositionButton": "false",
+              "id": "play-store",
+              "image": "playStore.svg",
+              "action": {
+                "url": "https://play.google.com/store/apps?hl=it&gl=US&pli=1",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "textPositionButton": "false",
+              "id": "app-gallery",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "TOP_HERO",
+          "image": "3.jpeg",
+          "title": "<p>Buongiorno a tutti</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "title": "ATTIVA CON OPERATORE",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "   ",
+              "textPositionButton": "false",
+              "action": {
+                "url": " https://assistenza.vodafone.it/cmb/adsl_business/call_me_now.php?DESC=web_eshop_noabtest_org_pagina-di-prodotto____fixed_onenet-piva-mini_25",
+                "type": "1",
+                "small": "false",
+                "title": "ATTIVA CON OPERATORE",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "description": "Internet per il tuo business alla massima velocità: naviga senza limiti con la migliore tecnologia.\r\nInclusi modem con Wi-Fi ottimizzato e assistenza dedicata in caso di disservizi.",
+          "type": "TEXT",
+          "title": "<p>titolo</p>\r\n",
+          "disclaimer": "<p>&quot;disclaimer&quot;: &quot;&lt;p&gt;Offerta valida su tecnologia Fibra misto Fibra/Rame e ADSL . Velocità 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH – Fiber To The Home. ?Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su info tecnologia e copertura comuni.&lt;/p&gt;\\r\\n&quot;,</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          }
+        },
+        {
+          "type": "TEXT_ACTION",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "descrizione del componente ",
+              "textPositionButton": "false",
+              "title": "Elemento con bottone",
+              "action": {
+                "url": "www.google.it",
+                "type": "1",
+                "small": "false",
+                "title": "cliccami",
+                "isBlank": "false"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "hub-winback": {
+    "pagesparams": {
+      "key": "hubWinback",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "true",
+        "isHeaderSmall": "true",
+        "isDisabledInitialTrack": "true"
+      },
+      "apiPath": {
+        "apiProductsList": "consumer/eshop/mobile-line/products/all",
+        "apiOfferList": "consumer/eshop/mobile-line/offer-list"
+      },
+      "urlBuilder": [
+        {
+          "page": "test"
+        },
+        {
+          "page": "winback"
+        }
+      ]
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "type": "HUB_WINBACK",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          }
+        }
+      ]
+    }
+  },
+  "lead-platform": {
+    "pagesparams": {
+      "key": "leadPlatform",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "true",
+        "isHeaderSmall": "false"
+      },
+      "urlBuilder": [
+        {
+          "page": "lead-platform"
+        }
+      ]
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "type": "TOP_HERO",
+          "image": "3.jpeg",
+          "title": "<p>Buongiorno a tutti</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "title": "ATTIVA CON OPERATORE",
+            "isBlank": "false"
+          },
+          "elements": []
+        },
+        {
+          "type": "ANCHORS",
+          "title": "<p>Anche a come farti <b>sentire speciale.</b></p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Per celebrare ogni giorno\r\nla nostra storia insieme.\r\n",
+              "textPositionButton": "false",
+              "title": "Happy",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "FORMS",
+          "elements": []
+        }
+      ]
+    },
+    "forms": {
+      "config": {
+         "textAlign": "center",
+         "title": "Vuoi maggiori <b>informazioni??</b>",
+         "description": "<b>Lascia</b> i tuoi dati e ti contatteremo al più presto.",
+         "footer":
+           "<p>Autorizzo Vodafone al contatto telefonico richiesto. <a href='https://www.vodafone.it/portal/Privati/Area-Privacy/La-nostra-informativa' target='_blank'>Informativa Privacy</a></p>"
+       },
+       "submit": {
+         "label": "Ti chiamiamo gratis",
+         "variant": 3,
+         "splitHiddenValues": "false",
+         "enableQueryParamsInHidden": "true",
+         "bodyServiceInputKey": "Fields",
+         "url": "https://hvq5flani4.execute-api.eu-south-1.amazonaws.com/dev",
+         "method": "POST",
+         "headers": [
+           {
+             "title": "x-api-key",
+             "value": " "
+           }
+         ],
+         "success": {
+           "title": "Ok",
+           "message": "Tutto ok, nessun problema",
+           "action": {
+             "title": "Chiudi"
+           }
+         },
+         "error": {
+           "title": "Ops",
+           "message": "Si è verificato un problema",
+           "action": {
+             "title": "Riprova"
+           }
+         }
+       },
+       "input": [
+         {
+           "label": "",
+           "type": "text",
+           "name": "CampaignID",
+           "value": "C1",
+           "isColMiddle": "false",
+           "isHidden": "true",
+           "validations": []
+         },
+         {
+           "label": "",
+           "type": "text",
+           "name": "Area",
+           "value": "CBU",
+           "isColMiddle": "false",
+           "isHidden": "true",
+           "validations": []
+         },
+         {
+           "label": "Inserisci la partita iva",
+           "type": "text",
+           "name": "piva",
+           "value": "",
+           "isColMiddle": "true",
+           "validations": [
+             {
+               "type": "minLength",
+               "value": 3,
+               "message": "Min. 3 caratteri"
+             },
+             {
+               "type": "maxLength",
+               "value": 9,
+               "message": "Max 9 caratteri"
+             },
+             {
+               "type": "required",
+               "message": "La partita iva è obbligatoria"
+             }
+           ]
+         },
+         {
+           "label": "Azienda",
+           "type": "text",
+           "name": "azienda",
+           "value": "",
+           "isColMiddle": "false",
+           "validations": [
+             {
+               "type": "minLength",
+               "value": 3,
+               "message": "Min. 3 caratteri"
+             },
+             {
+               "type": "maxLength",
+               "value": 9,
+               "message": "Max 9 caratteri"
+             },
+             {
+               "type": "required",
+               "message": "L\\'azienda è obbligatoria"
+             }
+           ]
+         },
+         {
+           "type": "select",
+           "name": "Provincia",
+           "label": "--- Seleziona provincia ---",
+           "value": "",
+           "isColMiddle": "true",
+           "options": [
+             { "value": "1", "desc": "Ancona" },
+             { "value": "2", "desc": "Macerata" },
+             { "value": "3", "desc": "Pesaro Urbino" },
+             { "value": "4", "desc": "Ascoli Piceno" },
+             { "value": "5", "desc": "Alessandria" },
+             { "value": "6", "desc": "Asti" },
+             { "value": "7", "desc": "Biella" },
+             { "value": "8", "desc": "Cuneo" }
+           ],
+           "validations": [
+             {
+               "type": "required",
+               "message": "La provincia è obbligatoria"
+             }
+           ]
+         },
+         {
+           "label": "Numero di telefono",
+           "type": "text",
+           "name": "cell",
+           "value": "",
+           "isColMiddle": "true",
+           "validations": [
+             {
+               "type": "minLength",
+               "value": 3,
+               "message": "Min. 3 caratteri"
+             },
+             {
+               "type": "maxLength",
+               "value": 9,
+               "message": "Max 9 caratteri"
+             },
+             {
+               "type": "required",
+               "message": "Il cellulare è obbligatorio"
+             },
+             {
+               "type": "regex",
+               "message": "Inserire un cellulare valido",
+               "regex": "^(3)+[0-9]*$"
+             }
+           ]
+         },
+         {
+           "type": "radio",
+           "name": "clienteVodafone",
+           "label": "Sei già cliente Vodafone",
+           "value": "",
+           "isColMiddle": "true",
+           "options": [
+             {
+               "value": "yes",
+               "desc": "Si"
+             },
+             {
+               "value": "no",
+               "desc": "No"
+             }
+           ],
+           "validations": [
+             {
+               "type": "required",
+               "message": "il campo è obbligatorio"
+             }
+           ]
+         },
+         {
+           "label": "New Password",
+           "type": "password",
+           "name": "password",
+           "value": "",
+           "isColMiddle": "false",
+           "validations": [
+             {
+               "type": "required",
+               "message": "Password is required"
+             },
+             {
+               "type": "minLength",
+               "value": 5,
+               "message": "Min. 5 characters"
+             }
+           ]
+         },
+         {
+           "label": "Repeat your password",
+           "type": "password",
+           "name": "repeat_password",
+           "value": "",
+           "isColMiddle": "false",
+           "validations": [
+             {
+               "type": "required",
+               "message": "Repeat password is required"
+             },
+             {
+               "type": "minLength",
+               "value": 5,
+               "message": "Min. 5 characters"
+             },
+             {
+               "type": "oneOf",
+               "message": "Passwords must match",
+               "ref": "password"
+             }
+           ]
+         },
+         {
+           "label": "E-mail address",
+           "type": "email",
+           "name": "email",
+           "value": "",
+           "isColMiddle": "false",
+           "validations": [
+             {
+               "type": "required",
+               "message": "Email is required"
+             },
+             {
+               "type": "isEmail",
+               "message": "Email no valid"
+             }
+           ]
+         },
+         {
+           "type": "select",
+           "name": "rol",
+           "label": "Select an option: ",
+           "value": "",
+           "isColMiddle": "false",
+           "options": [
+             {
+               "value": "admin",
+               "desc": "Admin"
+             },
+             {
+               "value": "user",
+               "desc": "User"
+             },
+             {
+               "value": "super-admin",
+               "desc": "Super Admin"
+             }
+           ],
+           "validations": [
+             {
+               "type": "required",
+               "message": "Rol is required"
+             }
+           ]
+         },
+         {
+           "type": "radio",
+           "name": "gender",
+           "label": "Gender: ",
+           "value": "",
+           "isColMiddle": "false",
+           "options": [
+             {
+               "value": "man",
+               "desc": "Man"
+             },
+             {
+               "value": "woman",
+               "desc": "Woman"
+             },
+             {
+               "value": "other",
+               "desc": "Other"
+             }
+           ],
+           "validations": [
+             {
+               "type": "required",
+               "message": "Gender is required"
+             }
+           ]
+         },
+         {
+           "type": "checkbox",
+           "name": "terms",
+           "typeValue": "boolean",
+           "label": "Terms and Conditions",
+           "value": "false",
+           "isColMiddle": "false",
+           "validations": [
+             {
+               "type": "isTrue",
+               "message": "Accept the terms!"
+             }
+           ]
+         }
+       ]
+     }
+  },
+  "smartphone-devices": {
+    "pagesparams": {
+      "key": "smartphone",
+      "visibility": {
+        "showPages": "true",
+        "haveFooter": "true",
+        "haveHeader": "true",
+        "isHeaderSmall": "false"
+      },
+      "apiPath": {
+        "apiDeviceList": "consumer/eshop/devices/all"
+      },
+      "urlBuilder": [
+        {
+          "page": "smartphone"
+        },
+        {
+          "page": "devices"
+        }
+      ]
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "type": "HUB_DEVICES",
+          "title": "Scegli <b>il tuo nuovo smartphone</b> con noi"
+        },
+        {
+          "description": "SLIDER DESCRIPTION",
+          "type": "SLIDER_IMAGE_TITLE_DESCRIPTION",
+          "title": "<p>SLIDER IMAGE TITLE DESCRIPTION TITLE <b>HTML</b></p>\r\n",
+          "disclaimer": "<p>Offerte valide su tecnologie Fibra FTTH misto Fibra/Rame FTTC   ADSL e FWA. Velocità massima fino a 2,5 Gigabit/s al secondo disponibile nelle principali città italiane coperte da tecnologia FTTH - Fiber To The Home. Per maggiori informazioni sulle velocità effettive e su possibili limitazioni tecniche e geografiche, vai su <a href=\"https://www.vodafone.it/eshop/tariffe-e-prodotti/internet-a-casa/fibra-ottica.html?icmp=web_cbu_fibra_info-tecnologia\">info tecnologia</a> e <a href=\"https://www.vodafone.it/portal/Privati/Tariffe-e-Prodotti/Fibra--ADSL-e-telefono/copertura-comuni?icmp=web_cbu_fibra_copertura-comuni\">copertura comuni</a>.</p>\r\n",
+          "button": {
+            "label": "SLIDER BUTTON.LABEL"
+          },
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "title": "SLIDER CUSTOMACTION.TITLE",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Elements.description",
+              "textPositionButton": "false",
+              "id": "Elements.id",
+              "key": "Elements.key",
+              "category": "Elements.category",
+              "image": "1.jpeg",
+              "title": "Elements.title",
+              "pills": {
+                "pills": [
+                  {
+                    "keyword": "ciao"
+                  },
+                  {
+                    "keyword": "Umberto"
+                  },
+                  {
+                    "keyword": "ciao"
+                  }
+                ]
+              },
+              "action": {
+                "type": "1",
+                "small": "false",
+                "title": "Elements.action.title",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Elements.description",
+              "textPositionButton": "false",
+              "id": "Elements.id",
+              "key": "Elements.key",
+              "category": "Elements.category",
+              "image": "1.jpeg",
+              "title": "Elements.title",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "title": "Elements.action.title",
+                "isBlank": "false",
+                "style": "primary"
+              }
+            },
+            {
+              "description": "Elements.description, Elements.description, Elements.description, Elements.description, Elements.description, Elements.description",
+              "textPositionButton": "false",
+              "pills": {
+                "pills": [
+                  {
+                    "keyword": "ciao"
+                  },
+                  {
+                    "keyword": "Umberto"
+                  }
+                ],
+                "isDark": "true"
+              },
+              "id": "Elements.id",
+              "key": "Elements.key",
+              "category": "Elements.category",
+              "image": "1.jpeg",
+              "title": "Elements.title",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "title": "Elements.action.title",
+                "isBlank": "false"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

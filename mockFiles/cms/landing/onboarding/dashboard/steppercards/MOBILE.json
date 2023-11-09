@@ -1,0 +1,118 @@
+{
+  "OrderOk": {
+    "pSim": {
+      "home": {
+        "title": "Elaborazione ordine andata a buon fine",
+        "description": "HTML",
+        "addressLabel": "Indirizzo",
+        "buttonLabel": "Modifica indirizzo"
+      },
+      "pickUpPoint": {
+        "title": "Elaborazione ordine andata a buon fine",
+        "description": "HTML",
+        "pickUpPointLabel": "Filiale|$CITY"
+      }
+    },
+    "eSim": {
+      "orderOk": {
+        "title": "Elaborazione ordine andata a buon fine",
+        "description": "HTML"
+      }
+    }
+  },
+  "ShippingOrder": {
+    "home": {
+      "shippingMaterials": {
+        "title": "Carta SIM in spedizione",
+        "description": "HTML La tua carta SIM sta arrivando..",
+        "shippingCodeLabel": "Codice di spedizione",
+        "copyButtonLabel": "Copiato",
+        "trackShippingLabel": "Traccia la tua spedizione",
+        "trackingUrl": "www.google.com",
+        "info": "HTML",
+        "contactCourierLabel": "Contatta Poste",
+        "contactCourierUrl": "www.google.com"
+      }
+    },
+    "pickUpPoint": {
+      "shippingMaterials": {
+        "title": "Carta SIM in spedizione",
+        "description": "HTML I tuoi materiali stanno arrivando..",
+        "shippingCodeLabel": "Codice di spedizione",
+        "copyButtonLabel": "Copiato",
+        "trackShippingLabel": "Traccia la tua spedizione",
+        "trackingUrl": "www.google.com",
+        "info": "HTML",
+        "contactCourierLabel": "Contatta Poste",
+        "contactCourierUrl": "www.google.com"
+      }
+    }
+  },
+  "DeliveredOrder": {
+    "home": {
+      "deliveredOrder": {
+        "title": "Carta SIM consegnata",
+        "description": "HTML"
+      }
+    },
+    "pickUpPoint": {
+      "deliveredMaterials": {
+        "title": "Materiali consegnati al punto di raccolta",
+        "description": "HTML",
+        "pickUpPointLabel": "Filiale|$CITY"
+      }
+    }
+  },
+  "PickedOrder": {
+    "pickedMaterials": {
+      "title": "Carta SIM consegnata",
+      "description": "HTML"
+    }
+  },
+  "SimActivationInProgress": {
+    "pSimActivation": {
+      "title": "Attivazione della sua SIM",
+      "description": "HTML",
+      "buttonLabel": "Prosegui con il riconoscimento"
+    },
+    "eSimActivation": {
+      "title": "Attivazione della sua e-SIM",
+      "description": "HTML",
+      "buttonLabel": "Prosegui con il riconoscimento"
+    }
+  },
+  "SimActivationDone": {
+    "pSimActive": {
+      "title": "SIM attiva",
+      "description": "HTML",
+      "yourNumberLabel": "Il tuo nuovo numero",
+      "copyButtonLabel": "Copiato",
+      "bottomDescription": "HTML"
+    },
+    "eSimActive": {
+      "title": "E-SIM attiva",
+      "description": "HTML",
+      "yourNumberLabel": "Il tuo nuovo numero",
+      "copyButtonLabel": "Copiato",
+      "bottomDescription": "HTML"
+    }
+  },
+  "OfferActivationDone": {
+    "pSimOfferActive": {
+      "title": "Offerta $OFFER_NAME attiva",
+      "description": "HTML $OFFER_NAME"
+    },
+    "eSimOfferActive": {
+      "title": "Offerta attiva",
+      "description": "HTML",
+      "yourNumberLabel": "Il tuo nuovo numero"
+    }
+  },
+  "PortabilityDone": {
+    "portabilityDone": {
+      "title": "Portabilità del numero conclusa",
+      "description": "HTML",
+      "yourNumberLabel": "Il tuo nuovo numero"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "msisdn",
+    "value": "393421544561",
+    "status": "assigned",
+    "logicalResourceCategory": "regular"
+  },
+  {
+    "type": "msisdn",
+    "value": "393421544570",
+    "status": "assigned",
+    "logicalResourceCategory": "regular"
+  },
+  {
+    "type": "msisdn",
+    "value": "393421544573",
+    "status": "assigned",
+    "logicalResourceCategory": "regular"
+  },
+  {
+    "type": "msisdn",
+    "value": "393421544580",
+    "status": "assigned",
+    "logicalResourceCategory": "regular"
+  },
+  {
+    "type": "msisdn",
+    "value": "393421544582",
+    "status": "assigned",
+    "logicalResourceCategory": "regular"
+  },
+  {
+    "type": "msisdn",
+    "value": "393421544591",
+    "status": "assigned",
+    "logicalResourceCategory": "regular"
+  }
+]

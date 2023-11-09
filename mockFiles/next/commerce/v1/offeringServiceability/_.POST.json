@@ -1,0 +1,484 @@
+{
+  "id": "8664693",
+  "serviceabilityResult": "serviceable",
+  "offeringServiceabilityItem": [
+      {
+        "offering": {
+          "id": "5573985",
+          "name": "BETA Internet Unlimited BS TV"
+        }
+      },
+      {
+        "offering": {
+          "id": "3631083",
+          "name": "BETA Internet Unlimited BS TV"
+        }
+      },
+    {
+      "offering": {
+        "id": "6383983",
+        "name": "Inserted from PRODUCTION"
+      }
+    },
+    {
+
+        "offering": {
+          "id": "7654321",
+          "name": "BETA Internet Unlimited BS TV"
+        }
+      },
+      {
+        "offering": {
+          "id": "6391483",
+          "name": "BETA Internet Unlimited BS TV"
+        }
+      },
+      {
+        "offering": {
+          "id": "10",
+          "name": "BETA Internet Unlimited BS TV"
+        }
+      },
+    {
+      "offering": {
+        "id": "6391483",
+        "name": "BETA Internet Unlimited BS TV"
+      }
+    },
+    {
+      "offering": {
+        "id": "4392785",
+        "name": "BETA Internet Unlimited BS TV"
+      }
+    },
+    {
+      "offering": {
+        "id": "5231783",
+        "name": "Family Plan"
+      }
+    },
+    {
+      "offering": {
+        "id": "4019681",
+        "name": "Family Plan"
+      }
+    },
+    {
+      "offering": {
+        "id": "4012181",
+        "name": "Family Plan Netflix Edition"
+      }
+    },
+    {
+      "offering": {
+        "id": "5238183",
+        "name": "Family Plan Netflix Edition"
+      }
+    },
+    {
+      "offering": {
+        "id": "4574383",
+        "name": "Family Plan V-Max"
+      }
+    },
+    {
+      "offering": {
+        "id": "4980483",
+        "name": "Family Plan V-Max"
+      }
+    },
+    {
+      "offering": {
+        "id": "4964883",
+        "name": "Family Plan V-Max Netflix Edition"
+      }
+    },
+    {
+      "offering": {
+        "id": "4559283",
+        "name": "Family Plan V-Max Netflix Edition"
+      }
+    },
+    {
+      "offering": {
+        "id": "260210195",
+        "name": "Giga Family Infinito Edition"
+      }
+    },
+    {
+      "offering": {
+        "id": "260252795",
+        "name": "Giga Family Infinito Edition"
+      }
+    },
+    {
+      "offering": {
+        "id": "260198995",
+        "name": "Giga Family Infinito Edition"
+      }
+    },
+    {
+      "offering": {
+        "id": "2809481",
+        "name": "Giga Family Infinito Edition"
+      }
+    },
+    {
+      "offering": {
+        "id": "5136783",
+        "name": "Internet Unlimited"
+      }
+    },
+    {
+      "offering": {
+        "id": "4255385",
+        "name": "Internet Unlimited"
+      }
+    },
+    {
+      "offering": {
+        "id": "3483198",
+        "name": "Internet Unlimited"
+      }
+    },
+    {
+      "offering": {
+        "id": "3603483",
+        "name": "Internet Unlimited"
+      }
+    },
+    {
+      "offering": {
+        "id": "5081683",
+        "name": "Internet Unlimited"
+      }
+    },
+    {
+      "offering": {
+        "id": "260009895",
+        "name": "Internet Unlimited"
+      }
+    },
+    {
+      "offering": {
+        "id": "259923695",
+        "name": "Internet Unlimited"
+      }
+    },
+    {
+      "offering": {
+        "id": "3415998",
+        "name": "Internet Unlimited"
+      }
+    },
+    {
+      "offering": {
+        "id": "3431498",
+        "name": "Internet Unlimited"
+      }
+    },
+    {
+      "offering": {
+        "id": "3648383",
+        "name": "Internet Unlimited"
+      }
+    },
+    {
+      "offering": {
+        "id": "3498598",
+        "name": "Internet Unlimited"
+      }
+    },
+    {
+      "offering": {
+        "id": "3062798",
+        "name": "Internet Unlimited"
+      }
+    },
+    {
+      "offering": {
+        "id": "3556298",
+        "name": "Internet Unlimited"
+      }
+    },
+    {
+      "offering": {
+        "id": "3893198",
+        "name": "Internet Unlimited"
+      }
+    },
+    {
+      "offering": {
+        "id": "3251998",
+        "name": "Internet Unlimited"
+      }
+    },
+    {
+      "offering": {
+        "id": "4393485",
+        "name": "Internet Unlimited BS TV"
+      }
+    },
+    {
+      "offering": {
+        "id": "5424883",
+        "name": "Internet Unlimited Convenzione Dipendenti"
+      }
+    },
+    {
+      "offering": {
+        "id": "3631083",
+        "name": "Internet Unlimited Netflix Edition"
+      }
+    },
+    {
+      "offering": {
+        "id": "5130383",
+        "name": "Internet Unlimited Netflix Edition"
+      }
+    },
+    {
+      "offering": {
+        "id": "4462685",
+        "name": "Internet Unlimited Netflix Edition"
+      }
+    },
+    {
+      "offering": {
+        "id": "3624098",
+        "name": "Internet Unlimited Netflix Edition"
+      }
+    },
+    {
+      "offering": {
+        "id": "5090083",
+        "name": "Internet Unlimited Netflix Edition"
+      }
+    },
+    {
+      "offering": {
+        "id": "4516483",
+        "name": "Internet Unlimited Netflix Edition"
+      }
+    },
+    {
+      "offering": {
+        "id": "3622383",
+        "name": "Internet Unlimited Netflix Edition"
+      }
+    },
+    {
+      "offering": {
+        "id": "3423698",
+        "name": "Internet Unlimited Promo"
+      }
+    },
+    {
+      "offering": {
+        "id": "259992595",
+        "name": "Internet Unlimited Promo"
+      }
+    },
+    {
+      "offering": {
+        "id": "3490898",
+        "name": "Internet Unlimited Promo"
+      }
+    },
+    {
+      "offering": {
+        "id": "5431583",
+        "name": "Internet Unlimited Special"
+      }
+    },
+    {
+      "offering": {
+        "id": "5395183",
+        "name": "Internet Unlimited Special"
+      }
+    },
+    {
+      "offering": {
+        "id": "5668983",
+        "name": "Internet Unlimited Special Edition"
+      }
+    },
+    {
+      "offering": {
+        "id": "5573985",
+        "name": "Internet Unlimited V-MAX"
+      }
+    },
+    {
+      "offering": {
+        "id": "5070483",
+        "name": "Internet Unlimited V-Max"
+      }
+    },
+    {
+      "offering": {
+        "id": "4939683",
+        "name": "Internet Unlimited V-Max"
+      }
+    },
+    {
+      "offering": {
+        "id": "4540183",
+        "name": "Internet Unlimited V-Max"
+      }
+    },
+    {
+      "offering": {
+        "id": "5109383",
+        "name": "Internet Unlimited V-Max Netflix Edition"
+      }
+    },
+    {
+      "offering": {
+        "id": "4549983",
+        "name": "Internet Unlimited V-Max Netflix Edition"
+      }
+    },
+    {
+      "offering": {
+        "id": "259918895",
+        "name": "Internet Unlimited con Vodafone TV Intrattenimento"
+      }
+    },
+    {
+      "offering": {
+        "id": "259946195",
+        "name": "Internet Unlimited con Vodafone TV Sport Plus"
+      }
+    },
+    {
+      "offering": {
+        "id": "259936795",
+        "name": "Internet Unlimited con Vodafone TV Sport Plus e Intrattenimento"
+      }
+    },
+    {
+      "offering": {
+        "id": "259957695",
+        "name": "Internet Unlimited con sim dati inclusa"
+      }
+    },
+    {
+      "offering": {
+        "id": "3290098",
+        "name": "Vodafone Family Plan"
+      }
+    },
+    {
+      "offering": {
+        "id": "5001683",
+        "name": "Vodafone Family Plan"
+      }
+    },
+    {
+      "offering": {
+        "id": "3382098",
+        "name": "Vodafone Family Plan"
+      }
+    },
+    {
+      "offering": {
+        "id": "3576683",
+        "name": "Vodafone Family Plan"
+      }
+    },
+    {
+      "offering": {
+        "id": "3905484",
+        "name": "Vodafone Family Plan"
+      }
+    },
+    {
+      "offering": {
+        "id": "3920484",
+        "name": "Vodafone Family Plan Netflix Edition"
+      }
+    },
+    {
+      "offering": {
+        "id": "4948483",
+        "name": "Vodafone Family Plan Netflix Edition"
+      }
+    },
+    {
+      "offering": {
+        "id": "3560983",
+        "name": "Vodafone Family Plan Netflix Edition"
+      }
+    }
+  ],
+  "serviceabilityCharacteristic": [
+    {
+      "displayName": "ActualTechnology",
+      "displayValue": "Fibra"
+    },
+    {
+      "displayName": "MaxDownloadSpeed",
+      "displayValue": "2.5 Gigabit"
+    },
+    {
+      "displayName": "Technology",
+      "displayValue": "FTTH"
+    },
+    {
+      "displayName": "MinVelocity"
+    },
+    {
+      "displayName": "MaxVelocity",
+      "displayValue": "2560"
+    },
+    {
+      "displayName": "MedVelocity"
+    },
+    {
+      "displayName": "Latency",
+      "displayValue": "4"
+    },
+    {
+      "displayName": "FWA_indoor",
+      "displayValue": "N"
+    },
+    {
+      "displayName": "FWA_outdoor",
+      "displayValue": "N"
+    },
+    {
+      "displayName": "UploadMin"
+    },
+    {
+      "displayName": "UploadMed"
+    },
+    {
+      "displayName": "UploadMax",
+      "displayValue": "500"
+    },
+    {
+      "displayName": "DisplayTechnologyName",
+      "displayValue": "FIBRA FTTH"
+    },
+    {
+      "displayName": "VTV",
+      "displayValue": "2"
+    }
+  ],
+  "serviceabilityAddress": {
+    "city": "MILANO",
+    "country": "IT",
+    "displayCountry": "Italy",
+    "postalCode": "20154",
+    "stateOrProvince": "MI",
+    "displayStateOrProvince": "MILANO",
+    "street": "VIA PAOLO SARPI",
+    "latitude": "45.48121076",
+    "longitude": "9.18037520",
+    "externalId": "38000052876",
+    "streetNumber": "5",
+    "homeZone": "00131891",
+    "istatCode": "03015146"
+  }
+}

@@ -1,0 +1,1081 @@
+{
+  "1": {
+    "offerdetail": {
+      "id": "1",
+      "slug": "Fissa-Comfort",
+      "offerImage": "fissa-smart-spid.jpg",
+      "offerDescription": "Fissa Comfort",
+      "offerType": "2",
+      "inflaction": {
+        "text": "CITTÀ METROPOLITANE E GRANDI COMUNI"
+      },
+      "offerCategory": {
+        "enableLockInFlow": "false",
+        "isLockInProduct": "false"
+      },
+      "offerActivate": {
+        "type": "4",
+        "title": "ATTIVA CON OPERATORE",
+        "urlForRedirect": "https://assistenza.vodafone.it/cmb/adsl_business/call_me_now.php?DESC=piva-voucher_MISE_FissaComfort-66339"
+      },
+      "offerPrice": {
+        "description": "IVA ESCLUSA",
+        "detail": "<p style=\"font-size:18px;line-height:24px\">Costo di attivazione incluso nel prezzo<p>\r\n",
+        "price": "00,00€/mese"
+      },
+      "offerVisibility": {
+        "showInPromo": "false",
+        "showInHub": "true",
+        "showInSolutions": "false",
+        "showInHP": "false",
+        "showInRelated": "false"
+      },
+      "hubProductDetail": {
+        "marketingLabel": "CITTÀ METROPOLITANE E GRANDI COMUNI",
+        "frontLabel": "A soli",
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        },
+        "buttonShowDetail": {
+          "type": "9",
+          "small": "false",
+          "isBlank": "false"
+        },
+        "shortCharacteristics": {
+          "list": [
+            {
+              "action": "<p>FTTH Sconto Vodafone 4,44€ Sconto Voucher Connettività 55,56€</p>\r\n<p> </p>\r\n<p>Tutti i prezzi sono da intendersi IVA esclusa; verrà addebitata l'IVA sull'importo del canone mensile al lordo degli sconti MIMIT. Durata contrattuale 36 mesi.</p>\r\n",
+              "title": "Informazioni sul costo dell’offerta"
+            },
+            {
+              "action": "<p>Per verificare la copertura e scoprire quale tecnologia raggiunge la tua abitazione, ti basta farti richiamare gratuitamente da un nostro operatore. Potresti avere accesso alla tecnologia in Fibra ottica FTTH FTTH che ti garantisce la massima velocità e stabilità di connessione fino a 2.5 Gigabit/s o 1Gb/s  in base alla copertura disponibile, alla tecnologia in Fibra ottica FTTC FTTC mista rame con una velocità di download che arriva fino a fino a 200 Megabit/s o 300 Megabit/s s  in base alla copertura disponibile, alla tecnologia ADSL ADSL con rete in solo rame e una velocità massima di 24 Megabit/s, o ancora alla tecnologia FWA, che raggiunge fino a 30 Megabit/s (con rete a banda larga) e fino a 300 Megabit/s (con banda ultralarga), anche nei luoghi in cui la fibra ottica non arriva.</p>\r\n",
+              "title": "Internet senza limiti navighi fino a 2.5 Gbps"
+            },
+            {
+              "title": "Modem incluso ottimizza la tua connessione con la Vodafone Station"
+            },
+            {
+              "title": "Internet Key Inclusa rimani sempre connesso anche in caso di interruzione del servizio di rete fissa"
+            },
+            {
+              "title": "Chiamate nazionali illlimitate 500 min. su chiamate internazionali"
+            },
+            {
+              "title": "1 Terabyte YourDrive"
+            },
+            {
+              "title": "Power 4G per una velocità di navigazione maggiore sulla rete fissa grazie alla rete mobile in 4G"
+            },
+            {
+              "title": "Sempre Serviti Plus con risoluzione dei disservizi bloccanti entro il giorno successivo alla segnalazione"
+            }
+          ]
+        }
+      },
+      "pdpProductDetail": {
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        }
+      },
+      "homepageDetail": {
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        }
+      },
+      "checkoutProductDetail": {
+        "sendEmailHelp": {
+          "enable": "false"
+        },
+        "callMeNowHelp": {
+          "enable": "false"
+        },
+        "redirectFWA": {
+          "type": "1"
+        }
+      },
+      "offerCharacteristics": [
+        {
+          "description": "<p> navighi fino a 2.5 Gbps</p>\r\n",
+          "title": "Internet senza limiti"
+        },
+        {
+          "description": "<p>ottimizza la tua connessione con la Vodafone Station</p>\r\n",
+          "title": "Modem incluso "
+        },
+        {
+
+        }
+      ]
+    }
+  },
+  "2": {
+    "offerdetail": {
+      "id": "2",
+      "slug": "OneNet-Ufficio",
+      "offerImage": "onenet-ufficio.jpg",
+      "offerDescription": "OneNet Ufficio",
+      "offerType": "2",
+      "inflaction": {
+        "text": "CITTÀ METROPOLITANE E GRANDI COMUNI"
+      },
+      "offerCategory": {
+        "enableLockInFlow": "false",
+        "isLockInProduct": "false"
+      },
+      "offerActivate": {
+        "type": "4",
+        "title": "ATTIVA CON OPERATORE",
+        "urlForRedirect": "https://assistenza.vodafone.it/cmb/adsl_business/call_me_now.php?DESC=piva-voucher_MISE_OneNetUfficio-66339"
+      },
+      "offerPrice": {
+        "description": "IVA ESCLUSA",
+        "detail": "<p style=\"font-size:18px;line-height:24px\">Costo di attivazione di 5€ per 48 mesi</p>\r\n",
+        "price": "18,45€/mese"
+      },
+      "offerVisibility": {
+        "showInPromo": "false",
+        "showInHub": "true",
+        "showInSolutions": "false",
+        "showInHP": "false",
+        "showInRelated": "false"
+      },
+      "hubProductDetail": {
+        "marketingLabel": "CITTÀ METROPOLITANE E GRANDI COMUNI",
+        "frontLabel": "A soli",
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        },
+        "buttonShowDetail": {
+          "type": "9",
+          "small": "false",
+          "isBlank": "false"
+        },
+        "shortCharacteristics": {
+          "list": [
+            {
+              "action": "<p>Prezzo pieno 100,00€</p>\r\n<p>Sconto Vodafone -30,00€</p>\r\n<p>Sconto Voucher Connettività -55,00€</p>\r\n<p>VAS Vodafone Expert 4,00€</p>\r\n<p> </p>\r\n<p>Contributo di attivazione pari a 240 euro, comprensivo dell’intervento di un tecnico specializzato, potrà essere pagato: 1. in un’unica soluzione con addebito in prima fattura; 2. 120 euro di contributo iniziale e 5 euro al mese per 24 mesi; 3. 5 euro al mese per 48 mesi.</p>\r\n<p> </p>\r\n<p>Tutti i prezzi sono da intendersi IVA esclusa; verrà addebitata l'IVA sull'importo del canone mensile al lordo degli sconti MIMIT.Durata contrattuale 36 mesi. Il canone di 18,45€ al mese include anche le promozioni aggiuntive cumulabili con lo sconto Voucher</p>\r\n",
+              "title": "Informazioni sul costo dell’offerta"
+            },
+            {
+              "action": "<p>Per verificare la copertura e scoprire quale tecnologia raggiunge la tua abitazione, ti basta farti richiamare gratuitamente da un nostro operatore. Potresti avere accesso alla tecnologia in Fibra ottica FTTH FTTH che ti garantisce la massima velocità e stabilità di connessione fino a 2.5 Gigabit/s o 1Gb/s  in base alla copertura disponibile, alla tecnologia in Fibra ottica FTTC FTTC mista rame con una velocità di download che arriva fino a fino a 200 Megabit/s o 300 Megabit/s s  in base alla copertura disponibile, alla tecnologia ADSL ADSL con rete in solo rame e una velocità massima di 24 Megabit/s, o ancora alla tecnologia FWA, che raggiunge fino a 30 Megabit/s (con rete a banda larga) e fino a 300 Megabit/s (con banda ultralarga), anche nei luoghi in cui la fibra ottica non arriva.</p>\r\n",
+              "title": "Internet senza limiti navighi fino a 2.5 Gbps"
+            },
+            {
+              "title": "Modem incluso con Wi-Fi Optimizer e Chiavetta sempre inclusi"
+            },
+            {
+              "title": "Internet Key Inclusa rimani sempre connesso anche in caso di interruzione del servizio di rete fissa"
+            },
+            {
+              "title": "Chiamate nazionali illlimitate 150 min. su chiamate internazionali verso Europa, USA e Canada"
+            },
+            {
+              "title": "Centralino in Cloud facile da configurare con incluso fino a 7 interni e 5 chiamate in simultanea."
+            },
+            {
+              "title": "Assistenza dedicata per avere un solo riferimento nell'attivazione di linea e centralino"
+            },
+            {
+              "title": "Telefono Fisso IP-Phone Cisco 6851 incluso nell'offerta"
+            }
+          ]
+        }
+      },
+      "pdpProductDetail": {
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        }
+      },
+      "homepageDetail": {
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        }
+      },
+      "checkoutProductDetail": {
+        "sendEmailHelp": {
+          "enable": "false"
+        },
+        "callMeNowHelp": {
+          "enable": "false"
+        },
+        "redirectFWA": {
+          "type": "1"
+        }
+      },
+      "offerCharacteristics": [
+        {
+          "description": "<p> navighi fino a 2.5 Gbps</p>\r\n",
+          "title": "Internet senza limiti"
+        },
+        {
+          "description": "<p>ottimizza la tua connessione con la Vodafone Station</p>\r\n",
+          "title": "Modem incluso "
+        },
+        {
+
+        }
+      ]
+    }
+  },
+  "3": {
+    "offerdetail": {
+      "id": "3",
+      "slug": "Fissa-Wireless-5G",
+      "offerImage": "fissa-wireless-5g.jpg",
+      "offerDescription": "Fissa Wireless 5G",
+      "offerType": "2",
+      "inflaction": {
+        "text": "CITTÀ METROPOLITANE E GRANDI COMUNI"
+      },
+      "offerCategory": {
+        "enableLockInFlow": "false",
+        "isLockInProduct": "false"
+      },
+      "offerActivate": {
+        "type": "4",
+        "title": "ATTIVA CON OPERATORE",
+        "urlForRedirect": "https://assistenza.vodafone.it/cmb/adsl_business/call_me_now.php?DESC=piva-voucher_MISE_OneNetPIVA_FWA5G-66339"
+      },
+      "offerPrice": {
+        "description": "IVA ESCLUSA",
+        "detail": "<p style=\"font-size:18px;line-height:24px\">Costo di attivazione di 5€ per 48 mesi</p>\r\n\r\n",
+        "price": "00,00€/mese"
+      },
+      "offerVisibility": {
+        "showInPromo": "false",
+        "showInHub": "true",
+        "showInSolutions": "false",
+        "showInHP": "false",
+        "showInRelated": "false"
+      },
+      "hubProductDetail": {
+        "marketingLabel": "AREE ISOLATE O CON SCARSA COPERTURA",
+        "frontLabel": "A soli",
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        },
+        "buttonShowDetail": {
+          "type": "9",
+          "small": "false",
+          "isBlank": "false"
+        },
+        "shortCharacteristics": {
+          "list": [
+            {
+              "action": "<p>Tutti i prezzi sono da intendersi IVA esclusa; verrà addebitata l'IVA sull'importo del canone mensile al lordo degli sconti MIMIT.Durata contrattuale 18 mesi.</p>\r\n",
+              "title": "Informazioni sul costo dell’offerta"
+            },
+            {
+              "action": "<p>Per verificare la copertura e scoprire quale tecnologia raggiunge la tua abitazione, ti basta farti richiamare gratuitamente da un nostro operatore. Potresti avere accesso alla tecnologia in Fibra ottica FTTH FTTH che ti garantisce la massima velocità e stabilità di connessione fino a 2.5 Gigabit/s o 1Gb/s  in base alla copertura disponibile, alla tecnologia in Fibra ottica FTTC FTTC mista rame con una velocità di download che arriva fino a fino a 200 Megabit/s o 300 Megabit/s s  in base alla copertura disponibile, alla tecnologia ADSL ADSL con rete in solo rame e una velocità massima di 24 Megabit/s, o ancora alla tecnologia FWA, che raggiunge fino a 30 Megabit/s (con rete a banda larga) e fino a 300 Megabit/s (con banda ultralarga), anche nei luoghi in cui la fibra ottica non arriva.</p>\r\n",
+              "title": "Internet senza limiti naviga sulla Rete VF fino a 300Mbps/50Mbps con banda minima in download 30Mbps (allowance illimitato)"
+            },
+            {
+              "title": "Chiamate illimitate verso fissi e mobili nazionali e 500 minuti verso Unione Europea e Svizzera"
+            },
+            {
+              "title": "Modem incluso ottimizza la tua connessione con la Vodafone Station.Velocità, stabilità e copertura in tutto l'ufficio"
+            },
+            {
+              "title": "Antenna esterna"
+            }
+          ]
+        }
+      },
+      "pdpProductDetail": {
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        }
+      },
+      "homepageDetail": {
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        }
+      },
+      "checkoutProductDetail": {
+        "sendEmailHelp": {
+          "enable": "false"
+        },
+        "callMeNowHelp": {
+          "enable": "false"
+        },
+        "redirectFWA": {
+          "type": "1"
+        }
+      },
+      "offerCharacteristics": [
+        {
+          "description": "<p> navighi fino a 2.5 Gbps</p>\r\n",
+          "title": "Internet senza limiti"
+        },
+        {
+          "description": "<p>ottimizza la tua connessione con la Vodafone Station</p>\r\n",
+          "title": "Modem incluso "
+        },
+        {
+
+        }
+      ]
+    }
+  },
+  "4": {
+    "offerdetail": {
+      "id": "4",
+      "slug": "Fissa-smart-con-SPID",
+      "offerImage": "fissa-smart-spid.jpg",
+      "offerDescription": "Fissa smart con SPID",
+      "offerType": "2",
+      "offerCategory": {
+        "enableLockInFlow": "false",
+        "isLockInProduct": "false"
+      },
+      "offerActivate": {
+        "type": "4",
+        "title": "TI RICHIAMIAMO NOI",
+        "urlForRedirect": "https://assistenza.vodafone.it/cmb/adsl_business/call_me_now.php?DESC=piva-fissa_smart_spid-66235"
+      },
+      "offerPrice": {
+        "description": "IVA ESCLUSA",
+        "detail": "Compreso il costo di attivazione di\r\n<b>X€ al mese per XX mesi</b>",
+        "price": "25,50€/mese"
+      },
+      "offerVisibility": {
+        "showInPromo": "false",
+        "showInHub": "true",
+        "showInSolutions": "false",
+        "showInHP": "false",
+        "showInRelated": "false"
+      },
+      "hubProductDetail": {
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        },
+        "buttonShowDetail": {
+          "type": "9",
+          "small": "false",
+          "isBlank": "false"
+        },
+        "shortCharacteristics": {
+          "list": [
+            {
+              "action": "<p>Per verificare la copertura e scoprire quale tecnologia raggiunge la tua abitazione, ti basta farti richiamare gratuitamente da un nostro operatore. Potresti avere accesso alla tecnologia in Fibra ottica FTTH FTTH che ti garantisce la massima velocità e stabilità di connessione fino a 2.5 Gigabit/s o 1Gb/s  in base alla copertura disponibile, alla tecnologia in Fibra ottica FTTC FTTC mista rame con una velocità di download che arriva fino a fino a 200 Megabit/s o 300 Megabit/s s  in base alla copertura disponibile, alla tecnologia ADSL ADSL con rete in solo rame e una velocità massima di 24 Megabit/s, o ancora alla tecnologia FWA, che raggiunge fino a 30 Megabit/s (con rete a banda larga) e fino a 300 Megabit/s (con banda ultralarga), anche nei luoghi in cui la fibra ottica non arriva.</p>\r\n",
+              "title": "Internet fino a 2.5 Gbps di velocità"
+            },
+            {
+              "title": "Modem con Wi-Fi Optimizer per un’esperienza di connessione superiore"
+            },
+            {
+              "title": "Sempre Serviti Per ricevere la massima assistenza."
+            },
+            {
+              "title": "Spid Professionisti Account professionale  per l’accesso ai servizi PA"
+            }
+          ]
+        }
+      },
+      "pdpProductDetail": {
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        }
+      },
+      "homepageDetail": {
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        }
+      },
+      "checkoutProductDetail": {
+        "sendEmailHelp": {
+          "enable": "false"
+        },
+        "callMeNowHelp": {
+          "enable": "false"
+        },
+        "redirectFWA": {
+          "type": "1"
+        }
+      },
+      "offerCharacteristics": [
+        {
+          "description": "<p> navighi fino a 2.5 Gbps</p>\r\n",
+          "title": "Internet senza limiti"
+        },
+        {
+          "description": "<p>ottimizza la tua connessione con la Vodafone Station</p>\r\n",
+          "title": "Modem incluso "
+        },
+        {
+
+        }
+      ]
+    }
+  },
+  "5": {
+    "offerdetail": {
+      "id": "5",
+      "slug": "Fissa-smart-con-SPID-e-Worry-Free",
+      "offerImage": "fissa-smart-worryfree.jpg",
+      "offerDescription": "Fissa smart con SPID e Worry Free",
+      "offerType": "2",
+      "offerCategory": {
+        "enableLockInFlow": "false",
+        "isLockInProduct": "false"
+      },
+      "offerActivate": {
+        "type": "4",
+        "title": "TI RICHIAMIAMO NOI",
+        "urlForRedirect": "https://assistenza.vodafone.it/cmb/adsl_business/call_me_now.php?DESC=piva-fissa_smart_spid_worryFree-66235"
+      },
+      "offerPrice": {
+        "description": "IVA ESCLUSA",
+        "detail": "Compreso il costo di attivazione di\r\n<b>X€ al mese per XX mesi</b>",
+        "price": "28,00€/mese"
+      },
+      "offerVisibility": {
+        "showInPromo": "false",
+        "showInHub": "true",
+        "showInSolutions": "false",
+        "showInHP": "false",
+        "showInRelated": "false"
+      },
+      "hubProductDetail": {
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        },
+        "buttonShowDetail": {
+          "type": "9",
+          "small": "false",
+          "isBlank": "false"
+        },
+        "shortCharacteristics": {
+          "list": [
+            {
+              "action": "<p>Per verificare la copertura e scoprire quale tecnologia raggiunge la tua abitazione, ti basta farti richiamare gratuitamente da un nostro operatore. Potresti avere accesso alla tecnologia in Fibra ottica FTTH FTTH che ti garantisce la massima velocità e stabilità di connessione fino a 2.5 Gigabit/s o 1Gb/s  in base alla copertura disponibile, alla tecnologia in Fibra ottica FTTC FTTC mista rame con una velocità di download che arriva fino a fino a 200 Megabit/s o 300 Megabit/s s  in base alla copertura disponibile, alla tecnologia ADSL ADSL con rete in solo rame e una velocità massima di 24 Megabit/s, o ancora alla tecnologia FWA, che raggiunge fino a 30 Megabit/s (con rete a banda larga) e fino a 300 Megabit/s (con banda ultralarga), anche nei luoghi in cui la fibra ottica non arriva.</p>\r\n",
+              "title": "Internet fino a 2.5 Gbps di velocità"
+            },
+            {
+              "title": "Modem con Wi-Fi Optimizer per un’esperienza di connessione superiore"
+            },
+            {
+              "title": "Sempre Serviti Per ricevere la massima assistenza."
+            },
+            {
+              "title": "Account professionale  per l’accesso ai servizi PA"
+            },
+            {
+              "title": "Worry Free Advanced Protegge dispositivi, mail e spazio in cloud"
+            }
+          ]
+        }
+      },
+      "pdpProductDetail": {
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        }
+      },
+      "homepageDetail": {
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        }
+      },
+      "checkoutProductDetail": {
+        "sendEmailHelp": {
+          "enable": "false"
+        },
+        "callMeNowHelp": {
+          "enable": "false"
+        },
+        "redirectFWA": {
+          "type": "1"
+        }
+      },
+      "offerCharacteristics": [
+        {
+          "description": "<p> navighi fino a 2.5 Gbps</p>\r\n",
+          "title": "Internet senza limiti"
+        },
+        {
+          "description": "<p>ottimizza la tua connessione con la Vodafone Station</p>\r\n",
+          "title": "Modem incluso "
+        },
+        {
+
+        }
+      ]
+    }
+  },
+  "6": {
+    "offerdetail": {
+      "id": "6",
+      "slug": "Fissa-smart-con-SPID-e-Social-connect",
+      "offerImage": "fissa-smart-social-connect.jpg",
+      "offerDescription": "Fissa smart con SPID e Social connect",
+      "offerType": "2",
+      "offerCategory": {
+        "enableLockInFlow": "false",
+        "isLockInProduct": "false"
+      },
+      "offerActivate": {
+        "type": "4",
+        "title": "TI RICHIAMIAMO NOI",
+        "urlForRedirect": "https://assistenza.vodafone.it/cmb/adsl_business/call_me_now.php?DESC=piva-fissa_smart_spid_socialConnect-66235"
+      },
+      "offerPrice": {
+        "description": "IVA ESCLUSA",
+        "detail": "Compreso il costo di attivazione di\r\n<b>X€ al mese per XX mesi</b>",
+        "price": "28,00€/mese"
+      },
+      "offerVisibility": {
+        "showInPromo": "false",
+        "showInHub": "true",
+        "showInSolutions": "false",
+        "showInHP": "false",
+        "showInRelated": "false"
+      },
+      "hubProductDetail": {
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        },
+        "buttonShowDetail": {
+          "type": "9",
+          "small": "false",
+          "isBlank": "false"
+        },
+        "shortCharacteristics": {
+          "list": [
+            {
+              "action": "<p>Per verificare la copertura e scoprire quale tecnologia raggiunge la tua abitazione, ti basta farti richiamare gratuitamente da un nostro operatore. Potresti avere accesso alla tecnologia in Fibra ottica FTTH FTTH che ti garantisce la massima velocità e stabilità di connessione fino a 2.5 Gigabit/s o 1Gb/s  in base alla copertura disponibile, alla tecnologia in Fibra ottica FTTC FTTC mista rame con una velocità di download che arriva fino a fino a 200 Megabit/s o 300 Megabit/s s  in base alla copertura disponibile, alla tecnologia ADSL ADSL con rete in solo rame e una velocità massima di 24 Megabit/s, o ancora alla tecnologia FWA, che raggiunge fino a 30 Megabit/s (con rete a banda larga) e fino a 300 Megabit/s (con banda ultralarga), anche nei luoghi in cui la fibra ottica non arriva.</p>\r\n",
+              "title": "Internet fino a 2.5 Gbps di velocità"
+            },
+            {
+              "title": "Modem con Wi-Fi Optimizer per un’esperienza di connessione superiore"
+            },
+            {
+              "title": "Sempre Serviti Per ricevere la massima assistenza."
+            },
+            {
+              "title": "Account professionale  per l’accesso ai servizi PA"
+            },
+            {
+              "title": "Social Connect Il wi-fi per fidelizzare i tuoi clienti"
+            }
+          ]
+        }
+      },
+      "pdpProductDetail": {
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        }
+      },
+      "homepageDetail": {
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        }
+      },
+      "checkoutProductDetail": {
+        "sendEmailHelp": {
+          "enable": "false"
+        },
+        "callMeNowHelp": {
+          "enable": "false"
+        },
+        "redirectFWA": {
+          "type": "1"
+        }
+      },
+      "offerCharacteristics": [
+        {
+          "description": "<p> navighi fino a 2.5 Gbps</p>\r\n",
+          "title": "Internet senza limiti"
+        },
+        {
+          "description": "<p>ottimizza la tua connessione con la Vodafone Station</p>\r\n",
+          "title": "Modem incluso "
+        },
+        {
+
+        }
+      ]
+    }
+  },
+  "7": {
+    "offerdetail": {
+      "id": "7",
+      "slug": "mobile-confort-con-iphone-14-plus",
+      "offerImage": "iPhone_14_Plus_Midnight.jpg",
+      "offerDescription": "Iphone 14 Plus",
+      "offerName": "MOBILE COMFORT CON",
+      "offerType": "2",
+      "offerCategory": {
+        "enableLockInFlow": "false",
+        "isLockInProduct": "false"
+      },
+      "offerActivate": {
+        "type": "4",
+        "title": "TI RICHIAMIAMO NOI"
+      },
+      "offerPrice": {
+        "description": "Dettagli sull’offerta",
+        "detail": "Mobile Comfort <b>15,00€</b>\r\nIphone 14 Plus <b>23€ x 30 mesi</b> \r\nCosto iniziale <b>120,00€<b>",
+        "price": "38,00€/mese"
+      },
+      "offerVisibility": {
+        "showInPromo": "false",
+        "showInHub": "true",
+        "showInSolutions": "false",
+        "showInHP": "false",
+        "showInRelated": "false"
+      },
+      "hubProductDetail": {
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        },
+        "buttonShowDetail": {
+          "type": "9",
+          "small": "false",
+          "isBlank": "false"
+        },
+        "shortCharacteristics": {
+          "list": [
+            {
+              "title": "50 Giga in 5G alla massima velocità"
+            },
+            {
+              "title": "Minuti e SMS illimitati in Italia, in Unione Europea e  nel Regno Unito"
+            },
+            {
+              "title": "500 minuti internazionali"
+            },
+            {
+              "title": "20 SMS internazionali"
+            },
+            {
+              "title": "Iphone 14 Plus da 128GB, colore nero"
+            }
+          ]
+        }
+      },
+      "pdpProductDetail": {
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        }
+      },
+      "homepageDetail": {
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        }
+      },
+      "checkoutProductDetail": {
+        "sendEmailHelp": {
+          "enable": "false"
+        },
+        "callMeNowHelp": {
+          "enable": "false"
+        },
+        "redirectFWA": {
+          "type": "1"
+        }
+      },
+      "offerCharacteristics": [
+        {
+
+        },
+        {
+
+        },
+        {
+
+        }
+      ]
+    }
+  },
+  "8": {
+    "offerdetail": {
+      "id": "8",
+      "slug": "mobile-confort-con-samusung-s23",
+      "offerImage": "galaxy-s23-phantomblackjpg.jpg",
+      "offerDescription": "Galaxy S23",
+      "offerName": "MOBILE COMFORT CON",
+      "offerType": "2",
+      "inflaction": {
+        "text": "TELEFONO INCLUSO NELL'OFFERTA"
+      },
+      "offerCategory": {
+        "enableLockInFlow": "false",
+        "isLockInProduct": "false"
+      },
+      "offerActivate": {
+        "type": "4",
+        "title": "TI RICHIAMIAMO NOI"
+      },
+      "offerPrice": {
+        "description": "Dettagli sull’offerta",
+        "detail": "Mobile Comfort <b>15,00€</b>\r\nSamsung Galaxy S23  <b>Incluso nell’offerta</b> \r\nCosto iniziale <b>Incluso nell’offerta<b>",
+        "price": "18,90€/mese"
+      },
+      "offerVisibility": {
+        "showInPromo": "false",
+        "showInHub": "true",
+        "showInSolutions": "false",
+        "showInHP": "false",
+        "showInRelated": "false"
+      },
+      "hubProductDetail": {
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        },
+        "buttonShowDetail": {
+          "type": "9",
+          "small": "false",
+          "isBlank": "false"
+        },
+        "shortCharacteristics": {
+          "list": [
+            {
+              "title": "50 Giga in 5G alla massima velocità"
+            },
+            {
+              "title": "Minuti e SMS illimitati in Italia, in Unione Europea e  nel Regno Unito"
+            },
+            {
+              "title": "500 minuti internazionali"
+            },
+            {
+              "title": "20 SMS internazionali"
+            },
+            {
+              "title": "Galaxy S23 da 128GB, colore nero"
+            }
+          ]
+        }
+      },
+      "pdpProductDetail": {
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        }
+      },
+      "homepageDetail": {
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        }
+      },
+      "checkoutProductDetail": {
+        "sendEmailHelp": {
+          "enable": "false"
+        },
+        "callMeNowHelp": {
+          "enable": "false"
+        },
+        "redirectFWA": {
+          "type": "1"
+        }
+      },
+      "offerCharacteristics": [
+        {
+
+        },
+        {
+
+        },
+        {
+
+        }
+      ]
+    }
+  },
+  "9": {
+    "offerdetail": {
+      "id": "9",
+      "slug": "samsung-z-flip4",
+      "offerImage": "device-samsung-zflip4-1.jpg",
+      "offerDescription": "Mobile Comfort con Samsung Galaxy Z Flip4",
+      "offerType": "2",
+      "offerCategory": {
+        "enableLockInFlow": "false",
+        "isLockInProduct": "false"
+      },
+      "offerActivate": {
+        "type": "4",
+        "title": "TI RICHIAMIAMO NOI"
+      },
+      "offerPrice": {
+        "description": "IVA ESCLUSA",
+        "detail": "Mobile Comfort <b>15,00€</b><br/>\r\nGalaxy ZFlip 4 <b>XX,XX€</b> <br/>\r\nCosto iniziale <b>150,00€<b><br/>",
+        "price": "39,00€/mese"
+      },
+      "offerVisibility": {
+        "showInPromo": "false",
+        "showInHub": "false",
+        "showInSolutions": "false",
+        "showInHP": "false",
+        "showInRelated": "false"
+      },
+      "hubProductDetail": {
+        "offerCtaLabel": "SCOPRI DETTAGLI",
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        },
+        "buttonShowDetail": {
+          "type": "9",
+          "small": "false",
+          "isBlank": "false"
+        },
+        "shortCharacteristics": {
+          "list": [
+            {
+
+            }
+          ]
+        }
+      },
+      "pdpProductDetail": {
+        "productDescription": "Goditi <b>50 Giga in 5G</b> per navigare senza pensieri e <b>telefonare senza limiti verso l’Italia e l’UE</b>, con <b>1000 minuti verso il resto del mondo</b> e <b>SMS illimitati</b>",
+        "offerDetailLabel": "A soli",
+        "backLabel": "SOLO SE MANTINI IL TUO NUMERO",
+        "action": {
+          "type": "9",
+          "small": "false",
+          "isBlank": "false"
+        }
+      },
+      "homepageDetail": {
+        "action": {
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        }
+      },
+      "checkoutProductDetail": {
+        "sendEmailHelp": {
+          "enable": "false"
+        },
+        "callMeNowHelp": {
+          "enable": "false"
+        },
+        "redirectFWA": {
+          "type": "1"
+        }
+      },
+      "offerCharacteristics": [
+        {
+          "description": "<p>Mobile Comfort 15,00€<br />\r\n</p>\r\n<p>Galaxy ZFlip 4 XX,XX€</p>\r\n<p>Costi iniziali 150,00€  Samsung</p>\r\n",
+          "title": "Mobile Comfort con Samsung Galaxy Z Flip4  a soli 39,00€/mese Iva esclusa"
+        },
+        {
+          "description": "<p>in colorazione nera con memoria da 128GB<br />\r\n</p>\r\n<p> </p>\r\n",
+          "title": "Galaxy Z Flip4"
+        },
+        {
+          "title": "50 Giga in 5G"
+        },
+        {
+          "description": "<p>in Italia, in Unione Europea, nel Regno Unito e in Svizzera</p>\r\n<p> </p>\r\n",
+          "title": "Minuti illimitati "
+        },
+        {
+          "description": "<p>in Italia, in Unione Europea e nel Regno Unito</p>\r\n",
+          "title": "SMS illimitati"
+        },
+        {
+          "description": "<p> per le chiamate dall’Italia verso il resto del mondo</p>\r\n",
+          "title": "1000 minuti verso il resto del mond"
+        },
+        {
+          "title": "1 Terabyte YourDrive"
+        },
+        {
+          "description": "<p>Un team dedicato per supporto commerciale, amministrativo e tecnico.Numero gratuito 42323<br />\r\n</p>\r\n",
+          "title": "Assistenza Prima Classe"
+        }
+      ]
+    },
+    "widgets": {
+      "sliders": [
+        {
+          "type": "SLIDER_IMAGE_TITLE_DESCRIPTION",
+          "title": "<p>Cosa è <b>incluso</b> in questa offerta</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Soluzione digitale di Sync&Share per archiviare, condividere e sincronizzare i file su smartphone e tablet in modo sicuro",
+              "textPositionButton": "false",
+              "image": "device-samsung-zflip4-2.jpg",
+              "title": "Samsung Galaxy Z Flip4",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "title": "SCOPRI DI PIÙ",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Soluzione digitale di Sync&Share per archiviare, condividere e sincronizzare i file su smartphone e tablet in modo sicuro",
+              "textPositionButton": "false",
+              "image": "cloud.jpg",
+              "title": "YourDrive by BabylonCloud",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "title": "SCOPRI DI PIÙ",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Un team dedicato per supporto commerciale, amministrativo e tecnico. Numero gratuito 42323",
+              "textPositionButton": "false",
+              "image": "assistenza-tecnica-business.jpg",
+              "title": "Assistenza Prima Classe",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "title": "SCOPRI DI PIÙ",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_ICON_TITLE_DESCRIPTION",
+          "title": "<p>La nostra Rete 5G è diversa. <br />\r\nPiù <b>veloce</b>, più <b>potente</b>.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Tieniti forte. Con la potenza del 5G, dai un boost alla tua esperienza di navigazione.",
+              "textPositionButton": "false",
+              "title": "Massima velocità",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "La Rete risponde ai tuoi imput in tempo record. Così ogni comunicazione avviene all’istante.",
+              "textPositionButton": "false",
+              "image": "icon-5g-red.png",
+              "title": "Tutto in tempo reale",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "La qualità della navigazione ti sorprenderà: è sempre al massimo anche nei luoghi più affollati.",
+              "textPositionButton": "false",
+              "image": "icon-data-red.png",
+              "title": "Capacità mai viste",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        },
+        {
+          "type": "SLIDER_LARGE_SMALL",
+          "title": "<p><b>I vantaggi </b>di essere Vodafone Business.</p>\r\n",
+          "customAction": {
+            "type": "1",
+            "small": "false",
+            "isBlank": "false"
+          },
+          "elements": [
+            {
+              "description": "Il bello di essere Business ogni giorno",
+              "textPositionButton": "false",
+              "image": "HappyWeek-landscape.png",
+              "title": "Happy Week",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/happy-week.html?icmp=ebu_web-aziende_HP_V4_B1_happy-week",
+                "type": "1",
+                "small": "true",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "Dove i desideri diventano realtà in un click",
+              "textPositionButton": "false",
+              "image": "business_club.jpg",
+              "title": "Business Club",
+              "action": {
+                "url": "https://www.vodafone.it/business/eshop/business-club.html?icmp=ebu_web-aziende_HP_V4_B2_business-club",
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            },
+            {
+              "description": "La miglior alleata del il tuo lavoro",
+              "textPositionButton": "false",
+              "image": "app-cover-L.jpg",
+              "title": "My Vodafone Business",
+              "action": {
+                "type": "1",
+                "small": "false",
+                "isBlank": "false"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "seo": {
+    "canonicalUrl": "Office_365x3.png",
+    "title": "Offerte Internet Casa: Fibra e ADSL, TV, FWA | Vodafone Business",
+    "ogImageUrl": "logo-google-workspace.png",
+    "ogDescription": "Scopri le Offerte Internet Casa Vodafone: Fibra e ADSL, FWA e Telefono. Con Internet Unlimited navighi alla massima velocità!"
+  },
+  "widgetfixedhub": {
+    "titleHtml": "<p>Per <b>ogni ufficio</b>, la <b>giusta offerta.</b> Trova quella che fa per te.<br />\r\n</p>\r\n",
+    "type": "SLIDER_PRODUCTS_HUB_BUSINESS",
+    "elements": [
+      {
+        "overrideOfferName": "Fissa Smart",
+        "overrideCostActivationHtml": "Costo di attivazione di 5€ x 24 mesi incluso nel prezzo",
+        "frontLabel": "A soli",
+        "dxlId": "670000306174",
+        "offerLabel": "IVA ESCLUSA",
+        "overrideCostRenewalHtml": "<s>30,00€</s> <b>25,00€</b><b>/mese</b>",
+        "imageBackgroundUrl": "WomenOnePointFiveDimensionExport.jpg",
+        "tags": [
+          {
+            "keyword": "NAVIGA SENZA LIMITI"
+          }
+        ],
+        "additionalOfferDetails": {
+          "title": "lorem ispum dolor sit amet",
+          "enableMoreInfo": "true",
+          "moreInfoContentHtml": "<p>prova more info <b>html</b></p>\r\n",
+          "moreInfoTitle": "Lorem ipsum"
+        },
+        "actions": [
+          {
+            "type": "4",
+            "style": "1",
+            "title": "ATTIVA CON OPERATORE"
+          },
+          {
+            "url": "/ufficio/fissa-smart",
+            "type": "7",
+            "style": "2",
+            "title": "SCOPRI DI PIU'"
+          }
+        ],
+        "shortCharacteristics": [
+          {
+            "subtitle": "Ti offriamo la migliore tecnologia Vodafone",
+            "title": "Internet senza limiti",
+            "enableMoreInfo": "true",
+            "moreInfoContentHtml": "<p>prova more info html</p>\r\n",
+            "moreInfoTitle": "Internet senza limiti, con la migliore tecnologia Vodafone"
+          },
+          {
+            "subtitle": "Per un’esperienza di connessione superiore",
+            "title": "Modem incluso",
+            "enableMoreInfo": "false"
+          },
+          {
+            "subtitle": "Per essere connesso anche in caso di interruzione del servizio di rete fissa.",
+            "title": "Internet Key Inclusa",
+            "enableMoreInfo": "false"
+          },
+          {
+            "subtitle": "Per una velocità di navigazione maggiore sulla rete fissa grazie alla rete mobile in 4G.",
+            "title": "Power 4G",
+            "enableMoreInfo": "false"
+          },
+          {
+            "title": "1 Terabyte YourDrive",
+            "enableMoreInfo": "false"
+          },
+          {
+            "subtitle": "Per ricevere la massima assistenza.",
+            "title": "Sempre Serviti",
+            "enableMoreInfo": "false"
+          },
+          {
+            "subtitle": "Per monitorare lo stato di attivazione della linea",
+            "title": "Tracking della pratica",
+            "enableMoreInfo": "false"
+          },
+          {
+            "title": "Installazione con tecnico specializzato",
+            "enableMoreInfo": "false"
+          }
+        ]
+      },
+      {
+        "overrideOfferName": "Fissa Comfort",
+        "overrideCostActivationHtml": "Costo di attivazione di 5€ x 24 mesi incluso nel prezzo",
+        "frontLabel": "A soli",
+        "dxlId": "670000306176",
+        "offerLabel": "IVA ESCLUSA",
+        "overrideCostRenewalHtml": "<s>35,00€</s> <b>30,00€</b><b>/mese</b>",
+        "imageBackgroundUrl": "Fissa-Smart_SanValentino_DT.jpg",
+        "tags": [
+          {
+            "keyword": "NAVIGA SENZA LIMITI"
+          },
+          {
+            "keyword": "CHIAMATE INCLUSE"
+          }
+        ],
+        "additionalOfferDetails": {
+          "title": "lorem ispum dolor sit amet",
+          "enableMoreInfo": "true",
+          "moreInfoContentHtml": "<p>prova more info html</p>\r\n",
+          "moreInfoTitle": "lorem ipsum"
+        },
+        "actions": [
+          {
+            "type": "5",
+            "style": "1",
+            "title": "VERIFICA LA COPERTURA"
+          },
+          {
+            "type": "4",
+            "style": "2",
+            "title": "TI RICHIAMIAMO NOI"
+          },
+          {
+            "url": "https://www.vodafone.it",
+            "type": "7",
+            "style": "2",
+            "title": "SCOPRI DI PIU'"
+          }
+        ],
+        "shortCharacteristics": [
+          {
+            "subtitle": "Ti offriamo la migliore tecnologia Vodafone",
+            "title": "Internet senza limiti",
+            "enableMoreInfo": "true",
+            "moreInfoContentHtml": "<p>prova more info html</p>\r\n",
+            "moreInfoTitle": "Internet senza limiti, con la migliore tecnologia Vodafone"
+          },
+          {
+            "subtitle": "Per un’esperienza di connessione superiore",
+            "title": "Modem incluso",
+            "enableMoreInfo": "false"
+          },
+          {
+            "subtitle": "Inclusa Per essere connesso anche in caso di interruzione del servizio di rete fissa.",
+            "title": "Internet Key",
+            "enableMoreInfo": "false"
+          },
+          {
+            "subtitle": "Per una velocità di navigazione maggiore sulla rete fissa grazie alla rete mobile in 4G.",
+            "title": "Power 4G",
+            "enableMoreInfo": "false"
+          },
+          {
+            "title": "1 Terabyte YourDrive",
+            "enableMoreInfo": "false"
+          },
+          {
+            "subtitle": "Per ricevere la massima assistenza.",
+            "title": "Sempre Serviti",
+            "enableMoreInfo": "false"
+          },
+          {
+            "subtitle": "Per monitorare lo stato di attivazione della linea",
+            "title": "Tracking della pratica",
+            "enableMoreInfo": "false"
+          },
+          {
+            "title": "Installazione con tecnico specializzato",
+            "enableMoreInfo": "false"
+          },
+          {
+            "subtitle": "Verso fissi e mobili nazionali",
+            "title": "Chiamate nazionali illlimitate",
+            "enableMoreInfo": "false"
+          },
+          {
+            "subtitle": "Verso fissi e mobili",
+            "title": "500 Min Internazionali",
+            "enableMoreInfo": "false"
+          }
+        ]
+      },
+      {
+        "tagLine": "PERFETTA PER AREE ISOLATE O CON SCARSA COPERTURA",
+        "overrideOfferName": "Fissa Wireless 5G",
+        "overrideCostActivationHtml": "Costo di attivazione di 5€ x 24 mesi incluso nel prezzo",
+        "frontLabel": "A soli",
+        "offerLabel": "IVA ESCLUSA",
+        "overrideCostRenewalHtml": "<b>35,00€</b><b>/mese</b>",
+        "imageBackgroundUrl": "virtual-reality.JPG",
+        "tags": [
+          {
+            "keyword": "NAVIGA SENZA LIMITI"
+          },
+          {
+            "keyword": "CHIAMATE INCLUSE"
+          }
+        ],
+        "additionalOfferDetails": {
+          "title": "lorem ipsum dolor sit amet",
+          "enableMoreInfo": "true",
+          "moreInfoContentHtml": "<p>prova more info html</p>\r\n",
+          "moreInfoTitle": "lorem ipsum"
+        },
+        "actions": [
+          {
+            "type": "4",
+            "style": "1",
+            "title": "ATTIVA CON UN OPERATORE"
+          },
+          {
+            "url": "https://www.vodafone.it",
+            "type": "7",
+            "style": "2",
+            "title": "SCOPRI DI PIU'"
+          }
+        ],
+        "shortCharacteristics": [
+          {
+            "subtitle": "Navighi fino a 300Mb/s grazie alla tecnologia Vodafone FWA",
+            "title": "Internet senza limiti",
+            "enableMoreInfo": "true",
+            "moreInfoContentHtml": "<p>prova more info html</p>\r\n",
+            "moreInfoTitle": "Fino a 300Mb/s grazie alla tecnologia Vodafone FWA"
+          },
+          {
+            "subtitle": "Per un’esperienza di connessione superiore",
+            "title": "Modem incluso",
+            "enableMoreInfo": "false"
+          },
+          {
+            "subtitle": "Verso fissi e mobili nazionali",
+            "title": "Chiamate nazionali illlimitate",
+            "enableMoreInfo": "false"
+          },
+          {
+            "subtitle": "Installazione su appuntamento ad opera di un tecnico specializzato.",
+            "title": "Antenna esterna",
+            "enableMoreInfo": "true",
+            "moreInfoContentHtml": "<p>prova more info html</p>\r\n",
+            "moreInfoTitle": "Tecnico specializzato"
+          }
+        ]
+      }
+    ]
+  },
+  "widgetsplitted": {
+    "description": "Da sempre Vodafone ha come obiettivo prioritario trasformare l'impegno per contrastare il cambiamento climatico in azioni concrete.",
+    "type": "SPLITTED_IMAGE_TEXT",
+    "title": "<p><b>Scopri come risparmiare</b> con Vodafone</p>\r\n",
+    "disclaimer": "<p>prova <b>disclaimer</b></p>\r\n",
+    "elements": [
+      {
+        "description": "Cambiare pur rimanendo se stessi non è mai una scelta semplice ...",
+        "image": "Office_365x3.jpg",
+        "title": "Passa a Vodafone e mantieni il tuo numero",
+        "action": {
+          "url": "https://www.google.it",
+          "type": "1",
+          "small": "false",
+          "style": "2",
+          "title": "Scopri le offerte",
+          "isBlank": "false"
+        }
+      },
+      {
+        "description": "Scopri come ottenere il Bonus connettività con le offerte Vodafone Business dedicata a te.",
+        "image": "small-business-owner.jpg",
+        "title": "Bonus Fibra fino a 2.500€ valido per Partita IVA e PMI",
+        "action": {
+          "url": "https://www.google.it",
+          "type": "1",
+          "small": "false",
+          "style": "2",
+          "title": "Scopri l'offerta",
+          "isBlank": "false"
+        }
+      }
+    ]
+  },
+  "widgetsliderls": {
+    "type": "SLIDER_LARGE_SMALL",
+    "title": "<p><b>I vantaggi</b> di essere Vodafone Business.</p>\r\n",
+    "elements": [
+      {
+        "description": "Il programma fedeltà che premia il tuo entusiasmo.",
+        "id": "1",
+        "image": "businesspeople-working-together.jpg",
+        "title": "Happy Week",
+        "action": {
+          "url": "https://www.google.it",
+          "type": "1",
+          "small": "true",
+          "isBlank": "false"
+        }
+      },
+      {
+        "description": "Dove i desideri diventano realtà in un click",
+        "id": "2",
+        "image": "Google_workspacex3.png",
+        "title": "Business Club",
+        "action": {
+          "url": "https://www.google.it",
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        }
+      },
+      {
+        "description": "La miglior alleata del il tuo lavoro",
+        "id": "3",
+        "image": "mistery-device.jpeg",
+        "title": "My Vodafone Business",
+        "action": {
+          "url": "https://www.google.it",
+          "type": "1",
+          "small": "false",
+          "isBlank": "false"
+        }
+      }
+    ]
+  },
+  "widgetfaq": {
+    "type": "FAQ",
+    "title": "<p>Avere qualche <b>dubbio </b>è normale.</p>\r\n",
+    "customAction": {
+      "type": "1",
+      "small": "false",
+      "isBlank": "false"
+    },
+    "elements": [
+      {
+        "description": "Rete Sicura Family è il servizio che ti protegge da virus e siti dannosi durante\r\n                        la navigazione sulla rete Vodafone (connessione dati o internet a casa) e ti offre la funzione\r\n                        di Parental Control per una navigazione sicura anche per i bambini. Le funzioni di sicurezza\r\n                        includono \"Protezione Antivirus\", \"Protezione Web\", \"Protezione della tua identità online\", con\r\n                        livelli di protezione personalizzabili dall'app My Vodafone. Il servizio offre anche la funzione\r\n                        di Parental Control: i genitori, dal proprio dispositivo, possono gestire le impostazioni di\r\n                        sicurezza per i propri figli, controllare il tipo di contenuto a cui possono accedere (funzione\r\n                        \"Filtri di contenuto\") e impostare limiti al tempo di connessione (funzioni \"Pausa\" e\r\n                        \"Buonanotte\").",
+        "id": "1",
+        "title": "Che cos'è Rete Sicura Family?"
+      },
+      {
+        "description": "Si, puoi acquistare l'offerta senza il modem incluso. Il costo dell'offerta non cambia. Clicca su \"Ti richiamiamo noi\" per acquistare l'offerta con il supporto di un nostro operatore.",
+        "id": "2",
+        "title": "È possibile acquistare l'offerta senza modem incluso?"
+      },
+      {
+        "description": "Puoi navigare in Internet e utilizzare il Servizio voce con un modem diverso dalla Vodafone\r\n                        Station. Tutte le informazioni su come installare e configurare il modem sono disponibili su <a\r\n                            href=\"https://www.vodafone.it/privati/supporto/assistenza-dispositivi/altri-dispositivi/modem-alternativo.html\"\r\n                            target=\"_blank\">voda.it/modemlibero</a>.<br>Se hai deciso di acquistare un’offerta V-MAX con\r\n                        modem libero non saranno disponibili i servizi Vodafone Sempre Connessi, Rete Sicura Family e\r\n                        Wi-Fi garantito in quanto non compativili con modem diversi dalla Vodafone\r\n                        Station.<br> Se hai una linea FTTH e la tua Vodafone Station non ha una ONT integrata te ne\r\n                        verrà fornita e installata una esterna senza alcun costo aggiuntivo. A questa potrai collegare\r\n                        anche un modem diverso dalla Vodafone Station. Se la tua Vodafone Station ha una ONT integrata\r\n                        ma vuoi utilizzare un modem diverso per la tua linea FTTH potrai comunque richiedere\r\n                        gratuitamente l’installazione di una ONT esterna contattando il 190.",
+        "id": "3",
+        "title": "È possibile navigare con un modem diverso dalla Vodafone Station e richiedere una ONT esterna?"
+      }
+    ]
+  }
+}

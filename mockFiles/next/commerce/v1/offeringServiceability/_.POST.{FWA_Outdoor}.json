@@ -1,0 +1,163 @@
+{
+  "id": "10696771",
+  "serviceabilityResult": "serviceable",
+  "offeringServiceabilityItem": [
+    {
+      "offering": {
+        "id": "4903783",
+        "name": "FWA Outdoor 21,90 €_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "5321483",
+        "name": "FWA Outdoor 24,90 € + Una Tantum Act Cost Only_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "6634283",
+        "name": "FWA Outdoor 24,90 € Ottobre 2022_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "260448795",
+        "name": "FWA Outdoor 24,90 €_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "6662383",
+        "name": "FWA Outdoor 26,90 € Ottobre 2022_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "4920083",
+        "name": "FWA Outdoor 26,90 €_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "5329983",
+        "name": "FWA Outdoor 27,90 € + Una Tantum Act Cost Only_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "4591895",
+        "name": "FWA Outdoor 27,90 € Settembre 2022_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "4516784",
+        "name": "FWA Outdoor 27,90 €_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "260457495",
+        "name": "FWA Outdoor 29,90 €_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "2859498",
+        "name": "FWA Outdoor DIpendenti 24,90 €_PLUS_INFO"
+      }
+    },
+    {
+      "offering": {
+        "id": "6745683",
+        "name": "FWA Outdoor plus 24,90 Ottobre 2022 PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "6854883",
+        "name": "FWA Outdoor plus 26,90 Ottobre 2022 PO R1"
+      }
+    },
+    {
+      "offering": {
+        "id": "4202881",
+        "name": "FWA Outdoor plus PO R1"
+      }
+    }
+  ],
+  "serviceabilityCharacteristic": [
+    {
+      "displayName": "ActualTechnology",
+      "value": "FWA",
+      "displayValue": "FWA"
+    },
+    {
+      "displayName": "MaxDownloadSpeed",
+      "value": "100000",
+      "displayValue": "100 Megabit"
+    },
+    {
+      "displayName": "Technology",
+      "value": "FWA_Outdoor",
+      "displayValue": "FWA_Outdoor"
+    },
+    {
+      "displayName": "MinVelocity"
+    },
+    {
+      "displayName": "MaxVelocity",
+      "displayValue": "100"
+    },
+    {
+      "displayName": "MedVelocity"
+    },
+    {
+      "displayName": "Latency"
+    },
+    {
+      "displayName": "FWA_indoor",
+      "value": "N",
+      "displayValue": "N"
+    },
+    {
+      "displayName": "FWA_outdoor",
+      "value": "Y",
+      "displayValue": "Y"
+    },
+    {
+      "displayName": "UploadMin"
+    },
+    {
+      "displayName": "UploadMed"
+    },
+    {
+      "displayName": "UploadMax",
+      "displayValue": "50"
+    },
+    {
+      "displayName": "DisplayTechnologyName",
+      "displayValue": "FWA-Outdoor"
+    },
+    {
+      "displayName": "VTV",
+      "displayValue": "1"
+    }
+  ],
+  "serviceabilityAddress": {
+    "city": "GAMBELLARA",
+    "country": "IT",
+    "displayCountry": "Italy",
+    "postalCode": "36053",
+    "stateOrProvince": "VI",
+    "displayStateOrProvince": "VICENZA",
+    "street": "VIA GIUSEPPE MAZZINI",
+    "latitude": "45.45731000",
+    "longitude": "11.34498000",
+    "externalId": "38000122880",
+    "streetNumber": "1",
+    "homeZone": "00256561",
+    "istatCode": "05024043"
+  }
+}

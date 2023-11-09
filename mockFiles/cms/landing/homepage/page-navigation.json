@@ -1,0 +1,365 @@
+{
+  "header": {
+    "head": {
+      "userInfo": {
+        "logout": "Esci",
+        "login": "Accedi alla e-mail"
+      },
+      "customerType": [
+        {
+          "id": "1",
+          "url": "https://consumer-test.vodafone.it/",
+          "category": "Privati",
+          "selected": "true"
+        },
+        {
+          "id": "2",
+          "url": "https://business.consumer-test.vodafone.it",
+          "category": "Aziende",
+          "selected": "false"
+        },
+        {
+          "id": "3",
+          "url": "https://www.google.it",
+          "category": "grandiaziende",
+          "selected": "false"
+        }
+      ],
+      "otherInfo": [
+        {
+          "tagName": "tagging_el",
+          "id": "1",
+          "url": "https://negozi.vodafone.it/",
+          "info": "Trova negozio",
+          "logo": {
+            "image": "locationIcon.png"
+          }
+        }
+      ]
+    },
+    "body": {
+      "headerLogo": {
+        "url": "https://landingpage-develop.consumer-test.vodafone.it/",
+        "image": "HomePageLogo"
+      },
+      "menuType": [
+        {
+          "id": "1",
+          "url": "https://www.google.it",
+          "category": "Mobile",
+          "links": [
+            {
+              "id": "1",
+              "url": "https://www.google.it",
+              "category": "Mobile",
+              "links": [
+                {
+                  "id": "1",
+                  "url": "https://www.google.it",
+                  "category": "Offerte telefonia Mobile"
+                },
+                {
+                  "id": "2",
+                  "url": "https://www.google.it",
+                  "category": "Offerte Internet mobile"
+                },
+                {
+                  "id": "3",
+                  "url": "https://www.google.it",
+                  "category": "Offerte Tutto Incluso"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "url": "https://www.google.it",
+              "category": "Casa",
+              "links": [
+                {
+                  "id": "1",
+                  "url": "https://www.google.it",
+                  "category": "Offerte Internet casa"
+                },
+                {
+                  "id": "2",
+                  "url": "https://www.google.it",
+                  "category": "Offerte Fibra + TV"
+                },
+                {
+                  "id": "3",
+                  "url": "https://www.google.it",
+                  "category": "Offerte V-Max"
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "url": "https://www.google.it",
+              "category": "Casa + Mobile"
+            },
+            {
+              "id": "4",
+              "url": "https://www.google.it",
+              "category": "Prodotti"
+            },
+            {
+              "id": "5",
+              "url": "https://www.google.it",
+              "category": "Servizi",
+              "links": [
+                {
+                  "id": "1",
+                  "url": "https://www.google.it",
+                  "category": "V Tech"
+                },
+                {
+                  "id": "2",
+                  "url": "https://www.google.it",
+                  "category": "Digital Privacy & Security"
+                },
+                {
+                  "id": "3",
+                  "url": "https://www.google.it",
+                  "category": "Vodafone Club"
+                },
+                {
+                  "id": "4",
+                  "url": "https://www.google.it",
+                  "category": "GameNow"
+                },
+                {
+                  "id": "5",
+                  "url": "https://www.google.it",
+                  "category": "Vodafone Entertainment"
+                },
+                {
+                  "id": "6",
+                  "url": "https://www.google.it",
+                  "category": "Assicurazioni Smartphone"
+                },
+                {
+                  "id": "7",
+                  "url": "https://www.google.it",
+                  "category": "Vodafone WiFi Extender"
+                },
+                {
+                  "id": "8",
+                  "url": "https://www.google.it",
+                  "category": "Vodafone Sempre Connessi"
+                },
+                {
+                  "id": "9",
+                  "url": "https://www.google.it",
+                  "category": "OneNumber"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "url": "https://www.google.it",
+          "category": "Perchè Vodafone",
+          "links": [
+            {
+              "id": "1",
+              "url": "https://www.google.it",
+              "category": "La Rete Vodafone"
+            },
+            {
+              "id": "2",
+              "url": "https://www.google.it",
+              "category": "Vantaggi"
+            },
+            {
+              "id": "3",
+              "url": "https://www.google.it",
+              "category": "Strumenti Digitali"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "url": "https://www.vodafone.it/privati/supporto.html",
+          "category": "Supporto"
+        },
+        {
+          "id": "4",
+          "url": "https://www.google.it",
+          "category": "Fai da te"
+        }
+      ],
+      "actionsMenu": [
+        {
+          "id": "1",
+          "url": "https://www.google.it",
+          "category": "Search"
+        },
+        {
+          "id": "2",
+          "url": "https://www.google.it",
+          "category": "profile"
+        }
+      ]
+    }
+  },
+  "footer": {
+    "copyright": "© Copyright 2022 - Ragione sociale: Vodafone Italia S.p.A. - Partita IVA: 08539010010 - REA: 974956",
+    "app": {
+      "message": "Manage your Vodafone products and services in the easiest way",
+      "logos": [
+        {
+          "alt": "Apple store",
+          "url": "https://www.google.it",
+          "image": "appleStore.png"
+        },
+        {
+          "alt": "Play store",
+          "url": "https://www.google.it",
+          "image": "playStore.png"
+        }
+      ]
+    },
+    "socials": {
+      "title": "Social",
+      "logo": {
+        "alt": "Vodafone",
+        "url": "https://www.google.it",
+        "image": "vfWhite.png"
+      },
+      "elements": [
+        {
+          "alt": "Facebook",
+          "url": "https://www.google.it",
+          "image": "facebook.png"
+        },
+        {
+          "alt": "Instagram",
+          "url": "https://www.google.it",
+          "image": "instagram.png"
+        },
+        {
+          "alt": "Twitter",
+          "url": "https://www.google.it",
+          "image": "twitter.png"
+        },
+        {
+          "alt": "YouTube",
+          "url": "https://www.google.it",
+          "image": "youtube.png"
+        }
+      ]
+    },
+    "footerLinks": [
+      {
+        "category": "Vodafone Italia",
+        "links": [
+          {
+            "url": "https://www.google.it",
+            "category": "Chi siamo"
+          },
+          {
+            "url": "https://www.google.it",
+            "category": "Lavora con noi"
+          },
+          {
+            "url": "https://www.google.it",
+            "category": "Diventa partner"
+          }
+        ]
+      },
+      {
+        "category": "Offerte",
+        "links": [
+          {
+            "url": "https://www.google.com",
+            "category": "Offerta internet casa"
+          },
+          {
+            "url": "https://www.google.com",
+            "category": "Offerte telefonia mobile"
+          },
+          {
+            "url": "https://www.google.com",
+            "category": "Offerte internet mobile"
+          },
+          {
+            "url": "https://www.google.com",
+            "category": "Offerte fibra + mobile"
+          },
+          {
+            "url": "https://www.google.com",
+            "category": "Smartphone, tablet, ecc"
+          },
+          {
+            "url": "https://www.google.com",
+            "category": "Offerte Fibra + TV"
+          }
+        ]
+      },
+      {
+        "category": "Per il consumatore",
+        "links": [
+          {
+            "url": "https://www.google.com",
+            "category": "Vodafone informa"
+          },
+          {
+            "url": "https://www.google.com",
+            "category": "Trasparenza tariffaria"
+          },
+          {
+            "url": "https://www.google.com",
+            "category": "Sintesi contrattuale"
+          },
+          {
+            "url": "https://www.google.com",
+            "category": "Condizioni generali di contratto"
+          },
+          {
+            "url": "https://www.google.com",
+            "category": "Agevolazioni per utenti con disabilità"
+          }
+        ]
+      },
+      {
+        "category": "Privacy",
+        "links": [
+          {
+            "url": "https://www.google.com",
+            "category": "I nostri impegni per la privacy e sicurezza"
+          },
+          {
+            "url": "https://www.google.com",
+            "category": "Privacy Policy"
+          },
+          {
+            "url": "https://www.google.com",
+            "category": "Modifica le tue preferenze sui Cookies"
+          }
+        ]
+      }
+    ],
+    "mobileLinks": [
+      {
+        "url": "https://www.google.it",
+        "category": "Site Map"
+      },
+      {
+        "url": "https://www.google.com",
+        "category": "Terms & conditions"
+      },
+      {
+        "url": "https://www.google.com",
+        "category": "Privacy policy"
+      },
+      {
+        "url": "https://www.google.com",
+        "category": "Cookie policy"
+      }
+    ]
+  },
+  "tagging": {
+    "parameter": "cbu_web_HP"
+  }
+}

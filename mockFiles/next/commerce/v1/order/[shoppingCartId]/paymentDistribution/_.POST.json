@@ -1,0 +1,9 @@
+{
+  "lcvStatus": "Verde",
+  "lcvReason": [
+    {
+      "lcvReasonCode": "V001",
+      "lcvDescription": "Verde"
+    }
+  ]
+}

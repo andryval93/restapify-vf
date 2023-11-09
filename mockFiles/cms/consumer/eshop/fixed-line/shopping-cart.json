@@ -1,0 +1,58 @@
+{
+  "shoppingcartcarousel": {
+    "title": "<p>Un tocco in più per completare la tua offerta</p>\r\n",
+    "titleTechnology": "",
+    "titleRelated": "",
+     "related": [
+      {
+        "detailLabel": "Scopri i dettagli",
+        "subprice": "6,99€ al mese per Under 30",
+        "description": "Costo di attivazione gratuito",
+        "activeLabel": "Attiva ora",
+        "id": "1",
+        "image": "1p.jpeg",
+        "label": "Smartphone",
+        "price": "9,90€/mese"
+      },
+      {
+        "detailLabel": "Scopri i dettagli",
+        "subprice": "6,99€ al mese Under 30",
+        "description": "Costo di attivazione gratuito",
+        "activeLabel": "Attiva ora",
+        "id": "2",
+        "image": "2p",
+        "label": "Servizio",
+        "price": "12,90€/mese"
+      },
+      {
+        "detailLabel": "Scopri i dettagli",
+        "subprice": "6,99€ al mese Under 30",
+        "description": "Costo di attivazione gratuito",
+        "activeLabel": "Attiva ora",
+        "id": "3",
+        "image": "1p.jpeg",
+        "label": "Servizio",
+        "price": "9,90€/mese"
+      },
+      {
+        "detailLabel": "Scopri i dettagli",
+        "subprice": "6,99€ al mese per Under 30",
+        "description": "Costo di attivazione gratuito",
+        "activeLabel": "Attiva ora",
+        "id": "4",
+        "image": "2p.jpeg",
+        "label": "Tutta la potenza del 5G",
+        "price": "12,90€/mese"
+      },
+      {
+        "detailLabel": "Scopri i dettagli",
+        "subprice": "6,99€ al mese per Under 30",
+        "description": "Costo di attivazione gratuito",
+        "activeLabel": "Attiva ora",
+        "id": "5",
+        "label": "???",
+        "price": "9,90€ al mese"
+      }
+    ]
+  }
+}

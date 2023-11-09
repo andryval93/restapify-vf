@@ -1,0 +1,91 @@
+{
+  "deliveryOrders": [
+    {
+      "code": "S",
+      "description": "Spedizione a casa",
+      "shippingOptions": [
+        {
+          "name": "ST",
+          "displayName": "Consegna standard",
+          "price": {
+            "currencyCode": "EUR",
+            "amount": 0.0
+          },
+          "isSelected": true
+        }
+      ],
+      "deliveryItems": [
+        {
+          "itemId": "106970093_3296402",
+          "itemCid": "621587",
+          "itemType": "SIM",
+          "itemName": "SIM",
+          "lineOfBusiness": "IN"
+        },
+        {
+          "itemId": "106970107_3296404",
+          "itemCid": "4616181",
+          "itemType": "EQP",
+          "itemName": "Vodafone Power Station Wifi 6",
+          "lineOfBusiness": "IN"
+        }
+      ],
+      "recipientDetails": {
+        "recipientName": {
+          "formattedName": "Antonio;Morrison"
+        },
+        "recipientAddress": {
+          "id": "1073875827",
+          "street": "VIA BISCEGLIE",
+          "streetNumber": "73",
+          "city": "MILANO",
+          "country": "IT",
+          "stateOrProvince": "MI",
+          "postalCode": "20152",
+          "formattedAddress1": "73 VIA BISCEGLIE"
+        },
+        "contactPhoneNumber": "3937019915",
+        "contactEmailAddress": "andrea.valenti@capgemini.com"
+      },
+      "shippingDetails": {}
+    }
+  ],
+  "deliverySteps": [
+    {
+      "stepCode": "OV",
+      "checked": true,
+      "fulfillmentDetails": [
+        {
+          "entityType": "Fixed",
+          "additionalInfo": [
+            {
+              "key": "serviceNo",
+              "value": "390248019902"
+            }
+          ]
+        },
+        {
+          "entityType": "Data-Sim",
+          "additionalInfo": [
+            {
+              "key": "serviceNo",
+              "value": "393450463890"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stepCode": "DP",
+      "checked": false
+    },
+    {
+      "stepCode": "ID",
+      "checked": false
+    },
+    {
+      "stepCode": "AC",
+      "checked": false
+    }
+  ]
+}

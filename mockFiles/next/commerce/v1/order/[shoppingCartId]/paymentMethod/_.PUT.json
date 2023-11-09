@@ -1,0 +1,259 @@
+{
+  "orderPayment": {
+    "orderItemPayments": [
+      {
+        "msisdn": "393445740064",
+        "orderActionId": "515618076A",
+        "mainComponentProductId": "1817481171",
+        "depositAmountCharacteristicId": "648887",
+        "orderItemOnBillPayment": {
+          "billingOfferIdForChangePaymentMethod": ["1817481202"],
+          "billingOfferIdForDistribution": [
+            "1817488399",
+            "1817481224",
+            "1817481178",
+            "1817481203",
+            "1817481210",
+            "1817481222",
+            "1817481223",
+            "1817481176",
+            "1817481191",
+            "1817481186",
+            "1817488396",
+            "1817481180",
+            "1817488398",
+            "1817481181",
+            "1817481182",
+            "1817481183",
+            "1817481184",
+            "1817488397",
+            "1817481193",
+            "1817481218",
+            "1817481219",
+            "1817481217",
+            "1817481216",
+            "1817481207",
+            "1817481196",
+            "1817481202",
+            "1817481201",
+            "1817481213"
+          ],
+          "payMeanPurpose": "onBill",
+          "totalPrice": [
+            {
+              "type": "oneTime",
+              "originalprice": { "currencyCode": "EUR", "taxIncludedAmount": 6.99, "amount": 6.99 },
+              "price": {
+                "currencyCode": "EUR",
+                "taxRate": 21.99,
+                "taxIncludedAmount": 6.99,
+                "amount": 5.73,
+                "taxAmount": 1.26
+              }
+            },
+            {
+              "recurringChargePeriod": "month",
+              "type": "recurring",
+              "originalprice": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 14.99,
+                "amount": 14.99
+              },
+              "price": {
+                "currencyCode": "EUR",
+                "taxRate": 21.97,
+                "taxIncludedAmount": 14.99,
+                "amount": 12.29,
+                "taxAmount": 2.7
+              }
+            }
+          ],
+          "currentOrderPrice": [
+            {
+              "type": "oneTime",
+              "originalprice": { "currencyCode": "EUR", "taxIncludedAmount": 6.99, "amount": 6.99 },
+              "price": {
+                "currencyCode": "EUR",
+                "taxRate": 21.99,
+                "taxIncludedAmount": 6.99,
+                "amount": 5.73,
+                "taxAmount": 1.26
+              }
+            },
+            {
+              "recurringChargePeriod": "month",
+              "type": "recurring",
+              "originalprice": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 14.99,
+                "amount": 14.99
+              },
+              "price": {
+                "currencyCode": "EUR",
+                "taxRate": 21.97,
+                "taxIncludedAmount": 14.99,
+                "amount": 12.29,
+                "taxAmount": 2.7
+              }
+            }
+          ],
+          "availablePaymentMethods": [
+            {
+              "methodName": "Card",
+              "methodValue": "CC",
+              "configured": true,
+              "methodCode": "creditCard",
+              "productSpecCharacteristicId": "737563649",
+              "type": "creditCard"
+            },
+            {
+              "methodName": "Bank Account",
+              "methodValue": "DD",
+              "configured": false,
+              "methodCode": "bankAccount",
+              "productSpecCharacteristicId": "737563649",
+              "type": "bankAccount"
+            },
+            {
+              "methodName": "Subscriber Balance",
+              "methodValue": "W",
+              "configured": false,
+              "methodCode": "wallet",
+              "productSpecCharacteristicId": "737563649",
+              "type": "wallet"
+            }
+          ],
+          "selectedPaymentMethod": {
+            "methodName": "Card",
+            "methodValue": "CC",
+            "configured": true,
+            "methodCode": "creditCard",
+            "productSpecCharacteristicId": "737563649",
+            "type": "creditCard"
+          },
+          "isIBANValidationRequired": false
+        }
+      }
+    ],
+    "orderOnBillPayment": {
+      "billingOfferIdForChangePaymentMethod": ["1817481202"],
+      "billingOfferIdForDistribution": [
+        "1817488399",
+        "1817481224",
+        "1817481178",
+        "1817481203",
+        "1817481210",
+        "1817481222",
+        "1817481223",
+        "1817481176",
+        "1817481191",
+        "1817481186",
+        "1817488396",
+        "1817481180",
+        "1817488398",
+        "1817481181",
+        "1817481182",
+        "1817481183",
+        "1817481184",
+        "1817488397",
+        "1817481193",
+        "1817481218",
+        "1817481219",
+        "1817481217",
+        "1817481216",
+        "1817481207",
+        "1817481196",
+        "1817481202",
+        "1817481201",
+        "1817481213"
+      ],
+      "payMeanPurpose": "onBill",
+      "totalPrice": [
+        {
+          "type": "oneTime",
+          "originalprice": { "currencyCode": "EUR", "taxIncludedAmount": 6.99, "amount": 6.99 },
+          "price": {
+            "currencyCode": "EUR",
+            "taxRate": 21.99,
+            "taxIncludedAmount": 6.99,
+            "amount": 5.73,
+            "taxAmount": 1.26
+          }
+        },
+        {
+          "recurringChargePeriod": "month",
+          "type": "recurring",
+          "originalprice": { "currencyCode": "EUR", "taxIncludedAmount": 14.99, "amount": 14.99 },
+          "price": {
+            "currencyCode": "EUR",
+            "taxRate": 21.97,
+            "taxIncludedAmount": 14.99,
+            "amount": 12.29,
+            "taxAmount": 2.7
+          }
+        }
+      ],
+      "currentOrderPrice": [
+        {
+          "type": "oneTime",
+          "originalprice": { "currencyCode": "EUR", "taxIncludedAmount": 6.99, "amount": 6.99 },
+          "price": {
+            "currencyCode": "EUR",
+            "taxRate": 21.99,
+            "taxIncludedAmount": 6.99,
+            "amount": 5.73,
+            "taxAmount": 1.26
+          }
+        },
+        {
+          "recurringChargePeriod": "month",
+          "type": "recurring",
+          "originalprice": { "currencyCode": "EUR", "taxIncludedAmount": 14.99, "amount": 14.99 },
+          "price": {
+            "currencyCode": "EUR",
+            "taxRate": 21.97,
+            "taxIncludedAmount": 14.99,
+            "amount": 12.29,
+            "taxAmount": 2.7
+          }
+        }
+      ],
+      "availablePaymentMethods": [
+        {
+          "methodName": "Card",
+          "methodValue": "CC",
+          "configured": true,
+          "methodCode": "creditCard",
+          "productSpecCharacteristicId": "737563649",
+          "type": "creditCard"
+        },
+        {
+          "methodName": "Bank Account",
+          "methodValue": "DD",
+          "configured": false,
+          "methodCode": "bankAccount",
+          "productSpecCharacteristicId": "737563649",
+          "type": "bankAccount"
+        },
+        {
+          "methodName": "Subscriber Balance",
+          "methodValue": "W",
+          "configured": false,
+          "methodCode": "wallet",
+          "productSpecCharacteristicId": "737563649",
+          "type": "wallet"
+        }
+      ],
+      "selectedPaymentMethod": {
+        "methodName": "Card",
+        "methodValue": "CC",
+        "configured": true,
+        "methodCode": "creditCard",
+        "productSpecCharacteristicId": "737563649",
+        "type": "creditCard"
+      },
+      "isIBANValidationRequired": false
+    }
+  },
+  "validation": { "status": "success" }
+}

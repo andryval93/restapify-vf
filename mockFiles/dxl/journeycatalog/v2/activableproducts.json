@@ -1,0 +1,174 @@
+{
+  "mop": "CR",
+  "products": [
+    {
+      "id": {
+        "treatmentCode": "e462.6a6.ffffffff83ed2431.ffffffff8d2f2cd1",
+        "campaignId": "000001701"
+      },
+      "name": "Vodafone Club",
+      "type": "addon",
+      "productType": "NBA",
+      "description": "Vantaggi fissi tutti i mesi nelle principali categoria di spesa",
+      "longDescription": "Con Vodafone Club hai vantaggi fissi tutti i mesi nelle principali categorie di spesa per un risparmio minimo di 15€ al mese! Ecco alcuni esempi di sconto: 5€ di buono carburante su 30€ di rifornimento presso i distributori Q8, 10€ di sconto su 99€ di spesa minima presso i supermercati Carrefour, 5% di sconto per le prenotazioni su Booking.com, 30€ di sconto su 150€ di acquisti su Yoox.com. In più ogni mese hai 10 Giga aggiuntivi e il servizio 5G della Rete Vodafone sul tuo numero mobile. Iscriviti a soli 0,99€ il primo mese per godere di tutti i benefici dedicati ai clienti Vodafone Club. Rinnovi successivi a 3,99€ al mese.",
+      "characteristics": [],
+      "campaignDetail": {
+        "bolloDescription": "Primo mese a 0.99€",
+        "featureDescription": [],
+        "price": [
+          {
+            "priceRef": "campaign",
+            "value": "3.99",
+            "priceType": "recurring"
+          },
+          {
+            "priceRef": "campaign",
+            "value": "0.00",
+            "priceType": "oneshot"
+          },
+          {
+            "priceRef": "market",
+            "value": "3.99",
+            "priceType": "recurring"
+          },
+          {
+            "priceRef": "market",
+            "value": "0.00",
+            "priceType": "oneshot"
+          }
+        ],
+        "components": {
+          "retrieveSessionId": "7bcaf301-1d54-4102-bc3f-dfcece378009",
+          "billingOffer": [
+            {
+              "id": "5472183",
+              "price": []
+            },
+            {
+              "id": "7418483",
+              "price": []
+            }
+          ]
+        }
+      },
+      "activationDate": "2023-03-10"
+    },
+    {
+      "id": {
+        "treatmentCode": "ea0e.627.ffffffffadb41bd2.ffffffffe82a88ba",
+        "campaignId": "000001574"
+      },
+      "name": "Internet Unlimited Special Edition",
+      "type": "fixed change plan",
+      "productType": "NBA",
+      "description": "Per te che sei già cliente Vodafone, naviga senza limiti fino a 2.5 Gigabit. Offerta internet casa tutto incluso, compreso il modem e il costo di attivazione di 5€ al mese per 24 mesi",
+      "longDescription": "Per te che sei già cliente Vodafone mobile la fibra non è mai stata così conveniente! Internet illimitato fino ad 2.5 Gigabit al secondo al prezzo scontato di 19,90€ al mese, compreso il modem Vodafone Wi-Fi 6 Station e il costo di attivazione di 5€ al mese per 24 mesi. In più con Giga Family hai 50 Giga extra alla massima velocità della Rete Vodafone sul tuo numero mobile. Puoi inoltre personalizzare la tua offerta con: chiamate verso fissi e mobili nazionali a 3€ in più al mese, Rete Sicura Family a 3.99€ € in più al mese. Lo sconto a 19,90€ al mese è valido solo se mantieni attive sia la tua offerta mobile che quella di rete fissa. Se disattivi la componente mobile pagherai 27,90€ euro al mese.",
+      "bundlePO": "6399883",
+      "characteristics": [],
+      "campaignDetail": {
+        "featureDescription": [],
+        "price": [],
+        "components": {
+          "retrieveSessionId": "7bcaf301-1d54-4102-bc3f-dfcece378009",
+          "billingOffer": []
+        }
+      },
+      "cmsCategory": "nba",
+      "cmsCustomization": {
+        "activationCost": {
+          "price": " ",
+          "frequency": " "
+        },
+        "renewalCost": {
+          "price": "19,90 €",
+          "frequency": "al mese"
+        },
+        "card": {
+          "shortDescription": "La potenza della nostra Rete e Giga in regalo sulla tua SIM mobile ad un prezzo irripetibile.",
+          "primaryCTA": {
+            "label": "Ti chiamiamo gratis",
+            "actionURL": "ancora_lockin_card_storytelling"
+          },
+          "defaultCTA": {
+            "label": "Scopri di più",
+            "actionURL": "ancora_lockin_card_storytelling"
+          },
+          "commercialName": "Unisci Wi-Fi di casa e mobile",
+          "hero": {
+            "type": "image",
+            "path": "https://cdn.mvacloud-dev.vodafone.it/content/dam/myvf/mva10/08_next_catalogo/01_dicembre_22/Card_catalog_MVA12_Lockin_v2.jpg"
+          }
+        },
+        "detail": {
+          "header": {
+            "shortDescription": "Naviga a casa, senza limiti.",
+            "featureList": [
+              "19.,90€ al mese",
+              "compreso il costo di attivazione di 5€ al mese per 24 mesi"
+            ]
+          },
+          "offer": {
+            "title": "I vantaggi della Fibra Vodafone",
+            "description": "La comodità è di casa: naviga senza limiti con la migliore tecnologia, tutta la potenza della Rete Vodafone e il Modem con Wi-Fi ottimizzato incluso, per un segnale perfetto per tutti i device collegati.",
+            "media": {
+              "type": "image"
+            }
+          }
+        }
+      },
+      "activationDate": "2023-03-10"
+    },
+    {
+      "id": {
+        "treatmentCode": "dbd4.6a4.ffffffffe7fb19ea.61bc22fa",
+        "campaignId": "000001699"
+      },
+      "name": "Rete Sicura 2.0",
+      "type": "addon",
+      "productType": "NBA",
+      "description": "Per proteggere i tuoi dati personali e la navigazione internet del tuo dispositivo",
+      "longDescription": "Attiva Rete Sicura 2.0, servizio che protegge i tuoi dati personali (nomi utente, password, carte di credito, indirizzo mail) e la navigazione internet del tuo dispositivo. Con il Parental Control puoi filtrare i siti con contenuti inappropriati per i tuoi figli. Il servizio ID monitoring di Iris powered by Generali verifica la presenza dei tuoi dati su dark e deep Web, ti fornisce un riscontro immediato e ti aiuta a gestire eventuali danni. Inoltre, con il nuovo portale Coach digitale ricevi notizie, consigli e podcast per conoscere i rischi della rete e per imparare a difenderti meglio. Scopri il nuovo mondo della sicurezza per te e la tua famiglia a soli 0.99€ il primo mese, i rinnovi successivi a 1.99€ al mese.",
+      "characteristics": [],
+      "campaignDetail": {
+        "bolloDescription": "Primo mese a 0.99€",
+        "featureDescription": [],
+        "price": [
+          {
+            "priceRef": "campaign",
+            "value": "1.99",
+            "priceType": "recurring"
+          },
+          {
+            "priceRef": "campaign",
+            "value": "0.00",
+            "priceType": "oneshot"
+          },
+          {
+            "priceRef": "market",
+            "value": "1.99",
+            "priceType": "recurring"
+          },
+          {
+            "priceRef": "market",
+            "value": "0.00",
+            "priceType": "oneshot"
+          }
+        ],
+        "components": {
+          "retrieveSessionId": "7bcaf301-1d54-4102-bc3f-dfcece378009",
+          "billingOffer": [
+            {
+              "id": "259530095",
+              "price": []
+            },
+            {
+              "id": "7418583",
+              "price": []
+            }
+          ]
+        }
+      },
+      "activationDate": "2023-03-10"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "authorizationParameters": {
+    "amount": 0,
+    "currency": "978",
+    "siaOrderId": "20220713163157433_4220036A",
+    "shopId": "129288001740005",
+    "urlBack": "http://aem-publishdispatcher-test3.vodafone.it:15037/content/vodafone-next/it/privati/eshop/check-out?mode=urlback",
+    "urlDone": "http://aem-publishdispatcher-test3.vodafone.it:15037/content/vodafone-next/it/privati/eshop/check-out?mode=urldoneonbillcapture",
+    "urlMs": "https://apicweb3rdpartiestest.vodafone.it/nextapi/3pin/Payment/UpdateAuthorization",
+    "accountingMode": "D",
+    "authorMode": "I",
+    "mac": "9F89B9352A126F70C9B5E38BB0EA45E8863649FC99EF1C296748102582F7EF53",
+    "lang": "ITA",
+    "options": "BGHIMPQR",
+    "email": "jhon@mail.com",
+    "userId": "22071320409",
+    "name": "jhon",
+    "surname": "filiberto",
+    "taxId": "FLBJHN75E18D969J",
+    "productRef": "3986532564",
+    "antifraud": "hQEMA0a/ucU0X2+CAQgAknZY1ivIcIIVcyH205Pt11HJD7ug1j8tVss5TRCJ9kUORFhAIi6ZYyBuqa4Kp+n3Kr84yb7lrBEL9UdTjzUNR0KAKjncPYIPakax2D/t8NSWdNM8bzotWhNWr2t4PwpZ+LFcggPH90DaSQXTryjunRdwqN0DQJbYKGTE8vZgtOYaShcarC3RAtZhDGb4Zf/j9WSnUxjLhM7ZqXpgIAIw2AiBgavuKaf0xTGA4h6RjnNeZNSxZXs8Yj08bsr5YB8dxbwriMLOTlVJu75yRCZTTm/GX+GIlvt9ghScKS9AciG0JWCDeKO1urfxnAhtZ36nCP7sFQC04Or6jwzPBFPyPtLAMAEw5qU6nUmN3wtsah2H2wcC0c9ez6xDckV6zKixlznS8Q9VDefUHB212MCEajY2FFX5gz0nGjcc/kp/zBJiLcn3/pyUEnPCe6HanQbb1SSH5Z6Ad67UzcclwoeAQ4rvoHg1QXMB9pHHCCnr9HI0jvHiztzEYisa2amrI0Z9KggaTIWOmAVt7V4/2xOaIHQ59azWVELarOxEQEWnKYMLvKVNEXCuphbOEPyCPqgFFR20EX/ptqefvPvM0k1BUm+Vo6uBYnsxH858vigXzmt/ttMbz6kobmE21ta0H0Rdfc8QLq2m2RfRHEr+h/AaJbLHTA===XCB",
+    "urlSia": "https://payments-test.vodafone.it/vodafone/pagamenti/main?PAGE=LAND",
+    "siaSimulatorMode": false
+  }
+}

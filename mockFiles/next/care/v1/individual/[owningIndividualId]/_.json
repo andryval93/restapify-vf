@@ -1,0 +1,81 @@
+{
+  "href": "/care/v1/individual/22101726351?salesChannel=selfService",
+  "id": "22101726351",
+  "firstName": "Corine",
+  "lastName": "Paganino",
+  "noFiscalCodeFlag": "Italian",
+  "fiscalCode": "PGNCRN88D42L640W",
+  "title": "EMPTY",
+  "birthDate": "1988-04-02",
+  "gender": "female",
+  "contactMedium": [
+    {
+      "type": "email",
+      "preferred": false,
+      "emailAddress": "andreaseverini94@gmail.com",
+      "id": "268648361"
+    },
+    {
+      "type": "phone",
+      "preferred": false,
+      "phoneNumber": "3807444287",
+      "id": "268648362"
+    },
+    {
+      "type": "postalAddress",
+      "preferred": false,
+      "id": "268571943",
+      "city": "MILANO",
+      "country": "IT",
+      "displayCountry": "Italia",
+      "postalCode": "20121",
+      "stateOrProvince": "MI",
+      "displayStateOrProvince": "MILANO",
+      "street": "VIA MONTE NAPOLEONE",
+      "formattedAddress1": "VIA MONTE NAPOLEONE 20",
+      "formattedAddress3": "MILANO MILANO 20121",
+      "latitude": "45.469538",
+      "longitude": "9.193726",
+      "externalId": "38000052108",
+      "streetNumber": "20",
+      "homeZone": "00100782",
+      "istatCode": "03015146"
+    }
+  ],
+  "identification": [
+    {
+      "identificationNumber": "sr3434788",
+      "identificationType": "2",
+      "displayIdentificationType": "Passaporto",
+      "issueDate": "1753-01-01",
+      "expirationDate": "2028-03-02",
+      "id": "268575509",
+      "nationality": "AF",
+      "isLegacy": false
+    }
+  ],
+  "birthPlace": "L640",
+  "communicationPreference": [
+    {
+      "communicationPreferenceType": "email",
+      "communicationPreferenceValue": "andreaseverini94@gmail.com",
+      "isPrefered": false,
+      "notificationPreferenceDetailsId": "268607201"
+    },
+    {
+      "communicationPreferenceType": "sms",
+      "communicationPreferenceValue": "3807444287",
+      "isPrefered": true,
+      "notificationPreferenceDetailsId": "268607202"
+    }
+  ],
+  "preferredLanguage": { "name": "it-IT", "displayName": "Italiano" },
+  "preferredContactTime": { "name": "Morning", "displayName": "Mattina" },
+  "contactObjId": "268576836",
+  "preferredContactMethod": {
+    "name": "C",
+    "displayName": "Telefono Cellulare"
+  },
+  "nation": "IT",
+  "displayBirthPlace": "VALMOREA ,ITALIA"
+}

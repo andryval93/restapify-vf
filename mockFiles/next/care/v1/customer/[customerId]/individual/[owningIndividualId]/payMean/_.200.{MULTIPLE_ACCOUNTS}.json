@@ -1,0 +1,127 @@
+{
+  "payMeans": [
+    {
+      "object_type": "V1BankAccountPayMean",
+      "id": "269345319",
+      "type": "bankAccount",
+      "bankCode": "03002",
+      "branchCode": "03280",
+      "holderName": "sdesgxc sdesgxc",
+      "accountNumber": "117768623961",
+      "ibanNumber": "3961"
+    },
+    {
+      "object_type": "V1BankAccountPayMean",
+      "id": "269345316",
+      "type": "bankAccount",
+      "bankCode": "03002",
+      "branchCode": "03280",
+      "holderName": "sdesgxc sdesgxc",
+      "accountNumber": "686398391915",
+      "ibanNumber": "1915"
+    },
+    {
+      "object_type": "V1BankAccountPayMean",
+      "id": "269345315",
+      "type": "bankAccount",
+      "bankCode": "03002",
+      "branchCode": "03280",
+      "holderName": "sdesgxc sdesgxc",
+      "accountNumber": "859979853781",
+      "ibanNumber": "3781"
+    },
+    {
+      "object_type": "V1BankAccountPayMean",
+      "id": "269345314",
+      "type": "bankAccount",
+      "bankCode": "03002",
+      "branchCode": "03280",
+      "holderName": "sdesgxc sdesgxc",
+      "accountNumber": "235416754895",
+      "ibanNumber": "4895"
+    },
+    {
+      "object_type": "V1CreditCardPayMean",
+      "id": "269338708",
+      "type": "creditCard",
+      "brand": "MasterCard",
+      "displayBrand": "MasterCard",
+      "holderName": "sdesgxc sdesgxc",
+      "lastFourDigits": "2154",
+      "expiryMonth": "12",
+      "expiryYear": "2025"
+    },
+    {
+      "object_type": "V1CreditCardPayMean",
+      "id": "269344958",
+      "type": "creditCard",
+      "brand": "Visa",
+      "displayBrand": "Visa",
+      "holderName": " ",
+      "lastFourDigits": "9945",
+      "expiryMonth": "4",
+      "expiryYear": "2027"
+    },
+    {
+      "object_type": "V1BankAccountPayMean",
+      "id": "269344710",
+      "type": "bankAccount",
+      "bankCode": "03002",
+      "branchCode": "03280",
+      "holderName": "sdesgxc sdesgxc",
+      "accountNumber": "142194182977",
+      "ibanNumber": "2977"
+    },
+    {
+      "object_type": "V1BankAccountPayMean",
+      "id": "269344696",
+      "type": "bankAccount",
+      "bankCode": "03002",
+      "branchCode": "03280",
+      "holderName": "sdesgxc sdesgxc",
+      "accountNumber": "998837752798",
+      "ibanNumber": "2798"
+    },
+    {
+      "object_type": "V1BankAccountPayMean",
+      "id": "269344695",
+      "type": "bankAccount",
+      "bankCode": "03002",
+      "branchCode": "03280",
+      "holderName": "sdesgxc sdesgxc",
+      "accountNumber": "172971235394",
+      "ibanNumber": "5394"
+    },
+    {
+      "object_type": "V1BankAccountPayMean",
+      "id": "269344693",
+      "type": "bankAccount",
+      "bankCode": "03002",
+      "branchCode": "03280",
+      "holderName": "sdesgxc sdesgxc",
+      "accountNumber": "154552244352",
+      "ibanNumber": "4352"
+    },
+    {
+      "object_type": "V1BankAccountPayMean",
+      "id": "269344691",
+      "type": "bankAccount",
+      "bankCode": "03002",
+      "branchCode": "03280",
+      "holderName": "sdesgxc sdesgxc",
+      "accountNumber": "926726651947",
+      "ibanNumber": "1947"
+    },
+    {
+      "object_type": "V1BankAccountPayMean",
+      "id": "269344690",
+      "type": "bankAccount",
+      "bankCode": "03002",
+      "branchCode": "03280",
+      "holderName": "sdesgxc sdesgxc",
+      "accountNumber": "762871779319",
+      "ibanNumber": "9319"
+    }
+  ],
+  "isAutoPaySet": false
+}

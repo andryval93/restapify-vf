@@ -1,0 +1,57 @@
+{
+  "id": "000013337",
+  "code": "000001892",
+  "name": "WB_Vodafone_Silver_7.99_8",
+  "type": "Winback",
+  "score": "50",
+  "msisdn": "393444707186",
+  "shortDescription": "Minuti, SMS illimitati e 100 Giga.",
+  "longDescription": "Per te un'offerta chiara e semplice dove tutto e incluso! Con Vodafone Silver a 7.99? al mese hai 100 Giga alla massima velocita della Rete Vodafone, minuti illimitati, SMS illimitati e 300 minuti internazionali verso i paesi dell'Unione Europea, USA e tanti altri. Da oggi non pagherai piu servizi standard come il costo del piano telefonico (1.90? al mese), il 414 per conoscere il tuo credito residuo (0.25? a SMS), il servizio chiamami (0.12? al giorno) per sapere quando sei disponibile sul tuo cellulare, le chiamate alla segreteria telefonica (1.50? al giorno), la continuita del servizio che ti permette di utilizzare il tuo cellulare anche a credito negativo (0.99?), Vodafone Exclusive (1,90? al mese), perche saranno inclusi nella tua offerta.",
+  "title": "Vodafone Silver",
+  "productOfferId": "4269285",
+  "massMarketInd": false,
+  "campaignPrice": [
+    {
+      "type": "recurring",
+      "price": {
+        "currencyCode": "EUR",
+        "amount": 7.99
+      }
+    },
+    {
+      "type": "oneTime",
+      "price": {
+        "currencyCode": "EUR",
+        "amount": 0.01
+      }
+    }
+  ],
+  "massMarketPrice": [
+    {
+      "type": "recurring",
+      "price": {
+        "currencyCode": "EUR",
+        "amount": 4.9
+      }
+    },
+    {
+      "type": "oneTime",
+      "price": {
+        "currencyCode": "EUR",
+        "amount": 0
+      }
+    }
+  ],
+  "campaignBillingOfferList": [
+    {
+      "cid": "4266385",
+      "rcOverride": 7.99
+    },
+    {
+      "cid": "3208098",
+      "ocOverride": 0.01
+    }
+  ],
+  "isInbound": true,
+  "isChangeTechOnly": false
+}

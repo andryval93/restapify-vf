@@ -1,0 +1,110 @@
+[
+  {
+    "deliveryItems": [
+      {
+        "items": [
+          {
+            "itemId": "1651908292_453568471",
+            "itemCid": "621587",
+            "itemType": "SIM",
+            "itemName": "SIM",
+            "lineOfBusiness": "IN"
+          },
+          {
+            "itemId": "1651908306_453568474",
+            "itemCid": "2786781",
+            "itemType": "EQP",
+            "itemName": "Vodafone Wi-Fi 6 Station",
+            "lineOfBusiness": "IN"
+          }
+        ],
+        "details": [
+          {
+            "code": "S",
+            "description": "Consegna il tecnico",
+            "isSelected": true
+          },
+          {
+            "code": "PP",
+            "description": "Vodafone station",
+            "isSelected": true
+          },
+          {
+            "code": "PO",
+            "description": "Consegna postale",
+            "isSelected": true
+          },
+          {
+            "code": "T",
+            "description": "Consegna il tecnico",
+            "isSelected": true
+          }
+        ]
+      }
+    ],
+    "identificationDetails": [
+      { "code": "CO", "description": "Courier", "isSelected": true },
+      {
+        "code": "VR",
+        "description": "Video Recognition",
+        "isSelected": false
+      }
+    ],
+    "recipientDetails": {
+      "recipientName": {
+        "formattedName": "giovanni ravelli"
+      },
+      "recipientAddress": {
+        "id": "272319432",
+        "street": "VIA PAOLO SARPI",
+        "streetNumber": "4",
+        "city": "MILANO",
+        "country": "IT",
+        "stateOrProvince": "MI",
+        "postalCode": "20154",
+        "formattedAddress1": "VIA PAOLO SARPI 4"
+      },
+      "availableAddresses": [
+        {
+          "id": "272487741",
+          "externalId": "",
+          "street": "VIA PAOLO SARPI",
+          "streetNumber": "4",
+          "city": "MILANO",
+          "country": "IT",
+          "displayCountry": "",
+          "stateOrProvince": "MI",
+          "displayStateOrProvince": "MI",
+          "building": "",
+          "apartmentNumber": "",
+          "floor": "",
+          "frazione": "",
+          "longitude": "",
+          "latitude": "",
+          "postalCode": "20154",
+          "formattedAddress1": "",
+          "formattedAddress2": "",
+          "isNewAddress": true,
+          "postalOfficeID": ""
+        }
+      ],
+      "notes": "Citofono 33 - Scala B",
+      "contactPhoneNumber": "3927945896",
+      "contactEmailAddress": "ravelli@gio.com"
+    },
+    "characteristics": [
+      {
+        "id": "257030581",
+        "selectedValue": "TechDeliv_Install",
+        "availableValues": [
+          {
+            "value": "TechDeliv_Install",
+            "displayValue": "Servizio di installazione inclusa"
+          }
+        ],
+        "orderActionId": "453568474A",
+        "productId": "1651908298"
+      }
+    ]
+  }
+]

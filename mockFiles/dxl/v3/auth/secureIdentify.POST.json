@@ -1,0 +1,14 @@
+{
+  "code" : 200,
+  "description" : "RESPONSE_LOGIN_FAILED",
+  "message" : "Hai inserito una login senza numeri Vodafone associati. Vai su Vodafone.it da PC o Tablet, effettua la login e segui le istruzioni per aggiungere i tuoi numeri.",
+  "errorDetails" : {
+    "methodKey" : "DualRunEnrichmentJourneyClient#enrichedLogin()",
+    "error" : {
+      "code" : "SECURE_IDENTIFY_KO",
+      "reason" : "No items for user",
+      "message" : "No items found during enrichment"
+    },
+    "status" : 200
+  }
+}

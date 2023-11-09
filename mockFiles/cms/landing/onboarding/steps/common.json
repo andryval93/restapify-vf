@@ -1,0 +1,25 @@
+{
+  "topImage": "image.png",
+  "steps": [
+    {
+      "id": "elaborazione",
+      "title": "Elaborazione ordine"
+    },
+    {
+      "id": "materiali",
+      "title": "Consegna materiali"
+    },
+    {
+      "id": "installazione",
+      "title": "Installazione"
+    },
+    {
+      "id": "attivazione",
+      "title": "Attivazione"
+    }
+  ],
+  "bannerTitle": "Ciao $NAME",
+  "bannerSubtitle": "HTML Grazie per averci scelto! <br/> Controlla lo stato della tua pratica $PRACTICE_NUMBER e il contenuto dell'offerta di rete fissa HTML",
+  "title": "Stato dell'ordine",
+  "description": "Ancora qualche piccolo passo per navigare alla velocità della luce HTML"
+}

@@ -1,0 +1,15 @@
+{
+  "orderId": "27931",
+  "orderStatus": "EX",
+  "dynamicAttributes": [
+    {
+      "name": "CONTRACT_SIGNATURE_OPTIONS",
+      "value": "Biosignature,E-signature,Im not in the shop"
+    },
+    {
+      "name": "LANDING_PAGE_MODE",
+      "value": "without approval"
+    }
+  ]
+}
+

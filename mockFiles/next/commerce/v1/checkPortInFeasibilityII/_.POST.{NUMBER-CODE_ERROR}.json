@@ -1,0 +1,37 @@
+{
+    "#headers": {
+      "Set-Cookie": "WIRELESS_SECURITY_TOKEN=YbW6Krukmz0wF/GkfELK2g**___currentencryptionkey___mrEeexGucxdnDhBKTKWAwcAWQ6MIgvUlC607CxXRcxRwJ6d6pBw52MIEEwZDgIlCIJZ+cltVu/FjLe8KyBE5SDNeBC/JqLiOQPGs5aUk3gz8vaSE8TmjoU/kqxD64AfRFJ59xXu/ZNJR6tlsALZJs+FULa3A3GE/U/rUF3wTRoRv9yICKC++S12Se25ELwtg; path=/; HttpOnly; domain=.digitalcvm-dev.vodafone.it;",
+      "uxfauthorization": "UXF_SessionToken:jooS+w9LXhsP2Ngd+QWdAA==___currentencryptionkey___WvZ5Pibs3xYvjfOyZEDe1qgaoVb4ueVpqUmQ/wSkjghECxm+zNr1Y7XurqvSG4U44+JIf5JeapGygqBQ/8/Rc9r9e9yxokNIILgKaT74YApz0lGxEePQO/vYJaD2JjHRGXxwmgztlzLF2hosfTRo7dJHFrRK4UfGkvyF82owJl1HsRW3pI2MO9bpuadOn6eH+B6Z58qGWWRllfBW+ZhcjYK9wExkaHtxiO2IG4n7s2Db3VxAfGdalaYAvrFqNoDU"
+    },
+    "#body": {
+        "resultDescription": "Failure",
+        "resultMessages": [
+          {
+            "messageDescription": "The entered number is already in Ordering process",
+            "messageParameters": [
+              {
+                "name": "MSISDN",
+                "value": "393474829526"
+              },
+              {
+                "name": "OrderActionID",
+                "value": "517323179A"
+              }
+            ]
+          },
+          {
+            "messageDescription": "The entered number is already Vodafone number",
+            "messageParameters": [
+              {
+                "name": "MSISDN",
+                "value": "393474829526"
+              },
+              {
+                "name": "OrderActionID",
+                "value": "517323179A"
+              }
+            ]
+          }
+        ]
+      }
+  }

@@ -1,0 +1,30 @@
+{
+  "devicecharacteristic": {
+    "colors": {
+      "label": "Colore",
+      "elements": [
+        {
+          "id": "1",
+          "value": "Nero"
+        },
+        {
+          "id": "2",
+          "value": "Grigio"
+        }
+      ]
+    },
+    "sizes": {
+      "label": "Taglia",
+      "elements": [
+        {
+          "id": "1",
+          "value": "128Gb"
+        },
+        {
+          "id": "3",
+          "value": "256Gb"
+        }
+      ]
+    }
+  }
+}

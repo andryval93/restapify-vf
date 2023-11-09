@@ -1,0 +1,257 @@
+{
+  "offerdetail": {
+    "id": "1111111",
+    "slug": "internet-unlimited",
+    "offerImage": "internet_unlimited.png",
+    "offerImageMobile": "internet_unlimited.png",
+    "offerDescription": "<p>Chiama senza limiti tutti i tuoi cari</p>\r\n",
+    "offerName": "<p>Internet Unlimited</p>\r\n",
+    "offerType": "fixed",
+    "offerCategory": {
+      "id": "1",
+      "value": "Offerte per i giovani",
+      "tags": [
+        {
+          "keyword": "lavoro"
+        },
+        {
+          "keyword": "intrattenimento"
+        },
+        {
+          "keyword": "gaming"
+        }
+      ]
+    },
+    "offerActivate": {
+      "type": "5",
+      "title": "Attiva ora"
+    },
+    "offerPrice": {
+      "description": "<p>INVECE DI 29,90€</p>\r\n",
+      "detail": "Costo di attivazione e spedizione gratuito",
+      "price": "27,90€",
+      "recurrence": "mese"
+    },
+    "offerVisibility": {
+      "showInPromo": "true",
+      "showInSolutions": "true",
+      "showInHP": "true",
+      "showInRelated": "true"
+    },
+    "hubProductDetail": {
+      "frontLabel": "Se sei già nostro cliente",
+      "offerCtaLabel": "DETTAGLIO OFFERTA",
+      "shortCharacteristics": {
+        "title": "Cos'hai incluso?",
+        "list": [
+          {
+            "action": "HTML",
+            "title": "50 Giga in 5G"
+          },
+          {
+            "action": "HTML",
+            "title": "minuti illimitati"
+          }
+        ]
+      }
+    },
+    "pdpProductDetail": {
+      "productDescription": "HTML",
+      "backUrl": "https://www.google.com",
+      "offerDetailLabel": "DETTAGLIO OFFERTA",
+      "offerCTALabel": "DETTAGLIO OFFERTA",
+      "backLabel": "Tutte le offerte mobile",
+      "divider": {
+        "image": "obbligaorio",
+        "imageMobile": "facoltativo",
+        "text": ""
+      }
+    },
+    "checkoutProductDetail": {
+      "addressLabel": "La nostra offerta per: $userAddress",
+      "sendEmailHelp": {
+        "enable": "true",
+        "url": "https://assistenza.vodafone.it/cmb/entrypoint/?skill=cvm_convergenza&DESC=D_06_N_NOABTEST_ADV_Pagina-di-dettaglio_offerte-fibra-cvm__2290"
+      },
+      "callMeNowHelp": {
+        "enable": "true",
+        "url": "https://assistenza.vodafone.it/cmb/entrypoint/?skill=cvm_convergenza&DESC=D_06_N_NOABTEST_ADV_Pagina-di-dettaglio_offerte-fibra-cvm__2290"
+      },
+      "redirectFWA": {
+        "url": "https://assistenza.vodafone.it/cmb/entrypoint/?skill=cvm_convergenza&DESC=D_06_N_NOABTEST_ADV_Pagina-di-dettaglio_offerte-fibra-cvm__2290",
+        "type": "1",
+        "title": "Attiva offerta FWA",
+        "card": {
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tristique porttitor metus eget feugiat. Nulla nec neque ac dolor suscipit vulputate ac vel arcu. Mauris in elementum odio. Integer posuere erat vel posuere malesuada. Nullam ultrices ligula enim, id accumsan felis mattis eu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus in quam et magna laoreet vulputate. Vestibulum suscipit mattis odio, sit amet pellentesque mi bibendum nec. In in mi at neque pretium bibendum sit amet id ligula. Etiam vel purus aliquam, hendrerit sem sit amet, ullamcorper tellus. Nunc consequat diam turpis, vitae aliquam magna dictum vel. Aliquam elit quam, porttitor non augue a, ornare volutpat sem. Donec a placerat erat.",
+          "title": "Copertura FWA"
+        }
+      }
+    },
+    "offerPriceDescription": [
+      {
+        "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tempus interdum mi quis tempus. Sed sed est sed quam facilisis vestibulum non vel sem. Nulla convallis semper hendrerit. Nulla facilisi. Sed nibh neque, interdum sit amet nisi ac, pharetra commodo eros. Nunc ac iaculis arcu. Phasellus non egestas neque. Cras vel suscipit lectus, sit amet aliquet velit. Aliquam pellentesque neque felis, et pulvinar eros iaculis a. Nullam auctor facilisis erat ut finibus. Nullam non iaculis nulla, non tempus risus.</p>\r\n",
+        "title": "Dettagli sui costi dell'offerta"
+      },
+      {
+        "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempus justo vitae malesuada suscipit. Sed bibendum ipsum lorem, sit amet semper dui semper sit amet. Sed eu viverra tellus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed laoreet nisl diam, ut elementum ex ultrices eu. Vestibulum consectetur enim et vulputate dapibus. Etiam faucibus ullamcorper nisi at condimentum. Cras nec diam non metus tincidunt dictum. Nunc at ultricies erat. Quisque ante enim, rutrum vitae elementum at, blandit ut nisl. Donec diam orci, dapibus eget nunc et, sodales tincidunt magna. Donec viverra massa ac nisi hendrerit, quis iaculis erat sollicitudin. Nulla eget nunc in ligula finibus fermentum eleifend ut dolor. Vivamus vitae rhoncus nibh. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>\r\n",
+        "title": "Condizioni contrattuali"
+      }
+    ],
+    "offerCharacteristics": [
+      {
+        "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin elementum et sem vitae auctor. Fusce in congue neque, eget porta arcu. Proin arcu lectus, consectetur id semper a, blandit ac sapien. Donec eu mauris sed mauris bibendum eleifend a eget metus. Nullam fringilla cursus tellus sit amet porttitor. Nullam vestibulum tincidunt porta. Vestibulum vitae turpis sed felis interdum iaculis. Phasellus mollis faucibus tristique.</p>\r\n",
+        "title": "Senza vincoli e costi di attivazione"
+      },
+      {
+        "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vitae vehicula lacus. Ut imperdiet, justo ut vulputate posuere, enim felis porttitor metus, nec consectetur diam velit eu orci. Curabitur dui risus, eleifend tristique nisi vel, fringilla vulputate lectus. Pellentesque laoreet finibus eros, eu rhoncus ligula suscipit eu. Donec molestie cursus dolor at laoreet. Nunc eu aliquet erat. Nullam tempor eros sed metus ultrices interdum. Sed aliquet convallis risus, in semper sapien efficitur vel. Integer condimentum fermentum dui ac egestas.</p>\r\n",
+        "title": "Internet alla massima velocità"
+      },
+      {
+        "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tempus sem non nisi pellentesque, feugiat elementum est laoreet. Nullam euismod vehicula ex vitae consectetur. Nunc sed laoreet lorem, vel dapibus sapien. Nunc pellentesque risus sed sapien mattis ultrices. Nulla enim erat, sagittis nec tempus eu, accumsan ac arcu. Vivamus blandit ultrices congue. Nullam posuere varius eleifend. Donec vitae bibendum dolor, nec convallis massa. Vivamus efficitur congue aliquet. Proin ultricies blandit sapien ac pretium. Aenean id suscipit lacus, accumsan venenatis neque.</p>\r\n",
+        "title": "Modem con Wi-fi"
+      },
+      {
+        "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut leo diam. Nullam posuere tempor augue, id posuere mauris ornare quis. Sed vulputate lectus id efficitur varius. In suscipit nisi libero, vestibulum tempor ex facilisis quis. Phasellus vitae est volutpat, vulputate augue sit amet, iaculis ligula. Aenean eleifend hendrerit viverra. Nullam volutpat, purus id cursus congue, velit orci bibendum arcu, at iaculis nisl libero eu libero. Sed a accumsan elit, eget blandit augue. Suspendisse aliquet neque sed felis tincidunt, id congue ante pulvinar.</p>\r\n",
+        "title": "Chiamate da telefono"
+      }
+    ],
+    "loaders": {
+      "coverageTool": "url.json",
+      "shoppingCart": "url.json",
+      "yourAddressCard": "url.json"
+    }
+  },
+  "offerwidgets": {
+    "qualityNetworkCard": {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec dui a dolor fermentum efficitur. Mauris dapibus vel tortor pharetra vulputate. In congue tellus sed placerat convallis. Pellentesque dignissim varius mauris et tristique. Vestibulum maximus condimentum elit in congue. Phasellus id mauris malesuada, tempus tellus sit amet, maximus lectus. Sed a iaculis lorem, a pharetra quam. Duis vel nulla euismod, dapibus velit vel, imperdiet neque. Aenean vel lorem luctus, posuere nisi eu, aliquam tortor. Etiam condimentum ex nec dapibus consectetur. Sed felis sem, malesuada eget ultricies id, iaculis sed est. Mauris aliquam elit nec velit pellentesque, et tempor ex semper. Donec gravida nisi dui, nec vehicula nisi luctus ut. Quisque a malesuada mauris.",
+      "urlImg": "immagine",
+      "ctaLabel": "Scopri di più",
+      "info": "HTML",
+      "title": "Prima rete in classifica.",
+      "divider": {
+        "image": "obbligaorio",
+        "imageMobile": "facoltativo",
+        "text": ""
+      }
+    },
+    "faq": {
+      "title": "STML",
+      "showMore": {
+        "url": "https://www.google.com",
+        "label": "Leggi tutte le risposte"
+      },
+      "divider": {
+        "image": "obbligaorio",
+        "imageMobile": "facoltativo",
+        "text": ""
+      },
+      "items": [
+        {
+          "text": "HTML",
+          "title": "Come si attiva l'offerta?"
+        }
+      ]
+    },
+    "firstCarousel": {
+      "title": "HTML",
+      "card": [
+        {
+          "description": "Con la Fibra Vodafone puoi gestire le tue call di lavoro o i tuoi corsi online in modo ottimale, senza ritardi di connessione e senza mai perdere la concentarzione.",
+          "image": "obbligaorio",
+          "imageMobile": "facoltativo",
+          "title": "Quando ti serve concentrazione.",
+          "action": {
+            "small": "false"
+          }
+        }
+      ],
+      "divider": {
+        "image": "obbligaorio",
+        "imageMobile": "facoltativo",
+        "text": ""
+      }
+    },
+    "secondCarousel": {
+      "title": "HTML",
+      "card": [
+        {
+          "description": "Internet fino a 2.5 Gbit/s, chiamate illimitate, Vodafone Station: con la nostra Fibra hai tutto incluso nel costo mensile.              ",
+          "image": "obbligaorio",
+          "imageMobile": "facoltativo",
+          "title": "Hai tutto incluso",
+          "action": {
+            "small": "false"
+          }
+        }
+      ],
+      "divider": {
+        "image": "obbligaorio",
+        "imageMobile": "facoltativo",
+        "text": ""
+      }
+    },
+    "thirdCarousel": {
+      "title": "<p>La nostra Fibra è diversa. Più <b>potente</b>, più <b>stabile</b>, più <b>sicura</b>.</p>\r\n",
+      "card": [
+        {
+          "description": "La Fibra Vodafone, per andare al massimo.",
+          "image": "obbligaorio",
+          "imageMobile": "facoltativo",
+          "title": "V-Max",
+          "action": {
+            "url": "www.google.it",
+            "small": "false"
+          }
+        },
+        {
+          "image": "obbligaorio",
+          "imageMobile": "facoltativo",
+          "title": "Super Wi-Fi 6 Extender",
+          "action": {
+            "small": "true"
+          }
+        }
+      ],
+      "divider": {
+        "image": "obbligaorio",
+        "imageMobile": "facoltativo",
+        "text": ""
+      }
+    },
+    "fourthCarousel": {
+      "title": "<p>Essere Vodafone ha i suoi <b>vantaggi</b>.</p>\r\n",
+      "card": [
+        {
+          "description": "Per celebrare ogni giorno \r\nla nostra storia insieme.",
+          "image": "obbligaorio",
+          "imageMobile": "facoltativo",
+          "title": "Vodafone Happy",
+          "action": {
+            "url": "www.google.it",
+            "small": "false"
+          }
+        },
+        {
+          "description": "Il programma  fedeltà che premia il tuo entusiasmo.",
+          "image": "obbligaorio",
+          "imageMobile": "facoltativo",
+          "title": "Vodafone Club",
+          "action": {
+            "small": "false"
+          }
+        }
+      ],
+      "divider": {
+        "image": "obbligaorio",
+        "imageMobile": "facoltativo",
+        "text": ""
+      }
+    }
+  },
+  "tagging": {
+    "parameter": "cbu_web_fibra"
+  },
+  "coexistence": {
+    "url": "https://www.vodafone.it/eshop/tariffe-e-prodotti/fibra-adsl-e-telefono/internet-a-casa/fibra.html?icmp=D_HP_RB__b2_offertefissa"
+  }
+}

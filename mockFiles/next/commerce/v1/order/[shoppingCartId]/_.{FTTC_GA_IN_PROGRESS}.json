@@ -1,0 +1,1572 @@
+{
+  "href": "/commerce/v1/order/5042027A?salesChannel=selfService",
+  "rel": "self",
+  "id": "5042027A",
+  "state": "pendingDelivery",
+  "orderDate": "2023-10-11T06:58:13Z",
+  "requestedCompletionDate": "2023-10-11T21:59:59Z",
+  "isLocked": false,
+  "originalChannel": "callCenter",
+  "currentChannel": "callCenter",
+  "customer": {
+    "href": "/care/v1/customer/100087429?salesChannel=selfService",
+    "rel": "enclosure",
+    "id": "100087429"
+  },
+  "orderTotalPrice": [
+    {
+      "type": "oneTime",
+      "price": {
+        "currencyCode": "EUR",
+        "taxIncludedAmount": 0,
+        "amount": 0
+      }
+    },
+    {
+      "recurringChargePeriod": "month",
+      "type": "recurring",
+      "price": {
+        "currencyCode": "EUR",
+        "taxIncludedAmount": 44.9,
+        "amount": 36.8,
+        "taxAmount": 8.1
+      }
+    },
+    {
+      "type": "oneTime",
+      "price": {
+        "currencyCode": "EUR",
+        "taxIncludedAmount": 0,
+        "amount": 0
+      },
+      "isNonImmediateOC": true
+    },
+    {
+      "type": "oneTime",
+      "price": {
+        "currencyCode": "EUR",
+        "taxIncludedAmount": 0,
+        "amount": 0
+      },
+      "isOnInvoiceOC": true
+    },
+    {
+      "type": "oneTime",
+      "price": {
+        "currencyCode": "EUR",
+        "taxRate": 0,
+        "taxIncludedAmount": 0,
+        "amount": 0
+      },
+      "isTotalPriceOC": true
+    },
+    {
+      "type": "oneTime",
+      "price": {
+        "currencyCode": "EUR",
+        "taxIncludedAmount": 0,
+        "amount": 0
+      },
+      "isNonAdditionalChargesOC": true
+    }
+  ],
+  "orderItem": [
+    {
+      "type": "multiPlayOrderItem",
+      "id": "5042028A",
+      "quantity": 1,
+      "orderItemTotalPrice": [
+        {
+          "type": "oneTime",
+          "price": {
+            "currencyCode": "EUR",
+            "taxIncludedAmount": 0,
+            "amount": 0
+          }
+        },
+        {
+          "recurringChargePeriod": "month",
+          "type": "recurring",
+          "price": {
+            "currencyCode": "EUR",
+            "taxIncludedAmount": 44.9,
+            "amount": 36.8,
+            "taxAmount": 8.1
+          }
+        },
+        {
+          "type": "oneTime",
+          "price": {
+            "currencyCode": "EUR",
+            "taxIncludedAmount": 0,
+            "amount": 0
+          },
+          "isNonImmediateOC": true
+        },
+        {
+          "type": "oneTime",
+          "price": {
+            "currencyCode": "EUR",
+            "taxIncludedAmount": 0,
+            "amount": 0
+          },
+          "isOnInvoiceOC": true
+        },
+        {
+          "type": "oneTime",
+          "price": {
+            "currencyCode": "EUR",
+            "taxRate": 0,
+            "taxIncludedAmount": 0,
+            "amount": 0
+          },
+          "isTotalPriceOC": true
+        }
+      ],
+      "offering": {
+        "href": "/commerce/v1/multiPlayOffering/4012181?salesChannel=selfService",
+        "id": "4012181",
+        "type": "multiPlayOffering",
+        "name": "Family Plan Netflix Edition PO R1",
+        "displayName": "Family Plan Netflix Edition PO R1",
+        "description": "Con Family Plan Netflix Edition, a 44,90E/mese, navighi senza limiti:\n-fino a 20Mbps in tec ADSL\n-fino a 200Mbps in tec FTTC\n-fino a 2,5Gbps in tec FTTH\nIn piu' hai:\n-chiamate vs i nr fissi naz. incluse\n-chiamate vs i nr mobili naz. incluse\n-chiamate vs i nr fissi internaz. a 19cent/min + 19cent di scatto alla risp (Zona1: Europa occidentale, USA e Canada)\n- Inclusi nell'offerta abbonamento a Netflix."
+      },
+      "product": {
+        "installationAddress": {
+          "id": "268621334"
+        }
+      },
+      "fixedVoice": [
+        {
+          "type": "fixedVoiceOrderItem",
+          "id": "5042028A",
+          "action": "add",
+          "state": "pending",
+          "quantity": 1,
+          "orderItemTotalPrice": [
+            {
+              "id": "108460201",
+              "type": "oneTime",
+              "price": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 0,
+                "amount": 0,
+                "taxAmount": 0
+              },
+              "isNonImmediateOC": true
+            },
+            {
+              "id": "108460201",
+              "recurringChargePeriod": "month",
+              "type": "recurring",
+              "price": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 0,
+                "amount": 0,
+                "taxAmount": 0
+              }
+            }
+          ],
+          "offering": {
+            "href": "/commerce/v1/fixedVoiceOffering/4012181?salesChannel=selfService",
+            "id": "4012181",
+            "type": "fixedVoiceOffering",
+            "paymentManagementType": "post"
+          },
+          "product": {
+            "id": "108460191",
+            "name": "Fixed Voice Main R1",
+            "type": "fixedVoiceProduct",
+            "installationAddress": {
+              "id": "268621334"
+            },
+            "billingAccount": {
+              "href": "/care/v1/billingAccount/333383534?salesChannel=selfService",
+              "id": "333383534"
+            },
+            "productIndividual": {
+              "href": "/care/v1/productIndividual/23101153640?salesChannel=selfService",
+              "id": "23101153640",
+              "firstName": "WTFZLV",
+              "lastName": "QUYGCL"
+            }
+          },
+          "isWithdrawAmendAllowed": false,
+          "orderActionId": "5042028",
+          "isAmendAllowedIndicator": false,
+          "isAmend": false,
+          "amendOrderActionId": "5042028",
+          "addOn": [
+            {
+              "type": "fixedVoiceAddOnOrderItem",
+              "action": "add",
+              "state": "pending",
+              "orderItemPrice": [
+                {
+                  "id": "108460194",
+                  "type": "oneTime",
+                  "price": {
+                    "currencyCode": "EUR",
+                    "taxIncludedAmount": 0,
+                    "amount": 0,
+                    "taxAmount": 0
+                  },
+                  "showTextInsteadRate": "Incluso",
+                  "isNonImmediateOC": true
+                },
+                {
+                  "id": "257059881",
+                  "recurringChargePeriod": "month",
+                  "name": "Fissi e Mobili Nazionali Senza Limiti Free R1",
+                  "type": "recurring",
+                  "displayName": "Fissi e Mobili Nazionali Senza Limiti Free R1",
+                  "description": "Chiama tutti i numeri di rete fissa e mobile nazionali senza limiti",
+                  "price": {
+                    "currencyCode": "EUR",
+                    "taxIncludedAmount": 0,
+                    "amount": 0,
+                    "taxAmount": 0
+                  },
+                  "allowedOverrideType": "override",
+                  "showTextInsteadRate": "Incluso",
+                  "isNonImmediateOC": true
+                }
+              ],
+              "offering": {
+                "id": "BO:257059881_257059881_257069181",
+                "name": "Fissi e Mobili Nazionali Senza Limiti Free R1"
+              },
+              "product": {
+                "id": "BO:108460194_257059881_108460193",
+                "name": "Fissi e Mobili Nazionali Senza Limiti Free R1",
+                "type": "fixedVoiceAddOnProduct"
+              }
+            }
+          ],
+          "plan": {
+            "type": "fixedVoicePlanOrderItem",
+            "id": "108460199",
+            "action": "add",
+            "state": "pending",
+            "quantity": 1,
+            "orderItemPrice": [
+              {
+                "id": "108460200",
+                "type": "oneTime",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0,
+                  "amount": 0,
+                  "taxAmount": 0
+                },
+                "showTextInsteadRate": "Incluso"
+              },
+              {
+                "id": "4328585",
+                "recurringChargePeriod": "month",
+                "name": "Fixed Voice Family Plan PPU Plan R1",
+                "type": "recurring",
+                "displayName": "Fixed Voice Family Plan PPU Plan R1",
+                "description": "Piano Voce",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0,
+                  "amount": 0,
+                  "taxAmount": 0
+                },
+                "allowedOverrideType": "none",
+                "showTextInsteadRate": "Incluso"
+              }
+            ],
+            "offering": {
+              "id": "4328585",
+              "type": "fixedVoicePlanOffering",
+              "name": "Fixed Voice Family Plan PPU Plan R1",
+              "displayName": "Fixed Voice Family Plan PPU Plan R1",
+              "description": "Piano Voce",
+              "paymentManagementType": "post"
+            },
+            "fixedVoicePlanProduct": {
+              "id": "108460200",
+              "name": "Fixed Voice Family Plan PPU Plan R1",
+              "type": "fixedVoicePlanProduct",
+              "productCharacteristic": [
+                {
+                  "name": "Contract_End_Date_Next_R1",
+                  "displayName": "Contract End Date R1"
+                }
+              ],
+              "productSpecification": {
+                "id": "4328585",
+                "name": "Fixed Voice Family Plan PPU Plan R1",
+                "type": "fixedVoicePlanSpecification"
+              },
+              "phoneNumber": {
+                "phoneNumber": "390281472962"
+              }
+            }
+          }
+        }
+      ],
+      "internet": [
+        {
+          "type": "internetOrderItem",
+          "id": "5042030A",
+          "action": "add",
+          "state": "pending",
+          "quantity": 1,
+          "orderItemPrice": [
+            {
+              "name": "Power Station Wifi6 Costo Upgrade R1",
+              "type": "oneTime",
+              "displayName": "Power Station Wifi6 Costo Upgrade R1",
+              "description": "Costo upgrade Power Station Wifi6",
+              "price": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 0,
+                "amount": 0,
+                "taxAmount": 0
+              },
+              "subType": "fixedEquipment"
+            },
+            {
+              "recurringChargePeriod": "month",
+              "name": "Power Station Wifi6 Costo Upgrade R1",
+              "type": "recurring",
+              "displayName": "Power Station Wifi6 Costo Upgrade R1",
+              "description": "Costo upgrade Power Station Wifi6",
+              "price": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 0,
+                "amount": 0,
+                "taxAmount": 0
+              },
+              "subType": "fixedEquipment"
+            },
+            {
+              "name": "Vodafone Station R1",
+              "type": "oneTime",
+              "displayName": "Vodafone Power Station Wifi 6 R1",
+              "description": "Vodafone Station",
+              "price": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 0,
+                "amount": 0,
+                "taxAmount": 0
+              },
+              "showTextInsteadRate": "Inclusa",
+              "orderPriceItemType": "FixedEquipment",
+              "subType": "fixedEquipment"
+            },
+            {
+              "recurringChargePeriod": "month",
+              "name": "Vodafone Station R1",
+              "type": "recurring",
+              "displayName": "Vodafone Power Station Wifi 6 R1",
+              "description": "Vodafone Station",
+              "price": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 0,
+                "amount": 0,
+                "taxAmount": 0
+              },
+              "showTextInsteadRate": "Inclusa",
+              "orderPriceItemType": "FixedEquipment",
+              "subType": "fixedEquipment"
+            }
+          ],
+          "orderItemTotalPrice": [
+            {
+              "type": "oneTime",
+              "price": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 0,
+                "amount": 0,
+                "taxAmount": 0
+              }
+            },
+            {
+              "recurringChargePeriod": "month",
+              "type": "recurring",
+              "price": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 44.9,
+                "amount": 36.8,
+                "taxAmount": 8.1
+              }
+            }
+          ],
+          "offering": {
+            "href": "/commerce/v1/fixedVoiceOffering/4012181?salesChannel=selfService",
+            "id": "4012181",
+            "type": "internetOffering",
+            "name": "Family Plan Netflix Edition R1",
+            "displayName": "Family Plan Netflix Edition R1",
+            "description": "Family Plan Netflix Edition",
+            "paymentManagementType": "post"
+          },
+          "product": {
+            "id": "108460209",
+            "name": "Internet Main R1",
+            "type": "internetProduct",
+            "installationAddress": {
+              "id": "268621334"
+            },
+            "billingAccount": {
+              "href": "/care/v1/billingAccount/333383534?salesChannel=selfService",
+              "id": "333383534"
+            },
+            "productIndividual": {
+              "href": "/care/v1/productIndividual/23101153640?salesChannel=selfService",
+              "id": "23101153640",
+              "firstName": "WTFZLV",
+              "lastName": "QUYGCL"
+            }
+          },
+          "isWithdrawAmendAllowed": false,
+          "orderActionId": "5042030",
+          "isAmendAllowedIndicator": false,
+          "isAmend": false,
+          "amendOrderActionId": "5042030",
+          "plan": {
+            "type": "internetPlanOrderItem",
+            "id": "108460218",
+            "action": "add",
+            "state": "pending",
+            "quantity": 1,
+            "orderItemPrice": [
+              {
+                "id": "108460219",
+                "type": "oneTime",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0,
+                  "amount": 0,
+                  "taxAmount": 0
+                }
+              },
+              {
+                "id": "4027181",
+                "recurringChargePeriod": "month",
+                "name": "Family Plan Netflix Edition R1",
+                "type": "recurring",
+                "displayName": "Family Plan Netflix Edition R1",
+                "description": "Family Plan Netflix Edition",
+                "originalprice": {
+                  "currencyCode": "EUR",
+                  "amount": 44.9
+                },
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 44.9,
+                  "amount": 36.8,
+                  "taxAmount": 8.1
+                },
+                "allowedOverrideType": "override"
+              }
+            ],
+            "offering": {
+              "id": "4027181",
+              "type": "internetPlanOffering",
+              "name": "Family Plan Netflix Edition R1",
+              "displayName": "Family Plan Netflix Edition R1",
+              "description": "Family Plan Netflix Edition",
+              "paymentManagementType": "post"
+            },
+            "internetPlanProduct": {
+              "id": "108460219",
+              "name": "Family Plan Netflix Edition R1",
+              "type": "internetPlanProduct",
+              "productCharacteristic": [
+                {
+                  "name": "Access_Type_Next_R1",
+                  "displayName": "Access Type R1",
+                  "value": "BS",
+                  "displayValue": "BS"
+                },
+                {
+                  "name": "ER_Package_Detail_Next_R1",
+                  "displayName": "ER Package Detail R1",
+                  "value": "PK_NetflixEnroll__X__package:PK_NetflixEnroll_TAX_22_3_4_999_999_999_*_*_ugnetflixfreehardbundle_false_false_*_*_*",
+                  "displayValue": "PK_NetflixEnroll__X__package:PK_NetflixEnroll_TAX_22_3_4_999_999_999_*_*_ugnetflixfreehardbundle_false_false_*_*_*"
+                },
+                {
+                  "name": "Speed_Next_R1",
+                  "displayName": "Speed R1",
+                  "value": "20",
+                  "displayValue": "20"
+                }
+              ],
+              "productSpecification": {
+                "id": "4027181",
+                "name": "Family Plan Netflix Edition R1",
+                "type": "internetPlanSpecification"
+              }
+            }
+          },
+          "device": [
+            {
+              "type": "internetDeviceOrderItem",
+              "id": "108460209",
+              "action": "add",
+              "orderItemPrice": [
+                {
+                  "id": "4615381",
+                  "name": "Power Station Wifi6 Costo Upgrade R1",
+                  "type": "oneTime",
+                  "displayName": "Power Station Wifi6 Costo Upgrade R1",
+                  "description": "Costo upgrade Power Station Wifi6",
+                  "price": {
+                    "taxIncludedAmount": 0,
+                    "amount": 0,
+                    "taxAmount": 0
+                  },
+                  "subType": "fixedEquipment",
+                  "isNonImmediateOC": true
+                },
+                {
+                  "id": "4615381",
+                  "name": "Power Station Wifi6 Costo Upgrade R1",
+                  "type": "recurring",
+                  "displayName": "Power Station Wifi6 Costo Upgrade R1",
+                  "description": "Costo upgrade Power Station Wifi6",
+                  "price": {
+                    "taxIncludedAmount": 0,
+                    "amount": 0,
+                    "taxAmount": 0
+                  },
+                  "subType": "fixedEquipment"
+                },
+                {
+                  "id": "256982681",
+                  "name": "Vodafone Station R1",
+                  "type": "oneTime",
+                  "displayName": "Vodafone Station R1",
+                  "description": "Vodafone Station",
+                  "price": {
+                    "taxIncludedAmount": 0,
+                    "amount": 0,
+                    "taxAmount": 0
+                  },
+                  "showTextInsteadRate": "Inclusa",
+                  "subType": "fixedEquipment",
+                  "isNonImmediateOC": true
+                },
+                {
+                  "id": "256982681",
+                  "name": "Vodafone Station R1",
+                  "type": "recurring",
+                  "displayName": "Vodafone Station R1",
+                  "description": "Vodafone Station",
+                  "price": {
+                    "taxIncludedAmount": 0,
+                    "amount": 0,
+                    "taxAmount": 0
+                  },
+                  "showTextInsteadRate": "Inclusa",
+                  "subType": "fixedEquipment"
+                }
+              ],
+              "orderItemTotalPrice": [
+                {
+                  "type": "oneTime",
+                  "price": {
+                    "currencyCode": "EUR",
+                    "taxIncludedAmount": 0,
+                    "amount": 0,
+                    "taxAmount": 0
+                  }
+                },
+                {
+                  "recurringChargePeriod": "month",
+                  "type": "recurring",
+                  "price": {
+                    "currencyCode": "EUR",
+                    "taxIncludedAmount": 0,
+                    "amount": 0,
+                    "taxAmount": 0
+                  }
+                }
+              ],
+              "offering": {
+                "name": "Vodafone_Power_Station_Wifi_6_Next_R1",
+                "displayName": "Vodafone Power Station Wifi 6 R1",
+                "description": "Connessione ad altissima velocità anche in Wi-Fi, fino a 4 volte più veloce rispetto allo standard precedente."
+              },
+              "internetDeviceProduct": {
+                "id": "108460215",
+                "name": "Vodafone Power Station Wifi 6 R1",
+                "type": "internetDeviceProduct",
+                "productCharacteristic": [
+                  {
+                    "name": "Brand_Equipment_Next_R1",
+                    "displayName": "Brand(Make) R1",
+                    "value": "SERCOMM",
+                    "displayValue": "SERCOMM"
+                  },
+                  {
+                    "name": "Delivery_Method_Next_R1",
+                    "displayName": "Delivery Method R1",
+                    "value": "S",
+                    "displayValue": "S"
+                  },
+                  {
+                    "name": "Equipment_CID",
+                    "displayName": "Equipment CID",
+                    "value": "4616181",
+                    "displayValue": "4616181"
+                  },
+                  {
+                    "name": "Equipment_Type_Next_R1",
+                    "displayName": "Equipment Type R1",
+                    "value": "DSL",
+                    "displayValue": "DSL"
+                  },
+                  {
+                    "name": "Gruppo_merci_SAP_Next_R1",
+                    "displayName": "Gruppo merci SAP R1",
+                    "value": "DSL-CPE",
+                    "displayValue": "DSL-CPE"
+                  },
+                  {
+                    "name": "Model_Equipment_Next_R1",
+                    "displayName": "Model R1",
+                    "value": "SHG3060",
+                    "displayValue": "SHG3060"
+                  },
+                  {
+                    "name": "Previous_Delivery_Method_Next_R1",
+                    "displayName": "Previous Delivery Method R1",
+                    "value": "NA",
+                    "displayValue": "NA"
+                  },
+                  {
+                    "name": "Reservation_ID_Next_R07",
+                    "displayName": "SKU Reservation ID R07",
+                    "value": "5042027-000020",
+                    "displayValue": "5042027-000020"
+                  },
+                  {
+                    "name": "SKU",
+                    "displayName": "SKU",
+                    "value": "000000000019000146",
+                    "displayValue": "000000000019000146"
+                  },
+                  {
+                    "name": "SPS_Name_Next_R07",
+                    "displayName": "SPS Name R07",
+                    "value": "Vodafone Power Station Wifi 6",
+                    "displayValue": "Vodafone Power Station Wifi 6"
+                  },
+                  {
+                    "name": "SSP_Currency_Next_R1",
+                    "displayName": "SSP Currency R1",
+                    "value": "EURO",
+                    "displayValue": "EURO"
+                  },
+                  {
+                    "name": "SSP_Next_R1",
+                    "displayName": "SSP R1",
+                    "value": "60.83",
+                    "displayValue": "60.83"
+                  },
+                  {
+                    "name": "Serial_No_Next_R1",
+                    "displayName": "Serial No R1",
+                    "value": "353098031527514",
+                    "displayValue": "353098031527514"
+                  },
+                  {
+                    "name": "Specific_SKU_Next_R1",
+                    "displayName": "Specific SKU R1",
+                    "value": "000000000019000147",
+                    "displayValue": "000000000019000147"
+                  }
+                ],
+                "serialNumber": "353098031527514",
+                "productSpecification": {
+                  "id": "4616181",
+                  "name": "Vodafone Power Station Wifi 6 R1",
+                  "type": "internetDeviceSpecification"
+                },
+                "sku": "000000000019000146"
+              }
+            }
+          ]
+        }
+      ],
+      "mobile": [
+        {
+          "type": "mobileOrderItem",
+          "id": "5042032A",
+          "action": "add",
+          "state": "pendingDelivery",
+          "quantity": 1,
+          "orderItemPrice": [
+            {
+              "name": "PPU Plan SIM IA Family Plan R1",
+              "type": "oneTime",
+              "displayName": "PPU Plan SIM IA Family Plan R1",
+              "description": "Family Plan SIM",
+              "price": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 0,
+                "amount": 0,
+                "taxAmount": 0
+              },
+              "isNonImmediateOC": true
+            },
+            {
+              "recurringChargePeriod": "month",
+              "name": "PPU Plan SIM IA Family Plan R1",
+              "type": "recurring",
+              "displayName": "PPU Plan SIM IA Family Plan R1",
+              "description": "Family Plan SIM",
+              "price": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 0,
+                "amount": 0,
+                "taxAmount": 0
+              }
+            }
+          ],
+          "orderItemTotalPrice": [
+            {
+              "id": "108460251",
+              "type": "oneTime",
+              "price": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 0,
+                "amount": 0
+              },
+              "isNonImmediateOC": true
+            },
+            {
+              "id": "108460251",
+              "recurringChargePeriod": "month",
+              "type": "recurring",
+              "price": {
+                "currencyCode": "EUR",
+                "taxIncludedAmount": 0,
+                "amount": 0,
+                "taxAmount": 0
+              }
+            }
+          ],
+          "offering": {
+            "href": "/commerce/v1/mobileOffering/4012181?salesChannel=selfService",
+            "id": "4012181",
+            "type": "mobileOffering",
+            "displayName": "Attivazione Internet 1 GB R1",
+            "description": "Internet 1 GB",
+            "paymentManagementType": "post"
+          },
+          "product": {
+            "id": "108460223",
+            "name": "Mobile Main R07",
+            "type": "mobileProduct",
+            "productCharacteristic": [
+              {
+                "name": "AddedWithConsent_R07",
+                "displayName": "Added With Consent R07",
+                "value": "No",
+                "displayValue": "No"
+              },
+              {
+                "name": "Availed_Discount_Offers_Next_R1",
+                "displayName": "Availed Discount Offers R1"
+              },
+              {
+                "name": "COSP_Next_R07",
+                "displayName": "COSP R07",
+                "value": "122",
+                "displayValue": "122"
+              },
+              {
+                "name": "Call_Cost_Notificatoin_Next_R07",
+                "displayName": "Call Cost Notification Ind R07",
+                "value": "0",
+                "displayValue": "0"
+              },
+              {
+                "name": "Campaign_Correlation_Key_Next_R1",
+                "displayName": "Campaign Correlation Key R1"
+              },
+              {
+                "name": "Change_MSISDN_Counter_Next_R07",
+                "displayName": "Change MSISDN Counter R07",
+                "value": "0",
+                "displayValue": "0"
+              },
+              {
+                "name": "Customer_Sub_Type_Next_R07",
+                "displayName": "Customer Sub Type R07",
+                "value": "P",
+                "displayValue": "P"
+              },
+              {
+                "name": "Customer_Type_Next_R07",
+                "displayName": "Customer Type R07",
+                "value": "P",
+                "displayValue": "P"
+              },
+              {
+                "name": "Cut_Over_Date_Next_R07",
+                "displayName": "Cut Over Date R07"
+              },
+              {
+                "name": "Dealer_Id_Next_R07",
+                "displayName": "Dealer Id R07"
+              },
+              {
+                "name": "Deposit_Amount_Next_R07",
+                "displayName": "Deposit Amount R07"
+              },
+              {
+                "name": "Deposit_number_of_months_or_installments_Next_R07",
+                "displayName": "Deposit number of months or installments"
+              },
+              {
+                "name": "Deposit_release_Policy_Next_R07",
+                "displayName": "Deposit release Policy R07"
+              },
+              {
+                "name": "Double_Allowance_Value_Next_R07",
+                "displayName": "Double Allowance Value R07"
+              },
+              {
+                "name": "Double_GB_Qualification_R07",
+                "displayName": "Double GB Qualification R07"
+              },
+              {
+                "name": "Former_Debt_Amount_Next_R07",
+                "displayName": "Former Debt Amount R07"
+              },
+              {
+                "name": "Guardian_MSISDN_Next_R1",
+                "displayName": "Guardian MSISDN R1"
+              },
+              {
+                "name": "Hard_Hotline_Indicator_Next_R07",
+                "displayName": "Hard Hotline Indicator R07",
+                "value": "0",
+                "displayValue": "0"
+              },
+              {
+                "name": "Installment_Policy_for_Disconnection_Next_R1",
+                "displayName": "Installment Policy for Disconnection",
+                "value": "No acceleration",
+                "displayValue": "No acceleration"
+              },
+              {
+                "name": "Is_Global_Next_R07",
+                "displayName": "Is Global R07",
+                "value": "No",
+                "displayValue": "No"
+              },
+              {
+                "name": "Is_Recurring_TopUp_Automatically_Included_Next_R07",
+                "displayName": "Is Recurring TopUp Automatically Included R07",
+                "value": "Yes",
+                "displayValue": "Yes"
+              },
+              {
+                "name": "Is_Temporary_Number_Requested",
+                "displayName": "Is Temporary Number Requested",
+                "value": "N",
+                "displayValue": "N"
+              },
+              {
+                "name": "Last_Top_Up_Date_Next_R07",
+                "displayName": "Last Top Up Date R07"
+              },
+              {
+                "name": "Last_Top_Up_Transaction_ID_Next_R07",
+                "displayName": "Last Top Up Transaction ID R07"
+              },
+              {
+                "name": "Legacy_IFRS_Contract_End_Date_Next_R1",
+                "displayName": "Legacy IFRS Contract End Date R1"
+              },
+              {
+                "name": "MSISDN",
+                "displayName": "MSISDN",
+                "value": "393495220568",
+                "displayValue": "393495220568"
+              },
+              {
+                "name": "Migration_Date_Next_R07",
+                "displayName": "Migration Date R07"
+              },
+              {
+                "name": "Migration_MSISDN_ID_Next_R07",
+                "displayName": "Migration MSISDN_ID R07",
+                "value": "446867",
+                "displayValue": "446867"
+              },
+              {
+                "name": "Migration_SIM_ID_Next_R07",
+                "displayName": "Migration SIM_ID R07",
+                "value": "478734",
+                "displayValue": "478734"
+              },
+              {
+                "name": "Nomadism_Restriction_Policy_Ind_Next_R1",
+                "displayName": "Nomadism Restriction Policy Ind R1",
+                "value": "N",
+                "displayValue": "N"
+              },
+              {
+                "name": "Number_of_Added_BO_Next_R07",
+                "displayName": "Number of Added BO R07"
+              },
+              {
+                "name": "Number_of_Removed_BO_Next_R07",
+                "displayName": "Number of Removed BO R07"
+              },
+              {
+                "name": "Offer_With_End_Date_Next_R1",
+                "displayName": "Offer With End Date R1"
+              },
+              {
+                "name": "Old_PPU_Addon_Eligible_R07",
+                "displayName": "Old PPU Addon Eligible R07",
+                "value": "No",
+                "displayValue": "No"
+              },
+              {
+                "name": "Payment_Method_Deposit_Amount_Next_R1",
+                "displayName": "Payment Method Deposit Amount R1"
+              },
+              {
+                "name": "Plan_Rank_Next_R07",
+                "displayName": "Plan Rank R07"
+              },
+              {
+                "name": "Port_In_Next_R07",
+                "displayName": "Port In Ind R07",
+                "value": "0",
+                "displayValue": "0"
+              },
+              {
+                "name": "Port_Out_Commitment_End_Date_Next_R07",
+                "displayName": "Port Out Commitment End Date R07"
+              },
+              {
+                "name": "Port_Out_Date_Next_R07",
+                "displayName": "Port Out Date R07"
+              },
+              {
+                "name": "Port_Out_Duration_Next_R07",
+                "displayName": "Port Out Duration R07"
+              },
+              {
+                "name": "Port_Out_Ind_Next_R07",
+                "displayName": "Port Out Ind R07",
+                "value": "0",
+                "displayValue": "0"
+              },
+              {
+                "name": "Port_Out_Provider_Next_R07",
+                "displayName": "Port Out Provider R07"
+              },
+              {
+                "name": "Present_Associated_PPU_Next_R07",
+                "displayName": "Present Associated PPU R07",
+                "value": "4328685",
+                "displayValue": "4328685"
+              },
+              {
+                "name": "Previous_Associated_PPU_Next_R07",
+                "displayName": "Previous Associated PPU R07"
+              },
+              {
+                "name": "Previous_Plan_Rank_Next_R07",
+                "displayName": "Previous Plan Rank R07"
+              },
+              {
+                "name": "Product_Type_Next_R07",
+                "displayName": "Product Type R07",
+                "value": "Mobile Broadband",
+                "displayValue": "Mobile Broadband"
+              },
+              {
+                "name": "RDI_Next_07",
+                "displayName": "RDI R07",
+                "value": "N",
+                "displayValue": "N"
+              },
+              {
+                "name": "Real_User_Migration_On_Legacy_Date_Next_R1",
+                "displayName": "Real User Migration on legacy Date R1"
+              },
+              {
+                "name": "Real_User_Migration_On_Legacy_Next_R1",
+                "displayName": "Real User Migration on legacy R1",
+                "value": "N",
+                "displayValue": "N"
+              },
+              {
+                "name": "Remorse_Period_End_Date_Next_R07",
+                "displayName": "Remorse Period End Date R07"
+              },
+              {
+                "name": "Remorse_Period_Start_Date_Next_R07",
+                "displayName": "Remorse Period Start Date R07"
+              },
+              {
+                "name": "RemovedWithConsent_R07",
+                "displayName": "Removed With Consent R07",
+                "value": "No",
+                "displayValue": "No"
+              },
+              {
+                "name": "Roaming_Profile_Next_R07",
+                "displayName": "Roaming Profile R07",
+                "value": "3",
+                "displayValue": "3"
+              },
+              {
+                "name": "SAM_Profile_Next_R07",
+                "displayName": "SAM Profile R07",
+                "value": "4",
+                "displayValue": "4"
+              },
+              {
+                "name": "SMS_Notification_Allowed_Next_R07",
+                "displayName": "SMS Notification Allowed R07",
+                "value": "1",
+                "displayValue": "1"
+              },
+              {
+                "name": "Service_Deposit_Amount_Next_R1",
+                "displayName": "Service Deposit Amount R1"
+              },
+              {
+                "name": "TemporaryVoiceLineMSISDN",
+                "displayName": "Temporary MSISDN R07"
+              },
+              {
+                "name": "Try_and_Buy_Promotions_Next_R07",
+                "displayName": "Try and Buy Promotions R07"
+              },
+              {
+                "name": "User_Type_Next_R07",
+                "displayName": "User Type R07",
+                "value": "POST",
+                "displayValue": "POST"
+              },
+              {
+                "name": "Valid_End_Date_Next_R07",
+                "displayName": "Valid End Date R07"
+              },
+              {
+                "name": "Valid_Start_Date_Next_R07",
+                "displayName": "Valid Start Date R07"
+              },
+              {
+                "name": "Voice_Data_Ind_Next_R07",
+                "displayName": "Voice-Data Ind R07",
+                "value": "Data",
+                "displayValue": "Data"
+              }
+            ],
+            "billingAccount": {
+              "href": "/care/v1/billingAccount/333383534?salesChannel=selfService",
+              "id": "333383534"
+            }
+          },
+          "availableOrderItemAction": ["resume"],
+          "isWithdrawAmendAllowed": false,
+          "contactId": "23101153640",
+          "portInError": false,
+          "orderActionId": "5042032",
+          "isAmendAllowedIndicator": false,
+          "isAmend": false,
+          "amendOrderActionId": "5042032",
+          "sim": {
+            "type": "mobileSIMOrderItem",
+            "id": "108460247",
+            "action": "add",
+            "state": "pendingDelivery",
+            "quantity": 1,
+            "orderItemPrice": [
+              {
+                "type": "oneTime",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0,
+                  "amount": 0,
+                  "taxAmount": 0
+                }
+              },
+              {
+                "recurringChargePeriod": "month",
+                "type": "recurring",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0,
+                  "amount": 0,
+                  "taxAmount": 0
+                }
+              }
+            ],
+            "offering": {
+              "href": "/commerce/v1/mobileOffering/621587?salesChannel=selfService",
+              "id": "621587",
+              "type": "mobileSimOffering",
+              "name": "SIM_Next_R07",
+              "displayName": "SIM R07",
+              "description": "SIM"
+            },
+            "mobileSIMProduct": {
+              "id": "108460247",
+              "name": "SIM R07",
+              "type": "mobileSimProduct",
+              "productCharacteristic": [
+                {
+                  "name": "Capacity_Next_R07",
+                  "displayName": "Capacity R07"
+                },
+                {
+                  "name": "Connectivity_Next_R07",
+                  "displayName": "Connectivity R07"
+                },
+                {
+                  "name": "EID_Next_R1",
+                  "displayName": "EID R1"
+                },
+                {
+                  "name": "Electrical_Profile_Next_R07",
+                  "displayName": "Electrical Profile R07"
+                },
+                {
+                  "name": "IMSI_ServiceID_R07",
+                  "displayName": "IMSI_ServiceID"
+                },
+                {
+                  "name": "Match_ID_Next_R1",
+                  "displayName": "Match ID R1"
+                },
+                {
+                  "name": "Original_SIM_Size_Next_R07",
+                  "displayName": "Original SIM Size R07"
+                },
+                {
+                  "name": "PUK_Barring_R07",
+                  "displayName": "PUK Barring R07",
+                  "value": "No",
+                  "displayValue": "No"
+                },
+                {
+                  "name": "Previous_Delivery_Method_Next_R1",
+                  "displayName": "Previous Delivery Method R1",
+                  "value": "NA",
+                  "displayValue": "NA"
+                },
+                {
+                  "name": "RLC_IMSI",
+                  "displayName": "IMSI Number"
+                },
+                {
+                  "name": "Reservation_ID_Next_R07",
+                  "displayName": "SKU Reservation ID R07",
+                  "value": "5042027-000010",
+                  "displayValue": "5042027-000010"
+                },
+                {
+                  "name": "SIM_Activation_Code_Next_R1",
+                  "displayName": "SIM Activation Code R1"
+                },
+                {
+                  "name": "SIM_Card_Number_Next_R07",
+                  "displayName": "SIM Card Number R07",
+                  "value": "8939041012151220540",
+                  "displayValue": "8939041012151220540"
+                },
+                {
+                  "name": "SIM_Format_Next_R1",
+                  "displayName": "SIM Format R1",
+                  "value": "000000000000821335",
+                  "displayValue": "000000000000821335"
+                },
+                {
+                  "name": "SIM_Size_Next_R07",
+                  "displayName": "SIM Size R07",
+                  "value": "TRIO",
+                  "displayValue": "TRIO"
+                },
+                {
+                  "name": "SIM_Warranty_End_Date_Next_R07",
+                  "displayName": "SIM Warranty End Date R07",
+                  "value": "10/10/2025 23:59:59",
+                  "displayValue": "10/10/2025 23:59:59"
+                },
+                {
+                  "name": "SKU",
+                  "displayName": "SKU",
+                  "value": "000000000000821335",
+                  "displayValue": "000000000000821335"
+                }
+              ],
+              "productSpecification": {
+                "id": "621587",
+                "name": "SIM R07",
+                "type": "mobileSimSpecification"
+              },
+              "serialNumber": "8939041012151220540",
+              "sku": "000000000000821335",
+              "simType": "TRIO"
+            }
+          },
+          "plan": {
+            "type": "mobilePlanOrderItem",
+            "id": "108460243",
+            "action": "modify",
+            "state": "pendingDelivery",
+            "quantity": 1,
+            "orderItemPrice": [
+              {
+                "id": "108460244",
+                "type": "oneTime",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0,
+                  "amount": 0,
+                  "taxAmount": 0
+                }
+              },
+              {
+                "id": "108460244",
+                "recurringChargePeriod": "month",
+                "name": "Attivazione Internet 1 GB R1",
+                "type": "recurring",
+                "displayName": "Attivazione Internet 1 GB R1",
+                "description": "Internet 1 GB",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0,
+                  "amount": 0,
+                  "taxAmount": 0
+                },
+                "allowedOverrideType": "none"
+              }
+            ],
+            "offering": {
+              "id": "3125881",
+              "type": "mobilePlanOffering",
+              "name": "Attivazione Internet 1 GB R1",
+              "displayName": "Attivazione Internet 1 GB R1"
+            },
+            "changeDetails": {
+              "isSettings": false,
+              "isPPU": true,
+              "isPaymentMethod": false,
+              "isMsisdn": false
+            },
+            "isKaskoIncluded": false,
+            "mobilePlanProduct": {
+              "id": "108460244",
+              "name": "Attivazione Internet 1 GB R1",
+              "type": "mobilePlanProduct",
+              "productCharacteristic": [
+                {
+                  "name": "Allowance_R07",
+                  "displayName": "Allowance R07"
+                },
+                {
+                  "name": "Contract_End_Date_Next_R1",
+                  "displayName": "Contract End Date R1"
+                },
+                {
+                  "name": "Current_LineUp_Quota_Next_R07",
+                  "displayName": "Current LineUp Quota R07"
+                },
+                {
+                  "name": "Data_Quota_R07",
+                  "displayName": "Data Quota R07",
+                  "value": "30",
+                  "displayValue": "30"
+                },
+                {
+                  "name": "Data_Tariff_Base_Plan_ID_Next_R07",
+                  "displayName": "Data Tariff Base Plan ID R07",
+                  "value": "1008",
+                  "displayValue": "1008"
+                },
+                {
+                  "name": "DigitalFlowType",
+                  "displayName": "Digital Flow Type"
+                },
+                {
+                  "name": "Downgrade_Ind_Next_R07",
+                  "displayName": "Downgrade Ind R07",
+                  "value": "No",
+                  "displayValue": "No"
+                },
+                {
+                  "name": "Prepaid_Activity_Period_Next_R07",
+                  "displayName": "Prepaid Activity Period R07"
+                },
+                {
+                  "name": "Routing_Category_Next_R07",
+                  "displayName": "Routing Category R07",
+                  "value": "N",
+                  "displayValue": "N"
+                },
+                {
+                  "name": "SMS_Quota_R07",
+                  "displayName": "SMS Quota R07",
+                  "value": "9999",
+                  "displayValue": "9999"
+                },
+                {
+                  "name": "Shaping_Profile_Letter_Next_R07",
+                  "displayName": "Shaping Profile Letter R07",
+                  "value": "BX",
+                  "displayValue": "BX"
+                },
+                {
+                  "name": "Top_Up_In_Cart_Total_Amount_Next_R07",
+                  "displayName": "Top Up In Cart Total Amount R07",
+                  "value": "0",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "Top_Up_In_Cart_Unique_ID_Next_R07",
+                  "displayName": "Top Up In Cart Unique ID R07",
+                  "value": "0",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "Trusted_Negative_Balance_Threshold_Next_R07",
+                  "displayName": "Trusted Negative Balance Threshold R07",
+                  "value": "0",
+                  "displayValue": "0"
+                },
+                {
+                  "name": "Voice_Network_Priority_Next_R07",
+                  "displayName": "Voice Network Priority R07",
+                  "value": "10",
+                  "displayValue": "10"
+                },
+                {
+                  "name": "Voice_Quota_R07",
+                  "displayName": "Voice Quota R07",
+                  "value": "9999",
+                  "displayValue": "9999"
+                },
+                {
+                  "name": "Voice_SMS_Tariff_Base_Plan_ID_Next_R07",
+                  "displayName": "Voice and SMS Tariff Base Plan ID R07",
+                  "value": "195",
+                  "displayValue": "195"
+                }
+              ],
+              "productSpecification": {
+                "id": "3125881",
+                "name": "Attivazione Internet 1 GB R1",
+                "type": "mobilePlanSpecification"
+              },
+              "phoneNumber": {
+                "msisdn": "393495220568"
+              }
+            }
+          },
+          "ppuPlan": {
+            "type": "mobilePlanOrderItem",
+            "action": "add",
+            "orderItemPrice": [
+              {
+                "type": "oneTime",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0,
+                  "amount": 0,
+                  "taxAmount": 0
+                }
+              },
+              {
+                "recurringChargePeriod": "month",
+                "type": "recurring",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0,
+                  "amount": 0,
+                  "taxAmount": 0
+                }
+              }
+            ],
+            "offering": {
+              "id": "4328685",
+              "name": "PPU Plan SIM IA Family Plan R1",
+              "displayName": "PPU Plan SIM IA Family Plan R1"
+            }
+          },
+          "replacedSim": {
+            "type": "mobileSIMOrderItem",
+            "id": "108460247",
+            "action": "add",
+            "state": "pendingDelivery",
+            "quantity": 1,
+            "orderItemPrice": [
+              {
+                "type": "oneTime",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0,
+                  "amount": 0,
+                  "taxAmount": 0
+                }
+              },
+              {
+                "recurringChargePeriod": "month",
+                "type": "recurring",
+                "price": {
+                  "currencyCode": "EUR",
+                  "taxIncludedAmount": 0,
+                  "amount": 0,
+                  "taxAmount": 0
+                }
+              }
+            ],
+            "offering": {
+              "href": "/commerce/v1/mobileOffering/621587?salesChannel=selfService",
+              "id": "621587",
+              "type": "mobileSimOffering",
+              "name": "SIM_Next_R07",
+              "displayName": "SIM R07",
+              "description": "SIM"
+            },
+            "mobileSIMProduct": {
+              "id": "108460247",
+              "name": "SIM R07",
+              "type": "mobileSimProduct",
+              "productCharacteristic": [
+                {
+                  "name": "Capacity_Next_R07",
+                  "displayName": "Capacity R07"
+                },
+                {
+                  "name": "Connectivity_Next_R07",
+                  "displayName": "Connectivity R07"
+                },
+                {
+                  "name": "EID_Next_R1",
+                  "displayName": "EID R1"
+                },
+                {
+                  "name": "Electrical_Profile_Next_R07",
+                  "displayName": "Electrical Profile R07"
+                },
+                {
+                  "name": "IMSI_ServiceID_R07",
+                  "displayName": "IMSI_ServiceID"
+                },
+                {
+                  "name": "Match_ID_Next_R1",
+                  "displayName": "Match ID R1"
+                },
+                {
+                  "name": "Original_SIM_Size_Next_R07",
+                  "displayName": "Original SIM Size R07"
+                },
+                {
+                  "name": "PUK_Barring_R07",
+                  "displayName": "PUK Barring R07",
+                  "value": "No",
+                  "displayValue": "No"
+                },
+                {
+                  "name": "Previous_Delivery_Method_Next_R1",
+                  "displayName": "Previous Delivery Method R1",
+                  "value": "NA",
+                  "displayValue": "NA"
+                },
+                {
+                  "name": "RLC_IMSI",
+                  "displayName": "IMSI Number"
+                },
+                {
+                  "name": "Reservation_ID_Next_R07",
+                  "displayName": "SKU Reservation ID R07",
+                  "value": "5042027-000010",
+                  "displayValue": "5042027-000010"
+                },
+                {
+                  "name": "SIM_Activation_Code_Next_R1",
+                  "displayName": "SIM Activation Code R1"
+                },
+                {
+                  "name": "SIM_Card_Number_Next_R07",
+                  "displayName": "SIM Card Number R07",
+                  "value": "8939041012151220540",
+                  "displayValue": "8939041012151220540"
+                },
+                {
+                  "name": "SIM_Format_Next_R1",
+                  "displayName": "SIM Format R1",
+                  "value": "000000000000821335",
+                  "displayValue": "000000000000821335"
+                },
+                {
+                  "name": "SIM_Size_Next_R07",
+                  "displayName": "SIM Size R07",
+                  "value": "TRIO",
+                  "displayValue": "TRIO"
+                },
+                {
+                  "name": "SIM_Warranty_End_Date_Next_R07",
+                  "displayName": "SIM Warranty End Date R07",
+                  "value": "10/10/2025 23:59:59",
+                  "displayValue": "10/10/2025 23:59:59"
+                },
+                {
+                  "name": "SKU",
+                  "displayName": "SKU",
+                  "value": "000000000000821335",
+                  "displayValue": "000000000000821335"
+                }
+              ],
+              "productSpecification": {
+                "id": "621587",
+                "name": "SIM R07",
+                "type": "mobileSimSpecification"
+              },
+              "serialNumber": "8939041012151220540",
+              "sku": "000000000000821335",
+              "simType": "TRIO"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "availableOrderAction": ["resume"],
+  "orderDeliveryDetails": {
+    "recipientAddress": {
+      "id": "268621334",
+      "street": "VIA BISCEGLIE",
+      "streetNumber": "73",
+      "city": "MILANO",
+      "country": "IT",
+      "stateOrProvince": "MI",
+      "postalCode": "20152",
+      "formattedAddress1": "VIA BISCEGLIE 73"
+    },
+    "orderDeliveryCode": "S",
+    "orderDeliveryDesc": "Shipping to Home",
+    "identificationMethods": [
+      {
+        "code": "NA",
+        "selected": true
+      }
+    ]
+  },
+  "orderActionSpecificStageStatus": "HandleWirelineFulfillmentResponse",
+  "isOrderTakeOverAllowed": false,
+  "isRechargeSaved": false,
+  "isChangeShippingPresented": false,
+  "isBookedOrder": false,
+  "poType": "Triple Play"
+}
